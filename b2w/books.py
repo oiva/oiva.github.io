@@ -59,7 +59,7 @@ Book: .*?)</a>'
 
 def produce_list(books):
     filename = './index.tmpl'
-    filtered = [';Book: ', 'BOOK: ', ': Books', ':Books', ':Books', '[Amazon]',
+    filtered = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]',
                 'Amazon.com: Boo', 'Amazon: ', 'Amazon.com: ', ': Amazon.com',
                 ' at Amazon.com', ':Amazon', '(Amazon.com)', '(Amazon)',
                 ': Explore similar items', ' - Amazon.com', 'Kindle Store',
