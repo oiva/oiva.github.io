@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Back to Work Reading List</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/css/sortable-theme-bootstrap.css">
+    <style type="text/css" media="screen">
+        footer {
+            border-top: 1px solid #e0e0e0;
+            margin-top: 30px;
+            padding-top: 10px;
+        }
+        .table-hover>tbody>tr:hover {
+            background-color: #f0f6ff;
+        } 
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        
+        <div class="page-header row">
+            <div class="col-xs-12 col-md-6">
+                <h1>Back to Work Reading List</h1>
+                <p><a href="http://5by5.tv/b2w">Back to Work</a> is a podcast about <a href="#comics">comics</a>
+                    and <a href="#books">productivity books</a>.
+                    This is a list of the show's recommended reading, as gathered from show notes.
+                </p>
+                <p>Some errors and omissions are possible because the list is in fact compiled from RSS by a robot.
+                   Most of the links go to amazon.com and those are 5by5's affiliate links.
+                </p>
+            </div>
+        </div>
+        
+        <div class="books">
+            <a name="books"></a>
+            <h2>Books</h2>
+            <p>A total of {bookcount} books have been recommended so far. {gtd} of them are 
+                <a href="http://www.amazon.com/exec/obidos/ASIN/0142000280/5by5-20">Getting Things Done</a>,
+                ©DavidCo 2001.</p>
+            
+                <table class="table table-hover table-condensed sortable-theme-bootstrap" data-sortable>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Episode</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            {tablebody}
+                    </tbody>
+                </table>
+            
+        </div>
+
+        <div class="comics">
+            <a name="comics"></a>
+            <h2>Comics</h2>
+            <p>A total of {comiccount} comics have been recommended.</p>
+            
+                <table class="table table-hover table-condensed sortable-theme-bootstrap" data-sortable>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Episode</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            {comicbody}
+                    </tbody>
+                </table>
+            
+        </div>
+        
+        <footer class="footer">
+            <p>List created by <a href="https://twitter.com/oiva">Oiva</a>. Updated on {date}.
+                Lovingly created with <a href="https://gist.github.com/oiva/400a383e8f271c84d4a5">Python</a>.</p>
+        </footer>
+    </div>
+
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js"></script>
+</body>
+</html>
