@@ -86,16 +86,20 @@ def produce_list(books):
 
         # parse episode number for sorting
         episode = episodeTitle[:episodeTitle.find(':')]
+        titlevalue = re.sub(r'^(A|An|The)\s', '', title)
+        titlevalue = re.sub(r'\s', '', titlevalue)[:20]
 
         # include book description if it exists
         if desc and not re.search(r'sponsored by', desc, re.IGNORECASE):
-            row = '<tr><td class="desc" title="Click for description">\
-                <a href="%s">%s</a> &hellip;' % (link, title)
+            row = '<tr><td class="desc" title="Click for description"\
+                  data-value="%s"><a href="%s">%s</a> &hellip;'\
+                  % (titlevalue, link, title)
             row += '<p id="desc-%d" class="description" style="display: none">\
                    %s</p></td>' % (i, desc)
             desccount += 1
         else:
-            row = '<tr><td><a href="%s">%s</a></td>' % (link, title)
+            row = '<tr><td data-value="%s"><a href="%s">%s</a></td>'\
+                  % (titlevalue, link, title)
 
         # author and episode information
         row += '<td>%s</td>\
