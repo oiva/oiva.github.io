@@ -73,9 +73,11 @@ def produce_list(books):
 
     booklist = comiclist = ''
     bookcount = comiccount = authorcount = gtd = desccount = 0
-    filteredbooks = []
 
+    # sanitize book titles and extract book authors
     filteredbooks = filter_books(books)
+
+    # group books by their name. This is used for mention count
     groups = group_books(filteredbooks)
 
     for i, book in enumerate(filteredbooks):
@@ -84,8 +86,8 @@ def produce_list(books):
 
         # parse episode number for sorting
         episode = episodeTitle[:episodeTitle.find(':')]
-        key = re.sub(r'\s{2,}', ' ', title)[:22]
 
+        # include book description if it exists
         if desc and not re.search(r'sponsored by', desc, re.IGNORECASE):
             row = '<tr><td class="desc" title="Click for description">\
                 <a href="%s">%s</a> &hellip;' % (link, title)
@@ -95,18 +97,20 @@ def produce_list(books):
         else:
             row = '<tr><td><a href="%s">%s</a></td>' % (link, title)
 
+        # author and episode information
         row += '<td>%s</td>\
                 <td data-value="%s"><a href="%s">%s</a></td>'\
                 % (author, episode, episodeLink, episodeTitle)
 
-        # compute occurences + identifying value to group by (occurence, title)
+        # compute occurences + identifying value to group by occurence, title
+        key = re.sub(r'\s{2,}', ' ', title)[:22]
         val = groups[key] + ord(key[:1]) * 0.01 + ord(key[4:5]) * 0.001
         if len(key) > 10:
             val += ord(key[10:11]) * 0.001
-
         row += '<td class="mentions" data-value="%f">%d</td>\n</tr>\n'\
                % (val, groups[key] + 1)
 
+        # comics go to their own list
         iscomic = False
         for comic in comics:
             if comic in originaltitle:
@@ -124,6 +128,7 @@ def produce_list(books):
         if 'Getting Things Done' in title:
             gtd += 1
 
+    # Write list to index.html
     with codecs.open(filename, 'r', 'utf-8') as template:
         html = template.read()
         html = html.replace('{tablebody}', booklist)
@@ -144,9 +149,13 @@ def produce_list(books):
 
 
 def get_author(title):
-    # remove (9123912392925) from title
-    title = re.sub(r'\(?[0-9]{6,}\)?', '', title)
-
+    '''
+    Parse author name(s) from book title. Usually book title contains the
+    authors separated by a colon, for example "The Road: Cormac McCarthy".
+    In some cases the colon is not followed by authors, for example:
+    "Super Graphic: A Visual Guide to the Comic Book Universe". Therefore we
+    need to guess if the string contains names or not. (By counting commas :)
+    '''
     # split title into title and author. Usually separated by ':'.
     if title.count(':') == title.count(' - ') and title.count(':') > 0:
         parts = title.split(' - ')
@@ -199,6 +208,13 @@ def get_author(title):
 
 
 def group_books(books):
+    '''
+    Group books by their title. Take a substring of the title to match titles
+    like these:
+    "Writing Down the Bones: Freeing the Writer Within (Shambhala Library)"
+    "Writing Down the Bones eBook"
+    "Writing Down the Bones"
+    '''
     groups = {}
     for book in books:
         key = re.sub(r'\s{2,}', ' ', book[2])[:22]
@@ -210,6 +226,11 @@ def group_books(books):
 
 
 def filter_books(books):
+    '''
+    Take a book title like "Born Standing Up: A Comic's Life: Steve Martin:
+        9781416553656: Amazon.com: Books"
+    ...and return title: Born Standing Up: A Comic's Life, author: Steve Martin
+    '''
     filteredwords = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]',
                      'MDM: ', 'Amazon.com: Boo', 'Amazon: ', 'Amazon.com: ',
                      ': Amazon.com', ' at Amazon.com', ':Amazon', '(Amazon)',
@@ -224,6 +245,9 @@ def filter_books(books):
         else:
             link, title, episodeLink, episodeTitle = book
         originaltitle = title
+
+        # remove (9123912392925) from title
+        title = re.sub(r'\(?[0-9]{6,}\)?', '', title)
 
         # filter out "Amazon.com" and similar things from the title
         for word in filteredwords:
@@ -249,6 +273,7 @@ def filter_books(books):
         filteredbooks.append(filteredbook)
     return filteredbooks
 
+# run
 books = parse_books()
 count = produce_list(books)
 print "found %d books and %d comics. %d authors and %d descriptions found."\
