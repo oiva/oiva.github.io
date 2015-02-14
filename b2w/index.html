@@ -619,7 +619,8 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <script type="text/javascript">
         $(document).on('click', 'td.desc', function(e) {
-            if ($(e.target).hasClass('desc')) {
+            var target = $(e.target);
+            if (target.hasClass('desc') || target.hasClass('collapse')) {
                 $(this).find('.collapse').collapse('toggle');
             }
         });
