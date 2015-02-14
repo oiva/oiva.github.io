@@ -621,7 +621,9 @@
         $(document).on('click', 'td.desc', function(e) {
             var target = $(e.target);
             if (target.hasClass('desc') || target.hasClass('collapse')) {
-                $(this).find('.collapse').collapse('toggle');
+                var width = $(this).width();
+                console.log(width);
+                $(this).find('.collapse').collapse('toggle').width(width);
             }
         });
     </script>
