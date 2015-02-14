@@ -89,7 +89,8 @@ def produce_list(books):
         if desc and not re.search(r'sponsored by', desc, re.IGNORECASE):
             row = '<tr><td class="desc" title="Click for description">\
                 <a href="%s">%s</a> &hellip;' % (link, title)
-            row += '<p id="desc-%d" class="collapse">%s</p></td>' % (i, desc)
+            row += '<p id="desc-%d" class="description" style="display: none">\
+                   %s</p></td>' % (i, desc)
             desccount += 1
         else:
             row = '<tr><td><a href="%s">%s</a></td>' % (link, title)

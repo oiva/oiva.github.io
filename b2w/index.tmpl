@@ -95,13 +95,16 @@
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/sortable/0.6.0/js/sortable.min.js"></script>
     <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <script type="text/javascript">
         $(document).on('click', 'td.desc', function(e) {
             var target = $(e.target);
-            if (target.hasClass('desc') || target.hasClass('collapse')) {
-                var width = $(this).width() - 10;
-                $(this).find('.collapse').collapse('toggle').width(width);
+            if (target.hasClass('desc') || target.hasClass('description')) {
+                var description = $(this).find('.description')
+                if (!description.is(':visible')) {
+                    var width = $(this).width() - 10;
+                    description.width(width);
+                }
+                description.slideToggle('fast');
             }
         });
     </script>
