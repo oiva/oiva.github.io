@@ -167,15 +167,12 @@ def get_author(title):
         parts = title.split(' - ')
 
     # remove empty parts
-    parts = filter(lambda title: title.strip(), parts)
+    parts = filter(lambda title: title.strip(': '), parts)
 
     # take last part of title
-    part = parts.pop()
+    author = parts.pop()
 
     if len(parts) >= 1:
-        # try to guess if string is either a list of authors or just part of
-        # the title
-        author = part.strip(': ')
         author = author.replace(' and ', ', ').replace(',,', ',')
 
         # remove middle name initials for easier heuristics about name
@@ -185,11 +182,16 @@ def get_author(title):
         authorparts = len(simpleauthor.split(' '))
         commas = simpleauthor.count(',')
 
+        # try to guess if string is either a list of authors or just part of
+        # the title.
         # example: Andrew Hunt, David Thomas -> 4 names <= (1 comma + 1) * 2
         if authorparts > 3 and authorparts > (commas + 1) * 2 + 1:
             author = ''
         # more than three words without commas
         elif authorparts > 3 and commas == 0:
+            author = ''
+        # names don't contain numbers
+        elif re.search(r'\d', author):
             author = ''
 
         if author != '':
