@@ -60,11 +60,6 @@ Book: .*?)</a>'
 
 def produce_list(books):
     filename = './index.tmpl'
-    filtered = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]', 'MDM: ',
-                'Amazon.com: Boo', 'Amazon: ', 'Amazon.com: ', ': Amazon.com',
-                ' at Amazon.com', ':Amazon', '(Amazon.com)', '(Amazon)',
-                ': Explore similar items', ' - Amazon.com', 'Kindle Store',
-                ' (HIGHLY recommended by Merlin)']
     comics = ['Marvel Famous Firsts', 'Marvel Now', 'Thor:', 'X-Men',
               'Hawkeye', 'American Vampire', 'The Walking Dead', 'Watchmen',
               'X-Force', 'Daredevil', 'Spider-Man', 'Scarlet', 'She-Hulk',
@@ -78,37 +73,18 @@ def produce_list(books):
 
     booklist = comiclist = ''
     bookcount = comiccount = authorcount = gtd = desccount = 0
+    filteredbooks = []
 
-    for i, book in enumerate(books):
-        desc = False
-        if len(book) == 5:
-            link, title, desc, episodeLink, episodeTitle = book
-        else:
-            link, title, episodeLink, episodeTitle = book
+    filteredbooks = filter_books(books)
+    groups = group_books(filteredbooks)
 
-        # filter out "Amazon.com" and similar things from the title
-        for word in filtered:
-            title = title.replace(word, '')
-        title = re.sub(r'^(Audiobook|Book):', '', title)
-        title = title.replace('&#x27;', '\'')
-
-        # one stupid link in ep 72
-        if title == 'Amazon':
-            title = 'The Now Habit: A Strategic Program for Overcoming\
-                     Procrastination and Enjoying Guilt-Free Play: \
-                     Neil Fiore'
-
-        iscomic = False
-        for comic in comics:
-            if comic in title:
-                iscomic = True
-                break
-
-        # try to guess author from title
-        (author, title) = get_author(title)
+    for i, book in enumerate(filteredbooks):
+        (link, originaltitle, title, desc, author, episodeLink,
+            episodeTitle) = book
 
         # parse episode number for sorting
         episode = episodeTitle[:episodeTitle.find(':')]
+        key = re.sub(r'\s{2,}', ' ', title)[:22]
 
         if desc and not re.search(r'sponsored by', desc, re.IGNORECASE):
             row = '<tr><td class="desc" title="Click for description">\
@@ -117,9 +93,24 @@ def produce_list(books):
             desccount += 1
         else:
             row = '<tr><td><a href="%s">%s</a></td>' % (link, title)
+
         row += '<td>%s</td>\
-                <td data-value="%s"><a href="%s">%s</a></td>\n\
-                </tr>\n' % (author, episode, episodeLink, episodeTitle)
+                <td data-value="%s"><a href="%s">%s</a></td>'\
+                % (author, episode, episodeLink, episodeTitle)
+
+        # compute occurences + identifying value to group by (occurence, title)
+        val = groups[key] + ord(key[:1]) * 0.01 + ord(key[4:5]) * 0.001
+        if len(key) > 10:
+            val += ord(key[10:11]) * 0.001
+
+        row += '<td class="mentions" data-value="%f">%d</td>\n</tr>\n'\
+               % (val, groups[key] + 1)
+
+        iscomic = False
+        for comic in comics:
+            if comic in originaltitle:
+                iscomic = True
+                break
 
         if iscomic:
             comiclist += row
@@ -204,6 +195,58 @@ def get_author(title):
     author = re.sub(r',([^\s])', r', \1', author)
 
     return (author, title)
+
+
+def group_books(books):
+    groups = {}
+    for book in books:
+        key = re.sub(r'\s{2,}', ' ', book[2])[:22]
+        try:
+            groups[key] += 1
+        except KeyError:
+            groups[key] = 0
+    return groups
+
+
+def filter_books(books):
+    filteredwords = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]',
+                     'MDM: ', 'Amazon.com: Boo', 'Amazon: ', 'Amazon.com: ',
+                     ': Amazon.com', ' at Amazon.com', ':Amazon', '(Amazon)',
+                     '(Amazon.com)', ': Explore similar items',
+                     ' - Amazon.com', 'Kindle Store',
+                     ' (HIGHLY recommended by Merlin)']
+    filteredbooks = []
+    for i, book in enumerate(books):
+        desc = False
+        if len(book) == 5:
+            link, title, desc, episodeLink, episodeTitle = book
+        else:
+            link, title, episodeLink, episodeTitle = book
+        originaltitle = title
+
+        # filter out "Amazon.com" and similar things from the title
+        for word in filteredwords:
+            title = title.replace(word, '')
+        title = re.sub(r'^(Audiobook|Book):', '', title)
+        title = title.replace('&#x27;', '\'')
+
+        # one stupid link in ep 72
+        if title == 'Amazon':
+            title = 'The Now Habit: A Strategic Program for Overcoming\
+                     Procrastination and Enjoying Guilt-Free Play: \
+                     Neil Fiore'
+
+        # ep 15
+        if title[:13] == 'Alan Watts - ':
+            title = title[13:] + ' - Alan Watts'
+
+        # try to guess author from title
+        (author, title) = get_author(title)
+
+        filteredbook = (link, originaltitle, title, desc, author, episodeLink,
+                        episodeTitle)
+        filteredbooks.append(filteredbook)
+    return filteredbooks
 
 books = parse_books()
 count = produce_list(books)
