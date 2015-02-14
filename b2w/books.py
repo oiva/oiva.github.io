@@ -13,7 +13,8 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 def parse_books():
     # url = 'http://feeds.5by5.tv/b2w'
     filename = './b2w.xml'
-    pattern = '<a .*? href="(http:\/\/www\.amazon\.com[^"]*).*?>(.*?)</a>'
+    pattern = '<a .*? href="(http:\/\/www\.amazon\.com[^"]*).*?>(.*?)</a>\
+(?:</h4>\s*?(?:<p>(.*?)</p>))?'
     pattern2 = '<a .*? href="((?!http:\/\/www\.amazon).*?)" .*?>((?:Audio)?\
 Book: .*?)</a>'
     skip = ['Health &amp; Personal Care', 'Toys &amp; Games', 'MP3 Downloads',
@@ -59,7 +60,7 @@ Book: .*?)</a>'
 
 def produce_list(books):
     filename = './index.tmpl'
-    filtered = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]',
+    filtered = [';Book: ', 'BOOK: ', ': Books', ':Books', '[Amazon]', 'MDM: ',
                 'Amazon.com: Boo', 'Amazon: ', 'Amazon.com: ', ': Amazon.com',
                 ' at Amazon.com', ':Amazon', '(Amazon.com)', '(Amazon)',
                 ': Explore similar items', ' - Amazon.com', 'Kindle Store',
@@ -76,10 +77,14 @@ def produce_list(books):
               'Incredible Hulk', 'Infinity Gauntlet', 'Punk Rock Jesus']
 
     booklist = comiclist = ''
-    bookcount = comiccount = authorcount = gtd = 0
+    bookcount = comiccount = authorcount = gtd = desccount = 0
 
-    for book in books:
-        (link, title, episodeLink, episodeTitle) = book
+    for i, book in enumerate(books):
+        desc = False
+        if len(book) == 5:
+            link, title, desc, episodeLink, episodeTitle = book
+        else:
+            link, title, episodeLink, episodeTitle = book
 
         # filter out "Amazon.com" and similar things from the title
         for word in filtered:
@@ -105,11 +110,16 @@ def produce_list(books):
         # parse episode number for sorting
         episode = episodeTitle[:episodeTitle.find(':')]
 
-        row = '\t\t\t<tr>\n\t\t\t\t<td><a href="%s">%s</a></td>\n\
-                    <td>%s</td>\
-                    <td data-value="%s"><a href="%s">%s</a></td>\n\
-                    \t\t\t</tr>\n'\
-                    % (link, title, author, episode, episodeLink, episodeTitle)
+        if desc and not re.search(r'sponsored by', desc, re.IGNORECASE):
+            row = '<tr><td class="desc" title="Click for description">\
+                <a href="%s">%s</a> &hellip;' % (link, title)
+            row += '<p id="desc-%d" class="collapse">%s</p></td>' % (i, desc)
+            desccount += 1
+        else:
+            row = '<tr><td><a href="%s">%s</a></td>' % (link, title)
+        row += '<td>%s</td>\
+                <td data-value="%s"><a href="%s">%s</a></td>\n\
+                </tr>\n' % (author, episode, episodeLink, episodeTitle)
 
         if iscomic:
             comiclist += row
@@ -138,7 +148,7 @@ def produce_list(books):
     with codecs.open(filename.replace('tmpl', 'html'), 'w', 'utf-8') as file:
         file.write(html)
 
-    return (bookcount, comiccount, authorcount)
+    return (bookcount, comiccount, authorcount, desccount)
 
 
 def get_author(title):
@@ -150,12 +160,13 @@ def get_author(title):
         parts = title.split(' - ')
     elif ':' in title:
         parts = title.split(':')
-        # remove empty parts
-        parts = filter(lambda title: title.strip(), parts)
     elif ' by ' in title:
         parts = title.split(' by ')
     else:
         parts = title.split(' - ')
+
+    # remove empty parts
+    parts = filter(lambda title: title.strip(), parts)
 
     # take last part of title
     part = parts.pop()
@@ -185,12 +196,16 @@ def get_author(title):
     else:
         author = ''
 
-    # cleanup
-    title = title.strip(' :')
+    # cleanup: remove whitespace and quotes around title
+    title = re.sub(r'^\s?&quot;(.*)&quot;\s?$', r'\1', title)
+    title = title.strip(' :,')
+
+    # change "Author,Author" to "Author, Author"
     author = re.sub(r',([^\s])', r', \1', author)
 
     return (author, title)
 
 books = parse_books()
 count = produce_list(books)
-print "found %d books and %d comics. %d authors found." % count
+print "found %d books and %d comics. %d authors and %d descriptions found."\
+    % count
