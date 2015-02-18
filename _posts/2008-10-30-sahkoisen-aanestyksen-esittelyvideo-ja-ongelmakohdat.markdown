@@ -29,7 +29,7 @@ comments: []
 <li>K&auml;ytt&auml;j&auml; n&auml;pp&auml;ilee ehdokkaansa numeron, joka ilmestyy ympyr&auml;n keskelle. T&auml;m&auml;n j&auml;lkeen k&auml;ytt&auml;j&auml; painaa OK-nappia:<a id="more"></a><a id="more-345"></a></li>
 <a href="{{ site.baseurl }}/images/2008/10/aanestys1.png"><img class="alignnone size-full wp-image-346" title="&auml;&auml;nestys1" src="{{ site.baseurl }}/images/2008/10/aanestys1.png" alt="" width="450" height="248" /></a></p>
 <li>Ruudulle tulevat n&auml;kyviin ehdokkaan tiedot. K&auml;ytt&auml;j&auml;n pit&auml;isi t&auml;ss&auml; vaiheessa painaa OK-nappia varmistaakseen &auml;&auml;nens&auml;:</li>
-</ol><br />
+</ol>
 <a href="{{ site.baseurl }}/images/2008/10/aanestys2.png"><img class="alignnone size-full wp-image-347" title="&auml;&auml;nestys2" src="{{ site.baseurl }}/images/2008/10/aanestys2.png" alt="" width="450" height="242" /></a></p>
 <p>T&auml;m&auml;n ruudun toiminta on ehk&auml; kerrottu ohjeissa. K&auml;ytt&ouml;liittym&auml;ss&auml; itsess&auml;&auml;n on kuitenkin muutamia perusvirheit&auml;, mink&auml; takia en ihmettele jos se on aiheuttanut k&auml;ytett&auml;vyysongelmia.</p>
 <ul>

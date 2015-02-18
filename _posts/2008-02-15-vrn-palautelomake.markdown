@@ -37,5 +37,5 @@ comments: []
 <li>&Auml;l&auml; vaadi JavaScriptin k&auml;ytt&ouml;&auml; palautelomakkeessa. VR:n tapauksessa JavaScripti&auml; k&auml;ytet&auml;&auml;n vain tarkistamaan onko k&auml;ytt&auml;j&auml; t&auml;ytt&auml;nyt kaikki kent&auml;t. T&auml;m&auml;n voi toteuttaa my&ouml;s ilman JavaScripti&auml;.</li>
 <li>Jos kuitenkin haluat k&auml;ytt&auml;&auml; JavaScripti&auml; tarkistamaan sy&ouml;tteen, haistele onko k&auml;ytt&auml;j&auml;ll&auml; JavaScript p&auml;&auml;ll&auml;. Jos EI ole, turvaudu muihin keinoihin.</li>
 <li>Jos kuitenkin haluat est&auml;&auml; sivun toimimisen ilman JavaScripti&auml;, varoita k&auml;ytt&auml;ji&auml; sivun alussa. Ei sivun lopussa kun k&auml;ytt&auml;j&auml; on jo t&auml;ytt&auml;nyt kaikki kent&auml;t turhaan.</li>
-</ol><br />
+</ol>
 <p>Ongelma olisi helppo ratkaista esimerkiksi sijoittamalla kyseinen varoitusteksti sivun alkuun ja piilottamalla se  n&auml;kyvist&auml; JavaScriptill&auml;. N&auml;in teksti n&auml;kyisi juuri niille k&auml;ytt&auml;jille, jotka sit&auml; eniten tarvitsevat.</p>

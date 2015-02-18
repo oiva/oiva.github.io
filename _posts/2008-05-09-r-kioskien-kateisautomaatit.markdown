@@ -43,7 +43,7 @@ comments: []
 <p>Laitteen kyljess&auml; on tarra, joka kertoo:</p>
 <blockquote><p>Nosta rahaa t&auml;st&auml;.</p>
 <p>T&auml;m&auml; on yksi Suomen uusista k&auml;teisautomaateista. Se toimii t&auml;ysin samalla tavalla kuin tavallinen Otto-automaatti. Tervetuloa k&auml;ytt&auml;m&auml;&auml;n Cashia.</p>
-<p>Pankkisi saattaa veloittaa nostomaksun. Tarkista sen vuoksi korttiehtosi.</blockquote><br />
+<p>Pankkisi saattaa veloittaa nostomaksun. Tarkista sen vuoksi korttiehtosi.</p></blockquote>
 <p>Lupaus siit&auml;, ett&auml; laite toimisi <em>t&auml;ysin samalla tavalla kuin Otto-automaatti</em> kuulosti aluksi eritt&auml;in hyv&auml;lt&auml;. Osaisin siis luultavasti k&auml;ytt&auml;&auml; laitetta.</p>
 <p>Maininta nostomaksusta h&auml;mmensi. En ole t&ouml;rm&auml;nnyt Otto-automaateissa nostomaksuihin, mutta oletin ett&auml; t&auml;ss&auml; tapauksessa jokin maksu saattaa menn&auml;, koska laite ei ole pankin omistama. En tunne korttini ehtoja niin hyvin, ett&auml; tiet&auml;isin meneek&ouml;.</p>
 <p>Kortin sy&ouml;tt&auml;minen automaattiin ei ole yht&auml; helppoa kuin Otto-automaatissa. Korttiaukon yl&auml;puolella on symboli, joka viestitt&auml;&auml; ett&auml; kortti pit&auml;&auml; ty&ouml;nt&auml;&auml; t&auml;h&auml;n aukkoon, mutta se ei kerro miss&auml; asennossa kortti halutaan. N&auml;pp&auml;imist&ouml;n vierest&auml; l&ouml;ytyy toinen ohje, jossa on kuvattu kortin oikea asento. (Tavallaan tiesin, ett&auml; kortti pit&auml;&auml; ty&ouml;nt&auml;&auml; sirupuoli edell&auml;, mutta kaipaan silti ohjetta. Parkkihalleissa kortti pit&auml;&auml; joskus ty&ouml;nt&auml;&auml; laitteeseen niin, ett&auml; siru on kortin takareunassa.)</p>

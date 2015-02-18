@@ -52,7 +52,7 @@ comments: []
 <li>eli saako k&auml;ytt&auml;j&auml; selke&auml;&auml; palautetta toiminnon suorittamisesta.</li>
 </ul>
 </li>
-</ol><br />
+</ol>
 <p>Jokainen kohta voi ep&auml;onnistua eri tavoin. Esimerkiksi kohdassa kaksi voi olla ett&auml; k&auml;ytt&auml;j&auml; ei huomaa lainkaan oikeaa toimintoa. On my&ouml;s mahdollista, ett&auml; k&auml;ytt&ouml;liittym&auml;ss&auml; on v&auml;&auml;r&auml; toiminto, joka vaikuttaa paremmalta vaihtoehdolta k&auml;ytt&auml;j&auml;lle. T&auml;m&auml; on usein ongelmana esimerkiksi lomakkeissa, joissa peruuta-nappi n&auml;ytt&auml;&auml; samalta kuin tallenna-nappi.</p>
 <p>L&auml;pik&auml;ynnin aikana tallennetaan <em>uskottavat</em> vastaukset kysymyksiin jokaisen osateht&auml;v&auml;n osalta. T&auml;m&auml;n lis&auml;ksi tallennetaan asiat, jotka k&auml;ytt&auml;j&auml;n on tiedett&auml;v&auml; ennen teht&auml;v&auml;&auml; tai opittava sen aikana. My&ouml;s esille tulleet muutosehdotukset tallennetaan.</p>
 <p><strong>Esimerkki: </strong>osateht&auml;v&auml;, jossa k&auml;ytt&auml;j&auml; klikkaa rekister&ouml;idy-linkki&auml; arvioituna kuvitteellisen sivuston avulla:</p>
@@ -65,6 +65,6 @@ comments: []
 </li>
 <li>K&auml;ytt&auml;j&auml; yhdist&auml;&auml; tekstin "rekister&ouml;idy" melko hyvin tavoitteeseen, sill&auml; termi on vakiintunut. Voisiko k&auml;ytt&auml;&auml; toista, luonnollisempaa termi&auml;?</li>
 <li>K&auml;ytt&auml;j&auml;n klikattua linkist&auml; h&auml;n p&auml;&auml;tyy sivulle, jonka otsikkona on rekister&ouml;ityminen. Palaute on riitt&auml;v&auml;.</li>
-</ol><br />
+</ol>
 <p>T&auml;t&auml; jatketaan kunnes kaikki osateht&auml;v&auml;t on k&auml;yty l&auml;pi. Kognitiivinen l&auml;pik&auml;ynti on t&auml;m&auml;n takia joskus melko hidasta ja raskasta puuhaa. K&auml;ytetty tarkkuus voi tuntua liialliselta, varsinkin jos jokin osateht&auml;v&auml; on jo todettu k&auml;ytett&auml;v&auml;ksi aikaisemmissa testeiss&auml;. T&auml;m&auml;n takia l&auml;pik&auml;ynti kannattaa aluksi suunnata kriittisiin teht&auml;viin, joilla ei ole varaa ep&auml;onnistua.</p>
 <p><a href="http://en.wikipedia.org/wiki/Cognitive_walkthrough">Wikipedia: Cognitive walkthrough</a></p>
