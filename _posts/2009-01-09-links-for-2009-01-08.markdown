@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2009-01-08
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 477
+wordpress_url: http://www.bobs.fi/oiva/2009/01/09/links-for-2009-01-08/
+date: '2009-01-09 00:30:06 +0200'
+date_gmt: '2009-01-08 21:30:06 +0200'
+categories:
+- linkit
+tags: []
+comments: []
+---
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://www.zeldman.com/2008/12/04/20-signs-you-dont-want-that-web-design-project/">Jeffrey Zeldman Presents : 20 signs you don&rsquo;t want that web design project</a></div></p>
+<div class="delicious-extended">Numero 17 tuntuu toistuvan usein...</div></p>
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/humor">humor</a>)</div><br />
+            </li></ul></p>

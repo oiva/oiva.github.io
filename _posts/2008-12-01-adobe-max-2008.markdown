@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Adobe Max 2008
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 425
+wordpress_url: http://www.bobs.fi/oiva/2008/12/01/adobe-max-2008/
+date: '2008-12-01 13:34:18 +0200'
+date_gmt: '2008-12-01 10:34:18 +0200'
+categories:
+- ty&ouml;
+- flash
+tags:
+- flash
+- adobe
+comments: []
+---
+<p>Osallistun maanantaista keskiviikkoon kest&auml;v&auml;&auml;n Adobe Max -konfrenssiin. Max on Adoben vuosittain j&auml;rjest&auml;m&auml; tapahtuma yhti&ouml;n tuotteiden parissa ty&ouml;skenteleville.</p>
+<p>Valitsin ohjelmaani melko ohjelmointipainotteisia esityksi&auml;. Luvassa on mm. asiaa Flash-ohjelmien testaamisesta ja suorituskyvyn parantamisesta. Eli toivottavasti v&auml;hemm&auml;n k&auml;sien heiluttelua ja enemm&auml;n aseita parempaan ohjelmointiin.</p>
+<p>Yrit&auml;n kirjoittaa esityksist&auml; jotain muistiin ja linkitt&auml;&auml; kalvoihin jos mahdollista.</p>

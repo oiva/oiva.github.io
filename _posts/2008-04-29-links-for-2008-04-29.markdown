@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2008-04-29
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 78
+wordpress_url: http://www.bobs.fi/oiva/2008/04/29/links-for-2008-04-29/
+date: '2008-04-29 13:36:46 +0300'
+date_gmt: '2008-04-29 10:36:46 +0300'
+categories:
+- linkit
+tags: []
+comments: []
+---
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://www.problogdesign.com/resources/60-great-rss-icons-for-your-blog/">60 Great RSS Icons for Your Blog</a></div></p>
+<div class="delicious-extended">Ilmaisia RSS-ikoneita</div></p>
+<div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/rss">rss</a> <a href="http://del.icio.us/oiva/icons">icons</a> <a href="http://del.icio.us/oiva/webdesign">webdesign</a>)</div><br />
+	</li>
+</ul></p>

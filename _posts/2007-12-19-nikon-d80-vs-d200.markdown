@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: Nikon D80 vs. D200 osa 2
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+excerpt: Vertailin aikaisemmin Nikonin D80 ja D200 kameroita. Päädyin lopulta ostamaan
+  D80:n. D80 on kevyempi ja halvempi.
+wordpress_id: 10
+wordpress_url: http://bobs.fi/oiva/2007/12/19/nikon-d80-vs-d200/
+date: '2007-12-19 00:26:33 +0200'
+date_gmt: '2007-12-18 22:26:33 +0200'
+categories:
+- kamera
+tags:
+- kamera
+- nikon
+- D80
+- D200
+- rajala
+comments: []
+---
+<p><a href="http://bobs.fi/oiva/2007/12/10/mika-digijarkkari-nikon-d80-vs-d200/">Pohdin aikaisemmin</a> kumpaa otsikon kameroista himoitsisin enemm&auml;n. P&auml;&auml;dyin lopulta D80:een, mm. seuraavista kahdesta syyst&auml;:</p>
+<ul>
+<li><strong>Paino.</strong> P&auml;&auml;sin hypistelem&auml;&auml;n molempia kameroita vierekk&auml;in ja D200 on <em>iso</em>. Linssin kanssa D200:n paino nousee helposti l&auml;hemm&auml;s kahta kiloa. Se saisi kenet tahansa n&auml;ytt&auml;m&auml;&auml;n ammattivalokuvaajalta, mutta harrastelijavalokuvaajan kuvaamista koko ei edist&auml;.</li>
+<li><strong>Hinta.</strong> D200 maksaa sek&auml; uutena ett&auml; k&auml;ytettyn&auml; huomattavasti enemm&auml;n kuin D80. Sain lopulta k&auml;ytetyn D80:n <a href="http://www.rajala.fi/www/">Rajalasta</a> alle 500 &euro;:lla, kun D200 maksaa k&auml;ytettyn&auml;kin <em>ysi-ysi-ysi</em>. (Ei sik&auml;li, etteiv&auml;tk&ouml; s&auml;&auml;styneetkin rahat menisi lopulta kameratilpeh&ouml;&ouml;riin.)</li>
+</ul><br />
+<p>T&auml;h&auml;n menness&auml; olen ollut eritt&auml;in tyytyv&auml;inen valintaani. Kamera tarjoaa siin&auml; m&auml;&auml;rin ominaisuuksia, ett&auml; olen jopa lukenut ohjekirjaa :) . Viel&auml; kun aurinko paistaisi sen verran ett&auml; saisi vaikka kuvia otettua.</p>
+<p><script type="text/javascript"><!--<br />
+google_ad_client = "pub-9685291331219807";<br />
+/* blogi kamerat, 468x60, luotu 4.2.2008 */<br />
+google_ad_slot = "1633259639";<br />
+google_ad_width = 468;<br />
+google_ad_height = 60;<br />
+//--><br />
+</script><br />
+<script type="text/javascript"<br />
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"><br />
+</script></p>

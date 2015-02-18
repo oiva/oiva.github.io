@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2008-11-10
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 368
+wordpress_url: http://www.bobs.fi/oiva/2008/11/11/links-for-2008-11-10/
+date: '2008-11-11 00:30:03 +0200'
+date_gmt: '2008-11-10 21:30:03 +0200'
+categories:
+- linkit
+tags: []
+comments: []
+---
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://www.slideshare.net/createwithcontext/how-people-really-use-the-iphone-presentation/">How people really use the iPhone</a></div></p>
+<div class="delicious-extended">Hyvi&auml; esimerkkej&auml; miten ihmiset voivat ymm&auml;rt&auml;&auml; k&auml;ytt&ouml;liittym&auml;elementtej&auml; t&auml;ysin eri tavalla kuin ohjelmien kehitt&auml;j&auml;t.</div></p>
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/iphone">iphone</a> <a href="http://delicious.com/oiva/ux">ux</a>)</div><br />
+            </li>
+<li>
+<div class="delicious-link"><a href="https://addons.mozilla.org/en-US/firefox/addon/9505">Obtrusive JavaScript Checker :: Firefox Add-ons</a></div></p>
+<div class="delicious-extended">Obtrusive JavaScript Checker helps in finding HTML elements with inline events and javascript: links, display more information about them and a summary report of all items found in the current web page.</div></p>
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/javascript">javascript</a> <a href="http://delicious.com/oiva/accessibility">accessibility</a> <a href="http://delicious.com/oiva/firefox">firefox</a> <a href="http://delicious.com/oiva/webdev">webdev</a>)</div><br />
+            </li></ul></p>

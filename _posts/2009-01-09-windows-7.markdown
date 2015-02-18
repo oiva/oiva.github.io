@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Windows 7
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 471
+wordpress_url: http://www.bobs.fi/oiva/?p=471
+date: '2009-01-09 00:00:16 +0200'
+date_gmt: '2009-01-08 21:00:16 +0200'
+categories:
+- Uncategorized
+tags:
+- Microsoft
+- Windows
+- Vista
+- Windows 7
+comments: []
+---
+<p><a title="Wired: Microsoft Releases Windows 7 Beta as a Free Download" href="http://blog.wired.com/gadgets/2009/01/microsoft-relea.html">Microsoft julkaisee Windows 7:n ilmaisen beta-version</a> 9.1. eli huomenna perjantaina. On jotenkin h&auml;mment&auml;v&auml;&auml; olla innostunut <em>uudesta Windowsista</em>. Vistaa en onneksi joutunut k&auml;ytt&auml;m&auml;&auml;n kuin yhdess&auml; ty&ouml;paikassa, enk&auml; ole harkinnut asentavani sit&auml; omaan koneeseeni.</p>
+<p>Windows 7:n luvataan olevan <a title="Ars Technica: MS: No new kernel for Windows 7, same requirements as Vista" href="http://arstechnica.com/journals/microsoft.ars/2008/05/27/ms-no-new-kernel-for-windows-7-same-requirements-as-vista">paranneltu Vista</a>. Sen pit&auml;isi olla tehokkaampi, ja kysell&auml; v&auml;hemm&auml;n k&auml;ytt&auml;ji&auml; &auml;rsytt&auml;vi&auml; turvallisuuskysymyksi&auml;.</p>
+<p>Uusista featureista on <a title="Wikipedia: Features new to Windows 7" href="http://en.wikipedia.org/wiki/Features_new_to_Windows_7">lista Wikipediassa</a>, joista hauskimmilta n&auml;ytt&auml;v&auml;t <a title="Lifehacker: Windows 7 aero peek" href="http://lifehacker.com/5077280/a-closer-look-at-windows-7s-aero-peek-feature">Aero Peek</a> ja <a title="Lifehacker: Windows 7 aero shake" href="http://lifehacker.com/5077379/new-aero-shake-clears-the-windows-7-desktop">Aero Shake</a>. Peekki&auml; esitell&auml;&auml;n tarkemmin <a href="http://lifehacker.com/5075076/new-windows-7-taskbar-peek-feature-look-awesome">t&auml;ss&auml; videossa</a>.</p>
+<p>Tarkempaa tietoa Windows 7:n beta-version hankkimisesta saa <a title="Information on Downloading and Installing Windows 7 Beta" href="http://windowsteamblog.com/blogs/windows7/archive/2009/01/07/information-on-downloading-and-installing-windows-7-beta.aspx">Windows Blogista</a>. DVD-image ilmestyy <a title="Microsoft Windows 7" href="http://www.microsoft.com/windows/windows-7/">Microsoftin Windows 7</a>-sivulle, josta 2,5 miljoonaa ensimm&auml;ist&auml; saavat sen ladata. P&auml;ivitt&auml;minen onnistuu vain Vista SP1:st&auml;, toinen vaihtoehto on puhdas asennus. Beta-versio lakkaa toimimasta elokuussa.</p>

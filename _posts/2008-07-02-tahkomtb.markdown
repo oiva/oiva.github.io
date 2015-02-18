@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: TahkoMTB
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+excerpt: "Viime viikonloppuna k&auml;vin ajamassa 60km <a href=\"http://www.tahkomtb.fi/index?page=1\">TahkoMTB</a>-maastopy&ouml;r&auml;ilykilpailussa.
+  Olin ensimm&auml;ist&auml; kertaa maastopy&ouml;r&auml;n p&auml;&auml;ll&auml; t&auml;n&auml;
+  vuonna ja meno oli sen mukaista. Tuloksista ei kannata puhua, mutta p&auml;&auml;sin
+  kuitenkin maaliin.\r\n\r\nAjanotto oli toteutettu <a href=\"http://www.championchip.fi/index.asp?pid=19\">ChampionChip</a>in
+  RFID-tunnistimilla, mik&auml; oli tavallaan ihan k&auml;tev&auml;&auml;. 60 km:n
+  ajajat (850 henke&auml;) voitiin jakaa kolmeen ryhm&auml;&auml;n, jotka l&auml;htiv&auml;t
+  matkaan puolen tunnin v&auml;lein. Ajanotto oli kuitenkin vain maalissa. V&auml;liaikoja
+  olisi ollut hauska tutkailla vaikka taukopaikkojen perusteella.\r\n\r\nJ&auml;rjest&auml;j&auml;t
+  v&auml;l&auml;ytteliv&auml;t my&ouml;s mahdollisuutta, ett&auml; kuskit voisivat
+  ensi vuonna l&auml;hte&auml; kisaan haluamallaan hetkell&auml;. Ajajille voidaan
+  RFID:n avulla laskea nettoaika, joten yhteisl&auml;ht&ouml;&auml; ei tarvita. T&auml;m&auml;
+  vain vaikuttaa melko huonolta idealta. Porrastetun l&auml;hd&ouml;n tarkoitus on
+  ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n&nbsp; my&ouml;hemmin.
+  Silti t&auml;n&auml;kin vuonna jokaisessa <em>alam&auml;ess&auml;</em> oli tukkeena
+  py&ouml;ri&auml;&auml;n taluttavia \"turisteja\". No, turha selitell&auml; kun yl&auml;m&auml;iss&auml;
+  samat tyypit ohittelivat oikealta ja vasemmalta.\r\n"
+wordpress_id: 120
+wordpress_url: http://www.bobs.fi/oiva/?p=120
+date: '2008-07-02 22:32:01 +0300'
+date_gmt: '2008-07-02 19:32:01 +0300'
+categories:
+- el&auml;m&auml;
+tags:
+- py&ouml;r&auml;ily
+- tahko
+- tahkomtb
+- rfid
+comments:
+- id: 67
+  author: Oiva
+  author_email: oiva.eskola@gmail.com
+  author_url: http://www.bobs.fi/oiva
+  date: '2008-07-02 22:46:04 +0300'
+  date_gmt: '2008-07-02 19:46:04 +0300'
+  content: "Ei pid&auml; unohtaa, ett&auml; Tahkolla oli my&ouml;s todella hauskaa.
+    Radalla tapasi erilaisia ja erikoisia ihmisi&auml;. Virolainen kaveri kertoi ajaneensa
+    radan l&auml;pi edellisen&auml; iltana ja sortui siksi taluttamaan viimeisess&auml;
+    yl&auml;m&auml;ess&auml;. Savolaiset j&auml;rjest&auml;j&auml;t tankkauspisteill&auml;
+    olivat ihanan ja raivostuttavan lupsakoita. Jne.\r\n\r\nViimeisess&auml; isossa
+    alam&auml;ess&auml; eturenkaan pikalinkku aukesi vauhdissa ja tarjosi v&auml;h&auml;n
+    j&auml;nnityst&auml; el&auml;m&auml;&auml;n.\r\n\r\nItse kisa oli kuitenkin vanhan
+    toistoa, mutta laimennettuna ihmismassalla ja tasaisemmalla radalla. Viides kerta
+    Tahkolla tulee viel&auml; joskus, mutta ei v&auml;ltt&auml;m&auml;tt&auml; ensi
+    kes&auml;n&auml;."
+---
+<p>Viime viikonloppuna k&auml;vin ajamassa 60km <a href="http://www.tahkomtb.fi/index?page=1">TahkoMTB</a>-maastopy&ouml;r&auml;ilykilpailussa. Olin ensimm&auml;ist&auml; kertaa maastopy&ouml;r&auml;n p&auml;&auml;ll&auml; t&auml;n&auml; vuonna ja meno oli sen mukaista. Tuloksista ei kannata puhua, mutta p&auml;&auml;sin kuitenkin maaliin.</p>
+<p>Ajanotto oli toteutettu <a href="http://www.championchip.fi/index.asp?pid=19">ChampionChip</a>in RFID-tunnistimilla, mik&auml; oli tavallaan ihan k&auml;tev&auml;&auml;. 60 km:n ajajat (850 henke&auml;) voitiin jakaa kolmeen ryhm&auml;&auml;n, jotka l&auml;htiv&auml;t matkaan puolen tunnin v&auml;lein. Ajanotto oli kuitenkin vain maalissa. V&auml;liaikoja olisi ollut hauska tutkailla vaikka taukopaikkojen perusteella.</p>
+<p>J&auml;rjest&auml;j&auml;t v&auml;l&auml;ytteliv&auml;t my&ouml;s mahdollisuutta, ett&auml; kuskit voisivat ensi vuonna l&auml;hte&auml; kisaan haluamallaan hetkell&auml;. Ajajille voidaan RFID:n avulla laskea nettoaika, joten yhteisl&auml;ht&ouml;&auml; ei tarvita. T&auml;m&auml; vain vaikuttaa melko huonolta idealta. Porrastetun l&auml;hd&ouml;n tarkoitus on ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n&nbsp; my&ouml;hemmin. Silti t&auml;n&auml;kin vuonna jokaisessa <em>alam&auml;ess&auml;</em> oli tukkeena py&ouml;ri&auml;&auml;n taluttavia "turisteja". No, turha selitell&auml; kun yl&auml;m&auml;iss&auml; samat tyypit ohittelivat oikealta ja vasemmalta.<br />
+<a id="more"></a><a id="more-120"></a><br />
+<a title="DSC_0215 by oiva_eskola, on Flickr" href="http://www.flickr.com/photos/oiva/2625214313/"><img src="http://farm4.static.flickr.com/3034/2625214313_79c4200d52.jpg" alt="Pikkis, Ian ja Paulus saapuvat maaliin 120km matkalta" width="500" height="334" /></a></p>
+<p style="text-align: justify;">Kuva: Pikkis, Ian ja Paulus saapuvat maaliin 120km matkalta.</p></p>
+<p>Kisan j&auml;lkeen tiimimme konsensus tuntui olevan, ettei Tahkolle tarvitse menn&auml; ainakaan ensi vuonna ajamaan. Kisa on nyt ns. <em>n&auml;hty</em>. Paulus ajoi 120km fixed gear -maastopy&ouml;r&auml;ll&auml;, mist&auml; on vaikea en&auml;&auml; parantaa. TahkoMTB on viime vuosien aikana paisunut noin 1400 kuskin maastopy&ouml;r&auml;ilytapahtumaksi. Poluilla on entist&auml; enemm&auml;n ruuhkaa, ja aika suuri osa matkasta tuntuu olevan hiekkatiesiirtymi&auml;.</p>
+<p>Oma tulos j&auml;i kuitenkin (taas) kaivelemaan, ja sit&auml; olisi mukava yritt&auml;&auml; parantaa. Kisan j&auml;lkeen on my&ouml;s perinteist&auml; ruveta speksaamaan uutta maastopy&ouml;r&auml;&auml;. Esimerkiksi <a href="http://www.ninerbikes.com/air9.html">Ninerin Air 9</a>, 29-tuumainen maastopy&ouml;r&auml;, voisi ensi vuonna olla <em>se</em> juttu.</p>

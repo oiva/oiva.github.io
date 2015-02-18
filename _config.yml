@@ -1,0 +1,20 @@
+# Site settings
+title: Oiva Eskola
+email: oiva.eskola@gmail.com
+description: Full stack web developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://oiva.github.io" # the base hostname & protocol for your site
+twitter_username: oiva
+github_username: oiva
+flickr_username: oiva
+linkedin_username: oivaeskola
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+
+# Output
+permalink: /:year/:month/:day/:title
+timezone: Europe/Helsinki

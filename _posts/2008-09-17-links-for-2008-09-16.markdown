@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2008-09-16
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 214
+wordpress_url: http://www.bobs.fi/oiva/2008/09/17/links-for-2008-09-16/
+date: '2008-09-17 00:30:26 +0300'
+date_gmt: '2008-09-16 21:30:26 +0300'
+categories:
+- linkit
+tags: []
+comments: []
+---
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://www.minimalsites.com/">minimalsites | minimal design css gallery</a></div></p>
+<div class="delicious-extended">V&auml;hemm&auml;n on enemm&auml;n? Inspiraation l&auml;hteeksi.</div></p>
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/minimal">minimal</a> <a href="http://delicious.com/oiva/web">web</a>)</div><br />
+            </li></ul></p>

@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2008-07-22
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 123
+wordpress_url: http://www.bobs.fi/oiva/2008/07/22/links-for-2008-07-22/
+date: '2008-07-22 13:31:10 +0300'
+date_gmt: '2008-07-22 10:31:10 +0300'
+categories:
+- linkit
+tags: []
+comments: []
+---
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://www.guardian.co.uk/science/2008/jul/20/psychology.mobilephones">Hi-tech is turning us all into time-wasters</a></div></p>
+<div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/productivity">productivity</a> <a href="http://del.icio.us/oiva/technology">technology</a>)</div><br />
+	</li>
+</ul></p>

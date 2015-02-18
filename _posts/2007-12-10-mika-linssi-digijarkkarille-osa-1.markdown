@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Mik&auml; linssi digij&auml;rkk&auml;rille? Osa 1
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+excerpt: Missä järjestyksessä digijärkkärin linssivalikoimaa kannattaisi kartuttaa?
+wordpress_id: 7
+wordpress_url: http://www.bobs.fi/oiva/2007/12/10/mika-linssi-digijarkkarille-osa-1/
+date: '2007-12-10 02:05:28 +0200'
+date_gmt: '2007-12-10 00:05:28 +0200'
+categories:
+- kamera
+tags:
+- kamera
+- polttov&auml;li
+- linssit
+- 50mm
+comments:
+- id: 25
+  author: Mik&auml; linssi digij&auml;rkk&auml;rille? Osa 2 &#8212; Oivallisia juttuja
+  author_email: ''
+  author_url: http://www.bobs.fi/oiva/2008/03/28/mika-linssi-digijarkkarille-osa-2/
+  date: '2008-03-28 17:18:41 +0200'
+  date_gmt: '2008-03-28 15:18:41 +0200'
+  content: "[...] Aikaisempi kirjoitus linssin valinnasta [...]"
+---
+<p><a href="http://www.pixalo.com/community/general-photography-questions-answers/order-did-you-put-your-lens-kit-together-7423.html">Which order did you put your lens kit together?</a>  Miss&auml; j&auml;rjestyksess&auml; ihmiset ovat ostaneet eri linssej&auml;? Suosittu j&auml;rjestys n&auml;ytt&auml;isi olevan esimerkiksi:</p>
+<ol>
+<li>(Kameran mukana tullut kittilinssi, sittemmin myyty :P)</li>
+<li>Jokin all arounderi, esim. 18-200mm tai 28-135mm</li>
+<li>50mm f/1.8 kiinte&auml;polttov&auml;linen linssi</li>
+<li>Lyhyen polttov&auml;lin linssi, esimerkiksi 10-20mm</li>
+<li>Tuhannen dollarin hipolinssit...</li>
+</ol><br />
+50mm kiinte&auml; linssi on monelle houkutteleva, sill&auml; se on valovoimainen ja niit&auml; saa jo 100&euro; hintaan. Mutta jos pit&auml;isi valita vain yksi linssi? Sit&auml; voin pohtia loputtomiin.</p>

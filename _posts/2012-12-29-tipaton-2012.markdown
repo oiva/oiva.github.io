@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: Tipaton 2012
+author:
+  display_name: Oiva Eskola
+  login: oiva
+  email: oiva.eskola@gmail.com
+  url: ''
+author_login: oiva
+author_email: oiva.eskola@gmail.com
+wordpress_id: 919
+wordpress_url: http://www.bobs.fi/oiva/?p=919
+date: '2012-12-29 19:22:51 +0200'
+date_gmt: '2012-12-29 17:22:51 +0200'
+categories:
+- el&auml;m&auml;
+tags: []
+comments: []
+---
+<p>Olin vuoden 2012 juomatta alkoholia. Olen aikaisemmin viett&auml;nyt tipattomia tammikuita kolme-nelj&auml; kertaa, mik&auml; on sujunut helpohkosti. Kuukauteen on yleens&auml; mahtunut yksi tai kaksi biletyskertaa, joissa h&ouml;ll&auml;&auml;minen on ollut helppoa. Kuskinakin on joskus kiva olla.</p>
+<p>T&auml;n&auml; vuonna tipaton tammikuu jatkui omalla painollaan. Halusin hiukan haastaa itse&auml;ni ja katsoa miten pitk&auml;&auml;n pystyisin jatkamaan. Asetin ensin tavoitteeksi jatkaa vappuun asti, sitten juhannukseen. Juhannus sujui helposti vesilinjalla, jonka j&auml;lkeen oli kova kiusaus jatkaa vuoden loppuun. Loppuvuodesta motivaatioksi riittikin vain vuoden loppuun asti p&auml;&auml;seminen. Hyv&auml;&auml; putkea olisi ollut s&auml;&auml;li lopettaa.</p>
+<p>Yksi motivaation l&auml;hde oli huomata kuinka moni muu tuttu ja (netti)julkkis on juomatta. Pystyisin nopeasti nime&auml;m&auml;&auml;n kymmenisen raitista ihmist&auml;. Jos he pystyv&auml;t siihen, niin miksen min&auml;kin?</p>
+<p>Luokittelisin tipattoman pit&auml;misen samankaltaiseksi tutusta asiasta luopumiseksi kuin vaikkapa karppauksen tai kasvissy&ouml;nnin. Ongelma ei ole niink&auml;&auml;n itse aineesta luopuminen, vaan siihen liittyvien tilanteiden uudelleenajattelu tai v&auml;ltt&auml;minen. Kavereiden kanssa nyt vain on kiva kokoontua v&auml;lill&auml; v&auml;h&auml;n sy&ouml;m&auml;&auml;n lihaa. Ravintolassa voi tilata kasvisruokaa, mutta possujuhlat kannattaa ehk&auml; j&auml;tt&auml;&auml; v&auml;liin.</p>
+<p>Suomessa alkoholin, pullan tai pihvin tarjoaminen kuuluu kiinte&auml;sti tiettyihin tilanteisiin. Tarjouksesta kielt&auml;ytyminen voi aluksi tuntua hankalalta. En silti joutunut kertaakaan selittelem&auml;&auml;n juomattomuuttani, eik&auml; kukaan yritt&auml;nyt tuputtaa juotavaa. T&auml;m&auml; oli mukava yll&auml;tys.</p>
+<h2>Plussat</h2>
+<p>Yksi itsest&auml;&auml;nselv&auml; hy&ouml;ty tipattomuudesta on rahan s&auml;&auml;styminen. Se ei sin&auml;ns&auml; ollut tavoitteena, mutta oli mukava bonus. Rahaa kyll&auml; meni tavallista enemm&auml;n erikoislimppareihin ja energiajuomiin, ja baareissa tuli joka tapauksessa k&auml;yty&auml; muutamia kertoja, mihin uppoaa rahaa vaikkei joisikaan kaljaa. Tarkoista summista ei ole tietoa, mutta uskoisin kuitenkin j&auml;&auml;neeni plussalle.</p>
+<p>Merkitt&auml;v&auml;mpi hy&ouml;ty oli lis&auml;&auml;ntynyt ty&ouml;teho. Sunnuntait pystyi helposti pyhitt&auml;m&auml;&auml;n ty&ouml;nteolle, mik&auml; voi katsontatavasta riippuen olla joko hyv&auml;, tai hiukan kyseenalainen saavutus. Toisaalta ik&auml; teett&auml;&auml; sen, ett&auml; krapulan saa aikaan jo valvomalla my&ouml;h&auml;&auml;n ja juomalla liikaa limpparia, MOT. Yleisfiilis on kuitenkin se, ett&auml; sain vuoden aikana enemm&auml;n aikaan kuin normaalisti.</p>
+<p>Terveyden kannalta juomattomuus oli varmaan hyv&auml; juttu, mutta siit&auml; minulla ei ole mit&auml;&auml;n dataa. Terveystarkastus ennen ja j&auml;lkeen olisi voinut olla mielenkiintoista n&auml;ht&auml;v&auml;&auml;, mutta eip&auml; tullut mieleen.</p>
+<h2>Miinukset</h2>
+<p>Hyvi&auml; alkoholittomia oluita ei minun tiet&auml;&auml;kseni ole olemassa. T&auml;m&auml; oli tiedossa jo aikaisempien tipattomien tammikuiden perusteella, enk&auml; yritt&auml;nyt sen enemp&auml;&auml; tutkia vaihtoehtoja. Oluen vaihtaminen alkoholittomaan olueen ei vain ole vaihtoehto. Alkoholittomia viinej&auml; en kokeillut. Olen kuullut niist&auml; hieman ristiriitaisia tuomioita, enk&auml; viitsinyt ruveta testaamaan asiaa.</p>
+<p>Edelliseen liittyen, hyvien alkoholijuomien ja makuel&auml;mysten missaaminen harmitti melkolailla. Ranskassa olisi ollut kiva maistella viinej&auml;, Helsingin drinkkibaareissa mojitoja ja viskinmaisteluillassa viskej&auml; :|</p>
+<p><img class="alignnone size-medium wp-image-920" alt="viskit" src="http://www.bobs.fi/oiva/wp-content/uploads/2012/12/viskit-300x225.jpg" width="300" height="225" /></p>
+<p>Ja toki tietyt tapahtumat olisivat luultavasti olleet mukavampia pieness&auml; humalassa. En v&auml;ltt&auml;m&auml;tt&auml; l&auml;htisi en&auml;&auml; Tallinnan risteilylle selvinp&auml;in, ja mies- / ty&ouml;porukalla lasiin syljeskely herk&auml;sti heikent&auml;&auml; bondaamista.</p>
+<h2>Muuta</h2>
+<p>Seurustelu hiprakassa olevien ihmisten kanssa oli plussa ja miinus. Normaalissa keskustelussa tunnen yleens&auml; olevani jatkuvasti askeleen j&auml;ljess&auml;. Muut ovat yleens&auml; jo seuraavassa aiheessa kun keksin sanottavaa edelliseen aiheeseen. Muiden nauttima alkoholi tasoitti pelikentt&auml;&auml; hiukan, mutta tietenkin tarpeeksi pitk&auml;lle vietyn&auml; keskustelun yritt&auml;minen muuttui turhauttavaksi.</p>
+<p>Vuoden aikana oli mielenkiintoista yritt&auml;&auml; tunnistaa millaisissa tilanteissa a) tulisi normaalisti juotua b) tekisi mieli juoda. Esimerkiksi syyspime&auml;ll&auml; 12 tunnin ty&ouml;p&auml;ivien j&auml;lkeen oli kiusaus maistella hieman viski&auml;. T&auml;m&auml;n tarpeen tiedostaminen oli mielest&auml;ni arvokasta verrattuna siihen, ett&auml; olisi vain autopilotilla avannut pullon.</p>
+<p>Oli my&ouml;s hauska seurata miten ihmiset reagoivat tipattomuuteen. Osa halusi ottaa puheeksi oman alkoholink&auml;ytt&ouml;ns&auml;. "En ikin&auml; juo&nbsp;<em>niin&nbsp;</em>paljoa kerralla", "olen v&auml;hent&auml;nyt pariin viikonloppuun kuukaudessa", jne. Ymm&auml;rr&auml;n kyll&auml; reaktion; omaa juomista ei herk&auml;sti tule ajateltua ilman ulkopuolista &auml;rsykett&auml;. Olen varmaan aikaisemmin k&auml;ynyt saman keskustelun absolutistituttujeni kanssa.</p>
+<p>En jaksanut hirve&auml;sti puhua aiheesta tuttujen kanssa. Mielest&auml;ni juomattomuus on yht&auml; j&auml;nnit&auml;v&auml; keskutelunaihe kuin jonkun karppaus tai karppaamattomuus. Enk&auml; tosiaankaan ole &nbsp;tuomitsemassa muitten alkoholink&auml;ytt&ouml;&auml;, tai ole asiasta yleens&auml;k&auml;&auml;n mit&auml;&auml;n mielt&auml;. En aja alkoholille myyntikieltoa ja teinit saavat puolestani p&auml;ristell&auml; ES:&auml;&auml; jos silt&auml; tuntuu.</p>
+<p>Projektin jatko on viel&auml; v&auml;h&auml;n auki. Plussat ja miinukset ovat aika tasan, eik&auml; kummassakaan laarissa ole kovin dramaattisia asioita. V&auml;hemm&auml;ll&auml;kin juomisella selke&auml;sti p&auml;rj&auml;&auml;, mutta ihan kokonaan ilman ei viitsisi olla. Katsotaan. Sanoisin, ett&auml; <a href="http://tipaton.fi">tipaton tammikuu</a> on joka tapauksessa kokeilemisen arvoinen juttu, jota tulen varmaan v&auml;hint&auml;&auml;n jatkamaan.</p>
