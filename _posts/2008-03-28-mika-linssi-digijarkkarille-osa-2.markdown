@@ -56,7 +56,7 @@ comments:
 <li>Useampi tuttu on joko ostanut tai on ostamassa samaa linssi&auml;. Kavereiden mielipiteet vaikuttavat ja p&auml;&auml;sin hypistelem&auml;&auml;n linssi&auml;, mik&auml; vahvisti uskoani :)</li>
 <li>Hyv&auml; hinta / <em>suorituskyky</em>suhde. Sigmoja on toisaalta moitittu ep&auml;tasaisesta laadusta, mutta kyseisen linssin "teho" on hyv&auml; suhteessa hintaan (300&ndash;400&euro;)</li>
 <li>Mahdollinen oppimisvaikutus kun joutuu hakemaan kuvia kiinte&auml;ll&auml; polttov&auml;lill&auml;</li>
-</ul><br />
+</ul>
 <a id="more"></a><a id="more-36"></a>Linkkej&auml;:</p>
 <ul>
 <li><a href="http://www.kenrockwell.com/sigma/30mm-f14.htm">Arvio (Ken Rockwell)</a></li>
@@ -65,5 +65,5 @@ comments:
 <li><a href="http://www.flickr.com/groups/sigma30mm/pool/">Linssill&auml; otettuja kuvia Flickriss&auml;</a></li>
 <li><a href="http://www.pixel-peeper.com/lenses/?lens=278">Lis&auml;&auml; esimerkkikuvia (PixelPeeper)</a></li>
 <li><a href="http://www.pbase.com/cameras/sigma/30_14_ex_dc_hsm">Lis&auml;&auml; esimerkkikuvia (PBase)</a></li>
-</ul><br />
+</ul>
 <a href="http://www.bobs.fi/oiva/2007/12/10/mika-linssi-digijarkkarille-osa-1/">Aikaisempi kirjoitus linssin valinnasta</a></p>

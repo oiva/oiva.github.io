@@ -39,18 +39,18 @@ comments: []
 <li><strong>Yritt&auml;&auml;k&ouml; k&auml;ytt&auml;j&auml; p&auml;&auml;st&auml; oikeaan tavoitteeseen?</strong>
 <ul>
 <li>ts. ymm&auml;rt&auml;&auml;k&ouml; k&auml;ytt&auml;j&auml;, ett&auml; kyseinen vaihe on osa kokonaisuutta?</li>
-</ul><br />
-</li></p>
+</ul>
+</li>
 <li><strong>Huomaako k&auml;ytt&auml;j&auml; ett&auml; oikea toiminto on tarjolla?</strong>
 <ul>
 <li>onko toiminto l&ouml;ydett&auml;viss&auml;?</li>
-</ul><br />
-</li></p>
+</ul>
+</li>
 <li><strong>Yhdist&auml;&auml;k&ouml; k&auml;ytt&auml;j&auml; toiminnon omaan tavoitteeseensa?</strong></li>
 <li><strong>Jos k&auml;ytt&auml;j&auml; suorittaa oikean toiminnon, huomaako h&auml;n teht&auml;v&auml;n etenemisen?</strong>
 <ul>
 <li>eli saako k&auml;ytt&auml;j&auml; selke&auml;&auml; palautetta toiminnon suorittamisesta.</li>
-</ul><br />
+</ul>
 </li>
 </ol><br />
 <p>Jokainen kohta voi ep&auml;onnistua eri tavoin. Esimerkiksi kohdassa kaksi voi olla ett&auml; k&auml;ytt&auml;j&auml; ei huomaa lainkaan oikeaa toimintoa. On my&ouml;s mahdollista, ett&auml; k&auml;ytt&ouml;liittym&auml;ss&auml; on v&auml;&auml;r&auml; toiminto, joka vaikuttaa paremmalta vaihtoehdolta k&auml;ytt&auml;j&auml;lle. T&auml;m&auml; on usein ongelmana esimerkiksi lomakkeissa, joissa peruuta-nappi n&auml;ytt&auml;&auml; samalta kuin tallenna-nappi.</p>
@@ -61,8 +61,8 @@ comments: []
 <li>Sivulla on "rekister&ouml;idy"-linkki, mutta se on eritt&auml;in pieni ja sijoitettu erikseen muista p&auml;&auml;linkeist&auml;
 <ul>
 <li>Korjausehdotus: siirret&auml;&auml;n linkki loogiseen paikkaan ja tehd&auml;&auml;n sivulle useampi rekister&ouml;itymislinkki</li>
-</ul><br />
-</li></p>
+</ul>
+</li>
 <li>K&auml;ytt&auml;j&auml; yhdist&auml;&auml; tekstin "rekister&ouml;idy" melko hyvin tavoitteeseen, sill&auml; termi on vakiintunut. Voisiko k&auml;ytt&auml;&auml; toista, luonnollisempaa termi&auml;?</li>
 <li>K&auml;ytt&auml;j&auml;n klikattua linkist&auml; h&auml;n p&auml;&auml;tyy sivulle, jonka otsikkona on rekister&ouml;ityminen. Palaute on riitt&auml;v&auml;.</li>
 </ol><br />

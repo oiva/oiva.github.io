@@ -61,13 +61,13 @@ comments:
 <li>OS X:n tukeman MiniPCI-e WiFi-kortin. NC10:n alkuper&auml;inen WiFi-kortti ei toimi OS X:ss&auml;&nbsp; ilman kikkailua, ja silloinkin huonosti. Ethernet-yhteys toiminee uusimmilla ajureilla, mutta WiFi-kortin vaihtaminen on suositeltavaa. OS X tukee ainakin Broadcomin piirill&auml; varustettuja Dell DW 1390 ja 1490-sarjan WiFi-kortteja. N&auml;it&auml; l&ouml;ytyy esimerkiksi <a title="eBay: dell dw 1490" href="http://shop.ebay.co.uk/i.html?LH_BIN=1&amp;_nkw=dell+dw+1490&amp;_fcid=70&amp;_sc=1&amp;_sop=15&amp;_stpos=&amp;_trksid=p3286.c0.m301&amp;gbr=1">eBayst&auml;</a> muutamalla kymmenell&auml; eurolla. Ohjeet kortin vaihtamiseen l&ouml;ytyv&auml;t <a title="How-to: Changing WiFi card in Samsung NC10" href="http://www.tomacintosh.com/2009/03/25/how-to-changing-wifi-card-in-samsung-nc10/">t&auml;&auml;lt&auml;</a>. Operaatio on helpompi kuin milt&auml; se kuulostaa, l&auml;pp&auml;rin takakansi irtoaa ilman erityist&auml; ty&ouml;kaluakin.</li>
 <li>OS X asennus-dvd:n, 129&euro;. Kaupoissa myyd&auml;&auml;n t&auml;ll&auml; hetkell&auml; 10.5.6 versiota, jonka voi p&auml;ivitt&auml;&auml; ohjelmistop&auml;ivityksell&auml; 10.5.7:&auml;&auml;n. Asennuslevyn myynyt myyj&auml; ei halunnut kommentoida saako OS X:n asentaa muuhun kuin Applen koneeseen :) (Vinkki: <a title="Software license agreement for Mac OS X [pdf]" href="http://images.apple.com/legal/sla/docs/macosx105.pdf">EULAn</a> mukaan ei saa.)</li>
 <li>2 gigan muistikamman - suositeltava, mutta ei pakollinen. 2 gigan DDR2 SO-DIMM 667MHz maksaa 20-30&euro;. Kokemuksen perusteella ainakin <a title="Verkkokauppa: Kingston 2GB DDR2 800MHz SODIMM -muistimoduli" href="http://www.verkkokauppa.com/popups/prodinfo.php?id=34440">t&auml;m&auml; muistikampa</a> toimii. Ohjeet muistikamman vaihtamiseen <a title="LaptopMag: How to Add RAM to the Samsung NC10" href="http://www.laptopmag.com/advice/how-to/nc10-ram.aspx?step=1">Laptop Magazinesta</a> tai&nbsp;<a title="YT: Samsung NC10 RAM Upgrade Video Guide" href="http://www.youtube.com/watch?v=lkIJE901vFM">YouTubesta</a>.</li>
-</ul><br />
+</ul>
 <p>OS X:n asennus onnistuu helpoiten kopioimalla asennus-dvd:n USB-kovalevylle. T&auml;m&auml;n j&auml;lkeen kone bootataan muistitikulta, joka k&auml;ynnist&auml;&auml; asennusohjelman kovalevylt&auml;. T&auml;ll&auml; tavoin asennettuna tarvitset edellisten lis&auml;ksi:</p>
 <ul>
 <li>USB-kovalevyn, johon mahtuu kopio asennus-dvd:st&auml; ( > 8Gb)</li>
 <li>Kaverin macin, jolla asennus-dvd "palautetaan" USB-kovalevylle</li>
 <li>USB-muistitikun</li>
-</ul><br />
+</ul>
 <p>Katso varsinainen asennusohje <a title="Definitive Mac OS X installation guide for netbooks" href="http://blog.stuart.shelton.me/archives/256">Stuartin blogista -></a></p>
 <p><strong>T&auml;llaisenaan koneelle tuli hintaa noin 580-590&euro;</strong>. Vertailun vuoksi alumiininen MacBook 13" 2008-malli maksaa 980&euro; ja halvin MacBook Air 1300&euro;.</p>
 <h3>Mik&auml; ei toimi?</h3>
@@ -77,7 +77,7 @@ comments:
 <li>Mikrofoni</li>
 <li><span style="text-decoration: line-through;">Tasohiiren multitouch</span> multitouchille on kuulemma ajurit, en ole kokeillut<span style="text-decoration: line-through;"><br />
 </span></li>
-</ul><br />
+</ul>
 <p>Lis&auml;ksi n&auml;yt&ouml;n kirkkauden s&auml;&auml;t&auml;minen ja &auml;&auml;nen vaihtaminen sis&auml;isten kaiuttimien ja kuulokkeitten v&auml;lill&auml; vaativat erilliset apuohjelmat. My&ouml;s n&auml;pp&auml;imist&ouml; tuottaa osittain v&auml;&auml;ri&auml; merkkej&auml;, mink&auml; saa korjattua omalla asetustiedostolla.</p>
 <h3>N&auml;yt&ouml;n kirkkauden s&auml;&auml;t&auml;minen</h3>
 <p>Kirkkauden s&auml;&auml;t&auml;minen fn+nuolin&auml;pp&auml;imill&auml; ei toimi. N&auml;yt&ouml;n taustavaloa voi kuitenkin s&auml;&auml;t&auml;&auml; skriptill&auml;. Ratkaisuna on siis asentaa <a title="Download Quicksilver for Mac" href="http://www.macupdate.com/info.php/id/14831">Quicksilver</a>, jolla voi ajaa skriptej&auml; haluamillaan n&auml;pp&auml;inyhdistelmill&auml;.</p>

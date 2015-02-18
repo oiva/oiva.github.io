@@ -33,18 +33,18 @@ comments:
 <p>Kasasin yhteen musiikkia, joka sopii omaan sunnuntaip&auml;iv&auml;&auml;ni. Rauhoittavaa, pirist&auml;v&auml;&auml;, lohduttavaa ja muuta.</p>
 <p>Lataa t&auml;st&auml;: <a href="http://www.bobs.fi/oiva-sunnuntaimix.mp3">oiva - sunnuntaimix</a> (mp3, n. 57Mt)</p>
 <p>Kappalelista:</p>
-<pre>1. Cassius - Invincible<br />
-2. Air - Night Sight<br />
-3. Timo Maas - Hash Driven<br />
-4. Risto - Jumalan k&auml;mmen<br />
-5. Regina - T&auml;ss&auml; vaiheessa kaikki on jo niin vakavaa<br />
-6. DJ Shadow - The 6 Day War<br />
-7. Trentem&oslash;ller - Miss You<br />
-8. Tim 'Love' Lee - One Night Samba<br />
-9. Basement Jaxx vs. The Clash - Maginificent Romeo (Soulwax remix)<br />
-10. Faith No More - Easy<br />
-11. Groove Armada - Fireside Favourite<br />
-12. Gorillaz - Hongkongaton<br />
-13. FC Kahuna - Hayling<br />
-14. SIG - &Auml;l&auml; sin&auml; huoli<br />
+<pre>1. Cassius - Invincible
+2. Air - Night Sight
+3. Timo Maas - Hash Driven
+4. Risto - Jumalan k&auml;mmen
+5. Regina - T&auml;ss&auml; vaiheessa kaikki on jo niin vakavaa
+6. DJ Shadow - The 6 Day War
+7. Trentem&oslash;ller - Miss You
+8. Tim 'Love' Lee - One Night Samba
+9. Basement Jaxx vs. The Clash - Maginificent Romeo (Soulwax remix)
+10. Faith No More - Easy
+11. Groove Armada - Fireside Favourite
+12. Gorillaz - Hongkongaton
+13. FC Kahuna - Hayling
+14. SIG - &Auml;l&auml; sin&auml; huoli
 15. Squarepusher - Tommib</pre>

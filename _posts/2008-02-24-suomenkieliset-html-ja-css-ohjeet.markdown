@@ -64,7 +64,7 @@ comments:
 <li><a href="http://www.cs.tut.fi/~jkorpela/webjulk/">Jukka Korpelan Web-julkaisemisen opas</a> on Kattava opas suurin piirtein kaikkeen aiheeseen liittyv&auml;&auml;n. "Miten teen Web-sivun" on ihan p&auml;tev&auml;.</li>
 <li><a href="http://koti.mbnet.fi/ugo/johdanto.html">Jukka Tujulan johdanto kotisivujen tekemiseen</a> sis&auml;lt&auml;&auml; hyvi&auml; periaatteita, jos jaksaa kahlata "peelosivuista" mouhoamisen l&auml;pi.</li>
 <li><a href="http://www.mvnet.fi/index.php?osio=Kotisivun_teko&amp;sivu=Linkkej%C3%A4">MVnet: Linkkej&auml; kotisivun tekij&auml;lle</a> sis&auml;lt&auml;&auml; paljon hyvi&auml; linkkej&auml; suomen- ja englanninkielisiin oppaisiin. Vaikuttaisi olevan ajan tasalla.</li>
-</ul><br />
+</ul>
 <p>Bonuksena muutama englanninkielinen sivu:</p>
 <ul>
 <li><a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/">Friendly Bit: Beginner&rsquo;s guide to CSS</a>. Lis&auml;ksi my&ouml;s standardeista ja hyvist&auml; k&auml;yt&auml;nn&ouml;ist&auml;.</li>

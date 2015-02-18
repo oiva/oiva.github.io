@@ -33,7 +33,7 @@ comments: []
 <ul>
 <li>Debit = pankkikortti</li>
 <li>Credit = luottokortti</li>
-</ul><br />
+</ul>
 </div><br />
 </div><br />
 </div><br />

@@ -42,7 +42,7 @@ The 7 Habits of Highly Effective People</h3>
 <ul>
 <li>Pyri olemaan maailman paras siin&auml; mit&auml; teet (m&auml;&auml;rittele vain oma "maailmasi" tarpeeksi tarkasti)</li>
 <li>"Winners quit fast, quit often, and quit without guilt&nbsp;&ndash; until they commit to beating the right Dip for the right reasons."</li>
-</ul><br />
+</ul>
 <p>Kirjassa ei tarkkoja ohjeita tarjoilla, vaan se on tarkoitettu enemminkin motivoimaan ja antamaan uskoa omaan tekemiseen.</p>
 <p><a href="http://www.amazon.com/gp/product/1591841666?ie=UTF8&amp;tag=bobsfi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1591841666">The Dip: A Little Book That Teaches You When to Quit (and When to Stick)</a><img style="border:none !important; margin:0px !important;" src="http://www.assoc-amazon.com/e/ir?t=bobsfi-20&amp;l=as2&amp;o=1&amp;a=1591841666" border="0" alt="" width="1" height="1" /> Amazon.comissa.</p>
 <p><img class="alignleft size-medium wp-image-457" title="blue" src="{{ site.baseurl }}/images/2009/01/blue-202x300.gif" alt="blue ocean strategy" width="162" height="240" /></p>

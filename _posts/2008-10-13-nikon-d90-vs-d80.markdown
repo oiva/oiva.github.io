@@ -119,7 +119,7 @@ comments:
 <ul>
 <li>Live view, eli kuvaa voi kuvatessa katsoa LCD-n&auml;yt&ouml;lt&auml; etsimen sijaan. En koe kauhean tarpeelliseksi.</li>
 <li><del>Isompi</del>&nbsp;Tihe&auml;mpi kenno: 12,3 megapikseli&auml; vs 10,2 megapikseli&auml;. T&auml;ss&auml; kokoluokassa muutos ei luultavasti n&auml;y miss&auml;&auml;n. D80:st&auml; ei ole pikselit loppuneet viel&auml; ;)</li>
-</ul><br />
+</ul>
 <p>N&auml;ill&auml; spekseill&auml; en luultavasti ole vaihtamassa kameraa. Saan D80:ll&auml; sellaisia kuvia kuin tahdon. Uutta kameraa ostaessani p&auml;&auml;tyisin D90:een.</p>
 <h3>Linkkej&auml;:</h3>
 <ul>

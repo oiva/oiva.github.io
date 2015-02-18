@@ -39,10 +39,10 @@ comments:
 <ul>
 <li>"Kyll&auml;h&auml;n meid&auml;n k&auml;ytt&auml;j&auml;t osaa k&auml;ytt&auml;&auml; t&auml;t&auml;"</li>
 <li>"T&auml;m&auml; on <em>minun mielest&auml;</em> t&auml;ysin looginen, ei k&auml;ytt&auml;j&auml;t voi olla tajuamatta t&auml;t&auml;"</li>
-</ul><br />
+</ul>
 <p>Ja oma suosikkini:</p>
 <ul>
 <li>"Kyll&auml; meid&auml;n k&auml;ytt&auml;j&auml;t oppii k&auml;ytt&auml;m&auml;&auml;n t&auml;t&auml; (, niiden on pakko!)"</li>
-</ul><br />
+</ul>
 <p>J&auml;t&auml;n kotiteht&auml;v&auml;ksi pohtia mik&auml; edell&auml; mainituissa tapauksissa voisi menn&auml; pieleen.</p>
 <p>P&auml;&auml;sin sattumalta osallistumaan k&auml;ytett&auml;vyystestiin pari p&auml;iv&auml;&auml; sitten. En olisi uskonut, mutta kiroilin &auml;&auml;neen, <em>valvotussa testitilanteessa</em>. Ja syy oli yksin testattavan k&auml;ytt&ouml;liittym&auml;n, joka oli vain niin huono. Uskon ett&auml; kehitt&auml;jien mielest&auml; se toimi t&auml;ysin oikein, mutta toivottavasti he testien j&auml;lkeen pystyv&auml;t ajattelemaan asioita v&auml;h&auml;n my&ouml;s toiselta kantilta.</p>

@@ -64,5 +64,5 @@ comments: []
 <li><a title="Mozilla Labs: Introducing Snowl" href="http://labs.mozilla.com/2008/08/introducing-snowl/">Snowl</a>: erilaisten sy&ouml;tteiden ja keskustelujen ker&auml;&auml;minen samaan paikkaan</li>
 <li><a title="Adaptive Path: Aurora concept video" href="http://adaptivepath.com/aurora/">Aurora</a>: hienoja konseptivideoita siit&auml;, miten tulevaisuuden selain voisi toimia</li>
 <li><a title="Mozilla Labs: Weave" href="http://labs.mozilla.com/projects/weave/">Weave</a>: tavoitteena saman selainkokemuksen tarjoaminen paikasta riippumatta. Julkaistulla prototyypill&auml; voi jo synkata selaimia, my&ouml;s oman palvelimen kautta. Ajattelin kirjoittaa ohjeen palvelimen pystytt&auml;misest&auml; jossain vaiheessa, mutta Weave-clientissa on viel&auml; paljon bugeja.</li>
-</ul><br />
+</ul>
 <p>Sek&auml; Google ett&auml; Mozilla ovat l&auml;hteneet liikenteeseen "julkaise nopeasti ja iteroi"-asenteella, josta ei voi olla tykk&auml;&auml;m&auml;tt&auml;. Lopullisia tuotteita joutuu viel&auml; odottelemaan pitk&auml;&auml;n, mutta kaikki edell&auml; mainitut projektit ovat onnistuneet luomaan positiivista s&auml;pin&auml;&auml;. Selainuutiset eiv&auml;t en&auml;&auml; rajoitu en&auml;&auml; IE8:n odottamiseen (ja IE6:n kuoleman odottamiseen :) ).</p>

@@ -78,7 +78,7 @@ comments:
 <li>Flexist&auml; kehitet&auml;&auml;n kevyemp&auml;&auml; versiota, jonka avulla internet-sovelluksista voitaisiin saada pienempi&auml; ja tehokkaampia.</li>
 <li><a title="Wikipedia: Adobe AIR" href="http://en.wikipedia.org/wiki/Adobe_AIR">AIR</a>ia tuotaneen my&ouml;s mobiililaitteille.</li>
 <li>Flash playerin iPhone-versio on kuulemma "valmis" ja odottaa vain Applen hyv&auml;ksynt&auml;&auml;.</li>
-</ul><br />
+</ul>
 <p>Mobiililaitteisiin liittyen tilaisuudessa oli puhetta my&ouml;s <a title="Wikipedia: Adobe Flash Lite" href="http://en.wikipedia.org/wiki/Adobe_Flash_Lite">Flash Litest&auml;</a>, jolla on mahdollista jo nyky&auml;&auml;n tehd&auml; Flash-sovelluksia k&auml;nnyk&ouml;ihin.</p>
 <p>Minulle oli kuitenkin uutta se, ett&auml; litess&auml; koodataan vanhemmilla ActionScriptin versiolla, jotka ovat heikosti tyypitettyj&auml; ja kaikin tavoin ep&auml;miellytt&auml;vi&auml; koodata. Flash Litell&auml; on siis samanlainen ongelma kuin Symbianilla, jota <a title="Nokia Conversations: An inside (personal) view of the Symbian deal" href="http://conversations.nokia.com/home/2008/07/an-inside-perso.html">hyvin harva koodaa huvikseen</a>.</p>
 <p>Osa paikalla olleista kehitt&auml;jist&auml; tuntui odottelevan AIRin saapumista mobiilialustoille ennen kuin aikoi panostaa mobiilikehitykseen. T&auml;ss&auml; tilanteessa iPhone-softan kehitys voisi kuitenkin olla ihan mielenkiintoinen vaihtoehto.</p>

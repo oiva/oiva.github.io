@@ -27,7 +27,7 @@ comments: []
 <li>Etusivulta n&auml;kee heti kaksi seuraavaa l&auml;ht&ouml;&auml; valitsemilleen pys&auml;keille</li>
 <li>Pys&auml;kkej&auml; voi hakea nimen, pys&auml;kkikoodin tai linjan perusteella</li>
 <li>... tai voit hakea suoraan l&auml;himm&auml;t pys&auml;kit</li>
-</ul><br />
+</ul>
 <p>Projekti l&auml;hti alunperin liikkeelle siit&auml;, ett&auml; minun piti opetella k&auml;ytt&auml;m&auml;&auml;n <a href="http://backbonejs.org/">Backbone.js</a>-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.</p>
 <p>Halusin tehd&auml; itselleni ohjelman, mill&auml; n&auml;kee pys&auml;kkiaikataulut yhdell&auml; silm&auml;yksell&auml;, ilman ett&auml; tarvitsee erikseen navigoida ohjelmassa.</p>
 <p>Oma ongelmani pys&auml;kkiaikataulujen kanssa juontuu siit&auml;, ett&auml; ry&ouml;min t&ouml;ihin joskus klo 7-10 v&auml;lisen&auml; aikana. Lis&auml;ksi t&ouml;ihin p&auml;&auml;see joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei v&auml;ltt&auml;m&auml;tt&auml; olisi, mutta olen laiska.</p>

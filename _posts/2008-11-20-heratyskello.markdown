@@ -46,7 +46,7 @@ comments:
 <li>her&auml;tyskellolla voi torkuttaa v&auml;hint&auml;&auml;n kerran</li>
 <li>torkun pituutta voi s&auml;&auml;t&auml;&auml; itse</li>
 <li>her&auml;tyskello ei lopeta her&auml;tt&auml;mist&auml; ennen kuin olen her&auml;nnyt</li>
-</ul><br />
+</ul>
 <p>K&auml;yt&auml;n t&auml;ll&auml; hetkell&auml; her&auml;tyskellona Nokian k&auml;nnykk&auml;&auml;, joka t&auml;ytt&auml;&auml; ainoastaan ensimm&auml;isen ehdon.</p>
 <p>Torkun pituutta ei voi s&auml;&auml;t&auml;&auml;, tosin t&auml;m&auml; on kuulemma ollut mahdollista vanhemmissa malleissa. Viiden minuutin torkku on minulle ehk&auml; minuutin tai kaksi liian lyhyt. Ainakin eri pituisia torkkuja olisi kiva kokeilla.<a id="more"></a><a id="more-384"></a></p>
 <p><a href="{{ site.baseurl }}/images/2008/11/dsc_0031-2.jpg"><img class="alignleft size-medium wp-image-385" title="Nokia E51 her&auml;tyskello" src="{{ site.baseurl }}/images/2008/11/dsc_0031-2-225x300.jpg" alt="" width="225" height="300" /></a></p>

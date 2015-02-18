@@ -41,7 +41,7 @@ comments: []
 <li>Paino: 575g vs. 825g</li>
 <li>Akunkesto: 1000-2000 kuvaa vs. 450-500 kuvaa</li>
 <li>K&auml;ytt&ouml;liittym&auml;: rajoittunut vs. "ammattimainen"</li>
-</ul><br />
+</ul>
 <p>Kuten mainittua, n&auml;itten lis&auml;ksi eroa on linssien yhteensopivuuden kanssa D200:n eduksi. Kameroiden hintaero on kuitenkin huomattava. Erotuksella hankkii helposti hyv&auml;n linssin tai muita varusteita kameran kaveriksi. Monessa suhteessa D80 on jopa parempi. Pienempi ja kevyempi kamera tulisi luultavasti otettua mukaan useammin.</p>
 <p>T&auml;ll&auml; hetkell&auml; olen siis kallistumassa D80:n puoleen. Micro-Nikkorin voi aina myyd&auml;, vaikka se onkin varsin hauska leikkikalu. Mik&auml;&auml;n ei kuitenkaan ole varmaa, paitsi se, ett&auml; mielipiteeni vaihtuu viel&auml; monta kertaa :)</p>
 <p>Seuraavaksi pit&auml;isikin sitten pohtia mik&auml; linssi olisi paras ostos...</p>

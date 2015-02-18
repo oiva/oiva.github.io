@@ -161,7 +161,7 @@ comments:
 <ul>
 <li>MasterCard</li>
 <li>MasterCard Debit</li>
-</ul><br />
+</ul>
 <strong>M</strong><strong>it&auml; pit&auml;&auml; tehd&auml;, jos haluaa maksaa pankkikortilla?</strong></p>
 <p>MasterCard on alkanut kutsua kortin luotto- ja pankkipuolta <em>creditiksi</em> ja <em>debitiksi</em>. Minulla n&auml;iden termien merkitys ei ole viel&auml; ihan selk&auml;rangassa, vaikka creditin voi toki p&auml;&auml;tell&auml; tarkoittavan luottoa. Debitin merkityst&auml; on vaikeampi keksi&auml;, ellei asiaa ole joskus opiskellut. (<a title="Wikipedia: debits and credits" href="http://en.wikipedia.org/wiki/Debit">Debitin ja creditin</a> m&auml;&auml;rittelyt Wikipediassa englanniksi &ndash; ei helpoimmasta p&auml;&auml;st&auml; t&auml;m&auml;k&auml;&auml;n.)</p>
 <p>P&auml;&auml;telt&auml;viss&auml; tai ei, kaikki maksamiseen liittyv&auml; arvailu ja pohdinta on vain v&auml;&auml;rin. Maksup&auml;&auml;tteet ovat jo itsess&auml;&auml;n tarpeeksi kauheita. Hommaa ei tarvitsisi en&auml;&auml; hankaloittaa maksukorttien taholta.</p>
@@ -171,7 +171,7 @@ comments:
 <li>S-Etukortti Visa Credit</li>
 <li>S-Etukortti Visa Debit</li>
 <li>S-Etukortti Debit</li>
-</ul><br />
+</ul>
 (Katso <a title="S-Pankki: vertaa kortteja" href="http://www.s-pankki.fi/kortit_luotot/kortit/fi_FI/vertaa/">korttien vertailu</a> jos niiden k&auml;ytt&ouml;tarkoitus ei auennut nimest&auml;.)</p>
 <p>Riskeeraan nyt ja yleist&auml;n, mutta en usko ett&auml; termit credit ja debit ovat tarpeeksi selvi&auml; suurelle yleis&ouml;lle. K&auml;ytett&auml;vyystermein ilmaistuna t&auml;ss&auml; rikotaan nyt Nielsenin sit&auml; <a title="Ten Usability Heuristics" href="http://www.useit.com/papers/heuristic/heuristic_list.html">heuristiikkaa</a>, joka sanoo:</p>
 <blockquote><p>The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.</blockquote><br />

@@ -24,7 +24,7 @@ comments: []
 <div class="delicious-link"><a href="http://gizmodo.com/391960/iphone-3g-launch-date-confirmed">iPhone 3G Launch Date Confirmed</a></div></p>
 <div class="delicious-extended">3G-iPhone, vihdoinkin. Voisi harkita seuraavaksi puhelimeksi.</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/iphone">iphone</a> <a href="http://del.icio.us/oiva/3g">3g</a> <a href="http://del.icio.us/oiva/apple">apple</a>)</div><br />
-	</li></p>
+	</li>
 <li>
 <div class="delicious-link"><a href="http://www.presentationzen.com/presentationzen/2008/05/brain-rules-for.html">Brain rules for PowerPoint & Keynote presenters</a></div></p>
 <div class="delicious-extended">Hauskalla powerpointilla esitettyj&auml; vinkkej&auml; siihen, miten powerpointteja kannattaa suunnitella</div></p>

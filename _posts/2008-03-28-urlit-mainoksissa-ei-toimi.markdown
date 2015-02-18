@@ -61,6 +61,6 @@ comments:
 <li>Se K-market Aslakissa oleva mainos jostain ruuan ravintoarvojen tarkkailusta, mik&auml; se oli... (<a href="https://www.ravintokoodi.fi/nc/nc_login.asp">ravintokoodi.fi</a>) (n&auml;hnyt t&auml;m&auml;n noin 100 kertaa)</li>
 <li>Bussissa n&auml;hty mainos HKL:n (?) aikataulusysteemist&auml;, miss&auml; ihmisill&auml; oli omia aikatauluja tms... (<a href="http://www.omatlahdot.fi/omatlahdot/web">omatlahdot.fi</a>)</li>
 <li>Televisiossa n&auml;hty mainos jostain hoiva-alan ty&ouml;ntekij&ouml;ist&auml; (<a href="http://www.arvostan.fi/">arvostan.fi</a>)</li>
-</ul><br />
+</ul>
 <p>N&auml;m&auml; ovat niit&auml; muutamia onnekkaita, joista muistin ett&auml; mainoksessa ylip&auml;&auml;t&auml;&auml;n oli joku URL. T&auml;m&auml; on vaatinut sen, ett&auml; olen n&auml;hnyt mainokset v&auml;hint&auml;&auml;n kymmenisen kertaa.</p>
 <p>Televisiomainoksilla on yleisesti ottaen ehk&auml; suurempi onnistumistodenn&auml;k&ouml;isyys jos televisio ja tietokone ovat samassa huoneessa. Ulkomainokset sen sijaan ovat aika hukassa urleineen. Ainakin viel&auml; kun mobiili-internet ei ole kunnolla k&auml;ytett&auml;viss&auml;.</p>

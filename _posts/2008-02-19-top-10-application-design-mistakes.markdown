@@ -31,5 +31,5 @@ comments: []
 <li>&auml;l&auml; usko sokeasti mit&auml; k&auml;ytt&auml;j&auml; sanoo haluavansa, vaan selvit&auml; mit&auml; h&auml;n tekee</li>
 <li>vaatimusm&auml;&auml;rittelyt ovat aina v&auml;&auml;r&auml;ss&auml; :)</li>
 <li>paranna k&auml;ytt&ouml;liittym&auml;&auml; asteittain ja testaa v&auml;liss&auml; k&auml;ytt&auml;jill&auml;</li>
-</ul><br />
+</ul>
 <p>Valitettavan usein t&auml;m&auml;  on melkoista rakettitiedett&auml;. Onneksi Nielsenilt&auml; l&ouml;ytyy my&ouml;s numeroita k&auml;ytett&auml;vyyden tuottavuudesta: <a href="http://www.useit.com/alertbox/roi-first-study.html">Return on Investment for Usability</a></p>

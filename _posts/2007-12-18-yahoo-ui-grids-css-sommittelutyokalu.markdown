@@ -71,7 +71,7 @@ comments:
 <li><code>yui-b</code>: B niin kuin "Block". Jakaa sivua vaakasuunnassa.</li>
 <li><code>yui-g</code>: <strong>g</strong>rid, jakaa elementin pystysuunnassa kahtia. Puoliskoiden leveyksi&auml; voidaan hallita erikois-grideill&auml;, esimerkiksi <code>yui-gd</code> jakaa osat suhteessa 1/3 - 2/3, <code>yui-ge</code> suhteessa 3/4 - 1/4 jne.</li>
 <li><code>yui-u</code>: perimm&auml;inen yksikk&ouml;, jonka sis&auml;lle sijoitetaan varsinainen sis&auml;lt&ouml;.</li>
-</ul><br />
+</ul>
 <p>Koska leveydet ovat suhteellisia, voidaan yksitt&auml;inen yui-u -elementti aina korvata grid-elementill&auml; (yui-g) ja jakaa se viel&auml; pienempiin osiin. Jos rakenne ei tunnu heti aukeavan, tarjoaa Yahoo <a href="http://developer.yahoo.com/yui/grids/builder/">Grid Builderin</a>, jonka avulla rakennetta voi suunnitella visuaalisesti.</p>
 <h3>Hy&ouml;dyt</h3>
 <p>Mit&auml; hy&ouml;ty&auml; Grids CSS:n k&auml;yt&ouml;st&auml; on verrattuna itse m&auml;&auml;riteltyyn sivurakenteeseen? T&auml;rkein on mielest&auml;ni suunnittelun nopeus. Normaalin sivun prototyypin voi koostaa helposti koskematta itse css-tiedostoon. Toinen on yhteensopivuus. Yhdistettyn&auml; Yahoon <a href="http://developer.yahoo.com/yui/reset/">Reset CSS</a>:n kanssa saatu lopputulos n&auml;ytt&auml;&auml; kaikilla selaimilla samalta, ilman kikkailua ja selainkohtaisia CSS-s&auml;&auml;nt&ouml;j&auml;. (Yahoo hoitaa kikkailun puolestasi).</p>

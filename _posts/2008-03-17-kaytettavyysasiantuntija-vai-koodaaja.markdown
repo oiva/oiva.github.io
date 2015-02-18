@@ -58,6 +58,6 @@ comments:
 <li>osaa lukea k&auml;ytett&auml;vyystestien tuloksia, ja ymm&auml;rt&auml;&auml;, ett&auml; ne ovat ihan oikeita ongelmia :)</li>
 <li>osaa suorittaa omille tai ty&ouml;kaverin ohjelmille <a href="http://www.useit.com/papers/guerrilla_hci.html">kevyen asiantuntija-arvion</a>, esimerkiksi <a href="http://www.useit.com/papers/heuristic/heuristic_evaluation.html">heuristisen arvion,</a> MUTTA:</li>
 <li>EI silti tied&auml;  miten k&auml;ytett&auml;v&auml; ohjelma koodataan</li>
-</ul><br />
+</ul>
 <p>Viimeinen kohta aiheuttaa usein p&auml;&auml;nvaivaa. Yksitt&auml;isen koodarin mutuilu "ihmiset varmaan etsii t&auml;t&auml; nappia t&auml;&auml;lt&auml;" ei ole sama asia kuin k&auml;ytett&auml;vyystestiss&auml; varmistettu tulos. Ei vaikka kaksi koodaria olisivat samaa mielt&auml;. Tai toisin p&auml;in sanottuna: k&auml;ytett&auml;vyystestit antavat kovaa dataa siit&auml;, mik&auml; toimii ja mik&auml; ei. Sen j&auml;lkeen toimimattomat asiat voi perustellusti korjata.</p>
 <p>Vastauksena alkuper&auml;iseen kysymykseen, haluaisin ehk&auml; olla enemm&auml;n k&auml;ytett&auml;vyysihminen, ainakin nyt. Koodia silti unohtamatta. Lukitaan t&auml;m&auml; vastaus :P</p>

@@ -39,7 +39,7 @@ comments: []
 <li>Nappien vieress&auml; ei ole ohjeteksti&auml;, joka kehottaisi painamaan OK:ta &auml;&auml;nen kirjaamiseksi</li>
 <li>Napit ovat eri j&auml;rjestyksess&auml; kuin edellisess&auml; ruudussa, mik&auml; v&auml;h&auml;nt&auml;&auml; OK-napin <em>eteenp&auml;invievyytt&auml;.</em> (OK ja Peruuta-nappien oikeasta j&auml;rjestyksest&auml; voi kiisteell&auml;, mutta <a title="OK&ndash;Cancel or Cancel&ndash;OK?" href="http://www.useit.com/alertbox/ok-cancel.html">k&auml;yt&auml;nn&ouml;ss&auml; sill&auml; ei ole kovinkaan suurta merkityst&auml;</a>, kunhan j&auml;rjestys pysyy aina samana.)</li>
 <li>Ensisijaisen toiminnon (OK) ja toissijaisen toiminnon (Peruuta) napit eiv&auml;t saisi olla samann&auml;k&ouml;isi&auml;. Ensisijaisen toiminnon nappi voisi olla valmiiksi korostettu, jolloin sen painaminen olisi luontevampaa.</li>
-</ul><br />
+</ul>
 (lis&auml;&auml; <a title="Functioning form: Articles About Buttons" href="http://www.lukew.com/ff/entry.asp?740">nappiaiheisia artikkeleita</a>)</p>
 <p>T&auml;m&auml;n lis&auml;ksi laite ei ilmeisesti ole antanut varoitusta jos k&auml;ytt&auml;j&auml; on t&auml;ss&auml; vaiheessa poistanut &auml;&auml;nestyskorttinsa. Laite on palannut alkutilaan (tai sit&auml; muistuttavaan tilaan), jossa k&auml;ytt&auml;j&auml;&auml; pyydet&auml;&auml;n sy&ouml;tt&auml;m&auml;&auml;n &auml;&auml;nestyskortti.</p>
 <p>K&auml;ytett&auml;vyyden suunnitteleminen ei ole rakettikirurgiaa ;)</p>
