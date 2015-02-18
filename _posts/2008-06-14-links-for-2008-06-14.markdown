@@ -33,4 +33,4 @@ comments:
 <div class="delicious-extended">kevytt&auml; testailua uusimmilla selaimilla</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/safari">safari</a> <a href="http://del.icio.us/oiva/firefox">firefox</a> <a href="http://del.icio.us/oiva/opera">opera</a> <a href="http://del.icio.us/oiva/browser">browser</a> <a href="http://del.icio.us/oiva/ie">ie</a>)</div><br />
 	</li>
-</ul></p>
+</ul>

@@ -29,4 +29,4 @@ comments: []
 <div class="delicious-link"><a href="http://asuntojen.hintatiedot.fi/fi_FI/">Asuntojen.hintatiedot.fi - Asuntokauppojen hintatietopalvelu</a></div></p>
 <div class="delicious-extended">Sin&auml;ns&auml; hy&ouml;dyllinen palvelu, jonka toteutus on j&auml;&auml;nyt puolitiehen. Hakutuloksia pit&auml;isi ehdottomasti voida sortata rakentamisvuoden, hinnan, koon ym. mukaan. T&auml;m&auml; on sellaista ty&ouml;t&auml;, miss&auml; tietokoneet ovat eri hyvi&auml;. Tulokset voisi my&ouml;s semihelposti n&auml;ytt&auml;&auml; kartalla.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/k%C3%A4ytett%C3%A4vyys">k&auml;ytett&auml;vyys</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

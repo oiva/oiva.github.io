@@ -57,4 +57,4 @@ comments:
 <li><a href="http://www.kenrockwell.com/nikon/35mm-f18.htm">Ken Rockwellin Nikon 35mm f/1.8 arvostelu</a></li>
 <li><a href="http://www.flickr.com/groups/afsnikkor35mm18/">Flickr-ryhm&auml; linssill&auml; otetuille kuville</a></li>
 <li><a href="http://www.dpreview.com/lensreviews/nikon_35_1p8g_n15/">DPReviewin arvostelu</a> ("Highly recommended")</li>
-</ul></p>
+</ul>

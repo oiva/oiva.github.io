@@ -40,29 +40,32 @@ comments:
     column-count: 2;<br />
     column-width: 12em;<br />
     column-gap: 1em;<br />
-}</code></pre><br />
+}</code></pre>
 <p>T&auml;m&auml; m&auml;&auml;rittely esimerkiksi jakaisi DIV-elementin kahteen 12em leve&auml;&auml;n sarakkeeseen, joiden v&auml;liin j&auml;&auml; 1em:n rako. (Lis&auml;&auml; aiheesta W3C:n luonnostelmassa: <a href="http://www.w3.org/TR/css3-multicol/">CSS3 multi-column layout</a>). Standardeja ty&ouml;st&auml;v&auml; W3C on kuitenkin tunnettu hitaudestaan, joten molempia uudistuksia saadaan odottaa viel&auml;.</p>
 <h3>Yahoo UI Grids CSS</h3>
-<a href="http://developer.yahoo.com/yui/grids/">Grids CSS</a> on osa laajempaa <a href="http://developer.yahoo.com/yui/">Yahoon k&auml;ytt&ouml;liittym&auml;kirjastoa</a>. Se on k&auml;yt&auml;nn&ouml;ss&auml; yksitt&auml;inen CSS-tiedosto, jonka avulla voidaan helposti toteuttaa erilaisia layoutteja. Grids tarjoaa eri levyisi&auml; <em>templateja</em>, jotka on sovitettu yleisimpiin monitorien resoluutioihin. Leveyden ja sivun jaottelun voi toki my&ouml;s p&auml;&auml;tt&auml;&auml; itse. Sivua pystyy jakamaan sarakkeisiin yksinkertaisilla elementeill&auml;, joiden leveydet on m&auml;&auml;ritelty suhteellisesti, esimerkiksi 1/3 - 2/3.<br />
-<a id="more"></a><a id="more-8"></a><br />
+<p><a href="http://developer.yahoo.com/yui/grids/">Grids CSS</a> on osa laajempaa <a href="http://developer.yahoo.com/yui/">Yahoon k&auml;ytt&ouml;liittym&auml;kirjastoa</a>. Se on k&auml;yt&auml;nn&ouml;ss&auml; yksitt&auml;inen CSS-tiedosto, jonka avulla voidaan helposti toteuttaa erilaisia layoutteja. Grids tarjoaa eri levyisi&auml; <em>templateja</em>, jotka on sovitettu yleisimpiin monitorien resoluutioihin. Leveyden ja sivun jaottelun voi toki my&ouml;s p&auml;&auml;tt&auml;&auml; itse. Sivua pystyy jakamaan sarakkeisiin yksinkertaisilla elementeill&auml;, joiden leveydet on m&auml;&auml;ritelty suhteellisesti, esimerkiksi 1/3 - 2/3.<br />
+<a id="more"></a><a id="more-8"></a></p>
 <p>Nopea esimerkki:</p>
-<pre><code><br />
-<body></p>
-<div id="doc">
-<div id="hd"><!-- header --></div></p>
-<div id="bd"><!-- body --></p>
-<div id="yui-main">
-<div class="yui-b">
-<div class="yui-g">
-<div class="yui-u first"></div></p>
-<div class="yui-u"></div><br />
-                </div><br />
-            </div><br />
-        </div><br />
-    </div></p>
-<div id="ft"></div> <!-- footer --></div><br />
-</body></code></pre><br />
-<p>Yll&auml;oleva m&auml;&auml;rittely tuottaa <a href="http://www.bobs.fi/oiva/wp-content/uploads/2007/12/test.html" title="Yahoo UI Grid testisivu">t&auml;llaisen rakenteen</a>. My&ouml;nnett&auml;k&ouml;&ouml;n ett&auml; sis&auml;kk&auml;iset <code>yui-main, yui-b, yui-g</code> -m&auml;&auml;rittelyt n&auml;ytt&auml;v&auml;t aluksi v&auml;h&auml;n pelottavilta. Rakenne on kuitenkin selke&auml;:</p>
+<pre><code>&lt;body&gt;
+  &lt;div id="doc"&gt;
+    &lt;div id="hd"&gt;&lt;!-- header --&gt;&lt;/div&gt;
+
+    &lt;div id="bd"&gt;&lt;!-- body --&gt;
+        &lt;div id="yui-main"&gt;
+            &lt;div class="yui-b"&gt;
+                &lt;div class="yui-g"&gt;
+                    &lt;div class="yui-u first"&gt;&lt;/div&gt;
+                    &lt;div class="yui-u"&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div id="ft"&gt;&lt;/div&gt; &lt;!-- footer --&gt;
+  &lt;/div&gt;
+&lt;/body&gt;</code></pre>
+
+<p>Yll&auml;oleva m&auml;&auml;rittely tuottaa <a href="{{ site.baseurl }}/images/2007/12/test.html" title="Yahoo UI Grid testisivu">t&auml;llaisen rakenteen</a>. My&ouml;nnett&auml;k&ouml;&ouml;n ett&auml; sis&auml;kk&auml;iset <code>yui-main, yui-b, yui-g</code> -m&auml;&auml;rittelyt n&auml;ytt&auml;v&auml;t aluksi v&auml;h&auml;n pelottavilta. Rakenne on kuitenkin selke&auml;:</p>
 <ul>
 <li><code>yui-main</code>: kertoo ett&auml; t&auml;m&auml;n sis&auml;ll&auml; olevat <code>yui-b</code> elementit nousevat sivulla ylimm&auml;ksi. T&auml;m&auml; ansiosta elementtien visuaalinen j&auml;rjestys ei riipu l&auml;hdekoodissa olevasta j&auml;rjestyksest&auml;.</li>
 <li><code>yui-b</code>: B niin kuin "Block". Jakaa sivua vaakasuunnassa.</li>

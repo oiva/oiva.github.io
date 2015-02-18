@@ -69,13 +69,13 @@ comments:
 <p></channel><br />
 </rss></p>
 <p></code><br />
-</pre><br />
+</pre>
 <p>Sy&ouml;tteen p&auml;ivittymisajankohtana voidaan k&auml;ytt&auml;&auml; uusimman korun julkaisuajankohtaa. Julkaisuajankohta on MySQL:n timestamp-muodossa, josta se saadaan haluttuun muotoon esimerkiksi seuraavalla koodinp&auml;tk&auml;ll&auml;:</p>
 <pre>
 <code><br />
 $lastBuildDate = date("D, d M Y H:i:s O", strtotime($timestamp));<br />
 </code><br />
-</pre></p>
+</pre>
 <p>Itemien descriptioneiden sis&auml;ll&auml; voi k&auml;ytt&auml;&auml; HTML-koodia, kunhan muistaa merkit&auml; sen <em>character dataksi</em>:
 <pre><code><br />
 <description><br />
@@ -84,14 +84,14 @@ $lastBuildDate = date("D, d M Y H:i:s O", strtotime($timestamp));<br />
 ]]><br />
 </description><br />
 </code><br />
-</pre></p>
+</pre>
 <h3>Muuta huomionarvoista</h3>
 RSS-sy&ouml;te pit&auml;&auml; tarjoilla palvelimelta <em>application/rss+xml</em> -muodossa. Helpoiten t&auml;m&auml; onnistuu kun PHP:ss&auml; sanoo ennen sy&ouml;tteen tulostamista:
 <pre><code><br />
 <p>header('Content-type: application/rss+xml');</p>
-<p></code></pre><br />
+<p></code></pre>
 Selaimelle voi kertoa, ett&auml; sivusta l&ouml;ytyy my&ouml;s RSS-versio lis&auml;&auml;m&auml;ll&auml; linkin sy&ouml;tteeseen XHTML-tiedoston head-osioon:
 <pre><code></p>
 <link rel="alternate" type="application/rss+xml" href="http://www.paulaminni.fi/feed.php" title="Tilaa sy&ouml;te" />
-<p></code></pre></p>
+<p></code></pre>
 <p>Sy&ouml;tteen tekeminen oli yll&auml;tt&auml;v&auml;n helppoa. Skripti&auml; voisi viel&auml; jatkokehitt&auml;&auml; niin, ett&auml; se cachettaisi valmiin sy&ouml;tteen, eik&auml; rakentaisi sit&auml; joka kerta uudestaan tyhj&auml;st&auml;. Nykyisill&auml; liikennem&auml;&auml;rill&auml; t&auml;m&auml; ei viel&auml; ole ongelma.</p>

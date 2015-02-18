@@ -30,4 +30,4 @@ comments: []
 <p>K&auml;rkev&auml;sti otsikoitu kirjoitus, eritt&auml;in asiallinen silti. Vika on l&auml;hinn&auml; prosesseissa, joita on vaikea korjata.</li></p>
 <li><a class="taggedlink" rel="nofollow" href="http://hiddenpixels.com/css-stuffs/css-frameworks/">CSS Frameworks</a><br />
 15 CSS frameworkkia. YUI Grid on ollut ok perus-layouttien tekoon, Blueprint vaikuttaa my&ouml;s hyv&auml;lt&auml;.</li>
-</ul></p>
+</ul>

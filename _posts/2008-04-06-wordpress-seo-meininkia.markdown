@@ -63,32 +63,28 @@ comments:
 ---
 <p>P&auml;ivitin Wordpressin versioon 2.5 ja muokkasin samalla blogin k&auml;ytt&auml;m&auml;&auml; templatea. Ideana oli lis&auml;t&auml; kaikki yhden postin tagit sivun keywords-metatagin sis&auml;&auml;n. Eli esimerkiksi t&auml;m&auml;n sivun html:ss&auml; lukee:</p>
 <p><meta name="keywords" content="HTML, keywords, PHP, seo, tags, wordpress" /></p>
-<p>En tied&auml; miten paljon hakukoneet katsovat sivujen avainsanoja, mutta tuskin siit&auml; haittaakaan on.<br />
+<p>En tied&auml; miten paljon hakukoneet katsovat sivujen avainsanoja, mutta tuskin siit&auml; haittaakaan on.</p>
 <a id="more"></a><a id="more-40"></a><br />
 <p>Homma onnistu seuraavalla, kohtuullisen rumalla koodinp&auml;tk&auml;ll&auml;, jonka kirjoitin teeman hakemistosta l&ouml;ytyv&auml;&auml;n header.php:n  (t&auml;ss&auml; wp-content/themes/neoclassical/header.php)</p>
-<pre>
-<code><br />
-<meta name="keywords" content="<?php<br />
-    if (!is_single()) {<br />
-        foreach (get_categories() as $key=>$val) {<br />
-            echo $val->name;<br />
-            if ($key!=count(get_categories())) echo ", ";<br />
-        }<br />
-    } else {<br />
-        if (have_posts()) {<br />
-            while (have_posts()) {<br />
-                the_post();<br />
-                foreach (get_the_tags() as $key=>$val) {<br />
-                    echo $val->name;<br />
-                    if ($val != end(get_the_tags())) {<br />
-                        echo ", ";<br />
-                    }<br />
-                }<br />
-            }<br />
-        }<br />
-    }<br />
-?>" /><br />
-</code><br />
-</pre></p>
+<pre><code>&lt;meta name="keywords" content="<?php
+    if (!is_single()) {
+        foreach (get_categories() as $key=>$val) {
+            echo $val->name;
+            if ($key!=count(get_categories())) echo ", ";
+        }
+    } else {
+        if (have_posts()) {
+            while (have_posts()) {
+                the_post();
+                foreach (get_the_tags() as $key=>$val) {
+                    echo $val->name;
+                    if ($val != end(get_the_tags())) {
+                        echo ", ";
+                    }
+                }
+            }
+        }
+    }
+?>" /&gt;</code></pre>
 <p>Ongelmana on viel&auml; se, ett&auml; etusivulle, arkistolle ja muille staattisille sivuille tulee samat avainsanat. Jatkokehityksess&auml; avainsanoihin voisi lis&auml;t&auml; my&ouml;s kirjoituksen kategoriat yms.</p>
 <p>T&auml;m&auml; ei yrit&auml; olla mill&auml;&auml;n tapaa optimaalinen ratkaisu, enk&auml; tied&auml; josko t&auml;h&auml;n tarkoitukseen olisi ollut joku valmis Wordpress-plugin olemassa. Kaikki Wordpressin tageihin liittyv&auml; tieto tuntui olevan todella kiven alla, joten ei huvittanut etsi&auml;. :)</p>

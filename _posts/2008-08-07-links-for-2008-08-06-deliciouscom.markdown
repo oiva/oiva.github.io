@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://lcdtech.no-ip.info/en/data/lcd.panels.in.monitors.htm">LCD Panels in Monitors</a></div></p>
 <div class="delicious-extended">K&auml;tev&auml; l&auml;hde monitorien tietojen tarkistamiseen. Esimerkiksi verkkokauppa.com ei kerro paneelin tyyppi&auml;, joka kuitenkin vaikuttaa kuvanlaatuun paljon.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/monitor">monitor</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

@@ -42,4 +42,4 @@ comments: []
 <li>
 <div class="delicious-link"><a href="http://www.insideria.com/2008/04/unit-testing-with-flexunit-1.html">Unit Testing with FlexUnit</a></div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/as3">as3</a> <a href="http://delicious.com/oiva/programming">programming</a> <a href="http://delicious.com/oiva/flash">flash</a> <a href="http://delicious.com/oiva/tdd">tdd</a> <a href="http://delicious.com/oiva/testing">testing</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

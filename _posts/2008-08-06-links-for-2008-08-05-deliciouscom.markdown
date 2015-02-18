@@ -29,4 +29,4 @@ comments: []
 <div class="delicious-link"><a href="http://silverbackapp.com/">Silverback &mdash; guerrilla usability testing</a></div></p>
 <div class="delicious-extended">K&auml;ytett&auml;vyystestausta helpommin. Valitettavasti vain macille</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/tools">tools</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

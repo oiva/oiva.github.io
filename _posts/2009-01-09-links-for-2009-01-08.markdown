@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://www.zeldman.com/2008/12/04/20-signs-you-dont-want-that-web-design-project/">Jeffrey Zeldman Presents : 20 signs you don&rsquo;t want that web design project</a></div></p>
 <div class="delicious-extended">Numero 17 tuntuu toistuvan usein...</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/humor">humor</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

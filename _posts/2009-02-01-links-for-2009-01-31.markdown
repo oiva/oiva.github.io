@@ -31,4 +31,4 @@ comments: []
 <div class="delicious-link"><a href="http://clips.43folders.com/post/72361747/when-monty-python-launched-their-channel-in">43 Folders Clips - &hellip;when Monty Python launched their channel in...</a></div></p>
 <div class="delicious-extended">When Monty Python launched their channel in November, not only did their YouTube videos shoot to the top of the most viewed lists, but their DVDs also quickly climbed to No. 2 on Amazon&rsquo;s Movies &amp; TV bestsellers list, with increased sales of 23,000 percent.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/youtube">youtube</a> <a href="http://delicious.com/oiva/amazon">amazon</a> <a href="http://delicious.com/oiva/free">free</a> <a href="http://delicious.com/oiva/montypython">montypython</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

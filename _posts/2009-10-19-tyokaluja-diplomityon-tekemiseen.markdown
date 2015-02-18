@@ -37,13 +37,13 @@ comments: []
 <ul>
 <li>Tiedostojen automaattinen synkronointi p&ouml;yt&auml;koneen, l&auml;pp&auml;rin ja ty&ouml;koneen v&auml;lill&auml;</li>
 <li>Dropbox toimii k&auml;tev&auml;n&auml; varmuuskopiona jos se on asennettuna  useammalle koneelle. Pelk&auml;st&auml;&auml;n verkkoon tehtyyn kopioon ei kannata  luottaa, ja todella tarkka tietysti tallentaa tiedostot my&ouml;s ulkoiselle  kovalevylle tms.</li>
-</ul></p>
+</ul>
 <h3>Miinusta</h3>
 <ul>
 <li>Ilmainen 2 GB on nopeasti t&auml;ynn&auml; jos haluaa s&auml;il&ouml;&auml; kuvia tai muita isoja tiedostoja</li>
 <li>Ei, Dropbox ei ratkaise &auml;&auml;kk&ouml;songelmia macin ja windowsin v&auml;lill&auml; <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /></li>
 <li>Ei sovellu k&auml;ytt&auml;jille, jotka vierastavat tiedostojensa lataamista  &ldquo;pilveen&rdquo; tai mihink&auml;&auml;n vieraaseen verkkopalveluun. (Tiedostot salataan  ja siirrett&auml;&auml;n salattuja yhteyksi&auml; pitkin, mutta ymm&auml;rr&auml;n jos se ei  riit&auml; vakuuttamaan.)</li>
-</ul></p>
+</ul>
 <h2><a href="http://www.refworks.com/" target="_blank"><img title="Refworks logo" src="http://www.refworks.com/_img/Logo.gif" alt="" width="341" height="58" /></a></h2>
 <a href="http://www.refworks.com/" target="_blank">Refworks</a> on  verkkopalvelu l&auml;hdeviitteiden hallitsemiseen. Palveluun voi sy&ouml;tt&auml;&auml;  kaikki mahdolliset tiedot mit&auml; l&auml;hteist&auml; tiet&auml;&auml;. Refworksist&auml; saa ulos  listan viitteist&auml; todella monessa eri formaatissa, mm. Harvardin  standardin mukaisessa nimi &ndash; vuosiluku -muodossa.</p>
 <p>Viitteit&auml; ei tarvitse useinkaan sy&ouml;tt&auml;&auml; k&auml;sin. Refworks on integroitu mm. <a href="http://scholar.google.fi/" target="_blank">Google Scholar</a> -hakuun ja TKK:n kirjaston hakuihin. Hakutuloksista voi siirt&auml;&auml; l&auml;hdeviitteet suoraan RefWorksiin.</p>
@@ -52,12 +52,12 @@ comments: []
 <ul>
 <li>Integrointi hakupalveluihin, v&auml;h&auml;n k&auml;sin kirjoittamista</li>
 <li>Elektronisista l&auml;hteist&auml; voi tallentaa pdf:n liitteeksi viitteeseen</li>
-</ul></p>
+</ul>
 <h3>Miinusta</h3>
 <ul>
 <li>Refworksin k&auml;ytt&ouml;kokemus on kauhea. Sivuja lataillaan uusiksi, ja k&auml;sin sy&ouml;tetyn tiedon puolesta saa pel&auml;t&auml;</li>
 <li>En ole keksinyt palvelulle muuta k&auml;ytt&ouml;&auml; kuin viitteiden s&auml;il&ouml;misen  ja m&auml;&auml;r&auml;muotoisen listaamisen. Sama onnistuu varmasti muillakin  ty&ouml;kaluilla tai k&auml;sin</li>
-</ul></p>
+</ul>
 <h2><img title="LaTeX-logo" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/LaTeX_logo.png/180px-LaTeX_logo.png" alt="" width="180" height="75" /></h2>
 <p>Latex ei ole ty&ouml;kalu sin&auml;ns&auml;, vaan <a title="Wikipedia: LaTeX" href="http://fi.wikipedia.org/wiki/Latex" target="_blank">ladontaj&auml;rjestelm&auml;</a>.  Todella paljon yksinkertaistettuna: tekstin rakenne merkataan  Latex-elementeill&auml; (hiukan samaan tapaan kuin HTML-dokumentin rakenne  merkataan). Teksti ajetaan pulauttimen l&auml;pi, joka muotoilee tekstin  n&auml;ytt&auml;m&auml;&auml;n hyv&auml;lt&auml; <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /> .</p>
 <p>Eri dokumenttityypeille on olemassa pohjia, jotka hoitavat muotoilun  pitk&auml;lti puolestasi. Verkosta l&ouml;ytyy esimerkiksi TKK:n tietotekniikan  laitoksen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/thesis_template.tar.gz" target="_blank">englanninkielinen diplomity&ouml;pohja</a> (l&auml;hde: Sanna Suorannan kokoama erinomainen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/tips.html" target="_blank">ohje diplomity&ouml;n tekemiseen</a>.)</p>
@@ -68,7 +68,7 @@ comments: []
 <li>Latexilla p&auml;rj&auml;&auml; tilanteissa joissa dokumentin monimutkaisuus olisi  liikaa Wordille. Olen melko vakuuttunut ett&auml; diplomity&ouml; on t&auml;llainen  dokumentti</li>
 <li>Teksti tallennetaan tekstimuodossa. T&auml;m&auml; mahdollistaa  versiohallinnan tekstille ja sis&auml;ll&ouml;n hakemisen tiedostoista ilman  niiden avaamista. T&auml;m&auml; my&ouml;s v&auml;hent&auml;&auml; tiedoston korruptoitumisen vaaraa</li>
 <li>Tekstin ulkoasua pystyy tarvittaessa hallitsemaan eritt&auml;in tarkasti</li>
-</ul></p>
+</ul>
 <h3>Miinusta</h3>
 <ul>
 <li>Latexin asennusprosessi voi tuntua kohtuuttoman vaikealta verrattuna Wordin avaamiseen</li>

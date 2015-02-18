@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="https://addons.mozilla.org/fi/firefox/addon/1801">Clear Cache Button :: Firefoxin lis&auml;osat</a></div></p>
 <div class="delicious-extended">Ehk&auml; k&auml;tevin Firefox lis&auml;osa. Tyhjent&auml;&auml; selaimen v&auml;limuistin yhdell&auml; klikkauksella. Sama teht&auml;v&auml; Firefoxin "poista yksityisyystietoja"-valikon kautta vaatii seitsem&auml;n klikkausta.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/firefox">firefox</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

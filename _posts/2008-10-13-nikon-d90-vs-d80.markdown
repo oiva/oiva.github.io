@@ -114,7 +114,7 @@ comments:
 <li>Parempi kuvanlaatu. Ehk&auml;. D90:ss&auml; on CMOS-kenno, D80:ss&auml; CCD. Kennotyyppien keskin&auml;isest&auml; paremmuudesta ei helpolla ota selv&auml;&auml;, mutta <a title="New CMOS sensors catching on in cameras" href="http://news.cnet.com/8301-13580_3-9860021-39.html">jotain osviittaa l&ouml;ytyy CNETist&auml;</a>.</li>
 <li>Isompi LCD-n&auml;ytt&ouml;. 3 tuumaa (640x480 pikseli&auml;) vs 2,5 tuumaa (320x240).</li>
 <li>Valmius GPS-palikalle, jonka avulla kuviin voisi liitt&auml;&auml; karttakoordinaatit. Sin&auml;ns&auml; GPS voisi mielest&auml;ni olla kameroissa vakiona, mutta parempi n&auml;inkin.</li>
-</ul></p>
+</ul>
 <h3>H&ouml;p&ouml;h&ouml;p&ouml;-ominaisuuksia</h3>
 <ul>
 <li>Live view, eli kuvaa voi kuvatessa katsoa LCD-n&auml;yt&ouml;lt&auml; etsimen sijaan. En koe kauhean tarpeelliseksi.</li>
@@ -128,4 +128,4 @@ comments:
 <li><a title="CNET: Nikon D90 at long last" href="http://news.cnet.com/8301-17938_105-10026094-1.html">CNET</a></li>
 <li><a href="http://www.amazon.com/gp/product/B001ENOZY4?ie=UTF8&amp;tag=bobsfi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B001ENOZY4">Nikon D90</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=bobsfi-20&amp;l=as2&amp;o=1&amp;a=B001ENOZY4" alt="" width="1" height="1" border="0" /> Amazon.comissa</li>
 <li><a href="http://www.amazon.com/gp/product/B000HGMX5M?ie=UTF8&amp;tag=bobsfi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000HGMX5M">Nikon D80 runko</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=bobsfi-20&amp;l=as2&amp;o=1&amp;a=B000HGMX5M" alt="" width="1" height="1" border="0" /> Amazon.comissa</li>
-</ul></p>
+</ul>

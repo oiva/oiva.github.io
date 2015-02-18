@@ -30,4 +30,4 @@ comments: []
 <div class="delicious-extended">"A study that followed 24 intersections that had been converted from signals or stop signs to roundabouts showed an almost 90 percent drop in fatal crashes after the change.</p>
 <p>For similar reasons, S.U.V.&rsquo;s are more dangerous than cars. Not just because they&rsquo;re slower to stop and harder to maneuver, but because &mdash; by conferring a sense of safety &mdash; they invite careless behavior."</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/nytimes">nytimes</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

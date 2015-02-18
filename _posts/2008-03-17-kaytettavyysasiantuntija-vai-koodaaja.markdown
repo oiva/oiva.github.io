@@ -51,7 +51,7 @@ comments:
 <li>voi tehd&auml; muutoksia ohjelman k&auml;ytt&ouml;liittym&auml;&auml;n uusien ratkaisuehdotusten validoimiseksi</li>
 <li>osaa suositella tiettyj&auml; korjausehdotuksia ottaen huomioon miten helppo niit&auml; on toteuttaa k&auml;yt&auml;nn&ouml;ss&auml;</li>
 <li>osaa k&auml;ytett&auml;vyystestiss&auml; kysy&auml; "ent&auml; jos"-kysymyksi&auml; tiet&auml;en mik&auml; olisi mahdollista toteuttaa koodin puolella</li>
-</ul></p>
+</ul>
 <h4>Koodaaja, joka tuntee k&auml;ytett&auml;vyytt&auml;:</h4>
 <ul>
 <li>osaa  tehd&auml;  kevyit&auml;  k&auml;ytett&auml;vyysarviointeja  esimerkiksi <a href="http://www.useit.com/alertbox/20030414.html">paperiprototyyppien</a> avulla.  Nopea  l&auml;pik&auml;ynti yhdenkin ihmisen kanssa voi antaa perspektiivi&auml; suunnitteluun</li>

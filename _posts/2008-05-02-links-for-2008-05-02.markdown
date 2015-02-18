@@ -23,4 +23,4 @@ comments: []
 <li>
 <div class="delicious-link"><a href="http://www.37signals.com/svn/posts/1006-sleep-deprivation-is-not-a-badge-of-honor">Sleep deprivation is not a badge of honor - (37signals)</a></div><br />
 	</li>
-</ul></p>
+</ul>

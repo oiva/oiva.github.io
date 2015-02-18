@@ -35,4 +35,4 @@ comments: []
 <div class="delicious-extended">Kattava selvitys minimalistisen teknon piirteist&auml;</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/techno">techno</a> <a href="http://del.icio.us/oiva/music">music</a> <a href="http://del.icio.us/oiva/minimal">minimal</a>)</div><br />
 	</li>
-</ul></p>
+</ul>

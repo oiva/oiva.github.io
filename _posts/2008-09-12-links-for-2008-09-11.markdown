@@ -33,4 +33,4 @@ comments: []
 <div class="delicious-link"><a href="http://arstechnica.com/news.ars/post/20080911-canonical-to-fund-upstream-linux-usability-improvements.html">Canonical to fund upstream Linux usability improvements</a></div></p>
 <div class="delicious-extended">Mark "Ubuntu" Shuttleworth meinaa parantaa ty&ouml;p&ouml;yt&auml;-Linuxin k&auml;ytt&auml;j&auml;kokemusta, mik&auml; on ihan fiksu veto. Vaikka jos asennuksen saisi sellaiseksi, ettei tarvitse k&auml;sin konffata xorgia, ett&auml; ylip&auml;&auml;t&auml;&auml;n saa kuvan ruudulle... Aiheeseen liittyen my&ouml;s http://mpt.net.nz/archive/2008/08/01/free-software-usability</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/linux">linux</a> <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/ubuntu">ubuntu</a> <a href="http://delicious.com/oiva/ux">ux</a>)</div></li>
-</ul></p>
+</ul>

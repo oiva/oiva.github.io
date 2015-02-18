@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://www.techcrunch.com/2008/08/11/liveplace-to-launch-photo-realistic-virtual-world-rendered-in-the-cloud/">LivePlace To Launch Photo-Realistic Virtual World Rendered In The Cloud</a></div></p>
 <div class="delicious-extended">Hieno demo 3D-maailmasta, joka render&ouml;id&auml;&auml;n palvelinp&auml;&auml;ss&auml;.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/3d">3d</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

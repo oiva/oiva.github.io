@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://www.asual.com/swfaddress/">SWFAddress - Deep linking for Flash and Ajax</a></div></p>
 <div class="delicious-extended">SWFAddress is a small, but powerful library that provides deep linking for Flash and Ajax. It&#039;s a developer tool, allowing creation of unique virtual URLs that can point to a website section or an application state.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/flash">flash</a> <a href="http://delicious.com/oiva/seo">seo</a> <a href="http://delicious.com/oiva/webdev">webdev</a> <a href="http://delicious.com/oiva/ajax">ajax</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

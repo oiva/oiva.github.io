@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://www.minimalsites.com/">minimalsites | minimal design css gallery</a></div></p>
 <div class="delicious-extended">V&auml;hemm&auml;n on enemm&auml;n? Inspiraation l&auml;hteeksi.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/minimal">minimal</a> <a href="http://delicious.com/oiva/web">web</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

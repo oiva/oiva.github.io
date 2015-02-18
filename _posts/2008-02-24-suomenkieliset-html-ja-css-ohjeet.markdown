@@ -69,4 +69,4 @@ comments:
 <ul>
 <li><a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/">Friendly Bit: Beginner&rsquo;s guide to CSS</a>. Lis&auml;ksi my&ouml;s standardeista ja hyvist&auml; k&auml;yt&auml;nn&ouml;ist&auml;.</li>
 <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a> avasi aikoinaan ainakin omia silmi&auml;ni sille, mit&auml; kaikkea CSS:ll&auml; voi tehd&auml; (koskematta sivun sis&auml;lt&ouml;&ouml;n).</li>
-</ul></p>
+</ul>

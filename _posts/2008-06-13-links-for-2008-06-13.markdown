@@ -25,4 +25,4 @@ comments: []
 <div class="delicious-extended">Tunnetut valokuvat Lego-versioina. Parhautta.</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/lego">lego</a> <a href="http://del.icio.us/oiva/photography">photography</a> <a href="http://del.icio.us/oiva/flickr">flickr</a> <a href="http://del.icio.us/oiva/humor">humor</a>)</div><br />
 	</li>
-</ul></p>
+</ul>

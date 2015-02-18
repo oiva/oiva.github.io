@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://meyerweb.com/eric/thoughts/2008/10/22/javascript-will-save-us-all/">JavaScript Will Save Us All</a></div></p>
 <div class="delicious-extended">Miksi odottaa vuosia CSS3-tukea selaimilta, kun osan uusista CSS-m&auml;&auml;rittelyist&auml; voisi toteuttaa lennossa JavaScriptill&auml;? Samaa voisi soveltaa my&ouml;s HTML5:n muuntamiseksi HTML4:ksi. Villi idea, jolle l&ouml;ytyy varmasti my&ouml;s vastalauseita.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/javascript">javascript</a> <a href="http://delicious.com/oiva/jquery">jquery</a> <a href="http://delicious.com/oiva/css3">css3</a> <a href="http://delicious.com/oiva/webdev">webdev</a> <a href="http://delicious.com/oiva/html">html</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

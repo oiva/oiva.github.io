@@ -30,4 +30,4 @@ comments:
 <li>
 <div class="delicious-link"><a href="http://www.alaruokilamaa.com/testi/">&Auml;l&auml; ruoki lamaa</a></div></p>
 <div class="delicious-extended">Tee testi ja katso, mit&auml; vaikutuksia on sill&auml;, jos kaikki s&auml;&auml;st&auml;isiv&auml;t yht&auml; paljon kuin sin&auml;.</div></p>
-<p>            </li></ul></p>
+<p>            </li></ul>

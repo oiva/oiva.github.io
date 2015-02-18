@@ -26,4 +26,4 @@ comments: []
 <p>"It is the designer&rsquo;s duty to make clear to managers that users do not care"</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/html">html</a> <a href="http://del.icio.us/oiva/usability">usability</a> <a href="http://del.icio.us/oiva/webdesign">webdesign</a>)</div><br />
 	</li>
-</ul></p>
+</ul>

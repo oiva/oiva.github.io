@@ -23,4 +23,4 @@ tags:
 - sierra leone
 comments: []
 ---
-<p><img class="alignnone size-full wp-image-579" title="Nivea Face Wash, YTV: Ajattele poikittain, Sierra Leone, Gillette series" src="http://www.bobs.fi/oiva/wp-content/uploads/2009/03/ajattele_poikittain.png" alt="ajattele poikittain" width="365" height="217" /></p>
+<p><img class="alignnone size-full wp-image-579" title="Nivea Face Wash, YTV: Ajattele poikittain, Sierra Leone, Gillette series" src="{{ site.baseurl }}/images/2009/03/ajattele_poikittain.png" alt="ajattele poikittain" width="365" height="217" /></p>

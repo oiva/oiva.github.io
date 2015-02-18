@@ -29,4 +29,4 @@ comments: []
 <div class="delicious-link"><a href="https://addons.mozilla.org/en-US/firefox/addon/9505">Obtrusive JavaScript Checker :: Firefox Add-ons</a></div></p>
 <div class="delicious-extended">Obtrusive JavaScript Checker helps in finding HTML elements with inline events and javascript: links, display more information about them and a summary report of all items found in the current web page.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/javascript">javascript</a> <a href="http://delicious.com/oiva/accessibility">accessibility</a> <a href="http://delicious.com/oiva/firefox">firefox</a> <a href="http://delicious.com/oiva/webdev">webdev</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

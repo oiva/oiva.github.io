@@ -24,4 +24,4 @@ comments: []
 <div class="delicious-link"><a href="http://particletree.com/notebook/the-4-12-day-workweek/">Particletree &raquo; The 4&nbsp;1/2 Day Workweek</a></div></p>
 <div class="delicious-extended">Nelj&auml;n p&auml;iv&auml;n ty&ouml;viikko ei t&auml;ysin toiminut Wufoolla, joten tuloksena oli 4,5 ty&ouml;p&auml;iv&auml;n viikko.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/productivity">productivity</a> <a href="http://delicious.com/oiva/work">work</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

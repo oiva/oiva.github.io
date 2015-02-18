@@ -30,4 +30,4 @@ comments: []
 <div class="delicious-link"><a href="http://dev.opera.com/articles/view/mama/">MAMA - Opera Developer Community</a></div></p>
 <div class="delicious-extended">Enter MAMA&mdash;the "Metadata Analysis and Mining Application". MAMA is a structural Web-page search engine&mdash;it trawls Web pages and returns results detailing page structures, including what HTML, CSS, and script is used on it, as well as whether the HTML validates.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webstandards">webstandards</a> <a href="http://delicious.com/oiva/html">html</a> <a href="http://delicious.com/oiva/css">css</a> <a href="http://delicious.com/oiva/opera">opera</a>)</div><br />
-            </li></ul></p>
+            </li></ul>

@@ -28,4 +28,4 @@ comments:
   content: Keep up the good work.
 ---
 <p>Ker&auml;sin aikaisemmin yhteen muutamia <a href="http://www.bobs.fi/oiva/2008/02/24/suomenkieliset-html-ja-css-ohjeet/">suomenkielisi&auml; HTML ja CSS -ohjeita</a>. Englannintaitoisille voin kuitenkin suositella <a href="http://veerle.duoh.com/blog/comments/starting_with_css_and_bug_fixing_tips/">Veerlen listaa oppaista</a>.  Mukana on perustelut web-standardien k&auml;yt&ouml;lle ja linkit HTML ja CSS -tutoriaaleihin, sek&auml; muutama keino bugien etsimiseen.</p>
-<p><a href="http://www.bobs.fi/oiva/wp-content/uploads/2008/05/615962_230019631.jpg"><img class="aligncenter size-full wp-image-82" title="615962_230019631" src="http://www.bobs.fi/oiva/wp-content/uploads/2008/05/615962_230019631.jpg" alt="" width="420" height="280" /></a></p>
+<p><a href="{{ site.baseurl }}/images/2008/05/615962_230019631.jpg"><img class="aligncenter size-full wp-image-82" title="615962_230019631" src="{{ site.baseurl }}/images/2008/05/615962_230019631.jpg" alt="" width="420" height="280" /></a></p>
