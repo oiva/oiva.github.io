@@ -3,7 +3,7 @@
   <channel>
     <title>Back to Work</title>
     <link>http://5by5.tv/b2w</link>
-    <pubDate>Tue, 10 Feb 2015 19:45:00 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2015 00:45:00 GMT</pubDate>
     <description>Back to Work is an award winning talk show with Merlin Mann and Dan Benjamin discussing productivity, communication, work, barriers, constraints, tools, and more. Hosted by Merlin Mann &amp; Dan Benjamin.</description>
     <language>en-us</language>
     <itunes:new-feed-url>http://feeds.5by5.tv/b2w</itunes:new-feed-url>
@@ -21,6 +21,46 @@
       <itunes:category text="Software How-To"/>
       <itunes:category text="Tech News"/>
     </itunes:category>
+    <item>
+      <title>208: Don't Touch Daddy</title>
+      <link>http://5by5.tv/b2w/208</link>
+      <guid>http://5by5.tv/b2w/208</guid>
+      <pubDate>Wed, 18 Feb 2015 00:45:00 GMT</pubDate>
+      <author>Merlin Mann &amp; Dan Benjamin</author>
+      <description>TOPIC: Illness, Late Night TV, AI in the home, and Talking Baby Dolls
+
+This week, Merlin battles the flu to talk with Dan about late night television, binge watching, talking baby dolls, and the kind of artificial intelligence we really need.
+</description>
+      <enclosure url="http://fdlyr.co/d/b2w/cdn.5by5.tv/audio/broadcasts/b2w/2015/b2w-208.mp3" length="45424002" type="audio/mpeg"/>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;TOPIC&lt;/strong&gt;: Illness, Late Night TV, AI in the home, and Talking Baby Dolls&lt;/p&gt;
+
+&lt;p&gt;This week, Merlin battles the flu to talk with Dan about late night television, binge watching, talking baby dolls, and the kind of artificial intelligence we really need.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.imdb.com/title/tt2159673/" class="link" target="_blank"&gt;&amp;quot;Portlandia&amp;quot; One Moore Episode (TV Episode 2012) - IMDb&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Arsenio_Hall_Show" class="link" target="_blank"&gt;The Arsenio Hall Show - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/b2w/3" class="link" target="_blank"&gt;5by5 | Back to Work #3: The Second Arrow&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Theanine" class="link" target="_blank"&gt;Theanine - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.drugs.com/adderall.html" class="link" target="_blank"&gt;Adderall: Uses, Dosage, Side Effects &amp;amp; Safety Info - Drugs.com&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B008EG7KSM/5by5-20" class="link" target="_blank"&gt;Amazon.com: Baby Wanna Walk: Toys &amp;amp; Games&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://techcrunch.com/2015/02/17/oral-b-pro-7000-smartseries-with-bluetooth-review/#tmhmdj:Ayp" class="link" target="_blank"&gt;Oral-B’s Bluetooth Toothbrush Offers App Features It Doesn’t Necessarily Need | TechCrunch&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://squarespace.com/backtowork"&gt;Squarespace&lt;/a&gt; (use code ITSYOURSHOW for a free trial and 10% off) and &lt;a href="http://lynda.com/backtowork"&gt;lynda&lt;/a&gt; (Visit the link and do something good for yourself in 2015, sign up for a FREE 10-day trial).&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Merlin Mann &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:33:51</itunes:duration>
+      <itunes:subtitle>**TOPIC**: Illness, Late Night TV, AI in the home, and Talking Baby Dolls</itunes:subtitle>
+      <itunes:summary>TOPIC: Illness, Late Night TV, AI in the home, and Talking Baby Dolls
+
+This week, Merlin battles the flu to talk with Dan about late night television, binge watching, talking baby dolls, and the kind of artificial intelligence we really need.
+</itunes:summary>
+      <itunes:keywords>productivity, communication, work, barriers, constraints, creativity, Dan Benjamin, Merlin Mann</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/19/cover.jpg"/>
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fb2w%2F208&amp;user_id=danbenjamin"/>
+    </item>
     <item>
       <title>207: Vampires in the Wallpaper</title>
       <link>http://5by5.tv/b2w/207</link>
