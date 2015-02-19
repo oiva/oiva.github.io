@@ -49,7 +49,7 @@ comments: []
 <p><strong>Molemmat ovat todenneet, ettei nykyinen nettiselain ole kiveen hakattu, ja ett&auml; k&auml;ytt&auml;jien tarpeet ovat muuttuneet muutaman viime vuoden aikana huomattavasti.</strong></p>
 <p>Google on l&auml;hestynyt ongelmaa suunnittelemalla oman selaimensa, Google Chromen. Mozilla Labsilla taas on k&auml;ynniss&auml; pieni&auml; projekteja Firefoxin parantamiseksi, mutta my&ouml;s kauas tulevaisuuteen ulottuvia suunnitelmia.</p>
 <h3>Google Chrome</h3>
-<img class="size-medium wp-image-178 alignleft" style="margin-right: 10px;" title="google chrome logo" src="{{ site.baseurl }}/images/2008/09/googlechromelogo.png" alt="" width="196" height="187" />Chrome on <a title="Wikipedia: WebKit (eng.)" href="http://en.wikipedia.org/wiki/Webkit">WebKitin</a> p&auml;&auml;lle rakennettu avoimen l&auml;hdekoodin selain, jonka suunnittelu on aloitettu tyhj&auml;lt&auml; p&ouml;yd&auml;lt&auml;. Suunnittelussa on otettu huomioon mm. se, ett&auml; yh&auml; useampi palvelu on JavaScript-applikaatio.</p>
+<p><img class="size-medium wp-image-178 alignleft" style="margin-right: 10px;" title="google chrome logo" src="{{ site.baseurl }}/images/2008/09/googlechromelogo.png" alt="" width="196" height="187" />Chrome on <a title="Wikipedia: WebKit (eng.)" href="http://en.wikipedia.org/wiki/Webkit">WebKitin</a> p&auml;&auml;lle rakennettu avoimen l&auml;hdekoodin selain, jonka suunnittelu on aloitettu tyhj&auml;lt&auml; p&ouml;yd&auml;lt&auml;. Suunnittelussa on otettu huomioon mm. se, ett&auml; yh&auml; useampi palvelu on JavaScript-applikaatio.</p>
 <p>Nopeuden lis&auml;ksi selaimessa on panostettu vakauteen ja turvallisuuteen. K&auml;ytt&ouml;liittym&auml; on kuitenkin pyritty pit&auml;m&auml;&auml;n mahdollisimman selke&auml;n&auml;.</p>
 <ul>
 <li><a href="http://www.google.com/chrome/intl/en/features.html">Google: Google Chrome</a>: beta-versio ladattavissa</li>
@@ -57,7 +57,7 @@ comments: []
 <li><a href="http://blogoscoped.com/google-chrome/">Google on Google Chrome - comic book</a>: sarjakuva, joka selitt&auml;&auml; Chromen teknisi&auml; toimintaperiaatteita.</li>
 </ul>
 <h3>Mozilla Labs</h3>
-<a title="Mozilla Labs blog" href="http://labs.mozilla.com/blog/">Mozilla Labs</a> on tehnyt urakalla hienoja prototyyppej&auml;, esimerkiksi:</p>
+<p><a title="Mozilla Labs blog" href="http://labs.mozilla.com/blog/">Mozilla Labs</a> on tehnyt urakalla hienoja prototyyppej&auml;, esimerkiksi:</p>
 <ul>
 <li><a title="Mozilla Labs: Introducing Ubiquity" href="http://labs.mozilla.com/2008/08/introducing-ubiquity/">Ubiquity</a>: selaimen k&auml;skytt&auml;minen luonnollisella kielell&auml; ja yleisten teht&auml;vien helpottaminen (esim. kartan liitt&auml;minen s&auml;hk&ouml;postiin)</li>
 <li><a title="Mozilla Labs: New Tab Concepts" href="http://labs.mozilla.com/2008/08/new-tab-concepts/">New tab concepts</a>: miten uuden tabin avaamista voisi hy&ouml;dynt&auml;&auml;?</li>

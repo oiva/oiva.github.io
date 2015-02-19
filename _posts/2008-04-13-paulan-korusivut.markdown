@@ -60,7 +60,7 @@ $sivu->display("index.tpl");
 index.tpl:
 <code>
 &lt;ul id="navigaatio"&gt;
-  {foreach from=$navigaatio item=navi}&lt;/p&gt;
+  {foreach from=$navigaatio item=navi}
     &lt;li&gt;&lt;a href="{$navi.href}"&gt;{$navi.name}&lt;/a&gt;&lt;/li&gt;
   {/foreach}
 &lt;/ul&gt;

@@ -162,7 +162,7 @@ comments:
 <li>MasterCard</li>
 <li>MasterCard Debit</li>
 </ul>
-<strong>M</strong><strong>it&auml; pit&auml;&auml; tehd&auml;, jos haluaa maksaa pankkikortilla?</strong></p>
+<p><strong>M</strong><strong>it&auml; pit&auml;&auml; tehd&auml;, jos haluaa maksaa pankkikortilla?</strong></p>
 <p>MasterCard on alkanut kutsua kortin luotto- ja pankkipuolta <em>creditiksi</em> ja <em>debitiksi</em>. Minulla n&auml;iden termien merkitys ei ole viel&auml; ihan selk&auml;rangassa, vaikka creditin voi toki p&auml;&auml;tell&auml; tarkoittavan luottoa. Debitin merkityst&auml; on vaikeampi keksi&auml;, ellei asiaa ole joskus opiskellut. (<a title="Wikipedia: debits and credits" href="http://en.wikipedia.org/wiki/Debit">Debitin ja creditin</a> m&auml;&auml;rittelyt Wikipediassa englanniksi &ndash; ei helpoimmasta p&auml;&auml;st&auml; t&auml;m&auml;k&auml;&auml;n.)</p>
 <p>P&auml;&auml;telt&auml;viss&auml; tai ei, kaikki maksamiseen liittyv&auml; arvailu ja pohdinta on vain v&auml;&auml;rin. Maksup&auml;&auml;tteet ovat jo itsess&auml;&auml;n tarpeeksi kauheita. Hommaa ei tarvitsisi en&auml;&auml; hankaloittaa maksukorttien taholta.</p>
 <p>My&ouml;s S-Etukortit ovat l&auml;hteneet samalla linjalle. Valittavana on joko:</p>
@@ -172,12 +172,12 @@ comments:
 <li>S-Etukortti Visa Debit</li>
 <li>S-Etukortti Debit</li>
 </ul>
-(Katso <a title="S-Pankki: vertaa kortteja" href="http://www.s-pankki.fi/kortit_luotot/kortit/fi_FI/vertaa/">korttien vertailu</a> jos niiden k&auml;ytt&ouml;tarkoitus ei auennut nimest&auml;.)</p>
+<p>(Katso <a title="S-Pankki: vertaa kortteja" href="http://www.s-pankki.fi/kortit_luotot/kortit/fi_FI/vertaa/">korttien vertailu</a> jos niiden k&auml;ytt&ouml;tarkoitus ei auennut nimest&auml;.)</p>
 <p>Riskeeraan nyt ja yleist&auml;n, mutta en usko ett&auml; termit credit ja debit ovat tarpeeksi selvi&auml; suurelle yleis&ouml;lle. K&auml;ytett&auml;vyystermein ilmaistuna t&auml;ss&auml; rikotaan nyt Nielsenin sit&auml; <a title="Ten Usability Heuristics" href="http://www.useit.com/papers/heuristic/heuristic_list.html">heuristiikkaa</a>, joka sanoo:</p>
-<blockquote><p>The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.</blockquote><br />
+<blockquote><p>The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.</p></blockquote>
 <p>Pankin ja kaupan alalla n&auml;m&auml; termit ovat tietenkin varsin yleisi&auml; ja selkeit&auml;, mutta nyt kyseess&auml; on my&ouml;s loppuk&auml;ytt&auml;j&auml;. Se kaveri, jonka pit&auml;isi luopua rahoistaan ja tuntea siit&auml; tyytyv&auml;isyytt&auml;, jotta tekisi saman tulevaisuudessa uudestaan ja uudestaan.</p>
 <p>[Osittain t&auml;h&auml;n asiaan liittyen tytt&ouml;yst&auml;v&auml;ni ehdotti, ett&auml; perustaisin <em>k&auml;ytett&auml;vyyspoliisiblogin.</em> Sellaisen, jossa voisin puuttua joka puolella rehottavaan huonoon k&auml;ytett&auml;vyyteen. Idea on hyv&auml;, mutta asiassa on yksi ongelma. Pelkk&auml; subjektiivinen mielipide ei viel&auml; takaa, ett&auml; jonkin asian k&auml;ytett&auml;vyys olisi huono.</p>
 <p>Se miten oikeat loppuk&auml;ytt&auml;j&auml;t toimivat <span style="text-decoration: line-through;">voi olla</span> on yleens&auml; jotain ihan muuta. Uudet maksukortitkin voivat olla helppo juttu <em>kaikille muille. </em>Pelkk&auml; virheiden osoittaminen ei siten ole kovinkaan oikeutettua. Ja parannusehdotusten esitt&auml;minen on aina kovin ty&ouml;l&auml;st&auml;. ;-) Tietty kiusaus tuollaisen blogin perustamiseksi on silti olemassa.]</p>
 <div style="margin-left: -20px">
-<script type="text/javascript" src="http://impfi.tradedoubler.com/imp?g(19173450)a(1897618)" charset=""></script><br />
-</div></p>
+<script type="text/javascript" src="http://impfi.tradedoubler.com/imp?g(19173450)a(1897618)" charset=""></script>
+</div>

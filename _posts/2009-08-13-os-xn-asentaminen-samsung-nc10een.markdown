@@ -93,7 +93,7 @@ comments:
 <p>Trackpad-asetusten saaminen system preferenceihin on neuvottu Stuartin <a title="Trackpad PreferencePane fix" href="http://blog.stuart.shelton.me/archives/256#comment-7614">kommentissa</a> asennusohjeiden lopussa.</p>
 <p>Trackpad on hiukan erimuotoinen kuin oikeissa maceissa, mink&auml; takia kursorin kiihtyvyys yl&ouml;s ja alas on liian suuri. T&auml;h&auml;n on olemassa jokin komentorivikomento jolla asian saa korjattua, mutta en l&ouml;yt&auml;nyt sit&auml; uudestaan. (Muista bookmarkata kaikki ohjeet...)</p>
 <h3>&Auml;&auml;nen ulostulon valinta</h3>
-<a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap"><img class="alignleft size-full wp-image-669" title="Audiee Menu" src="{{ site.baseurl }}/images/2009/08/audieee_menu1.jpg" alt="Audiee Menu" width="245" height="169" /></a></p>
+<p><a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap"><img class="alignleft size-full wp-image-669" title="Audiee Menu" src="{{ site.baseurl }}/images/2009/08/audieee_menu1.jpg" alt="Audiee Menu" width="245" height="169" /></a></p>
 <p>Lataa <a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap">Audiee -apuohjelma t&auml;&auml;lt&auml;</a>.</p>
 <h3>Linkkej&auml;</h3>
 <ul>

@@ -22,5 +22,5 @@ tags:
 - Macworld
 comments: []
 ---
-<p>[youtube:http://www.youtube.com/watch?v=Yz1-cPx0cIk]<br />
-(via: <a href="http://www.visakopu.net/linko/">Linko</a>, <a href="http://erkka.vuodatus.net/blog/1057762">Erkka</a>)</p>
+<p>[youtube:http://www.youtube.com/watch?v=Yz1-cPx0cIk]</p>
+<p>(via: <a href="http://www.visakopu.net/linko/">Linko</a>, <a href="http://erkka.vuodatus.net/blog/1057762">Erkka</a>)</p>

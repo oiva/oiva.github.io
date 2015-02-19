@@ -27,12 +27,11 @@ comments: []
 <div class="vcard">
 <ul>
 <li class="email"><a href="mailto:oiva.eskola@gmail.com">oiva.eskola@gmail.com</a></li>
+<li><div class="adr"><span class="street-address">H&ouml;sm&auml;rinkuja 1 J</span><br />
+  <span class="postal-code">02760</span> <span class="locality">Espoo</span></div></li></p>
 <li>
-<div class="adr"><span class="street-address">H&ouml;sm&auml;rinkuja 1 J</span><br />
-<span class="postal-code">02760</span> <span class="locality">Espoo</span></div></li></p>
-<li>
-<div class="tel">+35840 773 9493</div></li></p>
+<div class="tel">+35840 773 9493</div></li>
 <li><span class="fn nickname">bobs</span> @ IRCnet</li>
-</ul><br />
-</div><br />
-<a title="Oivan profiili Linked in -palvelussa" href="http://www.linkedin.com/pub/3/839/6b8"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.gif" alt="View Oiva Eskola's profile on LinkedIn" width="160" height="25" border="0" /></a></p>
+</ul>
+</div>
+<p><a title="Oivan profiili Linked in -palvelussa" href="http://www.linkedin.com/pub/3/839/6b8"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.gif" alt="View Oiva Eskola's profile on LinkedIn" width="160" height="25" border="0" /></a></p>

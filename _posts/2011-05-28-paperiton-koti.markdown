@@ -31,10 +31,10 @@ comments: []
 <p>Jostain syyst&auml; p&auml;&auml;dyn s&auml;il&ouml;m&auml;&auml;n suurimman osan saaduista kirjeist&auml;, ja joskus ihan syyst&auml;kin: muutaman vuoden takaisia verotustietoja ja palkkakuitteja on tullut tarvittua.</p>
 <p>Vaikka paperiarkistoni on suhteellisen selke&auml;sti kategorisoitu, on oikean laskun tai takuukuitin l&ouml;yt&auml;minen silti vaikeaa. Lis&auml;ksi papereita alkaa olla siin&auml; m&auml;&auml;rin paljon, ett&auml; ne pit&auml;isi k&auml;yd&auml; l&auml;pi ja heitt&auml;&auml; vanhimmat pois, jotta uusille olisi tilaa. Mit&auml; asialle voi tehd&auml;?</p>
 <h2>Netposti</h2>
-Ensimm&auml;inen vaihe on kotiin tulevan paperin v&auml;hent&auml;minen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a><br />
-<script type="text/javascript">// < ![CDATA[<br />
-var uri = 'http://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);<br />
-document.write('<img src="'+uri +'"/>');<br />
+<p>Ensimm&auml;inen vaihe on kotiin tulevan paperin v&auml;hent&auml;minen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a>
+<script type="text/javascript">// < ![CDATA[
+var uri = 'http://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);
+document.write('<img src="'+uri +'"/>');
 // ]]></script>voi k&auml;&auml;nt&auml;&auml; osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) l&auml;hett&auml;m&auml;t kirjeet.</p>
 <p>Netpostissa on lista l&auml;hett&auml;jist&auml;, joista voi valita keiden postit haluaa saada s&auml;hk&ouml;isesti. Kirjeet eiv&auml;t tule s&auml;hk&ouml;postiin, mutta niist&auml; saa halutessaan s&auml;hk&ouml;posti-ilmoituksen. Kirjeet voi ladata Netpostista PDF:in&auml; omalle koneelleen.</p>
 <p>Kirjeiden luokittelu Netpostissa on valitettavasti melko kankeaa. Valmiita luokkia kirjeille on kuusi, ja jotkut kirjeet on valmiiksi luokiteltu niihin (esimerkiksi Luottokunnalta tulevat kirjeet on merkitty laskuiksi.). Luokittelua ei voi tiet&auml;&auml;kseni automatisoida l&auml;hett&auml;j&auml;n mukaan, vaan uudet palkkalaskelmat pit&auml;&auml; joka kerta merkit&auml; palkkalaskelmiksi jos haluaa k&auml;ytt&auml;&auml; luokittelua kirjeiden etsimiseen my&ouml;hemmin.</p>

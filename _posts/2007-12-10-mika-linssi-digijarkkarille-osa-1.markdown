@@ -39,4 +39,4 @@ comments:
 <li>Lyhyen polttov&auml;lin linssi, esimerkiksi 10-20mm</li>
 <li>Tuhannen dollarin hipolinssit...</li>
 </ol>
-50mm kiinte&auml; linssi on monelle houkutteleva, sill&auml; se on valovoimainen ja niit&auml; saa jo 100&euro; hintaan. Mutta jos pit&auml;isi valita vain yksi linssi? Sit&auml; voin pohtia loputtomiin.</p>
+<p>50mm kiinte&auml; linssi on monelle houkutteleva, sill&auml; se on valovoimainen ja niit&auml; saa jo 100&euro; hintaan. Mutta jos pit&auml;isi valita vain yksi linssi? Sit&auml; voin pohtia loputtomiin.</p>
