@@ -64,7 +64,7 @@ comments:
 <p>P&auml;ivitin Wordpressin versioon 2.5 ja muokkasin samalla blogin k&auml;ytt&auml;m&auml;&auml; templatea. Ideana oli lis&auml;t&auml; kaikki yhden postin tagit sivun keywords-metatagin sis&auml;&auml;n. Eli esimerkiksi t&auml;m&auml;n sivun html:ss&auml; lukee:</p>
 <p><meta name="keywords" content="HTML, keywords, PHP, seo, tags, wordpress" /></p>
 <p>En tied&auml; miten paljon hakukoneet katsovat sivujen avainsanoja, mutta tuskin siit&auml; haittaakaan on.</p>
-<a id="more"></a><a id="more-40"></a><br />
+<a id="more"></a><a id="more-40"></a>
 <p>Homma onnistu seuraavalla, kohtuullisen rumalla koodinp&auml;tk&auml;ll&auml;, jonka kirjoitin teeman hakemistosta l&ouml;ytyv&auml;&auml;n header.php:n  (t&auml;ss&auml; wp-content/themes/neoclassical/header.php)</p>
 <pre><code>&lt;meta name="keywords" content="<?php
     if (!is_single()) {

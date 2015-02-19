@@ -73,14 +73,12 @@ index.tpl:
 <h4><a href="http://jquery.com/">jQuery</a></h4>
 <p>jQuery on JavaScript-kirjasto, joka on tarkoitettu helpottamaan JavaScriptin yhdist&auml;mist&auml; HTML:&auml;&auml;n. Perinteisesti HTML-sivun eri elementteihin on JavaScriptiss&auml; viitattu k&auml;ytt&auml;m&auml;ll&auml; <em><a href="http://jacksleight.com/blog/2008/01/14/getelementsby/">getElementBy*</a></em>-funktioita. jQueryss&auml; voi sen sijaan k&auml;ytt&auml;&auml; paljon yksinkertaisempaa koodia eri elementtien hakemiseen. Kirjastossa on paljon erilaisia funktioita animaatioihin ja ajax-juttuihin, joihin en ole viel&auml; tutustunut kunnolla.</p>
 <p>Paulan korusivulla jQuery&auml; k&auml;ytet&auml;&auml;n varjostuksen lis&auml;&auml;miseksi kuville. Kuvat on t&auml;ss&auml; m&auml;&auml;ritelty kattamaan .kuvat-divien sis&auml;ll&auml; olevat <img>-tagit.</p>
-<pre><code>
-$(document).ready(function(){
-	   $('.kuva img').shadow({
-		offset: 5,
-		opacity: 0.11
-	   });
-	});
-</code></pre>
+<pre><code>$(document).ready(function(){
+  $('.kuva img').shadow({
+    offset: 5,
+    opacity: 0.11
+  });
+});</code></pre>
 <p>Kannattaa huomata, ett&auml; shadow-funktio vaatii toimiakseen jQuery-peruspaketin lis&auml;ksi my&ouml;s <em><a href="http://dev.jquery.com/view/trunk/plugins/dimensions/jquery.dimensions.js">jquery.dimensions.js</a></em> ja <em><a href="http://dev.jquery.com/view/trunk/fx/fx.shadow.js">fx.shadow.js</a></em> -tiedostot.</p>
 <p>Varjotukset eiv&auml;t valitettavasti toimi aivan t&auml;ydellisesti. Varjot menev&auml;t IE6:lla rikki ja j&auml;&auml;v&auml;t joskus n&auml;kym&auml;tt&auml; uudemmillakin selaimilla.</p>
 <h4><a href="http://wettone.com/code/clean-urls">mod_rewrite</a></h4>

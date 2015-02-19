@@ -23,7 +23,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://www.smashingmagazine.com/2008/09/11/75-really-useful-javascript-techniques/">75 (Really) Useful JavaScript Techniques</a></div></p>
-<div class="delicious-extended">Listapostausi l&auml;htenyt lapasesta. JParallax on kyll&auml; siisti, pit&auml;&auml; en&auml;&auml; keksi&auml; miss&auml; sit&auml; voisi k&auml;ytt&auml;&auml;.</div></p>
+<div class="delicious-extended">Listapostaus l&auml;htenyt lapasesta. JParallax on kyll&auml; siisti, pit&auml;&auml; en&auml;&auml; keksi&auml; miss&auml; sit&auml; voisi k&auml;ytt&auml;&auml;.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/javascript">javascript</a> <a href="http://delicious.com/oiva/webdev">webdev</a>)</div></li>
 <li>
 <div class="delicious-link"><a href="http://www.hs.fi/ulkomaat/artikkeli/Testiryhm%C3%A4+hakkeroi+%C3%A4%C3%A4nestyslaitteet+USAssa/1135239363877">Testiryhm&auml; hakkeroi &auml;&auml;nestyslaitteet USA:ssa</a></div></p>

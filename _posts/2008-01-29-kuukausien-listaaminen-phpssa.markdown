@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p>Note to self-osastoa: Miten listataan kuukausien nimet suomeksi PHP:ss&auml;.</p>
-<pre><code>setlocale(LC_ALL, 'fi_FI');</p>
-<p>for ($i=1; $i<=12; $i++)<br />
+<pre><code>setlocale(LC_ALL, 'fi_FI');
+for ($i=1; $i<=12; $i++)
     echo strftime('%B', mktime(0, 0, 0, $i, 1, 0));</code></pre>
-<a href="http://fi2.php.net/strftime">strftime-referenssi</a></p>
+<p><a href="http://fi2.php.net/strftime">strftime-referenssi</a></p>

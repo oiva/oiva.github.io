@@ -26,7 +26,7 @@ comments: []
 <div>
 <div>
 <p><a title="HS.fi: Viranomainen: Kuluttajan on vain totuttava debit- ja credit-termeihin" href="http://www.hs.fi/talous/artikkeli/Viranomainen+Kuluttajan+on+vain+totuttava+debit-+ja+credit-termeihin/1135250122418" target="_blank">Hesarissa t&auml;n&auml;&auml;n</a>, vuonna 2009:</p>
-<blockquote><p>Kuluttajaviranomainen ei voi eik&auml; halua puuttua siihen,  ett&auml; suomalaiset joutuvat totuttelemaan &ldquo;pankki- ja luottokorttien&rdquo;  sijasta &ldquo;debit- ja credit-kortteihin&rdquo;.</blockquote><br />
+<blockquote><p>Kuluttajaviranomainen ei voi eik&auml; halua puuttua siihen,  ett&auml; suomalaiset joutuvat totuttelemaan &ldquo;pankki- ja luottokorttien&rdquo;  sijasta &ldquo;debit- ja credit-kortteihin&rdquo;.</p></blockquote>
 <p>Eniten ehk&auml; &auml;rsytt&auml;&auml; se, ett&auml; mit&auml;&auml;n teknist&auml; ongelmaa pankki- tai  luottokortti-termin k&auml;ytt&auml;miselle ei ole. Pankit ovat p&auml;&auml;tt&auml;neet k&auml;ytt&auml;&auml;  uusia termej&auml;, ja asiakkaat opetelkoot v&auml;h&auml;n englantia.</p>
 <p>Kuten <a title="Gurumarkkinointi: Ep&auml;vireist&auml; arvohumppaa" href="http://gurumarkkinointi.fi/2009/10/19/epavireista-arvohumppaa/" target="_blank">Jari Parantainen toteaa</a>, on pankkien viesti hieman ristiriidassa niiden arvojen kanssa.</p>
 <p>Kertauksen vuoksi:</p>
@@ -34,7 +34,3 @@ comments: []
 <li>Debit = pankkikortti</li>
 <li>Credit = luottokortti</li>
 </ul>
-</div><br />
-</div><br />
-</div><br />
-</div></p>

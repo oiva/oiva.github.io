@@ -36,10 +36,10 @@ comments:
 ---
 <p>Monet webbisivut noudattavat pohjimmiltaan samaa rakennetta. Ylh&auml;&auml;ll&auml; on otsake, sis&auml;lt&ouml; on jaettu sarakkeisiin ja alhaalla saattaa olla alatunniste. Tuleva <a href="http://www.alistapart.com/articles/previewofhtml5">HTML5-standardi</a> ottaa t&auml;m&auml;n huomioon ja tarjoaa mm. erilliset <em>header, nav, article</em> ja <em>aside</em>-tagit. N&auml;iden avulla sivun <em>sis&auml;ll&ouml;n</em> voi jaotella loogisesti.</p>
 <p>Asiaan l&ouml;yh&auml;sti liittyen, <a href="http://www.alistapart.com/articles/css3multicolumn/">CSS3</a> tarjoaa tulevaisuudessa my&ouml;s oman ratkaisunsa siihen, miten teksti voidaan jakaa sarakkeisiin:</p>
-<pre><code>DIV {<br />
-    column-count: 2;<br />
-    column-width: 12em;<br />
-    column-gap: 1em;<br />
+<pre><code>DIV {
+    column-count: 2;
+    column-width: 12em;
+    column-gap: 1em;
 }</code></pre>
 <p>T&auml;m&auml; m&auml;&auml;rittely esimerkiksi jakaisi DIV-elementin kahteen 12em leve&auml;&auml;n sarakkeeseen, joiden v&auml;liin j&auml;&auml; 1em:n rako. (Lis&auml;&auml; aiheesta W3C:n luonnostelmassa: <a href="http://www.w3.org/TR/css3-multicol/">CSS3 multi-column layout</a>). Standardeja ty&ouml;st&auml;v&auml; W3C on kuitenkin tunnettu hitaudestaan, joten molempia uudistuksia saadaan odottaa viel&auml;.</p>
 <h3>Yahoo UI Grids CSS</h3>

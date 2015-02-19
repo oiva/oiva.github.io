@@ -41,8 +41,8 @@ comments:
     siit&auml;, ettei sit&auml; tule niin paljoa edes k&auml;ytetty&auml;..."
 ---
 <p>Aki Bj&ouml;rklund <a href="http://twitter.com/akibjorklund/status/1696226860">tweettasi</a>:</p>
-<blockquote><p><span class="status-body"><span class="entry-content">Should have started to blog in English. Cannot understand why am I still doing it in Finnish. My English is bad, yes, but not *that* bad.</span></span></blockquote><br />
-<span class="status-body"><span class="entry-content">Niinp&auml;, miksi kirjoittaa suomenkielist&auml; blogia? Englanninkielisiin blogeihin verrattuna potentiaalista yleis&ouml;&auml; on todella v&auml;h&auml;n. Piirit ovat pienet ja suurta menestyst&auml; on turha odottaa :)<br />
+<blockquote><p><span class="status-body"><span class="entry-content">Should have started to blog in English. Cannot understand why am I still doing it in Finnish. My English is bad, yes, but not *that* bad.</span></span></p></blockquote>
+<p><span class="status-body"><span class="entry-content">Niinp&auml;, miksi kirjoittaa suomenkielist&auml; blogia? Englanninkielisiin blogeihin verrattuna potentiaalista yleis&ouml;&auml; on todella v&auml;h&auml;n. Piirit ovat pienet ja suurta menestyst&auml; on turha odottaa :)
 </span></span></p>
 <p><span class="status-body"><span class="entry-content">Taisin ajatella aikoinaan, ett&auml; ihmisill&auml; pit&auml;&auml; olla oikeus lukea heit&auml; kiinnostavista asioista omalla &auml;idinkielell&auml;&auml;n. T&auml;m&auml; on ihan hyv&auml; pointti, ainakin jos puhutaan Wikipediasta. Pienen tietotekniikkaa k&auml;sittelev&auml;n blogin kohdalla en ole en&auml;&auml; niin varma.</span></span></p>
 <p><span class="status-body"><span class="entry-content">Fakta on, ett&auml; tietotekniikan parissa toimivat ihmiset kuluttavat todella paljon englanninkielist&auml; sis&auml;lt&ouml;&auml;. Ja sis&auml;lt&ouml;&auml; my&ouml;s tuotetaan englanniksi. Esimerkiksi suurin osa suomalaisista Twitter-tutuista tuntuu kirjoittavan englanniksi, ja homma tuntuu luontevalta.</span></span></p>

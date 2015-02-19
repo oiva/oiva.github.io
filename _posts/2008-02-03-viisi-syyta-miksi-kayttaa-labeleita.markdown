@@ -76,6 +76,6 @@ comments:
 <li>Checkboxien klikkaaminen hiirell&auml; on rasittavaa. <a href="http://en.wikipedia.org/wiki/Fitts'_law">Fittsin lain</a> mukaan kohteen osoittamiseen kuluva aika on k&auml;&auml;nt&auml;en verrannollinen sen kokoon. Pienten checkboxien klikkaaminen on siksi hidasta ja vaatii k&auml;ytt&auml;j&auml;lt&auml; ylim&auml;&auml;r&auml;ist&auml; keskittymist&auml;.</li>
 <li>Checkboxien klikkaaminen <em>mobiiliselaimilla</em> on <em>todella</em> rasittavaa. Klikattavan kohteen pienen koon lis&auml;ksi osoitin on huomattavan ep&auml;tarkka (Nokian puhelimista l&ouml;ytyv&auml; "hiiri" tai sormi iPodissa).</li>
 <li>Kaksi edellist&auml; kohtaa yhdistettyn&auml; johonkin motoriseen ongelmaan tekee teht&auml;v&auml;st&auml; jo l&auml;hes mahdottoman.</li>
-<li><label>-tagien k&auml;ytt&ouml; on eritt&auml;in helppoa, joten k&auml;ytt&auml;m&auml;tt&ouml;myydelle ei pit&auml;isi olla mit&auml;&auml;n estett&auml;.</li>
+<li>&lt;label&gt;-tagien k&auml;ytt&ouml; on eritt&auml;in helppoa, joten k&auml;ytt&auml;m&auml;tt&ouml;myydelle ei pit&auml;isi olla mit&auml;&auml;n estett&auml;.</li>
 </ul>
 <p>Terveisin nimim. "ketuttaa joka ikinen kerta kun t&ouml;rm&auml;&auml; n&auml;in helppoon virheeseen" :P</p>

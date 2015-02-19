@@ -45,12 +45,3 @@ comments: []
 <p>Kuten mainittua, n&auml;itten lis&auml;ksi eroa on linssien yhteensopivuuden kanssa D200:n eduksi. Kameroiden hintaero on kuitenkin huomattava. Erotuksella hankkii helposti hyv&auml;n linssin tai muita varusteita kameran kaveriksi. Monessa suhteessa D80 on jopa parempi. Pienempi ja kevyempi kamera tulisi luultavasti otettua mukaan useammin.</p>
 <p>T&auml;ll&auml; hetkell&auml; olen siis kallistumassa D80:n puoleen. Micro-Nikkorin voi aina myyd&auml;, vaikka se onkin varsin hauska leikkikalu. Mik&auml;&auml;n ei kuitenkaan ole varmaa, paitsi se, ett&auml; mielipiteeni vaihtuu viel&auml; monta kertaa :)</p>
 <p>Seuraavaksi pit&auml;isikin sitten pohtia mik&auml; linssi olisi paras ostos...</p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-9685291331219807";
-/* blogi kamerat, 468x60, luotu 4.2.2008 */
-google_ad_slot = "1633259639";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>

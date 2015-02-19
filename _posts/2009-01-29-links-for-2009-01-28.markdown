@@ -22,8 +22,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://alistapart.com/articles/elevatewebdesignattheuniversitylevel">A List Apart: Elevate Web Design at the University Level</a></div></p>
-<blockquote>
-<div class="delicious-extended">Let&rsquo;s face it. Technology moves fast; academia doesn&rsquo;t. So how should educators teach web design and development&mdash;subjects that change constantly? How should educators prepare students for real-world expectations? How do educators stay up-to-date? And how do web professionals help educators to create graduates who fit in and actually know what they&rsquo;re doing?</div></blockquote><br />
+<blockquote><div class="delicious-extended">Let&rsquo;s face it. Technology moves fast; academia doesn&rsquo;t. So how should educators teach web design and development&mdash;subjects that change constantly? How should educators prepare students for real-world expectations? How do educators stay up-to-date? And how do web professionals help educators to create graduates who fit in and actually know what they&rsquo;re doing?</div></blockquote>
 <p>Web designin opetus ei suju sen paremmin Suomessakaan. TKK:lla taisi olla yksi(!) kurssi aiheesta, joka sekin oli monin osin vanhentunut. Esimerkiksi hienoon web2.0 RSS-sy&ouml;telukijaamme piti v&auml;kisin liitt&auml;&auml; itse tuotettua sis&auml;lt&ouml;&auml;, vaikka ideana oli koostaa ja suositella sis&auml;lt&ouml;&auml; RSS-sy&ouml;tteist&auml; ;)</p>
 <p>Yrityksill&auml; on vastuu osallistua tulevien tekij&ouml;iden koulutukseen jos ne haluavat saada osaavia tekij&ouml;it&auml;. Yliopisto-opetus laahaa noin viisi vuotta j&auml;ljess&auml;, enk&auml; usko, ett&auml; tilanne tulee muuttumaan ilman alan firmojen osallistumista opetukseen.</p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdesign">webdesign</a>)</div></li>
