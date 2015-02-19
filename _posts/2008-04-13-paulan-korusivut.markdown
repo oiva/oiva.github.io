@@ -49,22 +49,21 @@ comments: []
 <h4><a href="http://www.smarty.net/">Smarty template engine</a></h4>
 <p>Smarty on PHP-paketti, jolla koodi ja ulkoasu voidaan erottaa toisistaan helposti. Koodin puolella kaikki dynaamisesti ker&auml;tt&auml;v&auml; tieto tallennetaan muuttujiin. Sivun n&auml;ytt&auml;miseen k&auml;ytet&auml;&auml;n t&auml;m&auml;n j&auml;lkeen omaa template-tiedostoa, jossa on s&auml;&auml;nn&ouml;t muuttujien sis&auml;lt&auml;m&auml;n tiedon esitt&auml;miselle. </p>
 <p>Esimerkiksi navigaation piirt&auml;minen hoituu suurein piirtein seuraavanlaisella rakenteella: (olen rakentanut Smartyn p&auml;&auml;lle oman "sivu"-luokan, joka piilottaa muuttujien rekister&ouml;innin ja sivun piirtokutsun.)</p>
-<pre>
-index.php:
-<code>
+<h5>index.php:</h5>
+{% highlight php startinline %}
 $navigaatio = array("1"=>array("href"=>"index.php", name="Myynniss&auml;"),
                            ...
 $sivu->assign("navigaatio", $navigaatio);
 $sivu->display("index.tpl");
-</code>
-index.tpl:
-<code>
-&lt;ul id="navigaatio"&gt;
+{% endhighlight %}
+<h5>index.tpl:</h5>
+{% highlight smarty %}
+<ul id="navigaatio">
   {foreach from=$navigaatio item=navi}
-    &lt;li&gt;&lt;a href="{$navi.href}"&gt;{$navi.name}&lt;/a&gt;&lt;/li&gt;
+    <li><a href="{$navi.href}">{$navi.name}</a></li>
   {/foreach}
-&lt;/ul&gt;
-</code></pre>
+</ul>
+{% endhighlight %}
 <p>Kaikki sivuston sivut k&auml;ytt&auml;v&auml;t jotakin templatea. T&auml;ll&auml; tavoin sivuille yhteiset rakenteet on saatu siivottua yhteen templateen ja vain sivujen sis&auml;ll&ouml;t eroavat toisistaan.</p>
 <h4>Yahoo UI: <a href="http://developer.yahoo.com/yui/reset/">Reset</a>, <a href="http://developer.yahoo.com/yui/fonts/">Fonts</a>, <a href="http://developer.yahoo.com/yui/grids/">Grids</a> ja <a href="http://developer.yahoo.com/yui/base/">Base</a></h4>
 <p>Lyhyesti kerrottuna Reset poistaa kaikki HTML-elementtien valmiit muotoilut, jotka saattavat erota eri selaimissa. T&auml;m&auml;n j&auml;lkeen kaikki selaimet n&auml;ytt&auml;v&auml;t peruselementit kuten tekstikappaleet ja listat periaatteessa samalla tavalla.</p>
@@ -73,18 +72,22 @@ index.tpl:
 <h4><a href="http://jquery.com/">jQuery</a></h4>
 <p>jQuery on JavaScript-kirjasto, joka on tarkoitettu helpottamaan JavaScriptin yhdist&auml;mist&auml; HTML:&auml;&auml;n. Perinteisesti HTML-sivun eri elementteihin on JavaScriptiss&auml; viitattu k&auml;ytt&auml;m&auml;ll&auml; <em><a href="http://jacksleight.com/blog/2008/01/14/getelementsby/">getElementBy*</a></em>-funktioita. jQueryss&auml; voi sen sijaan k&auml;ytt&auml;&auml; paljon yksinkertaisempaa koodia eri elementtien hakemiseen. Kirjastossa on paljon erilaisia funktioita animaatioihin ja ajax-juttuihin, joihin en ole viel&auml; tutustunut kunnolla.</p>
 <p>Paulan korusivulla jQuery&auml; k&auml;ytet&auml;&auml;n varjostuksen lis&auml;&auml;miseksi kuville. Kuvat on t&auml;ss&auml; m&auml;&auml;ritelty kattamaan .kuvat-divien sis&auml;ll&auml; olevat <img>-tagit.</p>
-<pre><code>$(document).ready(function(){
+{% highlight javascript %}
+$(document).ready(function(){
   $('.kuva img').shadow({
     offset: 5,
     opacity: 0.11
   });
-});</code></pre>
+});
+{% endhighlight %}
 <p>Kannattaa huomata, ett&auml; shadow-funktio vaatii toimiakseen jQuery-peruspaketin lis&auml;ksi my&ouml;s <em><a href="http://dev.jquery.com/view/trunk/plugins/dimensions/jquery.dimensions.js">jquery.dimensions.js</a></em> ja <em><a href="http://dev.jquery.com/view/trunk/fx/fx.shadow.js">fx.shadow.js</a></em> -tiedostot.</p>
 <p>Varjotukset eiv&auml;t valitettavasti toimi aivan t&auml;ydellisesti. Varjot menev&auml;t IE6:lla rikki ja j&auml;&auml;v&auml;t joskus n&auml;kym&auml;tt&auml; uudemmillakin selaimilla.</p>
 <h4><a href="http://wettone.com/code/clean-urls">mod_rewrite</a></h4>
 <p>Sivuston k&auml;ytt&auml;m&auml;t URLit on siivottu k&auml;ytt&auml;en apachen mod_rewrite-s&auml;&auml;nt&ouml;j&auml;. Esimerkki:</p>
-<pre><code>RewriteEngine On
-RewriteRule ^([a-z\-]+)/([0-9]+)$ index.php?kategoria=$1&sivu=$2</code></pre>
+{% highlight apache %}
+RewriteEngine On
+RewriteRule ^([a-z\-]+)/([0-9]+)$ index.php?kategoria=$1&sivu=$2
+{% endhighlight %}
 <p>Kyseinen s&auml;&auml;nt&ouml; muuttaisi esimerkiksi URLin</p>
 <pre>http://www.paulaminni.fi/korvakorut/1</pre>
 <p>muotoon</p>

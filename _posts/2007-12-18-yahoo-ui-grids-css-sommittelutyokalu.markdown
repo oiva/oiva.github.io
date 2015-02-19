@@ -36,34 +36,36 @@ comments:
 ---
 <p>Monet webbisivut noudattavat pohjimmiltaan samaa rakennetta. Ylh&auml;&auml;ll&auml; on otsake, sis&auml;lt&ouml; on jaettu sarakkeisiin ja alhaalla saattaa olla alatunniste. Tuleva <a href="http://www.alistapart.com/articles/previewofhtml5">HTML5-standardi</a> ottaa t&auml;m&auml;n huomioon ja tarjoaa mm. erilliset <em>header, nav, article</em> ja <em>aside</em>-tagit. N&auml;iden avulla sivun <em>sis&auml;ll&ouml;n</em> voi jaotella loogisesti.</p>
 <p>Asiaan l&ouml;yh&auml;sti liittyen, <a href="http://www.alistapart.com/articles/css3multicolumn/">CSS3</a> tarjoaa tulevaisuudessa my&ouml;s oman ratkaisunsa siihen, miten teksti voidaan jakaa sarakkeisiin:</p>
-<pre><code>DIV {
+{% highlight css %}
+DIV {
     column-count: 2;
     column-width: 12em;
     column-gap: 1em;
-}</code></pre>
+}
+{% endhighlight %}
 <p>T&auml;m&auml; m&auml;&auml;rittely esimerkiksi jakaisi DIV-elementin kahteen 12em leve&auml;&auml;n sarakkeeseen, joiden v&auml;liin j&auml;&auml; 1em:n rako. (Lis&auml;&auml; aiheesta W3C:n luonnostelmassa: <a href="http://www.w3.org/TR/css3-multicol/">CSS3 multi-column layout</a>). Standardeja ty&ouml;st&auml;v&auml; W3C on kuitenkin tunnettu hitaudestaan, joten molempia uudistuksia saadaan odottaa viel&auml;.</p>
 <h3>Yahoo UI Grids CSS</h3>
 <p><a href="http://developer.yahoo.com/yui/grids/">Grids CSS</a> on osa laajempaa <a href="http://developer.yahoo.com/yui/">Yahoon k&auml;ytt&ouml;liittym&auml;kirjastoa</a>. Se on k&auml;yt&auml;nn&ouml;ss&auml; yksitt&auml;inen CSS-tiedosto, jonka avulla voidaan helposti toteuttaa erilaisia layoutteja. Grids tarjoaa eri levyisi&auml; <em>templateja</em>, jotka on sovitettu yleisimpiin monitorien resoluutioihin. Leveyden ja sivun jaottelun voi toki my&ouml;s p&auml;&auml;tt&auml;&auml; itse. Sivua pystyy jakamaan sarakkeisiin yksinkertaisilla elementeill&auml;, joiden leveydet on m&auml;&auml;ritelty suhteellisesti, esimerkiksi 1/3 - 2/3.<br />
 <a id="more"></a><a id="more-8"></a></p>
 <p>Nopea esimerkki:</p>
-<pre><code>&lt;body&gt;
-  &lt;div id="doc"&gt;
-    &lt;div id="hd"&gt;&lt;!-- header --&gt;&lt;/div&gt;
-
-    &lt;div id="bd"&gt;&lt;!-- body --&gt;
-        &lt;div id="yui-main"&gt;
-            &lt;div class="yui-b"&gt;
-                &lt;div class="yui-g"&gt;
-                    &lt;div class="yui-u first"&gt;&lt;/div&gt;
-                    &lt;div class="yui-u"&gt;&lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div id="ft"&gt;&lt;/div&gt; &lt;!-- footer --&gt;
-  &lt;/div&gt;
-&lt;/body&gt;</code></pre>
+{% highlight html %}
+<body>
+  <div id="doc">
+    <div id="hd"><!-- header --></div>
+    <div id="bd"><!-- body -->
+      <div id="yui-main">
+        <div class="yui-b">
+          <div class="yui-g">
+            <div class="yui-u first"></div>
+            <div class="yui-u"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="ft"></div> <!-- footer -->
+  </div>
+</body>
+{% endhighlight %}
 
 <p>Yll&auml;oleva m&auml;&auml;rittely tuottaa <a href="{{ site.baseurl }}/images/2007/12/test.html" title="Yahoo UI Grid testisivu">t&auml;llaisen rakenteen</a>. My&ouml;nnett&auml;k&ouml;&ouml;n ett&auml; sis&auml;kk&auml;iset <code>yui-main, yui-b, yui-g</code> -m&auml;&auml;rittelyt n&auml;ytt&auml;v&auml;t aluksi v&auml;h&auml;n pelottavilta. Rakenne on kuitenkin selke&auml;:</p>
 <ul>

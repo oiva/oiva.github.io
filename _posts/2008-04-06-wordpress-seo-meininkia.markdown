@@ -66,7 +66,8 @@ comments:
 <p>En tied&auml; miten paljon hakukoneet katsovat sivujen avainsanoja, mutta tuskin siit&auml; haittaakaan on.</p>
 <a id="more"></a><a id="more-40"></a>
 <p>Homma onnistu seuraavalla, kohtuullisen rumalla koodinp&auml;tk&auml;ll&auml;, jonka kirjoitin teeman hakemistosta l&ouml;ytyv&auml;&auml;n header.php:n  (t&auml;ss&auml; wp-content/themes/neoclassical/header.php)</p>
-<pre><code>&lt;meta name="keywords" content="<?php
+{% highlight php %}
+<meta name="keywords" content="<?php
     if (!is_single()) {
         foreach (get_categories() as $key=>$val) {
             echo $val->name;
@@ -85,6 +86,7 @@ comments:
             }
         }
     }
-?>" /&gt;</code></pre>
+?>" />
+{% endhighlight %}
 <p>Ongelmana on viel&auml; se, ett&auml; etusivulle, arkistolle ja muille staattisille sivuille tulee samat avainsanat. Jatkokehityksess&auml; avainsanoihin voisi lis&auml;t&auml; my&ouml;s kirjoituksen kategoriat yms.</p>
 <p>T&auml;m&auml; ei yrit&auml; olla mill&auml;&auml;n tapaa optimaalinen ratkaisu, enk&auml; tied&auml; josko t&auml;h&auml;n tarkoitukseen olisi ollut joku valmis Wordpress-plugin olemassa. Kaikki Wordpressin tageihin liittyv&auml; tieto tuntui olevan todella kiven alla, joten ei huvittanut etsi&auml;. :)</p>
