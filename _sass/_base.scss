@@ -8,7 +8,9 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+h1, h2, h3, h4, h5, h6 {
+    clear: left;
+}
 
 /**
  * Basic styling
@@ -51,6 +53,8 @@ img {
 }
 
 img.alignleft {
+    float: left;
+    margin-bottom: 10px;
     margin-right: 20px;
 }
 
@@ -75,6 +79,7 @@ ul, ol {
 }
 
 li {
+    margin-bottom: 0.25rem;
     > ul,
     > ol {
          margin-bottom: 0;
@@ -96,7 +101,6 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    border-bottom: 1px solid;
     color: $brand-color;
     text-decoration: none;
 
@@ -106,7 +110,7 @@ a {
 
     &:hover {
         color: darken($brand-color, 30%);
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
