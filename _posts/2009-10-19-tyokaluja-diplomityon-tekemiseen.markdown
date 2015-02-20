@@ -32,7 +32,7 @@ comments: []
 <h2><a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank"><img title="DropBox logo" src="http://www.getdropbox.com/static/images/dropbox_logo_home.png" alt="" width="290" height="75" /></a></h2>
 <a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank">Dropbox</a> on palvelu, joka synkronoi tiedostoja eri tietokoneiden v&auml;lill&auml;.  Helposti. Dropbox on kuin mik&auml; tahansa muu kansio tietokoneessasi.  Kaikki sinne tallennetut tiedostot synkronoidaan palvelimen kanssa, ja  tiedostoihin tehdyt muutokset n&auml;kyv&auml;t saman tien kaikissa tietokoneissa  joihin olet asentanut Dropboxin.</p>
 <p>Tiedostojen tallennuksesta j&auml;&auml; versiohistoria, johon p&auml;&auml;see k&auml;siksi  palvelun verkkosivun kautta. My&ouml;s poistetut tiedostot n&auml;kyv&auml;t netiss&auml;.</p>
-<p>Dropbox toimii Windowsissa, OS X:ss&auml;, Linuxissa ja <a href="http://www.getdropbox.com/iphoneapp" target="_blank">iPhonessa</a>.  Ilmaisessa versiossa on&nbsp; 2 gigaa tilaa tiedostoille. 50GB maksaa  kymmenen dollaria kuussa. (Suosituksista saa 250MB lis&auml;&auml; tilaa <img src="../wp-includes/images/smilies/icon_wink.gif" alt=";)" /> )</p>
+<p>Dropbox toimii Windowsissa, OS X:ss&auml;, Linuxissa ja <a href="http://www.getdropbox.com/iphoneapp" target="_blank">iPhonessa</a>.  Ilmaisessa versiossa on 2 gigaa tilaa tiedostoille. 50GB maksaa  kymmenen dollaria kuussa. (Suosituksista saa 250MB lis&auml;&auml; tilaa <img src="../wp-includes/images/smilies/icon_wink.gif" alt=";)" /> )</p>
 <h3>Plussaa</h3>
 <ul>
 <li>Tiedostojen automaattinen synkronointi p&ouml;yt&auml;koneen, l&auml;pp&auml;rin ja ty&ouml;koneen v&auml;lill&auml;</li>

@@ -22,7 +22,7 @@ excerpt: "Viime viikonloppuna k&auml;vin ajamassa 60km <a href=\"http://www.tahk
   ensi vuonna l&auml;hte&auml; kisaan haluamallaan hetkell&auml;. Ajajille voidaan
   RFID:n avulla laskea nettoaika, joten yhteisl&auml;ht&ouml;&auml; ei tarvita. T&auml;m&auml;
   vain vaikuttaa melko huonolta idealta. Porrastetun l&auml;hd&ouml;n tarkoitus on
-  ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n&nbsp; my&ouml;hemmin.
+  ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n my&ouml;hemmin.
   Silti t&auml;n&auml;kin vuonna jokaisessa <em>alam&auml;ess&auml;</em> oli tukkeena
   py&ouml;ri&auml;&auml;n taluttavia \"turisteja\". No, turha selitell&auml; kun yl&auml;m&auml;iss&auml;
   samat tyypit ohittelivat oikealta ja vasemmalta.\r\n"
@@ -57,7 +57,7 @@ comments:
 ---
 <p>Viime viikonloppuna k&auml;vin ajamassa 60km <a href="http://www.tahkomtb.fi/index?page=1">TahkoMTB</a>-maastopy&ouml;r&auml;ilykilpailussa. Olin ensimm&auml;ist&auml; kertaa maastopy&ouml;r&auml;n p&auml;&auml;ll&auml; t&auml;n&auml; vuonna ja meno oli sen mukaista. Tuloksista ei kannata puhua, mutta p&auml;&auml;sin kuitenkin maaliin.</p>
 <p>Ajanotto oli toteutettu <a href="http://www.championchip.fi/index.asp?pid=19">ChampionChip</a>in RFID-tunnistimilla, mik&auml; oli tavallaan ihan k&auml;tev&auml;&auml;. 60 km:n ajajat (850 henke&auml;) voitiin jakaa kolmeen ryhm&auml;&auml;n, jotka l&auml;htiv&auml;t matkaan puolen tunnin v&auml;lein. Ajanotto oli kuitenkin vain maalissa. V&auml;liaikoja olisi ollut hauska tutkailla vaikka taukopaikkojen perusteella.</p>
-<p>J&auml;rjest&auml;j&auml;t v&auml;l&auml;ytteliv&auml;t my&ouml;s mahdollisuutta, ett&auml; kuskit voisivat ensi vuonna l&auml;hte&auml; kisaan haluamallaan hetkell&auml;. Ajajille voidaan RFID:n avulla laskea nettoaika, joten yhteisl&auml;ht&ouml;&auml; ei tarvita. T&auml;m&auml; vain vaikuttaa melko huonolta idealta. Porrastetun l&auml;hd&ouml;n tarkoitus on ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n&nbsp; my&ouml;hemmin. Silti t&auml;n&auml;kin vuonna jokaisessa <em>alam&auml;ess&auml;</em> oli tukkeena py&ouml;ri&auml;&auml;n taluttavia "turisteja". No, turha selitell&auml; kun yl&auml;m&auml;iss&auml; samat tyypit ohittelivat oikealta ja vasemmalta.<br />
+<p>J&auml;rjest&auml;j&auml;t v&auml;l&auml;ytteliv&auml;t my&ouml;s mahdollisuutta, ett&auml; kuskit voisivat ensi vuonna l&auml;hte&auml; kisaan haluamallaan hetkell&auml;. Ajajille voidaan RFID:n avulla laskea nettoaika, joten yhteisl&auml;ht&ouml;&auml; ei tarvita. T&auml;m&auml; vain vaikuttaa melko huonolta idealta. Porrastetun l&auml;hd&ouml;n tarkoitus on ollut saada hitaammat kuskit l&auml;htem&auml;&auml;n v&auml;h&auml;n my&ouml;hemmin. Silti t&auml;n&auml;kin vuonna jokaisessa <em>alam&auml;ess&auml;</em> oli tukkeena py&ouml;ri&auml;&auml;n taluttavia "turisteja". No, turha selitell&auml; kun yl&auml;m&auml;iss&auml; samat tyypit ohittelivat oikealta ja vasemmalta.<br />
 <a id="more"></a><a id="more-120"></a><br />
 <a title="DSC_0215 by oiva_eskola, on Flickr" href="http://www.flickr.com/photos/oiva/2625214313/"><img src="http://farm4.static.flickr.com/3034/2625214313_79c4200d52.jpg" alt="Pikkis, Ian ja Paulus saapuvat maaliin 120km matkalta" width="500" height="334" /></a></p>
 <p style="text-align: justify;">Kuva: Pikkis, Ian ja Paulus saapuvat maaliin 120km matkalta.</p>
