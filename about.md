@@ -20,18 +20,21 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="size-full wp-image-34" style="margin-left: 10px; margin-right: 10px; margin-top: 0px; margin-bottom: 0px; float: left;" title="Oiva" src="http://www.bobs.fi/oiva/wp-content/uploads/2008/03/oeskola2.jpg" alt="" width="162" height="216" />Hei! Olen Oiva Eskola, 29-vuotias DI Espoosta.</p>
-<p>Kirjoitan blogiini mm. k&auml;ytett&auml;vyydest&auml;, koodaamisesta, kameroista ja muista siisteist&auml; tai tyhmist&auml; asioista. Tietotekniikan lis&auml;ksi olen kiinnostunut markkinoinnista ja taiteesta.</p>
-<p>&nbsp;</p>
-<h3>Yhteystietoni</h3>
+<img class="alignleft" src="http://www.gravatar.com/avatar/be55d0d9dbce2798950d7d7ebfc2ada8.jpg?s=256" width="128" height="128" />
+<p>Hi, I'm Oiva. I'm a front-end developer currently living in Espoo, Finland. As all front-end devs, I'm interested
+in <a href="https://www.flickr.com/photos/oiva/">photography</a>, cycling (never failing to mention that I was a
+messenger back in the day), and good beers.</p>
+
+<p>I work for a consultancy company called <a href="https://sc5.io">SC5</a> and do a bunch of 
+hobby projects on the side. Because why watch TV if you can code, am I right?<br/>At work I'm mostly working on
+a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a>.</p>
+
+
+<h3>Contact me</h3>
 <div class="vcard">
 <ul>
 <li class="email"><a href="mailto:oiva.eskola@gmail.com">oiva.eskola@gmail.com</a></li>
-<li><div class="adr"><span class="street-address">H&ouml;sm&auml;rinkuja 1 J</span><br />
-  <span class="postal-code">02760</span> <span class="locality">Espoo</span></div></li></p>
-<li>
-<div class="tel">+35840 773 9493</div></li>
-<li><span class="fn nickname">bobs</span> @ IRCnet</li>
+<li class="tel"><a href="tel:+358407739493">+358 40 773 9493</a></li>
+<li class="X-TWITTER"><a href="https://twitter.com/oiva">@oiva</a></li>
 </ul>
 </div>
-<p><a title="Oivan profiili Linked in -palvelussa" href="http://www.linkedin.com/pub/3/839/6b8"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.gif" alt="View Oiva Eskola's profile on LinkedIn" width="160" height="25" border="0" /></a></p>
