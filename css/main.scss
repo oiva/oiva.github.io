@@ -10,14 +10,16 @@ $base-font-family: Georgia, Times, "Times New Roman", serif;
 $base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6;
+$title-font-family: 'PT Serif', serif;
+$title-font-size: 32px;
 
 $spacing-unit:     32px;
 
 $text-color:       #222;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #2789E1;
 
-$grey-color:       #828282;
+$grey-color:       #7a7a7a;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -46,7 +48,7 @@ $on-laptop:        750px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "base",
+  "layout",
+  "syntax-highlighting"
 ;
