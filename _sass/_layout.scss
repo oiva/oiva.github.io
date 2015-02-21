@@ -302,3 +302,14 @@ section.feedback {
 .page_number {
     color: $grey-color;
 }
+.twitter-share {
+    background: #55acee;
+    color: #fff;
+    display: inline-block;
+    font-family: Gotham, "Helvetica Neue", sans-serif;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+.twitter-share:visited {
+    color: #fff;
+}

@@ -65,10 +65,11 @@ layout: default
       <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
     {% endif %}
   
-    <a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>
-    <script>
-    window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
-    </script>
+    {% if page.language == 'fi' or pagetime < cutoff %}
+    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{page.title | cgi_escape}}&url={{page.url | prepend: site.baseurl | prepend: site.url}}">Jaa tämä sivu Twitterissä</a>
+    {% else %}
+    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{page.title | cgi_escape}}&url={{page.url | prepend: site.baseurl | prepend: site.url}}">Share this post on Twitter</a>
+    {% endif %}
   </section>
 
 </div>
