@@ -26,6 +26,7 @@ tags:
 - Mac Pro
 - Time Machine
 comments: []
+excerpt: Miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla.
 ---
 <p>Kokosin vähän muisteloita miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla. Pahoitteluni "Apple ja minä"-tyyppisestä postauksesta, mutta lupaan olla mainitsematta iPhonea.</p>
 <h2>"Macbook Air"</h2>

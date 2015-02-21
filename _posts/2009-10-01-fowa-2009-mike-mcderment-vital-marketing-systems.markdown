@@ -19,10 +19,11 @@ categories:
 - Palautetut
 tags: []
 comments: []
+excerpt: Mike McDermentin esitys siitä, miten verkkopalvelua voi markkinoida ja miten seurata markkinoinnin tehoa.
 ---
 <p>Mike McDerment on laskutuspalvelu <a href="http://www.freshbooks.com/">FreshBooksin</a> perustaja. Miken esitys käsitteli verkkopalvelujen markkinointisysteemejä, eli sitä miten palvelua voi markkinoida ja miten seurata markkinoinnin tehoa.</p>
 <ul>
-<li> FreshBooks syntyi todellisesta tarpeesta: miten hoitaa laskutus ilman Exceliä?</li>
+<li>FreshBooks syntyi todellisesta tarpeesta: miten hoitaa laskutus ilman Exceliä?</li>
 <li>Monet käyttävät edelleen Exceliä, miten saada heidät palvelun käyttäjiksi? FreshBooks käyttää <a title="Wikipedia: freemium" href="http://fi.wikipedia.org/wiki/Freemium">freemium</a>-mallia: palvelua voi käyttää ilmaiseksi, mutta esimerkiksi hallittavien asiakkaiden määrää on rajoitettu ilmaisversiossa.</li>
 <li>Ilmaisversion käyttäjät halutaan jossain vaiheessa saada vaihtamaan maksulliseen versioon. Tämä voi viedä jopa useita vuosia. Palvelun kannalta on tärkeää tunnistaa millaiset asiakkaat siirtyvät maksulliseen versioon ja mitkä tekijät vaikuttavat päätökseen.</li>
 <li>Kaikkien kävijöiden saaminen rekisteröityneiksi asiakkaiksi ei kannata. Useammat rekisteröityneet eivät välttämättä näy maksavien asiakkaiden määrässä.</li>

@@ -21,8 +21,9 @@ categories:
 tags:
 - länsimetro
 comments: []
+excerpt: Länsimetro ei ole vielä valmis. Paitsi jos luet tätä tulevaisuudessa.
 ---
-<p>Pohdin yksi  päivä miten pitkällä Espooseen tulevan länsimetron rakennustyöt ovat.  No, eivät kovin pitkällä. Tunnelia on kaivettu vajaa 250 metriä  eteenpäin, ja valmista on joskus 2015.</p>
+<p>Pohdin yksi päivä miten pitkällä Espooseen tulevan länsimetron rakennustyöt ovat.  No, eivät kovin pitkällä. Tunnelia on kaivettu vajaa 250 metriä  eteenpäin, ja valmista on joskus 2015.</p>
 <p>Jos jaksaisi, niin länsimetron rakentamisesta voisi tehdä kätevän <em><a href="http://knowyourmeme.com/memes/single-serving-sites" target="_blank">single-serving-siten</a></em>.</p>
 <p>Esimerkiksi www.onkolänsimetrovalmis.fi:</p>
 <p><img class="alignnone size-full wp-image-719" title="onko_lansimetro_valmis" src="{{ site.baseurl }}/images/2010/09/onko_lansimetro_valmis.png" alt="" width="450" height="188" /></p>

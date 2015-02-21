@@ -14,6 +14,7 @@ wordpress_id: 845
 wordpress_url: http://www.bobs.fi/oiva/?p=845
 date: '2012-07-31 20:53:39 +0300'
 date_gmt: '2012-07-31 18:53:39 +0300'
+excerpt: Aika ajoin joku kirjoittaa netissä siitä, miten saa liikunnasta ylimääräistä puhtia elämäänsä. Yleensä joku menestynyt kaveri.
 categories:
 - elämä
 tags:

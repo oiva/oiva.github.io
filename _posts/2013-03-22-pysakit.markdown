@@ -20,6 +20,7 @@ categories:
 - työ
 tags: []
 comments: []
+excerpt: Pysäkit on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni Phonegap-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.
 ---
 <p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit</a> on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni <a href="http://phonegap.com/">Phonegap</a>-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.</p>
 <p>"Pysäkkien" tärkeimmät ominaisuudet ovat:</p>

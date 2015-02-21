@@ -19,6 +19,7 @@ categories:
 - podcastit
 tags: []
 comments: []
+excerpt: Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea.
 ---
 <p>Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta <a href="http://www.43folders.com/2006/01/30/fresh-modest-wrapup">pariin</a> <a href="http://www.43folders.com/2011/01/07/first-pancake">otteeseen</a>, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa <a href="http://5by5.tv/b2w/47">hyvä podcast-jakso</a>*.</p>
 <p>Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta käymään salilla viidesti viikossa, niin epäonnistuminen on aika todennäköistä.</p>

@@ -19,6 +19,7 @@ categories:
 tags:
 - OS X
 comments: []
+excerpt: OS X:ssä home ja end -näppäimet toimivat oletusarvoisesti väärin. Näin korjaat tilanteen.
 ---
 <p>OS X:ssä home ja end -näppäimet toimivat oletusarvoisesti varsin kummallisesti. Home ei vie osoitinta rivin alkuun, vaan koko dokumentin alkuun. End vie vastaavasti koko dokumentin loppuun.</p>
 <p>Tämän voi onneksi korjata helposti. <a title="KeyFixer &ndash; Fix Your OS X Home and End Keys" href="http://www.starryhope.com/tech/apple/2006/keyfixer/">KeyFixer</a>-ohjelma tekee mitä lupaa, ja korjaa homen ja endin.</p>

@@ -22,6 +22,7 @@ tags:
 - diplomityö
 - sosiaalinen media
 comments: []
+excerpt: Tiistai 13.4.2010 oli se päivä, kun vihdoin ja viimein sain diplomityöni valmiiksi.
 ---
 <p>Tiistai 13.4.2010 oli se päivä, kun vihdoin ja viimein sain diplomityöni valmiiksi.</p>
 <p>Työn aiheena on sosiaalisen median, ja erityisesti mikroblogien  hyödyntäminen firmoissa, sekä sisällön julkaiseminen ulospäin kyseisistä  mikroblogeista. Tätä sisällön julkaisemista voidaan käyttää  täydentämään firman muita sosiaalisen media julkaisukanavia.</p>

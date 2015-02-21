@@ -23,12 +23,9 @@ tags:
 - Dropbox
 - latex
 comments: []
+excerpt: Muutamia työkaluja joita käytin diplomityötä tehdessä.
 ---
-<div>
-<div>
-<div>
-<div>
-<p>On se aika  koulunkäynnistä kun pitäisi kirjoittaa diplomityö. Aikaa on maaliskuun  loppuun, joten kiire tulee. Tässä muutamia työkaluja, jotka eivät takaa  työn valmistumista, mutta helpottavat prosessia:</p>
+<p>On se aika koulunkäynnistä kun pitäisi kirjoittaa diplomityö. Aikaa on maaliskuun loppuun, joten kiire tulee. Tässä muutamia työkaluja, jotka eivät takaa työn valmistumista, mutta helpottavat prosessia:</p>
 <h2><a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank"><img title="DropBox logo" src="http://www.getdropbox.com/static/images/dropbox_logo_home.png" alt="" width="290" height="75" /></a></h2>
 <a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank">Dropbox</a> on palvelu, joka synkronoi tiedostoja eri tietokoneiden välillä.  Helposti. Dropbox on kuin mikä tahansa muu kansio tietokoneessasi.  Kaikki sinne tallennetut tiedostot synkronoidaan palvelimen kanssa, ja  tiedostoihin tehdyt muutokset näkyvät saman tien kaikissa tietokoneissa  joihin olet asentanut Dropboxin.</p>
 <p>Tiedostojen tallennuksesta jää versiohistoria, johon pääsee käsiksi  palvelun verkkosivun kautta. Myös poistetut tiedostot näkyvät netissä.</p>

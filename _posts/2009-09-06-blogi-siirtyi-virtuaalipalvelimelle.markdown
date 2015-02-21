@@ -21,6 +21,7 @@ categories:
 - Palautetut
 tags: []
 comments: []
+excerpt: Blogi siirtyi virtuaaliselle palvelimelle pilveen.
 ---
 <p><strong>Päivitys 20.9.2010:</strong> <a href="http://oivaeskola.fi/2010/09/19/halvalla-ei-saa-hyvaa/">älä hanki VPS:ää iFuse Hostingilta</a>.</p>
 <p>Muutto pakotti ajattelemaan koti-linuxilla pyörivien nettisivujen kohtaloa. Serverin ylläpito on välillä ollut työlästä, eikä luotettavuuskaan ole ollut liian hyvä. Ja muutossa kone on viikon verran pois netistä, joten jokin vaihtoehto oli keksittävä.</p>

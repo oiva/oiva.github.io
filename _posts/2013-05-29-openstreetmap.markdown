@@ -14,6 +14,7 @@ wordpress_id: 1159
 wordpress_url: http://www.bobs.fi/oiva/?p=1159
 date: '2013-05-29 23:23:35 +0300'
 date_gmt: '2013-05-29 21:23:35 +0300'
+excerpt: OpenStreetMap on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille.
 categories:
 - käytettävyys
 - elämä

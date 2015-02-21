@@ -20,6 +20,7 @@ categories:
 - Palautetut
 tags: []
 comments: []
+excerpt: HuffDuffer on muutaman vuoden ikäinen verkkopalvelu, jonka avulla voit löytää uusia podcasteja, sekä kerätä itsellesi oman podcastin.
 ---
 <p>Uusia verkkopalveluita ilmestyy kuin sieniä sateella, ja vaikea on tietää mitä niistä kannattaa edes kokeilla. Mutta jos yhtään tykkää kuunnella podcasteja, niin <a href="http://huffduffer.com/about" target="_blank">HuffDuffer</a> on kokeilemisen arvoinen palvelu.</p>
 <p>HuffDuffer on muutaman vuoden ikäinen verkkopalvelu, jonka avulla voit löytää uusia podcasteja, sekä kerätä itsellesi oman podcastin. Palvelun idea on yksinkertainen: keräät netistä tai HuffDufferista podcasteja (tai äänitiedostoja) ja lisäät ne HuffDufferiin. HuffDuffer tekee tiedostoista syötteen, jonka voit lisätä iTunesiin tai vastaavaan. Tulos: saat löytämäsi tiedostot yhtenä podcastina MP3-soittimeesi.</p>

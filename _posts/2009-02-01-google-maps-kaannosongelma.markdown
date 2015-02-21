@@ -10,7 +10,7 @@ author:
   url: ''
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-excerpt: Google Mapsin liitetyissä kartoissa on
+excerpt: Google Mapsin liitetyissä kartoissa on käännösongelma
 wordpress_id: 524
 wordpress_url: http://www.bobs.fi/oiva/?p=524
 date: '2009-02-01 15:03:13 +0200'
