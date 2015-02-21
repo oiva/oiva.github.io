@@ -22,7 +22,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><strong>P&auml;ivitys 20.9.2010:</strong> <a href="http://www.bobs.fi/oiva/2010/09/19/halvalla-ei-saa-hyvaa/">&Auml;l&auml; hanki VPS:&auml;&auml; iFuse Hostingilta</a>.</p>
+<p><strong>P&auml;ivitys 20.9.2010:</strong> <a href="http://oivaeskola.fi/2010/09/19/halvalla-ei-saa-hyvaa/">&Auml;l&auml; hanki VPS:&auml;&auml; iFuse Hostingilta</a>.</p>
 <p>Muutto pakotti ajattelemaan koti-linuxilla py&ouml;rivien nettisivujen kohtaloa. Serverin yll&auml;pito on v&auml;lill&auml; ollut ty&ouml;l&auml;st&auml;, eik&auml; luotettavuuskaan ole ollut liian hyv&auml;. Ja muutossa kone on viikon verran pois netist&auml;, joten jokin vaihtoehto oli keksitt&auml;v&auml;.</p>
 <p>P&auml;&auml;dyin hankkimaan virtuaalipalvelimen <a href="http://www.ifusehosting.com/home">iFuse hosting</a> -firmalta briteist&auml;. K&auml;yt&auml;nn&ouml;ss&auml; omistan siis virtuaalisen tietokoneen, jossa on 256 megaa muistia, ja joka py&ouml;ritt&auml;&auml; Ubuntua.</p>
 <p>VPS, eli virtual private server on t&auml;ysin itse yll&auml;pidett&auml;v&auml;. Palvelimella ei ole valmiina mit&auml;&auml;n, ja kaikista asennuksista ja konfiguraatioista on vastuussa itse. K&auml;ytt&ouml;j&auml;rjestelm&auml;n voi tarvittaessa jyr&auml;t&auml; jos mokailee tarpeeksi.</p>

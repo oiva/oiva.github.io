@@ -35,7 +35,7 @@ comments:
     lopuksi.\r\n\r\nTiedoksi muuten, ett&auml; molemmat miehet ovat tulossa ensi kev&auml;&auml;nkin
     kurssille j&auml;lleen."
 ---
-<p><a href="http://www.bobs.fi/oiva/2008/04/03/filosofia-ja-systeemiajattelu/">Filosofian ja systeemiajattelun kurssilla</a> opin, ett&auml; ihmisen ajatukset ja sanat, joita h&auml;n k&auml;ytt&auml;&auml; ajatuksissaan, muovaavat todellisuutta voimakkaasti. T&auml;st&auml; p&auml;&auml;st&auml;&auml;n k&auml;tev&auml;sti aasinsillalla siihen, miten yritykset puhuvat asiakkaistaan. K&auml;ytett&auml;vyyden kannalta mielenkiintoisia toteamuksia ovat esimerkiksi seuraavat:</p>
+<p><a href="http://oivaeskola.fi/2008/04/03/filosofia-ja-systeemiajattelu/">Filosofian ja systeemiajattelun kurssilla</a> opin, ett&auml; ihmisen ajatukset ja sanat, joita h&auml;n k&auml;ytt&auml;&auml; ajatuksissaan, muovaavat todellisuutta voimakkaasti. T&auml;st&auml; p&auml;&auml;st&auml;&auml;n k&auml;tev&auml;sti aasinsillalla siihen, miten yritykset puhuvat asiakkaistaan. K&auml;ytett&auml;vyyden kannalta mielenkiintoisia toteamuksia ovat esimerkiksi seuraavat:</p>
 <ul>
 <li>"Kyll&auml;h&auml;n meid&auml;n k&auml;ytt&auml;j&auml;t osaa k&auml;ytt&auml;&auml; t&auml;t&auml;"</li>
 <li>"T&auml;m&auml; on <em>minun mielest&auml;</em> t&auml;ysin looginen, ei k&auml;ytt&auml;j&auml;t voi olla tajuamatta t&auml;t&auml;"</li>

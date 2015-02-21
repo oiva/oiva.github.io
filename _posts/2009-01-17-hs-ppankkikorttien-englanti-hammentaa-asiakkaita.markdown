@@ -24,7 +24,7 @@ tags:
 - pankkikortti
 comments: []
 ---
-<p>Edelliseen <a title="Debit ja credit maksukorteissa" href="http://www.bobs.fi/oiva/2009/01/11/debit-ja-credit-maksukorteissa/">debit / credit -juttuun</a> liittyen, Helsingin Sanomat uutisoi: <a title="HS: Pankkikorttien englanti h&auml;mment&auml;&auml; asiakkaita" href="http://www.hs.fi/talous/artikkeli/Pankkikorttien+englanti+h%C3%A4mment%C3%A4%C3%A4+asiakkaita/1135242806202">pankkikorttien englanti h&auml;mment&auml;&auml; asiakkaita</a>.</p>
+<p>Edelliseen <a title="Debit ja credit maksukorteissa" href="http://oivaeskola.fi/2009/01/11/debit-ja-credit-maksukorteissa/">debit / credit -juttuun</a> liittyen, Helsingin Sanomat uutisoi: <a title="HS: Pankkikorttien englanti h&auml;mment&auml;&auml; asiakkaita" href="http://www.hs.fi/talous/artikkeli/Pankkikorttien+englanti+h%C3%A4mment%C3%A4%C3%A4+asiakkaita/1135242806202">pankkikorttien englanti h&auml;mment&auml;&auml; asiakkaita</a>.</p>
 <p>Selityksen&auml; sille, miksi pankkikorteissa k&auml;ytet&auml;&auml;n englanninkielisi&auml; termej&auml; tarjotaan kansainv&auml;lisyytt&auml;:</p>
 <blockquote><p>Pankit p&auml;&auml;tyiv&auml;t englanninkielisiin termeihin, koska korttien on toimittava yh&auml; enemm&auml;n kansainv&auml;lisiss&auml; yhteyksiss&auml;.</p>
 <p>"Jos sirukortille asennettaisiin maksutavoiksi sanat "pankki" ja "luotto", ne n&auml;kyisiv&auml;t samanlaisina ymp&auml;ri maailmaa", kertoo Pohjola Pankin korttipalveluiden p&auml;&auml;llikk&ouml; <span class="nimi">Jarkko Anttiroiko</span>.</p>

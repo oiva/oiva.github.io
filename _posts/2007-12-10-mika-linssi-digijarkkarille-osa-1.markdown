@@ -26,7 +26,7 @@ comments:
 - id: 25
   author: Mik&auml; linssi digij&auml;rkk&auml;rille? Osa 2 &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/03/28/mika-linssi-digijarkkarille-osa-2/
+  author_url: http://oivaeskola.fi/oiva/2008/03/28/mika-linssi-digijarkkarille-osa-2/
   date: '2008-03-28 17:18:41 +0200'
   date_gmt: '2008-03-28 15:18:41 +0200'
   content: "[...] Aikaisempi kirjoitus linssin valinnasta [...]"

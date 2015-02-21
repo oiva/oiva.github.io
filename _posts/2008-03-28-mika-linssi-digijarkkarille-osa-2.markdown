@@ -66,4 +66,4 @@ comments:
 <li><a href="http://www.pixel-peeper.com/lenses/?lens=278">Lis&auml;&auml; esimerkkikuvia (PixelPeeper)</a></li>
 <li><a href="http://www.pbase.com/cameras/sigma/30_14_ex_dc_hsm">Lis&auml;&auml; esimerkkikuvia (PBase)</a></li>
 </ul>
-<p><a href="http://www.bobs.fi/oiva/2007/12/10/mika-linssi-digijarkkarille-osa-1/">Aikaisempi kirjoitus linssin valinnasta</a></p>
+<p><a href="http://oivaeskola.fi/2007/12/10/mika-linssi-digijarkkarille-osa-1/">Aikaisempi kirjoitus linssin valinnasta</a></p>
