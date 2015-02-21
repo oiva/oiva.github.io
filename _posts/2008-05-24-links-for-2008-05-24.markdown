@@ -22,7 +22,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://deepmix.eu/">Deep Mix Moscow Radio</a></div></p>
-<div class="delicious-extended">Hoteinta koodausmusaa Ven&auml;j&auml;lt&auml;. Musiikkityylin&auml; tyylipuhdas minimalistinen tekno.</div></p>
+<div class="delicious-extended">Hoteinta koodausmusaa Venäjältä. Musiikkityylinä tyylipuhdas minimalistinen tekno.</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/music">music</a> <a href="http://del.icio.us/oiva/internet">internet</a> <a href="http://del.icio.us/oiva/radio">radio</a> <a href="http://del.icio.us/oiva/techno">techno</a>)</div><br />
 	</li>
 <li>
@@ -32,7 +32,7 @@ comments: []
 	</li>
 <li>
 <div class="delicious-link"><a href="http://en.wikipedia.org/wiki/Minimal_techno">Minimal techno - Wikipedia, the free encyclopedia</a></div></p>
-<div class="delicious-extended">Kattava selvitys minimalistisen teknon piirteist&auml;</div></p>
+<div class="delicious-extended">Kattava selvitys minimalistisen teknon piirteistä</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/techno">techno</a> <a href="http://del.icio.us/oiva/music">music</a> <a href="http://del.icio.us/oiva/minimal">minimal</a>)</div><br />
 	</li>
 </ul>

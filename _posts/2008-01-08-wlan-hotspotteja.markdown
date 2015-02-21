@@ -28,9 +28,9 @@ comments:
   author_url: http://oivaeskola.fi/2008/03/04/avoimien-wlan-verkkojen-puute-fillarimessut/
   date: '2008-03-04 21:47:14 +0200'
   date_gmt: '2008-03-04 19:47:14 +0200'
-  content: "[...] tarkkailua, laitteella kun ei muuten p&auml;&auml;se nettiin. Yleens&auml;
-    verkkoja ei vain tahdo l&ouml;yty&auml;. (Kampissa kuuluu Helsingin kaupungin
+  content: "[...] tarkkailua, laitteella kun ei muuten pääse nettiin. Yleensä
+    verkkoja ei vain tahdo löytyä. (Kampissa kuuluu Helsingin kaupungin
     verkko, ainakin Narinkkatorin laidalla &ndash; [...]"
 ---
-<p>Helsingin kaupungilla on <a href="http://ptp.hel.fi/wlan/">wlan hotspots -h&auml;rp&auml;ke</a>, joka n&auml;ytt&auml;&auml; Helsingin alueen avoimet ja puoliavoimet wlan-pisteet. Kartasta ei n&auml;e verkkojen peittoa, mutta ilmeisesti ainakin Esplanadin ja Kampin alueella pit&auml;isi kuulua. <a href="http://www.hs.fi/kaupunki/artikkeli/Avoimen+wlan-yhteyden+rakentaminen++Tapiolaan+ja+Otaniemeen+alkaa+vihdoin/HS20070804SI1KA013vx">Espoossa tullaan j&auml;lkijunassa</a>, ilmeisesti kohta on kuitenkin lupa odottaa vastaavaa palvelua Tapiolan ja Otaniemen suunnalla.</p>
-<p>Hesari osaa kertoa, ett&auml; my&ouml;s <a href="http://www.hs.fi/kaupunki/artikkeli/Helsingin+metroon+tulossa+ilmainen+langatoninternetyhteys/HS20070909SI1KA02d01">Helsingin metroon</a> rakennettaisiin langatonta yhteytt&auml;. T&auml;m&auml; on hyv&auml;&auml; palvelua. Saisikohan saman my&ouml;s kaikkiin busseihin, joillain linjoilla niit&auml; ilmeisesti jo on?</p>
+<p>Helsingin kaupungilla on <a href="http://ptp.hel.fi/wlan/">wlan hotspots -härpäke</a>, joka näyttää Helsingin alueen avoimet ja puoliavoimet wlan-pisteet. Kartasta ei näe verkkojen peittoa, mutta ilmeisesti ainakin Esplanadin ja Kampin alueella pitäisi kuulua. <a href="http://www.hs.fi/kaupunki/artikkeli/Avoimen+wlan-yhteyden+rakentaminen++Tapiolaan+ja+Otaniemeen+alkaa+vihdoin/HS20070804SI1KA013vx">Espoossa tullaan jälkijunassa</a>, ilmeisesti kohta on kuitenkin lupa odottaa vastaavaa palvelua Tapiolan ja Otaniemen suunnalla.</p>
+<p>Hesari osaa kertoa, että myös <a href="http://www.hs.fi/kaupunki/artikkeli/Helsingin+metroon+tulossa+ilmainen+langatoninternetyhteys/HS20070909SI1KA02d01">Helsingin metroon</a> rakennettaisiin langatonta yhteyttä. Tämä on hyvää palvelua. Saisikohan saman myös kaikkiin busseihin, joillain linjoilla niitä ilmeisesti jo on?</p>

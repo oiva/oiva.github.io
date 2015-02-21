@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: CSS nakuilup&auml;iv&auml;
+title: CSS nakuilupäivä
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -23,4 +23,4 @@ tags:
 - css naked day
 comments: []
 ---
-<p>T&auml;n&auml;&auml;n 9.4. vietet&auml;&auml;n <a href="http://naked.dustindiaz.com/">CSS Naked Day</a>:t&auml;, mink&auml; takia sivulta on poistettu kaikki css-muotoilu. Toivottavasti muistan vaihtaa takaisin...</p>
+<p>Tänään 9.4. vietetään <a href="http://naked.dustindiaz.com/">CSS Naked Day</a>:tä, minkä takia sivulta on poistettu kaikki css-muotoilu. Toivottavasti muistan vaihtaa takaisin...</p>

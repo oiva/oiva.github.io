@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Halvalla ei saa hyv&auml;&auml;
+title: Halvalla ei saa hyvää
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -22,9 +22,9 @@ tags:
 - varmuuskopiot
 comments: []
 ---
-<p>Web-palvelimenani t&auml;h&auml;n asti toiminut <a href="http://ifusehosting.com/home">iFuse Hostingin</a> <abbr title="Virtual Private Sever">VPS</abbr> otti ja kuoli viime viikon alussa. Tai ei kuollut, vaan tuhoutui. Halpa 10 punnan kuukausihinta oli ilmeisesti kompensoitu ei-niin-ammattitaitoisella ty&ouml;voimalla.</p>
-<p>Virallisen selityksen mukaan serverifarmin yll&auml;pit&auml;j&auml;t olivat ddos-hy&ouml;kk&auml;yksen yll&auml;tt&auml;ess&auml; irrottaneet useita palvelimia s&auml;hk&ouml;verkosta sammuttamatta palvelimia. Valitettavasti toimenpide aiheuttaa helposti kovalevyill&auml; olevan datan rikkoontumisen, toisin kuin esimerkiksi verkkoyhteyden katkaiseminen. T&auml;ll&auml; hetkell&auml; ei ole mit&auml;&auml;n varmuutta saanko palvelimella olleita tiedostojani takaisin.</p>
-<p>Katastrofaaliseksi palvelimen rikkoontumisen teki se, ett&auml; suurin osa automaattisista varmuuskopioistani oli jo jonkin aikaa mennyt koneelle, jota ei ole olemassa. Olin omaa tyhmyytt&auml;ni muuttanut koneen muuhun k&auml;ytt&ouml;&ouml;n muistamatta, ett&auml; se palveli varmuuskopiokoneena. (Opetus: varmista, ett&auml; saat varoituksen jos varmuuskopiointi ep&auml;onnistuu.)</p>
-<p>Tapahtuneen johdosta my&ouml;s t&auml;st&auml; blogista katosi muutama kirjoitus ja joitakin lukijoiden kommentteja. Pahoitteluni t&auml;st&auml;.</p>
-<p>Uutena palvelimena toimii nyt <a href="http://www.linode.com/?r=a5ee99ca3460fa24e8ee172aa706b8a0f7a4e725">Linoden</a> VPS, johon saa lis&auml;palveluna my&ouml;s automaattiset varmuuskopiot. T&auml;m&auml;n lis&auml;ksi pit&auml;isi tosin keksi&auml; toimiva ratkaisu off-site -vamuuskopioiden tekemiseen. Ideoita otetaan vastaan. Linoden palvelin on Lontoossa, joten latenssit pysyv&auml;t kohtuullisina. T&auml;h&auml;n menness&auml; palvelu on tuntunut hyv&auml;lt&auml; ja luotettavalta.</p>
-<p>Kantap&auml;&auml;n kautta asioiden oppiminen on tehokasta, mutta v&auml;h&auml;n liian usein se ainoa tapa oppia. Toivottavasti joku muu oppii t&auml;st&auml; my&ouml;s jotain.</p>
+<p>Web-palvelimenani tähän asti toiminut <a href="http://ifusehosting.com/home">iFuse Hostingin</a> <abbr title="Virtual Private Sever">VPS</abbr> otti ja kuoli viime viikon alussa. Tai ei kuollut, vaan tuhoutui. Halpa 10 punnan kuukausihinta oli ilmeisesti kompensoitu ei-niin-ammattitaitoisella työvoimalla.</p>
+<p>Virallisen selityksen mukaan serverifarmin ylläpitäjät olivat ddos-hyökkäyksen yllättäessä irrottaneet useita palvelimia sähköverkosta sammuttamatta palvelimia. Valitettavasti toimenpide aiheuttaa helposti kovalevyillä olevan datan rikkoontumisen, toisin kuin esimerkiksi verkkoyhteyden katkaiseminen. Tällä hetkellä ei ole mitään varmuutta saanko palvelimella olleita tiedostojani takaisin.</p>
+<p>Katastrofaaliseksi palvelimen rikkoontumisen teki se, että suurin osa automaattisista varmuuskopioistani oli jo jonkin aikaa mennyt koneelle, jota ei ole olemassa. Olin omaa tyhmyyttäni muuttanut koneen muuhun käyttöön muistamatta, että se palveli varmuuskopiokoneena. (Opetus: varmista, että saat varoituksen jos varmuuskopiointi epäonnistuu.)</p>
+<p>Tapahtuneen johdosta myös tästä blogista katosi muutama kirjoitus ja joitakin lukijoiden kommentteja. Pahoitteluni tästä.</p>
+<p>Uutena palvelimena toimii nyt <a href="http://www.linode.com/?r=a5ee99ca3460fa24e8ee172aa706b8a0f7a4e725">Linoden</a> VPS, johon saa lisäpalveluna myös automaattiset varmuuskopiot. Tämän lisäksi pitäisi tosin keksiä toimiva ratkaisu off-site -vamuuskopioiden tekemiseen. Ideoita otetaan vastaan. Linoden palvelin on Lontoossa, joten latenssit pysyvät kohtuullisina. Tähän mennessä palvelu on tuntunut hyvältä ja luotettavalta.</p>
+<p>Kantapään kautta asioiden oppiminen on tehokasta, mutta vähän liian usein se ainoa tapa oppia. Toivottavasti joku muu oppii tästä myös jotain.</p>

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Wordpressin p&auml;iv&auml;m&auml;&auml;r&auml;t ja kuukaudennimet suomeksi
+title: Wordpressin päivämäärät ja kuukaudennimet suomeksi
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -25,4 +25,4 @@ tags:
 - time
 comments: []
 ---
-<p>Wordpressin p&auml;ivityksen j&auml;lkeen blogin p&auml;iv&auml;m&auml;&auml;r&auml;t olivat j&auml;&auml;neet osittain englanniksi. (Mik&auml;h&auml;n j&auml;rki on p&auml;ivitt&auml;&auml; k&auml;ytt&auml;jien localet, kysynp&auml; vaan). Onneksi <a href="http://mnd.fi/?p=20">Henri on k&auml;ynyt l&auml;pi mit&auml; Wordpressin suomentaminen vaatii</a>, joten ongelma oli nopeasti ratkaistu <em>locale.php:n</em> puukotuksella. Noh, ensi kerralla t&auml;m&auml;n varmaan muistaa. :)</p>
+<p>Wordpressin päivityksen jälkeen blogin päivämäärät olivat jääneet osittain englanniksi. (Mikähän järki on päivittää käyttäjien localet, kysynpä vaan). Onneksi <a href="http://mnd.fi/?p=20">Henri on käynyt läpi mitä Wordpressin suomentaminen vaatii</a>, joten ongelma oli nopeasti ratkaistu <em>locale.php:n</em> puukotuksella. Noh, ensi kerralla tämän varmaan muistaa. :)</p>

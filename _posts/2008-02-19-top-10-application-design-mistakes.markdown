@@ -17,19 +17,19 @@ date: '2008-02-19 23:30:34 +0200'
 date_gmt: '2008-02-19 21:30:34 +0200'
 categories:
 - web-kehitys
-- k&auml;ytett&auml;vyys
+- käytettävyys
 tags:
-- k&auml;ytett&auml;vyys
+- käytettävyys
 - nielsen
-- k&auml;ytt&auml;j&auml;testaus
+- käyttäjätestaus
 comments: []
 ---
 <p><a href="http://www.useit.com/alertbox/application-mistakes.html">Top-10 Application-Design Mistakes</a></p>
-<p>Jakob Nielsenill&auml; on taas asiaa, t&auml;ll&auml; kertaa my&ouml;s web&ndash;k&auml;ytett&auml;vyyteen liittyen. Kymmenen v&auml;ltett&auml;v&auml;n virheen lis&auml;ksi Nielsen listaa suunnittelun perusl&auml;ht&ouml;kohdat:</p>
+<p>Jakob Nielsenillä on taas asiaa, tällä kertaa myös web&ndash;käytettävyyteen liittyen. Kymmenen vältettävän virheen lisäksi Nielsen listaa suunnittelun peruslähtökohdat:</p>
 <ul>
-<li>selvit&auml; mit&auml; k&auml;ytt&auml;j&auml;t tekev&auml;t ennen kuin suunnittelet mit&auml; ohjelman pit&auml;isi tehd&auml;</li>
-<li>&auml;l&auml; usko sokeasti mit&auml; k&auml;ytt&auml;j&auml; sanoo haluavansa, vaan selvit&auml; mit&auml; h&auml;n tekee</li>
-<li>vaatimusm&auml;&auml;rittelyt ovat aina v&auml;&auml;r&auml;ss&auml; :)</li>
-<li>paranna k&auml;ytt&ouml;liittym&auml;&auml; asteittain ja testaa v&auml;liss&auml; k&auml;ytt&auml;jill&auml;</li>
+<li>selvitä mitä käyttäjät tekevät ennen kuin suunnittelet mitä ohjelman pitäisi tehdä</li>
+<li>älä usko sokeasti mitä käyttäjä sanoo haluavansa, vaan selvitä mitä hän tekee</li>
+<li>vaatimusmäärittelyt ovat aina väärässä :)</li>
+<li>paranna käyttöliittymää asteittain ja testaa välissä käyttäjillä</li>
 </ul>
-<p>Valitettavan usein t&auml;m&auml;  on melkoista rakettitiedett&auml;. Onneksi Nielsenilt&auml; l&ouml;ytyy my&ouml;s numeroita k&auml;ytett&auml;vyyden tuottavuudesta: <a href="http://www.useit.com/alertbox/roi-first-study.html">Return on Investment for Usability</a></p>
+<p>Valitettavan usein tämä  on melkoista rakettitiedettä. Onneksi Nielseniltä löytyy myös numeroita käytettävyyden tuottavuudesta: <a href="http://www.useit.com/alertbox/roi-first-study.html">Return on Investment for Usability</a></p>

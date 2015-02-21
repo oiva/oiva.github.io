@@ -22,7 +22,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://theappleblog.com/2008/08/08/my-holy-grail-of-iphone-apps-arrives-pterm/">My Holy Grail Of iPhone Apps Arrives: pTerm | The Apple Blog</a></div></p>
-<div class="delicious-extended">Terminaalisofta iPhonelle / iPod touchille. Voisikohan t&auml;ll&auml; jo irkata?</div></p>
+<div class="delicious-extended">Terminaalisofta iPhonelle / iPod touchille. Voisikohan tällä jo irkata?</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/iphone">iphone</a> <a href="http://delicious.com/oiva/ssh">ssh</a> <a href="http://delicious.com/oiva/ipodtouch">ipodtouch</a>)</div><br />
             </li>
 <li>

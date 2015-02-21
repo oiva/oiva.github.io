@@ -24,10 +24,10 @@ comments:
   author_url: http://www.terolepisto.net
   date: '2009-01-08 12:57:54 +0200'
   date_gmt: '2009-01-08 09:57:54 +0200'
-  content: H&ouml;h, testi ei hyv&auml;ksynyt lukua 0
+  content: Höh, testi ei hyväksynyt lukua 0
 ---
 <ul class="delicious">
 <li>
-<div class="delicious-link"><a href="http://www.alaruokilamaa.com/testi/">&Auml;l&auml; ruoki lamaa</a></div></p>
-<div class="delicious-extended">Tee testi ja katso, mit&auml; vaikutuksia on sill&auml;, jos kaikki s&auml;&auml;st&auml;isiv&auml;t yht&auml; paljon kuin sin&auml;.</div></p>
+<div class="delicious-link"><a href="http://www.alaruokilamaa.com/testi/">älä ruoki lamaa</a></div></p>
+<div class="delicious-extended">Tee testi ja katso, mitä vaikutuksia on sillä, jos kaikki säästäisivät yhtä paljon kuin sinä.</div></p>
 <p>            </li></ul>

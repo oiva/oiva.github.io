@@ -17,7 +17,7 @@ wordpress_url: http://www.bobs.fi/oiva/?p=727
 date: '2011-05-28 11:05:42 +0300'
 date_gmt: '2011-05-28 09:05:42 +0300'
 categories:
-- el&auml;m&auml;
+- elämä
 - internet
 tags:
 - Dropbox
@@ -27,33 +27,33 @@ tags:
 - paperiton toimisto
 comments: []
 ---
-<p>Mielenkiintoinen ajatus: miten lopettaa paperien arkistointi kotona? Posti kantaa jatkuvalla sy&ouml;t&ouml;ll&auml; laskuja sek&auml; kirjeit&auml; pankilta, vakuutusyhti&ouml;lt&auml; ja muilta v&auml;h&auml;nkin virallisemmilta tahoilta.</p>
-<p>Jostain syyst&auml; p&auml;&auml;dyn s&auml;il&ouml;m&auml;&auml;n suurimman osan saaduista kirjeist&auml;, ja joskus ihan syyst&auml;kin: muutaman vuoden takaisia verotustietoja ja palkkakuitteja on tullut tarvittua.</p>
-<p>Vaikka paperiarkistoni on suhteellisen selke&auml;sti kategorisoitu, on oikean laskun tai takuukuitin l&ouml;yt&auml;minen silti vaikeaa. Lis&auml;ksi papereita alkaa olla siin&auml; m&auml;&auml;rin paljon, ett&auml; ne pit&auml;isi k&auml;yd&auml; l&auml;pi ja heitt&auml;&auml; vanhimmat pois, jotta uusille olisi tilaa. Mit&auml; asialle voi tehd&auml;?</p>
+<p>Mielenkiintoinen ajatus: miten lopettaa paperien arkistointi kotona? Posti kantaa jatkuvalla syötöllä laskuja sekä kirjeitä pankilta, vakuutusyhtiöltä ja muilta vähänkin virallisemmilta tahoilta.</p>
+<p>Jostain syystä päädyn säilömään suurimman osan saaduista kirjeistä, ja joskus ihan syystäkin: muutaman vuoden takaisia verotustietoja ja palkkakuitteja on tullut tarvittua.</p>
+<p>Vaikka paperiarkistoni on suhteellisen selkeästi kategorisoitu, on oikean laskun tai takuukuitin löytäminen silti vaikeaa. Lisäksi papereita alkaa olla siinä määrin paljon, että ne pitäisi käydä läpi ja heittää vanhimmat pois, jotta uusille olisi tilaa. Mitä asialle voi tehdä?</p>
 <h2>Netposti</h2>
-<p>Ensimm&auml;inen vaihe on kotiin tulevan paperin v&auml;hent&auml;minen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a>
+<p>Ensimmäinen vaihe on kotiin tulevan paperin vähentäminen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a>
 <script type="text/javascript">// < ![CDATA[
 var uri = 'http://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);
 document.write('<img src="'+uri +'"/>');
-// ]]></script>voi k&auml;&auml;nt&auml;&auml; osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) l&auml;hett&auml;m&auml;t kirjeet.</p>
-<p>Netpostissa on lista l&auml;hett&auml;jist&auml;, joista voi valita keiden postit haluaa saada s&auml;hk&ouml;isesti. Kirjeet eiv&auml;t tule s&auml;hk&ouml;postiin, mutta niist&auml; saa halutessaan s&auml;hk&ouml;posti-ilmoituksen. Kirjeet voi ladata Netpostista PDF:in&auml; omalle koneelleen.</p>
-<p>Kirjeiden luokittelu Netpostissa on valitettavasti melko kankeaa. Valmiita luokkia kirjeille on kuusi, ja jotkut kirjeet on valmiiksi luokiteltu niihin (esimerkiksi Luottokunnalta tulevat kirjeet on merkitty laskuiksi.). Luokittelua ei voi tiet&auml;&auml;kseni automatisoida l&auml;hett&auml;j&auml;n mukaan, vaan uudet palkkalaskelmat pit&auml;&auml; joka kerta merkit&auml; palkkalaskelmiksi jos haluaa k&auml;ytt&auml;&auml; luokittelua kirjeiden etsimiseen my&ouml;hemmin.</p>
-<p>Netpostiin voi my&ouml;s tehd&auml; omia kansioita, mutta en l&ouml;yt&auml;nyt tapaa jolla saapuvat kirjeet voisi suoraan siirt&auml;&auml; tiettyihin kansioihin.</p>
-<p>Netpostin lis&auml;ksi muutamat yritykset tarjoavat nettiversioita kirjeist&auml;&auml;n. S-ryhm&auml;n asiakasomistajapostin voi <a href="http://www.hok-elanto.fi/index.php?id=asiakasomistajaposti">k&auml;&auml;nt&auml;&auml; s&auml;hk&ouml;postiin</a>, ja ainakin If tarjoaa <a href="http://www.if.fi/web/fi/henkiloasiakkaat/IfKansio/Paperitonpalvelu/Pages/default.aspx">paperitonta palvelua</a>. N&auml;m&auml; ovat kuitenkin heti jonkun verran kankeampia k&auml;ytt&auml;&auml;, koska ne edellytt&auml;v&auml;t kirjautumista yrityksen omaan s&auml;hk&ouml;iseen palveluun.</p>
+// ]]></script>voi kääntää osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) lähettämät kirjeet.</p>
+<p>Netpostissa on lista lähettäjistä, joista voi valita keiden postit haluaa saada sähköisesti. Kirjeet eivät tule sähköpostiin, mutta niistä saa halutessaan sähköposti-ilmoituksen. Kirjeet voi ladata Netpostista PDF:inä omalle koneelleen.</p>
+<p>Kirjeiden luokittelu Netpostissa on valitettavasti melko kankeaa. Valmiita luokkia kirjeille on kuusi, ja jotkut kirjeet on valmiiksi luokiteltu niihin (esimerkiksi Luottokunnalta tulevat kirjeet on merkitty laskuiksi.). Luokittelua ei voi tietääkseni automatisoida lähettäjän mukaan, vaan uudet palkkalaskelmat pitää joka kerta merkitä palkkalaskelmiksi jos haluaa käyttää luokittelua kirjeiden etsimiseen myöhemmin.</p>
+<p>Netpostiin voi myös tehdä omia kansioita, mutta en löytänyt tapaa jolla saapuvat kirjeet voisi suoraan siirtää tiettyihin kansioihin.</p>
+<p>Netpostin lisäksi muutamat yritykset tarjoavat nettiversioita kirjeistään. S-ryhmän asiakasomistajapostin voi <a href="http://www.hok-elanto.fi/index.php?id=asiakasomistajaposti">kääntää sähköpostiin</a>, ja ainakin If tarjoaa <a href="http://www.if.fi/web/fi/henkiloasiakkaat/IfKansio/Paperitonpalvelu/Pages/default.aspx">paperitonta palvelua</a>. Nämä ovat kuitenkin heti jonkun verran kankeampia käyttää, koska ne edellyttävät kirjautumista yrityksen omaan sähköiseen palveluun.</p>
 <h2>Paperien digitointi</h2>
-<p>Mit&auml; tehd&auml; lopuille papereille, jotka kaikesta huolimatta p&auml;&auml;tyv&auml;t kotiin? Steve Losh kirjoitti mielenkiintoisen <a title="Going Paper-Free for $220 (eng)" href="http://stevelosh.com/blog/2011/05/paper-free/">artikkelin</a> (eng) prosessistaan, jolla h&auml;n digitoi paperinsa ja tallentaa ne verkkoon. Prosessi menee suurin piirtein n&auml;in:</p>
+<p>Mitä tehdä lopuille papereille, jotka kaikesta huolimatta päätyvät kotiin? Steve Losh kirjoitti mielenkiintoisen <a title="Going Paper-Free for $220 (eng)" href="http://stevelosh.com/blog/2011/05/paper-free/">artikkelin</a> (eng) prosessistaan, jolla hän digitoi paperinsa ja tallentaa ne verkkoon. Prosessi menee suurin piirtein näin:</p>
 <h3>1. Skannaa paperit</h3>
-<p>Steve suosittelee <a href="http://www.getdoxie.com/">Doxie</a>-dokumenttiskanneria, joka lukee paperit PDF-dokumenteiksi. Tarkoitukseen k&auml;y my&ouml;s mik&auml; tahansa skanneri, jossa on automaattinen paperisy&ouml;tt&ouml;.</p>
-<p>Skannaus kannattaa pit&auml;&auml; mahdollisimman helppona, kuten Doxien tapauksessa homma onnistuu yhdell&auml; napin painalluksella. Perinteisell&auml; skannerilla skannaaminen on ty&ouml;l&auml;st&auml;, ja kokemuksesta tied&auml;n, ett&auml; digitointiprojekti voi kaatua jo siihen.</p>
+<p>Steve suosittelee <a href="http://www.getdoxie.com/">Doxie</a>-dokumenttiskanneria, joka lukee paperit PDF-dokumenteiksi. Tarkoitukseen käy myös mikä tahansa skanneri, jossa on automaattinen paperisyöttö.</p>
+<p>Skannaus kannattaa pitää mahdollisimman helppona, kuten Doxien tapauksessa homma onnistuu yhdellä napin painalluksella. Perinteisellä skannerilla skannaaminen on työlästä, ja kokemuksesta tiedän, että digitointiprojekti voi kaatua jo siihen.</p>
 <h3>2. "Lue" paperit tekstintunnistuksella</h3>
-<p>Skannerin tuottama PDF-tiedosto on k&auml;yt&auml;nn&ouml;ss&auml; kuva paperista. Kuvasta ei voi viel&auml; etsi&auml; teksti&auml; tai kopioida sit&auml; muualle.</p>
-<p><a title="Wikipedia: tekstintunnistus" href="http://fi.wikipedia.org/wiki/Tekstintunnistus">Tekstintunnistus</a> lukee skannerin tekem&auml;n PDF:n ja tuottaa toisen PDF:n, jossa teksti on tekstimuodossa. N&auml;in syntyneit&auml; PDF:i&auml; voi etsi&auml; tietokoneelta niiden sis&auml;ll&ouml;n perusteella, mik&auml; helpottaa vaikkapa tietyn yrityksen laskujen l&ouml;yt&auml;mist&auml;.</p>
-<p>Steve ehdottaa tekstintunnistukseen <a href="http://solutions.weblite.ca/pdfocrx/">PDF OCR X</a>:&auml;&auml;. Tekstintunnistuksen voi my&ouml;s automatisoida apuohjelmalla (esimerkiksi <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> OS X:lle), joka huomaa kun skanneri tekee uuden tiedoston, sy&ouml;tt&auml;&auml; sen tekstintunnistusohjelmalle, ja kopioi valmiin tiedoston haluttuun kansioon halutulla nimell&auml;. Alkuper&auml;isen skannauksen voi my&ouml;s poistaa t&auml;ss&auml; vaiheessa.</p>
+<p>Skannerin tuottama PDF-tiedosto on käytännössä kuva paperista. Kuvasta ei voi vielä etsiä tekstiä tai kopioida sitä muualle.</p>
+<p><a title="Wikipedia: tekstintunnistus" href="http://fi.wikipedia.org/wiki/Tekstintunnistus">Tekstintunnistus</a> lukee skannerin tekemän PDF:n ja tuottaa toisen PDF:n, jossa teksti on tekstimuodossa. Näin syntyneitä PDF:iä voi etsiä tietokoneelta niiden sisällön perusteella, mikä helpottaa vaikkapa tietyn yrityksen laskujen löytämistä.</p>
+<p>Steve ehdottaa tekstintunnistukseen <a href="http://solutions.weblite.ca/pdfocrx/">PDF OCR X</a>:ää. Tekstintunnistuksen voi myös automatisoida apuohjelmalla (esimerkiksi <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> OS X:lle), joka huomaa kun skanneri tekee uuden tiedoston, syöttää sen tekstintunnistusohjelmalle, ja kopioi valmiin tiedoston haluttuun kansioon halutulla nimellä. Alkuperäisen skannauksen voi myös poistaa tässä vaiheessa.</p>
 <h3>3. Kopioi dokumentti pilvipalveluun</h3>
-<p>Dokumenttien s&auml;il&ouml;minen pelk&auml;st&auml;&auml;n omalla tietokoneella on riskialtista, sill&auml; kovalevyt tuppaavat hajoamaan, ja tulipalo tai varkaus voi tuhota koko arkiston.</p>
-<p>Netist&auml; l&ouml;ytyy nyky&auml;&auml;n useita pilvipalveluita, joihin voi varmuuskopioida oman tietokoneensa. Esimerkiksi <a href="http://www.backblaze.com/">Backblaze</a>, <a href="https://www.jungledisk.com/">Jungledisk</a> tai <a href="http://mozy.ie/">Mozy</a>. Palvelut maksavat tyypillisesti muutaman euron kuussa ja tallentavat tiedostot salattuina.</p>
-<p>My&ouml;s <a href="http://db.tt/Yp7l81H">Dropbox</a> on varteenotettava vaihtoehto. Dropbox tarjoaa kaksi gigaa tilaa ilmaiseksi ja Dropbox-kansioon kopioidut tiedostot synkronoidaan automaattisesti haluamillesi tietokoneille.</p>
-<p>Dropboxin tarjoama tietosuoja on kuitenkin hieman kyseenalainen muihin varmuuskopiopalveluihin verrattuna. Muutaman viikon takainen uutinen kertoo, ett&auml; <a href="http://www.wired.com/threatlevel/2011/05/dropbox-ftc/">Dropboxin ty&ouml;ntekij&auml;t voivat periaatteessa n&auml;hd&auml; tiedostosi</a>.</p>
-<p>K&auml;yt&auml;nn&ouml;ss&auml; tekstintunnistuksen tuottamat dokumentit voi kopioida erityiseen kansioon, jonka sis&auml;lt&ouml; kopioidaan automaattisesti talteen nettiin.</p>
-<p>Steve Loshin artikkelissa skannerille ja ohjelmille tule hintaa yhteens&auml; noin 220 dollaria (+ varmuuskopiopalvelun kuukausittainen hinta). Oman kodin s&auml;ilytystilalle ja paperien lajittelulle on toki vaikea laskea konkreettista hintaa, mutta paperittomuus tuntuu sen verran houkuttelevalta, ett&auml; olisin tuon valmis maksamaan.</p>
-<p>Parasta olisi tietysti, jos koko prosessi hoituisi yhdell&auml; ohjelmalla alusta loppuun. T&auml;llaisenaan ohjelmien asennus ja s&auml;&auml;t&auml;minen vaatii viel&auml; jonkun verran teknist&auml; osaamista.</p>
+<p>Dokumenttien säilöminen pelkästään omalla tietokoneella on riskialtista, sillä kovalevyt tuppaavat hajoamaan, ja tulipalo tai varkaus voi tuhota koko arkiston.</p>
+<p>Netistä löytyy nykyään useita pilvipalveluita, joihin voi varmuuskopioida oman tietokoneensa. Esimerkiksi <a href="http://www.backblaze.com/">Backblaze</a>, <a href="https://www.jungledisk.com/">Jungledisk</a> tai <a href="http://mozy.ie/">Mozy</a>. Palvelut maksavat tyypillisesti muutaman euron kuussa ja tallentavat tiedostot salattuina.</p>
+<p>Myös <a href="http://db.tt/Yp7l81H">Dropbox</a> on varteenotettava vaihtoehto. Dropbox tarjoaa kaksi gigaa tilaa ilmaiseksi ja Dropbox-kansioon kopioidut tiedostot synkronoidaan automaattisesti haluamillesi tietokoneille.</p>
+<p>Dropboxin tarjoama tietosuoja on kuitenkin hieman kyseenalainen muihin varmuuskopiopalveluihin verrattuna. Muutaman viikon takainen uutinen kertoo, että <a href="http://www.wired.com/threatlevel/2011/05/dropbox-ftc/">Dropboxin työntekijät voivat periaatteessa nähdä tiedostosi</a>.</p>
+<p>Käytännössä tekstintunnistuksen tuottamat dokumentit voi kopioida erityiseen kansioon, jonka sisältö kopioidaan automaattisesti talteen nettiin.</p>
+<p>Steve Loshin artikkelissa skannerille ja ohjelmille tule hintaa yhteensä noin 220 dollaria (+ varmuuskopiopalvelun kuukausittainen hinta). Oman kodin säilytystilalle ja paperien lajittelulle on toki vaikea laskea konkreettista hintaa, mutta paperittomuus tuntuu sen verran houkuttelevalta, että olisin tuon valmis maksamaan.</p>
+<p>Parasta olisi tietysti, jos koko prosessi hoituisi yhdellä ohjelmalla alusta loppuun. Tällaisenaan ohjelmien asennus ja säätäminen vaatii vielä jonkun verran teknistä osaamista.</p>

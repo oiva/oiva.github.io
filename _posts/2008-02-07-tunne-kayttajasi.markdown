@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Tunne k&auml;ytt&auml;j&auml;si
+title: Tunne käyttäjäsi
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -16,11 +16,11 @@ wordpress_url: http://www.bobs.fi/oiva/2008/02/07/tunne-kayttajasi/
 date: '2008-02-07 11:48:27 +0200'
 date_gmt: '2008-02-07 09:48:27 +0200'
 categories:
-- k&auml;ytett&auml;vyys
+- käytettävyys
 tags:
-- k&auml;ytett&auml;vyys
+- käytettävyys
 - koulu
 comments: []
 ---
-<p>Kaikista k&auml;ytett&auml;vyyss&auml;&auml;nn&ouml;ist&auml; ehk&auml; t&auml;rkein on k&auml;ytt&auml;jien tunteminen. Ainakin t&auml;ll&auml; hetkell&auml; tuntuu silt&auml;. K&auml;ytett&auml;vyyden arviointi -kurssilla arvioimme er&auml;st&auml; hisseihin liittyv&auml;&auml; k&auml;ytt&ouml;liittym&auml;&auml; sek&auml; asiantuntija-arvioinnein (mm. <a href="http://en.wikipedia.org/wiki/Cognitive_walkthrough">kognitiivisella l&auml;pik&auml;ynnill&auml;</a>), ett&auml; k&auml;ytett&auml;vyystestein.</p>
-<p>Ennen n&auml;it&auml; k&auml;vimme kuitenkin tutustumassa kahden hissihuoltomiehen tyypilliseen p&auml;iv&auml;&auml;n. Tulevat arvioinnit helpottuivat samantien noin 100% :) K&auml;ytt&ouml;liittymi&auml; arvioitaessa helposti luulee tiet&auml;v&auml;ns&auml; miten k&auml;ytt&auml;j&auml; toimii tai miten h&auml;n hahmottaa asian. N&auml;m&auml; kannattaa kuitenkin tarkistaa oikealta k&auml;ytt&auml;j&auml;lt&auml; jos vain mahdollista.</p>
+<p>Kaikista käytettävyyssäännöistä ehkä tärkein on käyttäjien tunteminen. Ainakin tällä hetkellä tuntuu siltä. Käytettävyyden arviointi -kurssilla arvioimme erästä hisseihin liittyvää käyttöliittymää sekä asiantuntija-arvioinnein (mm. <a href="http://en.wikipedia.org/wiki/Cognitive_walkthrough">kognitiivisella läpikäynnillä</a>), että käytettävyystestein.</p>
+<p>Ennen näitä kävimme kuitenkin tutustumassa kahden hissihuoltomiehen tyypilliseen päivään. Tulevat arvioinnit helpottuivat samantien noin 100% :) Käyttöliittymiä arvioitaessa helposti luulee tietävänsä miten käyttäjä toimii tai miten hän hahmottaa asian. Nämä kannattaa kuitenkin tarkistaa oikealta käyttäjältä jos vain mahdollista.</p>

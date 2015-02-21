@@ -31,21 +31,21 @@ comments:
   author_url: ''
   date: '2009-05-25 06:35:07 +0300'
   date_gmt: '2009-05-25 04:35:07 +0300'
-  content: "Onneksi t&auml;h&auml;n asti ongelma on ratkennut olemalla aloittamatta
+  content: "Onneksi tähän asti ongelma on ratkennut olemalla aloittamatta
     blogia. :P Toisin on asia Kiinassa, jossa moni tietotekniikan opiskelija ei aina
-    edes tajua etsi&auml; tietoa englanniksi, eik&auml; sit&auml; juuri muulla kielell&auml;k&auml;&auml;n
-    l&ouml;ydy. Voisi vauhdittaa vaan maan teknist&auml; kehityst&auml; aika tavalla.
-    (tosin osa oleellisesta infosta on kuitenkin blogeissa, wordpressiss&auml; tai
-    googlen cachessa, joka on blokattu, joten se siit&auml;kin sitten)\r\n\r\nAlun
-    perin suomen kielen henkil&ouml;kohtaisena suurena kannattajana olen huolissani
-    siit&auml;, ettei sit&auml; tule niin paljoa edes k&auml;ytetty&auml;..."
+    edes tajua etsiä tietoa englanniksi, eikä sitä juuri muulla kielelläkään
+    löydy. Voisi vauhdittaa vaan maan teknistä kehitystä aika tavalla.
+    (tosin osa oleellisesta infosta on kuitenkin blogeissa, wordpressissä tai
+    googlen cachessa, joka on blokattu, joten se siitäkin sitten)\r\n\r\nAlun
+    perin suomen kielen henkilökohtaisena suurena kannattajana olen huolissani
+    siitä, ettei sitä tule niin paljoa edes käytettyä..."
 ---
-<p>Aki Bj&ouml;rklund <a href="http://twitter.com/akibjorklund/status/1696226860">tweettasi</a>:</p>
+<p>Aki Björklund <a href="http://twitter.com/akibjorklund/status/1696226860">tweettasi</a>:</p>
 <blockquote><p><span class="status-body"><span class="entry-content">Should have started to blog in English. Cannot understand why am I still doing it in Finnish. My English is bad, yes, but not *that* bad.</span></span></p></blockquote>
-<p><span class="status-body"><span class="entry-content">Niinp&auml;, miksi kirjoittaa suomenkielist&auml; blogia? Englanninkielisiin blogeihin verrattuna potentiaalista yleis&ouml;&auml; on todella v&auml;h&auml;n. Piirit ovat pienet ja suurta menestyst&auml; on turha odottaa :)
+<p><span class="status-body"><span class="entry-content">Niinpä, miksi kirjoittaa suomenkielistä blogia? Englanninkielisiin blogeihin verrattuna potentiaalista yleisöä on todella vähän. Piirit ovat pienet ja suurta menestystä on turha odottaa :)
 </span></span></p>
-<p><span class="status-body"><span class="entry-content">Taisin ajatella aikoinaan, ett&auml; ihmisill&auml; pit&auml;&auml; olla oikeus lukea heit&auml; kiinnostavista asioista omalla &auml;idinkielell&auml;&auml;n. T&auml;m&auml; on ihan hyv&auml; pointti, ainakin jos puhutaan Wikipediasta. Pienen tietotekniikkaa k&auml;sittelev&auml;n blogin kohdalla en ole en&auml;&auml; niin varma.</span></span></p>
-<p><span class="status-body"><span class="entry-content">Fakta on, ett&auml; tietotekniikan parissa toimivat ihmiset kuluttavat todella paljon englanninkielist&auml; sis&auml;lt&ouml;&auml;. Ja sis&auml;lt&ouml;&auml; my&ouml;s tuotetaan englanniksi. Esimerkiksi suurin osa suomalaisista Twitter-tutuista tuntuu kirjoittavan englanniksi, ja homma tuntuu luontevalta.</span></span></p>
-<p><span class="status-body"><span class="entry-content">Henkil&ouml;kohtainen ongelmani on, ett&auml; mink&auml; tahansa blogin kielen vaihtuminen englanniksi tuntuu jotenkin todella t&ouml;ker&ouml;lt&auml;. Yht&auml;kki&auml; sit&auml; ollaan niin<em> amerikanblogia</em> ett&auml;! Kielt&auml; vaihtaneiden kirjoittajien ilmaisu tuntuu kankealta ja blogi on v&auml;h&auml;n aikaa h&auml;mment&auml;v&auml;ss&auml; v&auml;litilassa, miss&auml; erikieliset sis&auml;ll&ouml;t ovat iloisesti sekaisin.</span></span></p>
-<p><span class="status-body"><span class="entry-content"><strong>Eli: jos aloittelet blogia, tee se englanniksi.</strong> Jos vaihdat kielt&auml; kesken kaiken, aloita uusi blogi? :) Englanniksi kirjoittamalla voi olla osana todella suurta yhteis&ouml;&auml;. Eik&auml; mik&auml;&auml;n est&auml; ottamasta Suomin&auml;k&ouml;kulmaa mukaan kielest&auml; riippumatta.<br />
+<p><span class="status-body"><span class="entry-content">Taisin ajatella aikoinaan, että ihmisillä pitää olla oikeus lukea heitä kiinnostavista asioista omalla äidinkielellään. Tämä on ihan hyvä pointti, ainakin jos puhutaan Wikipediasta. Pienen tietotekniikkaa käsittelevän blogin kohdalla en ole enää niin varma.</span></span></p>
+<p><span class="status-body"><span class="entry-content">Fakta on, että tietotekniikan parissa toimivat ihmiset kuluttavat todella paljon englanninkielistä sisältöä. Ja sisältöä myös tuotetaan englanniksi. Esimerkiksi suurin osa suomalaisista Twitter-tutuista tuntuu kirjoittavan englanniksi, ja homma tuntuu luontevalta.</span></span></p>
+<p><span class="status-body"><span class="entry-content">Henkilökohtainen ongelmani on, että minkä tahansa blogin kielen vaihtuminen englanniksi tuntuu jotenkin todella tökeröltä. Yhtäkkiä sitä ollaan niin<em> amerikanblogia</em> että! Kieltä vaihtaneiden kirjoittajien ilmaisu tuntuu kankealta ja blogi on vähän aikaa hämmentävässä välitilassa, missä erikieliset sisällöt ovat iloisesti sekaisin.</span></span></p>
+<p><span class="status-body"><span class="entry-content"><strong>Eli: jos aloittelet blogia, tee se englanniksi.</strong> Jos vaihdat kieltä kesken kaiken, aloita uusi blogi? :) Englanniksi kirjoittamalla voi olla osana todella suurta yhteisöä. Eikä mikään estä ottamasta Suominäkökulmaa mukaan kielestä riippumatta.<br />
 </span></span></p>

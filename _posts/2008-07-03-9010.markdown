@@ -16,7 +16,7 @@ date: '2008-07-03 21:50:33 +0300'
 date_gmt: '2008-07-03 18:50:33 +0300'
 categories:
 - web-kehitys
-- el&auml;m&auml;
+- elämä
 - huumori
 tags:
 - ohjelmointi
@@ -24,9 +24,9 @@ tags:
 - asiakas
 comments: []
 ---
-<p>Olen tullut asiakasprojektien kanssa seuraavanlaiseen tulokseen: <strong>virheiden korjaamisessa 90% ajasta kuluu virheen l&ouml;yt&auml;miseen ja ongelman toistamiseen. 10% ajasta kuluu itse bugin korjaamiseen</strong> :P</p>
-<p>Koodaajia voi syytt&auml;&auml; huonoista virheilmoituksista, mutta bugiraportit ovat usein ihan suhteettoman ep&auml;selvi&auml;. "Nappi ei toimi" (toimii kokeiltaessa ihan hyvin), "erikoismerkit eiv&auml;t toimi" (toimivatpas), "v&auml;ri on v&auml;&auml;r&auml;" (mik&auml;h&auml;n v&auml;ri sen pit&auml;isi olla?) jne, jne.</p>
-<p>Vaatii aikamoista munkitusta, ett&auml; l&ouml;yt&auml;&auml; juuri sen oikean virheen, ja keksii miten homman pit&auml;isi asiakkaan mielest&auml; toimia.</p>
-<p>Ei t&auml;m&auml; sin&auml;ns&auml; ole (v&auml;ltt&auml;m&auml;tt&auml;, kokonaan) asiakkaan vika. Koodaaja ja asiakas vain l&auml;hestyv&auml;t samaa projektia hyvin eri suunnista ja k&auml;ytt&auml;v&auml;t usein eri terminologiaa. </p>
-<p>Kannattaa pit&auml;&auml; mieless&auml;, ett&auml; asiakkaan l&auml;hett&auml;m&auml;n virheraportin taustalla on yleens&auml; jokin todellinen virhetilanne. Vaikka bugiraportissa mainittu toiminto toimisikin t&auml;ydellisesti.</p>
-<p>Perjantain j&auml;lkeen alkaa kes&auml;loma, joka taitaa tulla ihan tarpeeseen :) . Tiedossa on m&ouml;kkeily&auml; ymp&auml;ri Suomea ja toivottavasti v&auml;h&auml;n v&auml;hemm&auml;n aikaa netiss&auml;.</p>
+<p>Olen tullut asiakasprojektien kanssa seuraavanlaiseen tulokseen: <strong>virheiden korjaamisessa 90% ajasta kuluu virheen löytämiseen ja ongelman toistamiseen. 10% ajasta kuluu itse bugin korjaamiseen</strong> :P</p>
+<p>Koodaajia voi syyttää huonoista virheilmoituksista, mutta bugiraportit ovat usein ihan suhteettoman epäselviä. "Nappi ei toimi" (toimii kokeiltaessa ihan hyvin), "erikoismerkit eivät toimi" (toimivatpas), "väri on väärä" (mikähän väri sen pitäisi olla?) jne, jne.</p>
+<p>Vaatii aikamoista munkitusta, että löytää juuri sen oikean virheen, ja keksii miten homman pitäisi asiakkaan mielestä toimia.</p>
+<p>Ei tämä sinänsä ole (välttämättä, kokonaan) asiakkaan vika. Koodaaja ja asiakas vain lähestyvät samaa projektia hyvin eri suunnista ja käyttävät usein eri terminologiaa. </p>
+<p>Kannattaa pitää mielessä, että asiakkaan lähettämän virheraportin taustalla on yleensä jokin todellinen virhetilanne. Vaikka bugiraportissa mainittu toiminto toimisikin täydellisesti.</p>
+<p>Perjantain jälkeen alkaa kesäloma, joka taitaa tulla ihan tarpeeseen :) . Tiedossa on mökkeilyä ympäri Suomea ja toivottavasti vähän vähemmän aikaa netissä.</p>

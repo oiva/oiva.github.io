@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: K&auml;ytett&auml;vyysasiantuntija vai koodaaja?
+title: Käytettävyysasiantuntija vai koodaaja?
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -18,13 +18,13 @@ date: '2008-03-17 22:21:34 +0200'
 date_gmt: '2008-03-17 20:21:34 +0200'
 categories:
 - web-kehitys
-- k&auml;ytett&auml;vyys
+- käytettävyys
 tags:
-- k&auml;ytett&auml;vyys
+- käytettävyys
 - ohjelmointi
 - koodari
 - koodaaja
-- k&auml;ytett&auml;vyysasiantuntija
+- käytettävyysasiantuntija
 - paperiprototyyppi
 - prototyyppi
 comments:
@@ -34,30 +34,30 @@ comments:
   author_url: http://www.ideacafe.fi
   date: '2008-03-29 08:29:50 +0200'
   date_gmt: '2008-03-29 06:29:50 +0200'
-  content: Tuollainen "koodaaja, joka tuntee k&auml;ytett&auml;vyytt&auml;" ja vice
-    versa on mielest&auml;ni ihan hyv&auml; ajattelumalli. Pienemmiss&auml;kin putiikeissa
-    menn&auml;&auml;n jatkuvasti siihen suuntaan, ett&auml; jokaisen tekij&auml;n
-    t&auml;ytyy olla erikoistunut tekem&auml;&auml;ns&auml; duuniin putkiaivoisesti,
-    joka taas saattaa johtaa rikkonaiseen kokonaisuuteen mik&auml;li vet&auml;j&auml;ll&auml;
-    ei ole todella selke&auml;t&auml; kokonaiskuvaa proggiksen eri osa-alueista. Uskonkin
-    siis, ett&auml; jatkossa on tarvetta sellasille tekij&ouml;ille, jotka kykenev&auml;t
+  content: Tuollainen "koodaaja, joka tuntee käytettävyyttä" ja vice
+    versa on mielestäni ihan hyvä ajattelumalli. Pienemmissäkin putiikeissa
+    mennään jatkuvasti siihen suuntaan, että jokaisen tekijän
+    täytyy olla erikoistunut tekemäänsä duuniin putkiaivoisesti,
+    joka taas saattaa johtaa rikkonaiseen kokonaisuuteen mikäli vetäjällä
+    ei ole todella selkeätä kokonaiskuvaa proggiksen eri osa-alueista. Uskonkin
+    siis, että jatkossa on tarvetta sellasille tekijöille, jotka kykenevät
     ajattelemaan tuotoksia kokonaisuutena.
 ---
-<p>T&ouml;rm&auml;sin ty&ouml;haastattelussa kysymykseen haluaisinko olla mieluummin k&auml;ytett&auml;vyysasiantuntija vai koodaaja. Olen CV:ss&auml;ni painottanut v&auml;h&auml;n molempia, joten kysymys oli ihan ansaittu.</p>
-<p>Nykyisess&auml; ty&ouml;ss&auml;ni olen koodari, mutta kaipaan k&auml;ytett&auml;vyyspuolen t&ouml;it&auml; p&auml;iv&auml; p&auml;iv&auml;lt&auml; enemm&auml;n. Pid&auml;n toisaalta my&ouml;s ajoittaisesta koodin parissa puurtamisesta. Hankala yht&auml;l&ouml; siis. Seuraavassa on kuitenkin muutamia syit&auml; miksi mielest&auml;ni olisi hyv&auml; tuntea v&auml;h&auml;n molempia aloja:</p>
-<h4><a id="more"></a><a id="more-33"></a>K&auml;ytett&auml;vyysasiantuntija, joka osaa koodata:</h4>
+<p>Törmäsin työhaastattelussa kysymykseen haluaisinko olla mieluummin käytettävyysasiantuntija vai koodaaja. Olen CV:ssäni painottanut vähän molempia, joten kysymys oli ihan ansaittu.</p>
+<p>Nykyisessä työssäni olen koodari, mutta kaipaan käytettävyyspuolen töitä päivä päivältä enemmän. Pidän toisaalta myös ajoittaisesta koodin parissa puurtamisesta. Hankala yhtälö siis. Seuraavassa on kuitenkin muutamia syitä miksi mielestäni olisi hyvä tuntea vähän molempia aloja:</p>
+<h4><a id="more"></a><a id="more-33"></a>Käytettävyysasiantuntija, joka osaa koodata:</h4>
 <ul>
-<li>pystyy koodaamaan nopeita prototyyppej&auml; uusista ohjelmista, joita voi k&auml;ytt&auml;&auml; suunnitteluvaiheen k&auml;ytett&auml;vyystestien apuna</li>
-<li>voi tehd&auml; muutoksia ohjelman k&auml;ytt&ouml;liittym&auml;&auml;n uusien ratkaisuehdotusten validoimiseksi</li>
-<li>osaa suositella tiettyj&auml; korjausehdotuksia ottaen huomioon miten helppo niit&auml; on toteuttaa k&auml;yt&auml;nn&ouml;ss&auml;</li>
-<li>osaa k&auml;ytett&auml;vyystestiss&auml; kysy&auml; "ent&auml; jos"-kysymyksi&auml; tiet&auml;en mik&auml; olisi mahdollista toteuttaa koodin puolella</li>
+<li>pystyy koodaamaan nopeita prototyyppejä uusista ohjelmista, joita voi käyttää suunnitteluvaiheen käytettävyystestien apuna</li>
+<li>voi tehdä muutoksia ohjelman käyttöliittymään uusien ratkaisuehdotusten validoimiseksi</li>
+<li>osaa suositella tiettyjä korjausehdotuksia ottaen huomioon miten helppo niitä on toteuttaa käytännössä</li>
+<li>osaa käytettävyystestissä kysyä "entä jos"-kysymyksiä tietäen mikä olisi mahdollista toteuttaa koodin puolella</li>
 </ul>
-<h4>Koodaaja, joka tuntee k&auml;ytett&auml;vyytt&auml;:</h4>
+<h4>Koodaaja, joka tuntee käytettävyyttä:</h4>
 <ul>
-<li>osaa  tehd&auml;  kevyit&auml;  k&auml;ytett&auml;vyysarviointeja  esimerkiksi <a href="http://www.useit.com/alertbox/20030414.html">paperiprototyyppien</a> avulla.  Nopea  l&auml;pik&auml;ynti yhdenkin ihmisen kanssa voi antaa perspektiivi&auml; suunnitteluun</li>
-<li>osaa lukea k&auml;ytett&auml;vyystestien tuloksia, ja ymm&auml;rt&auml;&auml;, ett&auml; ne ovat ihan oikeita ongelmia :)</li>
-<li>osaa suorittaa omille tai ty&ouml;kaverin ohjelmille <a href="http://www.useit.com/papers/guerrilla_hci.html">kevyen asiantuntija-arvion</a>, esimerkiksi <a href="http://www.useit.com/papers/heuristic/heuristic_evaluation.html">heuristisen arvion,</a> MUTTA:</li>
-<li>EI silti tied&auml;  miten k&auml;ytett&auml;v&auml; ohjelma koodataan</li>
+<li>osaa  tehdä  kevyitä  käytettävyysarviointeja  esimerkiksi <a href="http://www.useit.com/alertbox/20030414.html">paperiprototyyppien</a> avulla.  Nopea  läpikäynti yhdenkin ihmisen kanssa voi antaa perspektiiviä suunnitteluun</li>
+<li>osaa lukea käytettävyystestien tuloksia, ja ymmärtää, että ne ovat ihan oikeita ongelmia :)</li>
+<li>osaa suorittaa omille tai työkaverin ohjelmille <a href="http://www.useit.com/papers/guerrilla_hci.html">kevyen asiantuntija-arvion</a>, esimerkiksi <a href="http://www.useit.com/papers/heuristic/heuristic_evaluation.html">heuristisen arvion,</a> MUTTA:</li>
+<li>EI silti tiedä  miten käytettävä ohjelma koodataan</li>
 </ul>
-<p>Viimeinen kohta aiheuttaa usein p&auml;&auml;nvaivaa. Yksitt&auml;isen koodarin mutuilu "ihmiset varmaan etsii t&auml;t&auml; nappia t&auml;&auml;lt&auml;" ei ole sama asia kuin k&auml;ytett&auml;vyystestiss&auml; varmistettu tulos. Ei vaikka kaksi koodaria olisivat samaa mielt&auml;. Tai toisin p&auml;in sanottuna: k&auml;ytett&auml;vyystestit antavat kovaa dataa siit&auml;, mik&auml; toimii ja mik&auml; ei. Sen j&auml;lkeen toimimattomat asiat voi perustellusti korjata.</p>
-<p>Vastauksena alkuper&auml;iseen kysymykseen, haluaisin ehk&auml; olla enemm&auml;n k&auml;ytett&auml;vyysihminen, ainakin nyt. Koodia silti unohtamatta. Lukitaan t&auml;m&auml; vastaus :P</p>
+<p>Viimeinen kohta aiheuttaa usein päänvaivaa. Yksittäisen koodarin mutuilu "ihmiset varmaan etsii tätä nappia täältä" ei ole sama asia kuin käytettävyystestissä varmistettu tulos. Ei vaikka kaksi koodaria olisivat samaa mieltä. Tai toisin päin sanottuna: käytettävyystestit antavat kovaa dataa siitä, mikä toimii ja mikä ei. Sen jälkeen toimimattomat asiat voi perustellusti korjata.</p>
+<p>Vastauksena alkuperäiseen kysymykseen, haluaisin ehkä olla enemmän käytettävyysihminen, ainakin nyt. Koodia silti unohtamatta. Lukitaan tämä vastaus :P</p>

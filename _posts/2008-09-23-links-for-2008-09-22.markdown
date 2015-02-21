@@ -22,6 +22,6 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://www.smashingmagazine.com/2008/09/16/jquery-examples-and-best-practices/">jQuery and JavaScript Coding: Examples and Best Practices</a></div></p>
-<div class="delicious-extended">Artikkeli siit&auml; miten jQuery&auml; pit&auml;isi k&auml;ytt&auml;&auml;, eli lis&auml;&auml;m&auml;ll&auml; toiminnallisuutta hyvin rakennettuun HTML-sivuun.</div></p>
+<div class="delicious-extended">Artikkeli siitä miten jQueryä pitäisi käyttää, eli lisäämällä toiminnallisuutta hyvin rakennettuun HTML-sivuun.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/webdev">webdev</a> <a href="http://delicious.com/oiva/javascript">javascript</a> <a href="http://delicious.com/oiva/jquery">jquery</a> <a href="http://delicious.com/oiva/accessibility">accessibility</a>)</div><br />
             </li></ul>

@@ -24,7 +24,7 @@ tags:
 - tutoriaalit
 comments:
 - id: 9
-  author: Emil Stenstr&ouml;m
+  author: Emil Stenström
   author_email: em@kth.se
   author_url: http://friendlybit.com
   date: '2008-02-25 21:54:23 +0200'
@@ -37,36 +37,36 @@ comments:
   author_url: http://www.2kmediat.com/artikkelit/
   date: '2008-02-26 11:55:59 +0200'
   date_gmt: '2008-02-26 09:55:59 +0200'
-  content: "T&auml;ss&auml; muutama linkki (omiin tuotoksiin) em. aiheista: \r\n*
+  content: "Tässä muutama linkki (omiin tuotoksiin) em. aiheista: \r\n*
     http://www.2kmediat.com/css/ \r\n* http://www.2kmediat.com/xhtml/
-    \r\n\r\nEtenkin CSS-osuuden pit&auml;isi olla \"eritt&auml;in laadukas\".  My&ouml;s
-    Tapio Markulan yll&auml;pit&auml;m&auml; CSS-sivusto on eritt&auml;in suositeltava."
+    \r\n\r\nEtenkin CSS-osuuden pitäisi olla \"erittäin laadukas\".  Myös
+    Tapio Markulan ylläpitämä CSS-sivusto on erittäin suositeltava."
 - id: 11
   author: Oiva
   author_email: oiva.eskola@gmail.com
   author_url: http://
   date: '2008-02-26 12:20:11 +0200'
   date_gmt: '2008-02-26 10:20:11 +0200'
-  content: Kiitos vinkeist&auml;. Markulan CSS-sivu n&auml;ytt&auml;&auml; olevan
-    rikki, voin lis&auml;t&auml; sen my&ouml;hemmin.
+  content: Kiitos vinkeistä. Markulan CSS-sivu näyttää olevan
+    rikki, voin lisätä sen myöhemmin.
 - id: 46
   author: HTML ja CSS -ohjeet, osa 2 &#8212; Oivallisia juttuja
   author_email: ''
   author_url: http://oivaeskola.fi/2008/05/05/html-ja-css-ohjeet-osa-2/
   date: '2008-05-05 18:19:28 +0300'
   date_gmt: '2008-05-05 15:19:28 +0300'
-  content: "[...] aikaisemmin yhteen muutamia suomenkielisi&auml; HTML ja CSS -ohjeita.
+  content: "[...] aikaisemmin yhteen muutamia suomenkielisiä HTML ja CSS -ohjeita.
     Englannintaitoisille voin kuitenkin suositella Veerlen listaa oppaista. Mukana
     on perustelut [...]"
 ---
-<p><a href="http://tero.vuodatus.net/">Tero</a> kyseli HTML ja CSS -tutoriaalien per&auml;&auml;n, ja tulin samalla katsastaneeksi suomenkielisten oppaiden tarjonnan.</p>
+<p><a href="http://tero.vuodatus.net/">Tero</a> kyseli HTML ja CSS -tutoriaalien perään, ja tulin samalla katsastaneeksi suomenkielisten oppaiden tarjonnan.</p>
 <ul>
-<li><a href="http://www.cs.tut.fi/~jkorpela/webjulk/">Jukka Korpelan Web-julkaisemisen opas</a> on Kattava opas suurin piirtein kaikkeen aiheeseen liittyv&auml;&auml;n. "Miten teen Web-sivun" on ihan p&auml;tev&auml;.</li>
-<li><a href="http://koti.mbnet.fi/ugo/johdanto.html">Jukka Tujulan johdanto kotisivujen tekemiseen</a> sis&auml;lt&auml;&auml; hyvi&auml; periaatteita, jos jaksaa kahlata "peelosivuista" mouhoamisen l&auml;pi.</li>
-<li><a href="http://www.mvnet.fi/index.php?osio=Kotisivun_teko&amp;sivu=Linkkej%C3%A4">MVnet: Linkkej&auml; kotisivun tekij&auml;lle</a> sis&auml;lt&auml;&auml; paljon hyvi&auml; linkkej&auml; suomen- ja englanninkielisiin oppaisiin. Vaikuttaisi olevan ajan tasalla.</li>
+<li><a href="http://www.cs.tut.fi/~jkorpela/webjulk/">Jukka Korpelan Web-julkaisemisen opas</a> on Kattava opas suurin piirtein kaikkeen aiheeseen liittyvään. "Miten teen Web-sivun" on ihan pätevä.</li>
+<li><a href="http://koti.mbnet.fi/ugo/johdanto.html">Jukka Tujulan johdanto kotisivujen tekemiseen</a> sisältää hyviä periaatteita, jos jaksaa kahlata "peelosivuista" mouhoamisen läpi.</li>
+<li><a href="http://www.mvnet.fi/index.php?osio=Kotisivun_teko&amp;sivu=Linkkej%C3%A4">MVnet: Linkkejä kotisivun tekijälle</a> sisältää paljon hyviä linkkejä suomen- ja englanninkielisiin oppaisiin. Vaikuttaisi olevan ajan tasalla.</li>
 </ul>
 <p>Bonuksena muutama englanninkielinen sivu:</p>
 <ul>
-<li><a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/">Friendly Bit: Beginner&rsquo;s guide to CSS</a>. Lis&auml;ksi my&ouml;s standardeista ja hyvist&auml; k&auml;yt&auml;nn&ouml;ist&auml;.</li>
-<li><a href="http://www.csszengarden.com/">CSS Zen Garden</a> avasi aikoinaan ainakin omia silmi&auml;ni sille, mit&auml; kaikkea CSS:ll&auml; voi tehd&auml; (koskematta sivun sis&auml;lt&ouml;&ouml;n).</li>
+<li><a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/">Friendly Bit: Beginner&rsquo;s guide to CSS</a>. Lisäksi myös standardeista ja hyvistä käytännöistä.</li>
+<li><a href="http://www.csszengarden.com/">CSS Zen Garden</a> avasi aikoinaan ainakin omia silmiäni sille, mitä kaikkea CSS:llä voi tehdä (koskematta sivun sisältöön).</li>
 </ul>

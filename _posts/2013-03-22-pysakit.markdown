@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Pys&auml;kit
+title: Pysäkit
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -17,30 +17,30 @@ date_gmt: '2013-03-22 07:56:10 +0200'
 categories:
 - web-kehitys
 - web-palvelut
-- ty&ouml;
+- työ
 tags: []
 comments: []
 ---
-<p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pys&auml;kit</a> on iOS-applikaatio, joka n&auml;ytt&auml;&auml; HSL:n pys&auml;kkiaikatauluja. Se on ensimm&auml;inen tekem&auml;ni <a href="http://phonegap.com/">Phonegap</a>-applikaatio ja ensimm&auml;inen App Storessa julkaisemani applikaatio.</p>
-<p>"Pys&auml;kkien" t&auml;rkeimm&auml;t ominaisuudet ovat:</p>
+<p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit</a> on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni <a href="http://phonegap.com/">Phonegap</a>-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.</p>
+<p>"Pysäkkien" tärkeimmät ominaisuudet ovat:</p>
 <ul>
-<li>Etusivulta n&auml;kee heti kaksi seuraavaa l&auml;ht&ouml;&auml; valitsemilleen pys&auml;keille</li>
-<li>Pys&auml;kkej&auml; voi hakea nimen, pys&auml;kkikoodin tai linjan perusteella</li>
-<li>... tai voit hakea suoraan l&auml;himm&auml;t pys&auml;kit</li>
+<li>Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeille</li>
+<li>Pysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella</li>
+<li>... tai voit hakea suoraan lähimmät pysäkit</li>
 </ul>
-<p>Projekti l&auml;hti alunperin liikkeelle siit&auml;, ett&auml; minun piti opetella k&auml;ytt&auml;m&auml;&auml;n <a href="http://backbonejs.org/">Backbone.js</a>-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.</p>
-<p>Halusin tehd&auml; itselleni ohjelman, mill&auml; n&auml;kee pys&auml;kkiaikataulut yhdell&auml; silm&auml;yksell&auml;, ilman ett&auml; tarvitsee erikseen navigoida ohjelmassa.</p>
-<p>Oma ongelmani pys&auml;kkiaikataulujen kanssa juontuu siit&auml;, ett&auml; ry&ouml;min t&ouml;ihin joskus klo 7-10 v&auml;lisen&auml; aikana. Lis&auml;ksi t&ouml;ihin p&auml;&auml;see joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei v&auml;ltt&auml;m&auml;tt&auml; olisi, mutta olen laiska.</p>
-<p>Ongelma on aika tarkkaan rajattu, mutta mielest&auml;ni hyv&auml; applikaatio ratkaisee mieluummin yhden ongelman hyvin kuin monta huonosti. App Storessa on jo lukuisia reittiopas-applikaatioita - en yrit&auml; kilpailla niitten kanssa.</p>
-<p>HSL tarjoaa kelvollisen <a href="http://developer.reittiopas.fi/pages/fi/reittiopas-api.php">API:n</a>, mit&auml; kautta saa haettua pys&auml;kkien tiedot ja aikataulut. APIn p&auml;&auml;lle oli helppo l&auml;hte&auml; rakentamaan ja tiedoista saa my&ouml;s k&auml;tev&auml;n XML-dumpin.</p>
+<p>Projekti lähti alunperin liikkeelle siitä, että minun piti opetella käyttämään <a href="http://backbonejs.org/">Backbone.js</a>-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.</p>
+<p>Halusin tehdä itselleni ohjelman, millä näkee pysäkkiaikataulut yhdellä silmäyksellä, ilman että tarvitsee erikseen navigoida ohjelmassa.</p>
+<p>Oma ongelmani pysäkkiaikataulujen kanssa juontuu siitä, että ryömin töihin joskus klo 7-10 välisenä aikana. Lisäksi töihin pääsee joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei välttämättä olisi, mutta olen laiska.</p>
+<p>Ongelma on aika tarkkaan rajattu, mutta mielestäni hyvä applikaatio ratkaisee mieluummin yhden ongelman hyvin kuin monta huonosti. App Storessa on jo lukuisia reittiopas-applikaatioita - en yritä kilpailla niitten kanssa.</p>
+<p>HSL tarjoaa kelvollisen <a href="http://developer.reittiopas.fi/pages/fi/reittiopas-api.php">API:n</a>, mitä kautta saa haettua pysäkkien tiedot ja aikataulut. APIn päälle oli helppo lähteä rakentamaan ja tiedoista saa myös kätevän XML-dumpin.</p>
 <h2>Teknologiat</h2>
-<p>Itse applikaatio on HTML5-tekniikoilla toteutettu <a href="http://en.wikipedia.org/wiki/Single-page_application">Single Page App</a>. K&auml;yt&ouml;ss&auml; on sek&auml; <a href="http://backbonejs.org/">Backbone.js</a>, ett&auml; <a href="http://jquerymobile.com/">jQuery Mobile</a> -kirjastot.</p>
-<p>N&auml;iden kahden kirjaston yhteensovittaminen oli hieman hankalaa. Molemmat haluaisivat esimerkiksi hoitaa navigaation eri sivujen v&auml;lill&auml;, ja eri sivujen uudelleenpiirt&auml;minen sis&auml;ll&ouml;n muuttuessa aiheutti harmaita hiuksia. Muut ovat kirjoittaneet aiheesta pitemmin ja paremmin, esimerkiksi <a href="https://supportbee.com/devblog/2013/02/12/jquery-mobile-backbone-backbone/">t&auml;&auml;ll&auml;</a>.</p>
-<p>Projektin aikana innostus jQuery Mobilea kohtaan hiipui aika lailla. JQuery Mobilen <a href="https://github.com/jquery/jquery-mobile/issues?state=open">bugilista</a> tuli nopeasti hyvin tutuksi. Esimerkiksi monia transitioihin ja kiinteisiin navigaatiopalkkeihin liittyvi&auml; bugeja ei ole saatu korjattua, ja varsinkin Phonegapin ja jQuery Mobilen kanssa on hankalia ongelmia.</p>
-<p>Koodaaminen satunnaisten blogien <a href="http://outof.me/fixing-flickers-jumps-of-jquery-mobile-transitions-in-phonegap-apps/">ohjeiden</a> ja <a href="http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/">work-aroundien</a> varassa ei her&auml;t&auml; luottamusta.</p>
-<p>Ty&ouml;-chatiss&auml; tiivistyi lopulta ajatus: jos aloittaisin saman projektin nyt, en ottaisi jQuery Mobilea mukaan. Muutamat jQM:n tarjoamat transitiot olisi helppo tehd&auml; itse (tai irrottaa jQM:st&auml;), ja ne vois optimoida paremmin pelk&auml;st&auml;&auml;n iOS:lle.</p>
-<p>Lis&auml;ksi kirjaston tarjoamat tyylit eiv&auml;t nyky&auml;&auml;n ole kovinkaan k&auml;ytt&ouml;kelpoisia. Mobiiliapplikaatio, joka "n&auml;ytt&auml;&auml; jQuery Mobilelta" aiheuttaa samanlaisia hylkivi&auml; reaktioita kuin nettisivu, joka n&auml;ytt&auml;&auml; <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrapin</a> perustyyleilt&auml;. <a href="http://jquerymobile.com/themeroller/">Theme Rollerilla</a> saa vaihdettua v&auml;rej&auml; ja nappien py&ouml;ristyksi&auml;, mutta muuten tyylej&auml; joutuu joka tapauksessa tekem&auml;&auml;n paljon itse.</p>
-<p>Backbone (ja <a href="http://marionettejs.com/">Marionette.js</a>) tulevat sen sijaan pysym&auml;&auml;n <em>st&auml;kiss&auml;ni</em>.</p>
-<p>Lopuksi applikaatio on wrapatty Phonegapilla natiiviksi paketiksi, jonka saa App Storeen myyntiin. Periaatteessa Phonegapin avulla saisi tehty&auml; my&ouml;s Android-version jos silt&auml; tuntuu. Toki ennen sit&auml; ohjelmasta pit&auml;isi poistaa takaisin-nuolet ja graffoista tehd&auml; v&auml;hemm&auml;n iOS:n n&auml;k&ouml;iset :)</p>
-<p>Kaiken kaikkiaan projekti oli hyv&auml; tapa oppia asioita Backbonesta, Xcodesta, App Storen julkaisuprosessista ja testaamisesta. Kehityslistalle j&auml;i viel&auml; l&auml;j&auml; ominaisuuksia ja bugikorjauksia, joiden parissa menee viel&auml; tovi.</p>
-<p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pys&auml;kit App Storessa</a></p>
+<p>Itse applikaatio on HTML5-tekniikoilla toteutettu <a href="http://en.wikipedia.org/wiki/Single-page_application">Single Page App</a>. Käytössä on sekä <a href="http://backbonejs.org/">Backbone.js</a>, että <a href="http://jquerymobile.com/">jQuery Mobile</a> -kirjastot.</p>
+<p>Näiden kahden kirjaston yhteensovittaminen oli hieman hankalaa. Molemmat haluaisivat esimerkiksi hoitaa navigaation eri sivujen välillä, ja eri sivujen uudelleenpiirtäminen sisällön muuttuessa aiheutti harmaita hiuksia. Muut ovat kirjoittaneet aiheesta pitemmin ja paremmin, esimerkiksi <a href="https://supportbee.com/devblog/2013/02/12/jquery-mobile-backbone-backbone/">täällä</a>.</p>
+<p>Projektin aikana innostus jQuery Mobilea kohtaan hiipui aika lailla. JQuery Mobilen <a href="https://github.com/jquery/jquery-mobile/issues?state=open">bugilista</a> tuli nopeasti hyvin tutuksi. Esimerkiksi monia transitioihin ja kiinteisiin navigaatiopalkkeihin liittyviä bugeja ei ole saatu korjattua, ja varsinkin Phonegapin ja jQuery Mobilen kanssa on hankalia ongelmia.</p>
+<p>Koodaaminen satunnaisten blogien <a href="http://outof.me/fixing-flickers-jumps-of-jquery-mobile-transitions-in-phonegap-apps/">ohjeiden</a> ja <a href="http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/">work-aroundien</a> varassa ei herätä luottamusta.</p>
+<p>Työ-chatissä tiivistyi lopulta ajatus: jos aloittaisin saman projektin nyt, en ottaisi jQuery Mobilea mukaan. Muutamat jQM:n tarjoamat transitiot olisi helppo tehdä itse (tai irrottaa jQM:stä), ja ne vois optimoida paremmin pelkästään iOS:lle.</p>
+<p>Lisäksi kirjaston tarjoamat tyylit eivät nykyään ole kovinkaan käyttökelpoisia. Mobiiliapplikaatio, joka "näyttää jQuery Mobilelta" aiheuttaa samanlaisia hylkiviä reaktioita kuin nettisivu, joka näyttää <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrapin</a> perustyyleiltä. <a href="http://jquerymobile.com/themeroller/">Theme Rollerilla</a> saa vaihdettua värejä ja nappien pyöristyksiä, mutta muuten tyylejä joutuu joka tapauksessa tekemään paljon itse.</p>
+<p>Backbone (ja <a href="http://marionettejs.com/">Marionette.js</a>) tulevat sen sijaan pysymään <em>stäkissäni</em>.</p>
+<p>Lopuksi applikaatio on wrapatty Phonegapilla natiiviksi paketiksi, jonka saa App Storeen myyntiin. Periaatteessa Phonegapin avulla saisi tehtyä myös Android-version jos siltä tuntuu. Toki ennen sitä ohjelmasta pitäisi poistaa takaisin-nuolet ja graffoista tehdä vähemmän iOS:n näköiset :)</p>
+<p>Kaiken kaikkiaan projekti oli hyvä tapa oppia asioita Backbonesta, Xcodesta, App Storen julkaisuprosessista ja testaamisesta. Kehityslistalle jäi vielä läjä ominaisuuksia ja bugikorjauksia, joiden parissa menee vielä tovi.</p>
+<p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit App Storessa</a></p>

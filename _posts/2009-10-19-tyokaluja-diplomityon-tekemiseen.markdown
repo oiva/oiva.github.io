@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Ty&ouml;kaluja diplomity&ouml;n tekemiseen
+title: Työkaluja diplomityön tekemiseen
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -19,7 +19,7 @@ categories:
 - web-palvelut
 - Palautetut
 tags:
-- diplomity&ouml;
+- diplomityö
 - Dropbox
 - latex
 comments: []
@@ -28,50 +28,50 @@ comments: []
 <div>
 <div>
 <div>
-<p>On se aika  koulunk&auml;ynnist&auml; kun pit&auml;isi kirjoittaa diplomity&ouml;. Aikaa on maaliskuun  loppuun, joten kiire tulee. T&auml;ss&auml; muutamia ty&ouml;kaluja, jotka eiv&auml;t takaa  ty&ouml;n valmistumista, mutta helpottavat prosessia:</p>
+<p>On se aika  koulunkäynnistä kun pitäisi kirjoittaa diplomityö. Aikaa on maaliskuun  loppuun, joten kiire tulee. Tässä muutamia työkaluja, jotka eivät takaa  työn valmistumista, mutta helpottavat prosessia:</p>
 <h2><a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank"><img title="DropBox logo" src="http://www.getdropbox.com/static/images/dropbox_logo_home.png" alt="" width="290" height="75" /></a></h2>
-<a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank">Dropbox</a> on palvelu, joka synkronoi tiedostoja eri tietokoneiden v&auml;lill&auml;.  Helposti. Dropbox on kuin mik&auml; tahansa muu kansio tietokoneessasi.  Kaikki sinne tallennetut tiedostot synkronoidaan palvelimen kanssa, ja  tiedostoihin tehdyt muutokset n&auml;kyv&auml;t saman tien kaikissa tietokoneissa  joihin olet asentanut Dropboxin.</p>
-<p>Tiedostojen tallennuksesta j&auml;&auml; versiohistoria, johon p&auml;&auml;see k&auml;siksi  palvelun verkkosivun kautta. My&ouml;s poistetut tiedostot n&auml;kyv&auml;t netiss&auml;.</p>
-<p>Dropbox toimii Windowsissa, OS X:ss&auml;, Linuxissa ja <a href="http://www.getdropbox.com/iphoneapp" target="_blank">iPhonessa</a>.  Ilmaisessa versiossa on 2 gigaa tilaa tiedostoille. 50GB maksaa  kymmenen dollaria kuussa. (Suosituksista saa 250MB lis&auml;&auml; tilaa <img src="../wp-includes/images/smilies/icon_wink.gif" alt=";)" /> )</p>
+<a href="https://www.getdropbox.com/referrals/NTIzMzQ5MzY5" target="_blank">Dropbox</a> on palvelu, joka synkronoi tiedostoja eri tietokoneiden välillä.  Helposti. Dropbox on kuin mikä tahansa muu kansio tietokoneessasi.  Kaikki sinne tallennetut tiedostot synkronoidaan palvelimen kanssa, ja  tiedostoihin tehdyt muutokset näkyvät saman tien kaikissa tietokoneissa  joihin olet asentanut Dropboxin.</p>
+<p>Tiedostojen tallennuksesta jää versiohistoria, johon pääsee käsiksi  palvelun verkkosivun kautta. Myös poistetut tiedostot näkyvät netissä.</p>
+<p>Dropbox toimii Windowsissa, OS X:ssä, Linuxissa ja <a href="http://www.getdropbox.com/iphoneapp" target="_blank">iPhonessa</a>.  Ilmaisessa versiossa on 2 gigaa tilaa tiedostoille. 50GB maksaa  kymmenen dollaria kuussa. (Suosituksista saa 250MB lisää tilaa <img src="../wp-includes/images/smilies/icon_wink.gif" alt=";)" /> )</p>
 <h3>Plussaa</h3>
 <ul>
-<li>Tiedostojen automaattinen synkronointi p&ouml;yt&auml;koneen, l&auml;pp&auml;rin ja ty&ouml;koneen v&auml;lill&auml;</li>
-<li>Dropbox toimii k&auml;tev&auml;n&auml; varmuuskopiona jos se on asennettuna  useammalle koneelle. Pelk&auml;st&auml;&auml;n verkkoon tehtyyn kopioon ei kannata  luottaa, ja todella tarkka tietysti tallentaa tiedostot my&ouml;s ulkoiselle  kovalevylle tms.</li>
+<li>Tiedostojen automaattinen synkronointi pöytäkoneen, läppärin ja työkoneen välillä</li>
+<li>Dropbox toimii kätevänä varmuuskopiona jos se on asennettuna  useammalle koneelle. Pelkästään verkkoon tehtyyn kopioon ei kannata  luottaa, ja todella tarkka tietysti tallentaa tiedostot myös ulkoiselle  kovalevylle tms.</li>
 </ul>
 <h3>Miinusta</h3>
 <ul>
-<li>Ilmainen 2 GB on nopeasti t&auml;ynn&auml; jos haluaa s&auml;il&ouml;&auml; kuvia tai muita isoja tiedostoja</li>
-<li>Ei, Dropbox ei ratkaise &auml;&auml;kk&ouml;songelmia macin ja windowsin v&auml;lill&auml; <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /></li>
-<li>Ei sovellu k&auml;ytt&auml;jille, jotka vierastavat tiedostojensa lataamista  &ldquo;pilveen&rdquo; tai mihink&auml;&auml;n vieraaseen verkkopalveluun. (Tiedostot salataan  ja siirrett&auml;&auml;n salattuja yhteyksi&auml; pitkin, mutta ymm&auml;rr&auml;n jos se ei  riit&auml; vakuuttamaan.)</li>
+<li>Ilmainen 2 GB on nopeasti täynnä jos haluaa säilöä kuvia tai muita isoja tiedostoja</li>
+<li>Ei, Dropbox ei ratkaise ääkkösongelmia macin ja windowsin välillä <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /></li>
+<li>Ei sovellu käyttäjille, jotka vierastavat tiedostojensa lataamista  &ldquo;pilveen&rdquo; tai mihinkään vieraaseen verkkopalveluun. (Tiedostot salataan  ja siirrettään salattuja yhteyksiä pitkin, mutta ymmärrän jos se ei  riitä vakuuttamaan.)</li>
 </ul>
 <h2><a href="http://www.refworks.com/" target="_blank"><img title="Refworks logo" src="http://www.refworks.com/_img/Logo.gif" alt="" width="341" height="58" /></a></h2>
-<a href="http://www.refworks.com/" target="_blank">Refworks</a> on  verkkopalvelu l&auml;hdeviitteiden hallitsemiseen. Palveluun voi sy&ouml;tt&auml;&auml;  kaikki mahdolliset tiedot mit&auml; l&auml;hteist&auml; tiet&auml;&auml;. Refworksist&auml; saa ulos  listan viitteist&auml; todella monessa eri formaatissa, mm. Harvardin  standardin mukaisessa nimi &ndash; vuosiluku -muodossa.</p>
-<p>Viitteit&auml; ei tarvitse useinkaan sy&ouml;tt&auml;&auml; k&auml;sin. Refworks on integroitu mm. <a href="http://scholar.google.fi/" target="_blank">Google Scholar</a> -hakuun ja TKK:n kirjaston hakuihin. Hakutuloksista voi siirt&auml;&auml; l&auml;hdeviitteet suoraan RefWorksiin.</p>
-<p>Refworks on ilmainen jos koulu on ostanut lisenssin. Muuten k&auml;ytt&ouml; maksaa $100/vuosi.</p>
+<a href="http://www.refworks.com/" target="_blank">Refworks</a> on  verkkopalvelu lähdeviitteiden hallitsemiseen. Palveluun voi syöttää  kaikki mahdolliset tiedot mitä lähteistä tietää. Refworksistä saa ulos  listan viitteistä todella monessa eri formaatissa, mm. Harvardin  standardin mukaisessa nimi &ndash; vuosiluku -muodossa.</p>
+<p>Viitteitä ei tarvitse useinkaan syöttää käsin. Refworks on integroitu mm. <a href="http://scholar.google.fi/" target="_blank">Google Scholar</a> -hakuun ja TKK:n kirjaston hakuihin. Hakutuloksista voi siirtää lähdeviitteet suoraan RefWorksiin.</p>
+<p>Refworks on ilmainen jos koulu on ostanut lisenssin. Muuten käyttö maksaa $100/vuosi.</p>
 <h3>Plussaa</h3>
 <ul>
-<li>Integrointi hakupalveluihin, v&auml;h&auml;n k&auml;sin kirjoittamista</li>
-<li>Elektronisista l&auml;hteist&auml; voi tallentaa pdf:n liitteeksi viitteeseen</li>
+<li>Integrointi hakupalveluihin, vähän käsin kirjoittamista</li>
+<li>Elektronisista lähteistä voi tallentaa pdf:n liitteeksi viitteeseen</li>
 </ul>
 <h3>Miinusta</h3>
 <ul>
-<li>Refworksin k&auml;ytt&ouml;kokemus on kauhea. Sivuja lataillaan uusiksi, ja k&auml;sin sy&ouml;tetyn tiedon puolesta saa pel&auml;t&auml;</li>
-<li>En ole keksinyt palvelulle muuta k&auml;ytt&ouml;&auml; kuin viitteiden s&auml;il&ouml;misen  ja m&auml;&auml;r&auml;muotoisen listaamisen. Sama onnistuu varmasti muillakin  ty&ouml;kaluilla tai k&auml;sin</li>
+<li>Refworksin käyttökokemus on kauhea. Sivuja lataillaan uusiksi, ja käsin syötetyn tiedon puolesta saa pelätä</li>
+<li>En ole keksinyt palvelulle muuta käyttöä kuin viitteiden säilömisen  ja määrämuotoisen listaamisen. Sama onnistuu varmasti muillakin  työkaluilla tai käsin</li>
 </ul>
 <h2><img title="LaTeX-logo" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/LaTeX_logo.png/180px-LaTeX_logo.png" alt="" width="180" height="75" /></h2>
-<p>Latex ei ole ty&ouml;kalu sin&auml;ns&auml;, vaan <a title="Wikipedia: LaTeX" href="http://fi.wikipedia.org/wiki/Latex" target="_blank">ladontaj&auml;rjestelm&auml;</a>.  Todella paljon yksinkertaistettuna: tekstin rakenne merkataan  Latex-elementeill&auml; (hiukan samaan tapaan kuin HTML-dokumentin rakenne  merkataan). Teksti ajetaan pulauttimen l&auml;pi, joka muotoilee tekstin  n&auml;ytt&auml;m&auml;&auml;n hyv&auml;lt&auml; <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /> .</p>
-<p>Eri dokumenttityypeille on olemassa pohjia, jotka hoitavat muotoilun  pitk&auml;lti puolestasi. Verkosta l&ouml;ytyy esimerkiksi TKK:n tietotekniikan  laitoksen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/thesis_template.tar.gz" target="_blank">englanninkielinen diplomity&ouml;pohja</a> (l&auml;hde: Sanna Suorannan kokoama erinomainen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/tips.html" target="_blank">ohje diplomity&ouml;n tekemiseen</a>.)</p>
-<p><em>Windowsille</em> on olemassa <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a>-paketti,  joka sis&auml;lt&auml;&auml; Latex-dokumentin tekemiseen tarvittavat ty&ouml;kalut.  Asennusohjeet l&ouml;ytyv&auml;t mukana tulevasta pdf-tiedostosta. My&ouml;s  asennusohjelmat k&auml;ynnistet&auml;&auml;n kyseisest&auml; pdf:st&auml;. Tarkoituksena on  ilmeisesti pakottaa kaikki lukemaan asennusohjeet, mik&auml; kyll&auml; kannattaa.</p>
-<p><em>OS X:lle</em> vastaava paketti on <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a>. Ladattava paketti on 1,2 gigaa, mutta sis&auml;lt&auml;&auml; tarvittavat ty&ouml;kalut.</p>
+<p>Latex ei ole työkalu sinänsä, vaan <a title="Wikipedia: LaTeX" href="http://fi.wikipedia.org/wiki/Latex" target="_blank">ladontajärjestelmä</a>.  Todella paljon yksinkertaistettuna: tekstin rakenne merkataan  Latex-elementeillä (hiukan samaan tapaan kuin HTML-dokumentin rakenne  merkataan). Teksti ajetaan pulauttimen läpi, joka muotoilee tekstin  näyttämään hyvältä <img src="../wp-includes/images/smilies/icon_smile.gif" alt=":)" /> .</p>
+<p>Eri dokumenttityypeille on olemassa pohjia, jotka hoitavat muotoilun  pitkälti puolestasi. Verkosta löytyy esimerkiksi TKK:n tietotekniikan  laitoksen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/thesis_template.tar.gz" target="_blank">englanninkielinen diplomityöpohja</a> (lähde: Sanna Suorannan kokoama erinomainen <a href="http://www.cse.hut.fi/%7Esos/opetus/dippa/tips.html" target="_blank">ohje diplomityön tekemiseen</a>.)</p>
+<p><em>Windowsille</em> on olemassa <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a>-paketti,  joka sisältää Latex-dokumentin tekemiseen tarvittavat työkalut.  Asennusohjeet löytyvät mukana tulevasta pdf-tiedostosta. Myös  asennusohjelmat käynnistetään kyseisestä pdf:stä. Tarkoituksena on  ilmeisesti pakottaa kaikki lukemaan asennusohjeet, mikä kyllä kannattaa.</p>
+<p><em>OS X:lle</em> vastaava paketti on <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a>. Ladattava paketti on 1,2 gigaa, mutta sisältää tarvittavat työkalut.</p>
 <h3>Plussaa</h3>
 <ul>
-<li>Latexilla p&auml;rj&auml;&auml; tilanteissa joissa dokumentin monimutkaisuus olisi  liikaa Wordille. Olen melko vakuuttunut ett&auml; diplomity&ouml; on t&auml;llainen  dokumentti</li>
-<li>Teksti tallennetaan tekstimuodossa. T&auml;m&auml; mahdollistaa  versiohallinnan tekstille ja sis&auml;ll&ouml;n hakemisen tiedostoista ilman  niiden avaamista. T&auml;m&auml; my&ouml;s v&auml;hent&auml;&auml; tiedoston korruptoitumisen vaaraa</li>
-<li>Tekstin ulkoasua pystyy tarvittaessa hallitsemaan eritt&auml;in tarkasti</li>
+<li>Latexilla pärjää tilanteissa joissa dokumentin monimutkaisuus olisi  liikaa Wordille. Olen melko vakuuttunut että diplomityö on tällainen  dokumentti</li>
+<li>Teksti tallennetaan tekstimuodossa. Tämä mahdollistaa  versiohallinnan tekstille ja sisällön hakemisen tiedostoista ilman  niiden avaamista. Tämä myös vähentää tiedoston korruptoitumisen vaaraa</li>
+<li>Tekstin ulkoasua pystyy tarvittaessa hallitsemaan erittäin tarkasti</li>
 </ul>
 <h3>Miinusta</h3>
 <ul>
 <li>Latexin asennusprosessi voi tuntua kohtuuttoman vaikealta verrattuna Wordin avaamiseen</li>
 <li>Tekstin merkkaaminen vaatii opettelua</li>
 </ul>
-<p>T&auml;ss&auml; t&auml;h&auml;n asti t&auml;rkeimm&auml;t ty&ouml;kalut. Katsotaan mit&auml; muita tulee vastaan ty&ouml;n edistyess&auml;.</p>
+<p>Tässä tähän asti tärkeimmät työkalut. Katsotaan mitä muita tulee vastaan työn edistyessä.</p>

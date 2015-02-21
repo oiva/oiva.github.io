@@ -23,7 +23,7 @@ comments: []
 <li>
 <div class="delicious-link"><a href="http://www.automatastudios.com/2008/11/21/understanding-adobe-alchemy/">Understanding Adobe Alchemy</a></div></p>
 <div class="delicious-extended">"Alchemy is a C/C++ to ActionScript compiler that opens up a huge new world for the Flash platform."</p>
-<p>Suhteellisen perverssi keksint&ouml; ajaa C/C++ koodia ActionScript-virtuaalikoneessa. Tarjoaa nopeusedun tietyiss&auml; spesifeiss&auml; tilanteissa, mutta mahdollistaa my&ouml;s olemassa olevan C/C++ -koodin k&auml;ytt&auml;misen Flashissa.</div></p>
+<p>Suhteellisen perverssi keksintö ajaa C/C++ koodia ActionScript-virtuaalikoneessa. Tarjoaa nopeusedun tietyissä spesifeissä tilanteissa, mutta mahdollistaa myös olemassa olevan C/C++ -koodin käyttämisen Flashissa.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/as3">as3</a> <a href="http://delicious.com/oiva/c%2B%2B">c++</a> <a href="http://delicious.com/oiva/flash">flash</a> <a href="http://delicious.com/oiva/c">c</a>)</div><br />
             </li>
 <li>

@@ -10,19 +10,19 @@ author:
   url: ''
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-excerpt: "K&auml;vin <a title=\"Adobe User Group Finland\" href=\"http://www.aug.fi/index.php\">Adobe
-  User Groupin</a> tapaamisessa, jossa oli set&auml; Adobe Nordicista kertomassa
-  mit&auml; uutta Adoben <a title=\"Wikipedia: Adobe Creative Suite\" href=\"http://en.wikipedia.org/wiki/Adobe_Creative_Suite\">Creative
-  Suite 4</a>:ss&auml; oikein on.\r\n\r\nKaikesta p&auml;&auml;tellen CS4:ss&auml;
-  on keskitytty parantamaan <em>workflowta</em> ja j&auml;tetty uudet ominaisuudet
-  hiukan v&auml;hemm&auml;lle. Olen yleens&auml; <a title=\"OpenOffice 3.0 itkua\"
-  href=\"http://oivaeskola.fi/2008/05/08/openoffice-30-tulossa/\">k&auml;ytt&ouml;kokemuksen
+excerpt: "Kävin <a title=\"Adobe User Group Finland\" href=\"http://www.aug.fi/index.php\">Adobe
+  User Groupin</a> tapaamisessa, jossa oli setä Adobe Nordicista kertomassa
+  mitä uutta Adoben <a title=\"Wikipedia: Adobe Creative Suite\" href=\"http://en.wikipedia.org/wiki/Adobe_Creative_Suite\">Creative
+  Suite 4</a>:ssä oikein on.\r\n\r\nKaikesta päätellen CS4:ssä
+  on keskitytty parantamaan <em>workflowta</em> ja jätetty uudet ominaisuudet
+  hiukan vähemmälle. Olen yleensä <a title=\"OpenOffice 3.0 itkua\"
+  href=\"http://oivaeskola.fi/2008/05/08/openoffice-30-tulossa/\">käyttökokemuksen
   puolella</a>, joten uudistukset kuulostivat lupaavilta.\r\n\r\nCS4:n workflow-uudistuksista
-  monet tuntuivat itsest&auml;&auml;nselvyyksilt&auml;, silt&auml; ett&auml; jonkin
-  tietyn teht&auml;v&auml;n voi nyt tehd&auml; ei-typer&auml;sti. Softan uuden version
-  julkaisu tuntuu olevan v&auml;h&auml;n skitsofreenist&auml; puuhaa. <em>\"Hei, meid&auml;n
-  vanhassa ohjelmassa oli kaikki n&auml;m&auml; asiat todella huonosti, mutta nyt
-  ne on korjattu! Ostakaa meid&auml;n hyv&auml;&auml; softaa!\"</em>\r\n"
+  monet tuntuivat itsestäänselvyyksiltä, siltä että jonkin
+  tietyn tehtävän voi nyt tehdä ei-typerästi. Softan uuden version
+  julkaisu tuntuu olevan vähän skitsofreenistä puuhaa. <em>\"Hei, meidän
+  vanhassa ohjelmassa oli kaikki nämä asiat todella huonosti, mutta nyt
+  ne on korjattu! Ostakaa meidän hyvää softaa!\"</em>\r\n"
 wordpress_id: 242
 wordpress_url: http://www.bobs.fi/oiva/?p=242
 date: '2008-10-10 10:00:53 +0300'
@@ -49,36 +49,36 @@ comments:
   author_url: http://mnd.fi
   date: '2008-10-14 01:16:51 +0300'
   date_gmt: '2008-10-13 22:16:51 +0300'
-  content: "Itse olen seurannut CS4:n julkistusta v&auml;h&auml;n valokuvaajan kannalta.
-    Noin toiminnalliselta kannalta katsottuna CS4:ssa on muutamia j&auml;nni&auml;
-    ominaisuuksia. Esimerkiksi Bridge ja Photoshop hy&ouml;dynt&auml;v&auml;t nyt
-    GPU:ta joihinkin graafisiin operaatioihin, mink&auml; pit&auml;isi johtaa mm.
+  content: "Itse olen seurannut CS4:n julkistusta vähän valokuvaajan kannalta.
+    Noin toiminnalliselta kannalta katsottuna CS4:ssa on muutamia jänniä
+    ominaisuuksia. Esimerkiksi Bridge ja Photoshop hyödyntävät nyt
+    GPU:ta joihinkin graafisiin operaatioihin, minkä pitäisi johtaa mm.
     sulavampiin zoomausominaisuuksiin. Scott Bourne listasi noita valokuvaajan kannalta
-    t&auml;rkeimpi&auml; uusia ominaisuuksia <a href=\"http://twipphoto.com/archives/1382\"
-    rel=\"nofollow\">TWIP-blogissaan</a>.  Itse j&auml;&auml;n mielenkiinnolla
-    seuraamaan, mink&auml; ik&auml;luokan koneissa mahtaa menn&auml; se raja jossa
-    GPU:n k&auml;ytt&auml;minen nopeuttaa/hidastaa ty&ouml;skentely&auml;.\r\n\r\nNoin
-    v&auml;h&auml;n k&auml;ytett&auml;vyyskantilta olin aika yll&auml;ttynyt tuossa
-    linkitt&auml;m&auml;ss&auml;ni postauksessa mainitusta tilastosta, jonka mukaan
-    35% ammattilaisista on YLI 2 n&auml;ytt&ouml;&auml;. Itse mielt&auml;isin yli
-    kahden isohkon n&auml;yt&ouml;n asettelemisen j&auml;rkev&auml;sti v&auml;h&auml;n
+    tärkeimpiä uusia ominaisuuksia <a href=\"http://twipphoto.com/archives/1382\"
+    rel=\"nofollow\">TWIP-blogissaan</a>.  Itse jään mielenkiinnolla
+    seuraamaan, minkä ikäluokan koneissa mahtaa mennä se raja jossa
+    GPU:n käyttäminen nopeuttaa/hidastaa työskentelyä.\r\n\r\nNoin
+    vähän käytettävyyskantilta olin aika yllättynyt tuossa
+    linkittämässäni postauksessa mainitusta tilastosta, jonka mukaan
+    35% ammattilaisista on YLI 2 näyttöä. Itse mieltäisin yli
+    kahden isohkon näytön asettelemisen järkevästi vähän
     vaikeaksi."
 ---
-<p>K&auml;vin <a title="Adobe User Group Finland" href="http://www.aug.fi/index.php">Adobe User Groupin</a> tapaamisessa, jossa oli set&auml; Adobe Nordicista kertomassa mit&auml; uutta Adoben <a title="Wikipedia: Adobe Creative Suite" href="http://en.wikipedia.org/wiki/Adobe_Creative_Suite">Creative Suite 4</a>:ss&auml; oikein on.</p>
-<p>Kaikesta p&auml;&auml;tellen CS4:ss&auml; on keskitytty parantamaan <em>workflowta</em> ja j&auml;tetty uudet ominaisuudet hiukan v&auml;hemm&auml;lle. Olen yleens&auml; <a title="OpenOffice 3.0 itkua" href="http://oivaeskola.fi/2008/05/08/openoffice-30-tulossa/">k&auml;ytt&ouml;kokemuksen puolella</a>, joten uudistukset kuulostivat lupaavilta.</p>
-<p>CS4:n workflow-uudistuksista monet tuntuivat itsest&auml;&auml;nselvyyksilt&auml;, silt&auml; ett&auml; jonkin tietyn teht&auml;v&auml;n voi nyt tehd&auml; ei-typer&auml;sti. Softan uuden version julkaisu tuntuu olevan v&auml;h&auml;n skitsofreenist&auml; puuhaa. <em>"Hei, meid&auml;n vanhassa ohjelmassa oli kaikki n&auml;m&auml; asiat todella huonosti, mutta nyt ne on korjattu! Ostakaa meid&auml;n hyv&auml;&auml; softaa!"</em><br />
+<p>Kävin <a title="Adobe User Group Finland" href="http://www.aug.fi/index.php">Adobe User Groupin</a> tapaamisessa, jossa oli setä Adobe Nordicista kertomassa mitä uutta Adoben <a title="Wikipedia: Adobe Creative Suite" href="http://en.wikipedia.org/wiki/Adobe_Creative_Suite">Creative Suite 4</a>:ssä oikein on.</p>
+<p>Kaikesta päätellen CS4:ssä on keskitytty parantamaan <em>workflowta</em> ja jätetty uudet ominaisuudet hiukan vähemmälle. Olen yleensä <a title="OpenOffice 3.0 itkua" href="http://oivaeskola.fi/2008/05/08/openoffice-30-tulossa/">käyttökokemuksen puolella</a>, joten uudistukset kuulostivat lupaavilta.</p>
+<p>CS4:n workflow-uudistuksista monet tuntuivat itsestäänselvyyksiltä, siltä että jonkin tietyn tehtävän voi nyt tehdä ei-typerästi. Softan uuden version julkaisu tuntuu olevan vähän skitsofreenistä puuhaa. <em>"Hei, meidän vanhassa ohjelmassa oli kaikki nämä asiat todella huonosti, mutta nyt ne on korjattu! Ostakaa meidän hyvää softaa!"</em><br />
 <a id="more"></a><a id="more-242"></a>
-<p>K&auml;yt&auml;nn&ouml;ss&auml; esimerkiksi eri Adobe-ohjelmat toimivat nyt jokseenkin yhteensopivasti. Illustratorista voi exportata kuvitukset suoraan Flashiin, niin ett&auml; tekstikent&auml;t s&auml;ilyv&auml;t tekstikenttin&auml; jne. Elementtej&auml; voi tuotannon aikana k&auml;sitell&auml; eri ohjelmilla ilman tuskallista export - import - reload -rutiinia.</p>
-<p>Uusia ominaisuuksiakin on kehitelty. Ainakin Photoshop tukee nyt 3d-objekteja, mik&auml; vaikuttaa melko h&ouml;p&ouml;h&ouml;p&ouml;lt&auml;, mutta on luultavasti pian hoteinta hottia. My&ouml;s Flash playerin tuleva 10-versio tukee kiihdytetty&auml; 3d:t&auml;, mink&auml; j&auml;lkeen tuskin en&auml;&auml; n&auml;hd&auml;&auml;n rupuisia kaksiulotteisia nettisivuja ;)</p>
-<p>Oikeasti hauskalta ominaisuudelta vaikutti Flashin IK-animaatioty&ouml;kalu. <a title="Adobe.tv: CS4 feature tour" href="http://tv.adobe.com/#vi+f1554v1702">Flash Feature Tour -videon</a> kohdassa 4:40 esitell&auml;&auml;n ominaisuutta nosturiesimerkill&auml;.</p>
-<h3>Tulevaisuuden kehitysymp&auml;rist&ouml;t</h3>
-<p>Internet-sovellusten kehityksess&auml; Adobella on seuraavanlaisia suunnitelmia;</p>
+<p>Käytännössä esimerkiksi eri Adobe-ohjelmat toimivat nyt jokseenkin yhteensopivasti. Illustratorista voi exportata kuvitukset suoraan Flashiin, niin että tekstikentät säilyvät tekstikenttinä jne. Elementtejä voi tuotannon aikana käsitellä eri ohjelmilla ilman tuskallista export - import - reload -rutiinia.</p>
+<p>Uusia ominaisuuksiakin on kehitelty. Ainakin Photoshop tukee nyt 3d-objekteja, mikä vaikuttaa melko höpöhöpöltä, mutta on luultavasti pian hoteinta hottia. Myös Flash playerin tuleva 10-versio tukee kiihdytettyä 3d:tä, minkä jälkeen tuskin enää nähdään rupuisia kaksiulotteisia nettisivuja ;)</p>
+<p>Oikeasti hauskalta ominaisuudelta vaikutti Flashin IK-animaatiotyökalu. <a title="Adobe.tv: CS4 feature tour" href="http://tv.adobe.com/#vi+f1554v1702">Flash Feature Tour -videon</a> kohdassa 4:40 esitellään ominaisuutta nosturiesimerkillä.</p>
+<h3>Tulevaisuuden kehitysympäristöt</h3>
+<p>Internet-sovellusten kehityksessä Adobella on seuraavanlaisia suunnitelmia;</p>
 <ul>
-<li>kehitys tapahtuu p&auml;&auml;asiassa <a title="Wikipedia: Adobe Flex" href="http://en.wikipedia.org/wiki/Adobe_Flex">Flexill&auml;</a>, mutta mukaan tulee <a title="Adobe Labs: Thermo" href="http://labs.adobe.com/wiki/index.php/Thermo">Thermo</a>-niminen ohjelma, jonka avulla voi tehd&auml; k&auml;ytt&ouml;liittymi&auml; suoraan Photoshop-, Illustrator- tai Fireworks-tiedostoista.</li>
-<li>Flexist&auml; kehitet&auml;&auml;n kevyemp&auml;&auml; versiota, jonka avulla internet-sovelluksista voitaisiin saada pienempi&auml; ja tehokkaampia.</li>
-<li><a title="Wikipedia: Adobe AIR" href="http://en.wikipedia.org/wiki/Adobe_AIR">AIR</a>ia tuotaneen my&ouml;s mobiililaitteille.</li>
-<li>Flash playerin iPhone-versio on kuulemma "valmis" ja odottaa vain Applen hyv&auml;ksynt&auml;&auml;.</li>
+<li>kehitys tapahtuu pääasiassa <a title="Wikipedia: Adobe Flex" href="http://en.wikipedia.org/wiki/Adobe_Flex">Flexillä</a>, mutta mukaan tulee <a title="Adobe Labs: Thermo" href="http://labs.adobe.com/wiki/index.php/Thermo">Thermo</a>-niminen ohjelma, jonka avulla voi tehdä käyttöliittymiä suoraan Photoshop-, Illustrator- tai Fireworks-tiedostoista.</li>
+<li>Flexistä kehitetään kevyempää versiota, jonka avulla internet-sovelluksista voitaisiin saada pienempiä ja tehokkaampia.</li>
+<li><a title="Wikipedia: Adobe AIR" href="http://en.wikipedia.org/wiki/Adobe_AIR">AIR</a>ia tuotaneen myös mobiililaitteille.</li>
+<li>Flash playerin iPhone-versio on kuulemma "valmis" ja odottaa vain Applen hyväksyntää.</li>
 </ul>
-<p>Mobiililaitteisiin liittyen tilaisuudessa oli puhetta my&ouml;s <a title="Wikipedia: Adobe Flash Lite" href="http://en.wikipedia.org/wiki/Adobe_Flash_Lite">Flash Litest&auml;</a>, jolla on mahdollista jo nyky&auml;&auml;n tehd&auml; Flash-sovelluksia k&auml;nnyk&ouml;ihin.</p>
-<p>Minulle oli kuitenkin uutta se, ett&auml; litess&auml; koodataan vanhemmilla ActionScriptin versiolla, jotka ovat heikosti tyypitettyj&auml; ja kaikin tavoin ep&auml;miellytt&auml;vi&auml; koodata. Flash Litell&auml; on siis samanlainen ongelma kuin Symbianilla, jota <a title="Nokia Conversations: An inside (personal) view of the Symbian deal" href="http://conversations.nokia.com/home/2008/07/an-inside-perso.html">hyvin harva koodaa huvikseen</a>.</p>
-<p>Osa paikalla olleista kehitt&auml;jist&auml; tuntui odottelevan AIRin saapumista mobiilialustoille ennen kuin aikoi panostaa mobiilikehitykseen. T&auml;ss&auml; tilanteessa iPhone-softan kehitys voisi kuitenkin olla ihan mielenkiintoinen vaihtoehto.</p>
+<p>Mobiililaitteisiin liittyen tilaisuudessa oli puhetta myös <a title="Wikipedia: Adobe Flash Lite" href="http://en.wikipedia.org/wiki/Adobe_Flash_Lite">Flash Litestä</a>, jolla on mahdollista jo nykyään tehdä Flash-sovelluksia kännyköihin.</p>
+<p>Minulle oli kuitenkin uutta se, että litessä koodataan vanhemmilla ActionScriptin versiolla, jotka ovat heikosti tyypitettyjä ja kaikin tavoin epämiellyttäviä koodata. Flash Litellä on siis samanlainen ongelma kuin Symbianilla, jota <a title="Nokia Conversations: An inside (personal) view of the Symbian deal" href="http://conversations.nokia.com/home/2008/07/an-inside-perso.html">hyvin harva koodaa huvikseen</a>.</p>
+<p>Osa paikalla olleista kehittäjistä tuntui odottelevan AIRin saapumista mobiilialustoille ennen kuin aikoi panostaa mobiilikehitykseen. Tässä tilanteessa iPhone-softan kehitys voisi kuitenkin olla ihan mielenkiintoinen vaihtoehto.</p>

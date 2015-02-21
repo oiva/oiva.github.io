@@ -31,60 +31,60 @@ comments:
   author_url: http://omenapuunkatriina.blogspot.com
   date: '2008-10-28 16:33:09 +0200'
   date_gmt: '2008-10-28 13:33:09 +0200'
-  content: Kiitos! Juuri t&auml;llaista mielipidett&auml; kaipasin, kun juuri mietin,
-    kumpi kannattaisi ostaa. P&auml;&auml;dyn D80:en hyv&auml;n tarjouksen takia.
+  content: Kiitos! Juuri tällaista mielipidettä kaipasin, kun juuri mietin,
+    kumpi kannattaisi ostaa. Päädyn D80:en hyvän tarjouksen takia.
 - id: 330
   author: Henccu
   author_email: juntero@gmail.com
   author_url: http://--
   date: '2008-11-30 21:43:58 +0200'
   date_gmt: '2008-11-30 18:43:58 +0200'
-  content: Vai h&ouml;p&ouml;h&ouml;p&ouml;-ominaisuuksia tuo live view? Mulla se
-    ainakin vaikuttaa ostop&auml;&auml;t&ouml;kseen 90:n suuntaan.
+  content: Vai höpöhöpö-ominaisuuksia tuo live view? Mulla se
+    ainakin vaikuttaa ostopäätökseen 90:n suuntaan.
 - id: 333
   author: Kale
   author_email: kalevi.suortti@kolumbus.fi
   author_url: ''
   date: '2008-12-26 22:22:10 +0200'
   date_gmt: '2008-12-26 19:22:10 +0200'
-  content: "Siirryin 3 vuoden Nikon D50-harjoittelun j&auml;lkeen D80:een toukokuussa-08.
-    En ole hetke&auml;k&auml;&auml;n katunut. Hinta oli juuri alkanut pudota, kun
-    \"markkina\" (min&auml; en) odotti D90:st&auml;.\r\n\r\nD80 arvioitiin julkistuksensa
-    yhteydess&auml; erinomaiseksi kameraksi. T&auml;m&auml; laatuarvio ei ole mihink&auml;n
-    kadonnut. Uskon, ett&auml; jatkan t&auml;ll&auml; \"harjoittelua\" useamman vuoden.
-    Laitteesta ei kehittymiseni ole kiinni.\r\n\r\nRepussani on rungon lis&auml;ksi
+  content: "Siirryin 3 vuoden Nikon D50-harjoittelun jälkeen D80:een toukokuussa-08.
+    En ole hetkeäkään katunut. Hinta oli juuri alkanut pudota, kun
+    \"markkina\" (minä en) odotti D90:stä.\r\n\r\nD80 arvioitiin julkistuksensa
+    yhteydessä erinomaiseksi kameraksi. Tämä laatuarvio ei ole mihinkän
+    kadonnut. Uskon, että jatkan tällä \"harjoittelua\" useamman vuoden.
+    Laitteesta ei kehittymiseni ole kiinni.\r\n\r\nRepussani on rungon lisäksi
     Nikonin 18-200 mm VR, Nikkorin f/1,8 50 mm, Sigman 135-400 mm. Rungossa on
-    kiinni akkukahva, joka mahdollistaa aktiivisen kuvaamisen my&ouml;s pystyll&auml;.
-    Salamana on \"vain\" Nikonin SB600, jota voi k&auml;ytt&auml;&auml; kamerassa
-    tai orjana.\r\n\r\nOlen usein kysynyt itselt&auml;ni, miksi juosta aina \"uusimman\"
-    per&auml;ss&auml;, kun olemassa olevalla saa erinomaisia kuvia ja kun se mahdollistaa
-    my&ouml;s jatkuvan kehittymisen harrastajakuvaajana."
+    kiinni akkukahva, joka mahdollistaa aktiivisen kuvaamisen myös pystyllä.
+    Salamana on \"vain\" Nikonin SB600, jota voi käyttää kamerassa
+    tai orjana.\r\n\r\nOlen usein kysynyt itseltäni, miksi juosta aina \"uusimman\"
+    perässä, kun olemassa olevalla saa erinomaisia kuvia ja kun se mahdollistaa
+    myös jatkuvan kehittymisen harrastajakuvaajana."
 - id: 336
   author: Oiva
   author_email: oiva.eskola@gmail.com
   author_url: http://oivaeskola.fi
   date: '2009-01-02 15:24:43 +0200'
   date_gmt: '2009-01-02 12:24:43 +0200'
-  content: "Henccu: riippuu varmasti kuvaustavoista tarvitseeko live viewi&auml;.
-    Itse tykk&auml;&auml;n kuvata etsimen kautta, varsinkin kun Nikonien etsimet ovat
-    olleet varsin erinomaisia. Olen missannut ehk&auml; muutaman kuvan kun ei ole
-    ollut live viewi&auml; k&auml;yt&ouml;ss&auml;. Lis&auml;ksi pelk&auml;&auml;n
-    ett&auml; nykyisell&auml;&auml;n hyv&auml; akunkesto heikkenee jos kuvaisi live
-    viewill&auml;. En tied&auml; onko n&auml;in.\r\n\r\nKale: olen samoilla linjoilla.
+  content: "Henccu: riippuu varmasti kuvaustavoista tarvitseeko live viewiä.
+    Itse tykkään kuvata etsimen kautta, varsinkin kun Nikonien etsimet ovat
+    olleet varsin erinomaisia. Olen missannut ehkä muutaman kuvan kun ei ole
+    ollut live viewiä käytössä. Lisäksi pelkään
+    että nykyisellään hyvä akunkesto heikkenee jos kuvaisi live
+    viewillä. En tiedä onko näin.\r\n\r\nKale: olen samoilla linjoilla.
     Uusi kamera tuskin parantaisi automaattisesti ottamieni kuvien laatua. Sama juttu
-    kuin muissakin v&auml;lineurheilulajeissa.\r\n\r\nUusissa kameroissa sen sijaan
-    kiinnostaa k&auml;ytt&ouml;mukavuus, esim. D90:n isompi n&auml;ytt&ouml;, mutta
-    D80 on sekin jo varsin kiva kamera k&auml;ytt&auml;&auml;."
+    kuin muissakin välineurheilulajeissa.\r\n\r\nUusissa kameroissa sen sijaan
+    kiinnostaa käyttömukavuus, esim. D90:n isompi näyttö, mutta
+    D80 on sekin jo varsin kiva kamera käyttää."
 - id: 1433
   author: Niklas
   author_email: Niklas-@hotmail.fi
   author_url: http://www.-.fi
   date: '2011-12-26 22:09:06 +0200'
   date_gmt: '2011-12-26 20:09:06 +0200'
-  content: "Manuaalitarkenteinen videokuvaus turha? :D Voi kuule, yksik&auml;&auml;n
-    videokuvausta v&auml;h&auml;nk&auml;&auml;n tosissaan ottava ei j&auml;rjestelmien
-    eik&auml; oikeiden videokameroitten automaattitarkennukseen koske :D\r\nLis&auml;ksi
-    D90 kenno ei suinkaan ole isompi, vaan tihe&auml;mpi pikselinen. (korkeampi resoluutioinen).
+  content: "Manuaalitarkenteinen videokuvaus turha? :D Voi kuule, yksikään
+    videokuvausta vähänkään tosissaan ottava ei järjestelmien
+    eikä oikeiden videokameroitten automaattitarkennukseen koske :D\r\nLisäksi
+    D90 kenno ei suinkaan ole isompi, vaan tiheämpi pikselinen. (korkeampi resoluutioinen).
     Tarkista tiedot, ennen kuin teet juttuja."
 - id: 1446
   author: Oiva
@@ -92,36 +92,36 @@ comments:
   author_url: http://oivaeskola.fi
   date: '2012-01-01 20:43:46 +0200'
   date_gmt: '2012-01-01 18:43:46 +0200'
-  content: "Kiitos kommentista Niklas. Kirjoitin t&auml;m&auml;n 2008, ja silloin
-    mieless&auml; oli videokuvauksen vaikeus verrattuna joka perheen perus-ixukseen.
-    En varmaan edelleenk&auml;&auml;n suosittelisi manuaalitarkenteista videokuvausta
-    ihmiselle, joka haluaa l&auml;hinn&auml; kuvata lomavideoita lomakuvien ohessa.
-    \r\n\r\nViime vuosina videoammattilaiset ovat alkaneet k&auml;ytt&auml;&auml;
-    j&auml;rjestelm&auml;kameroita videokuvaukseen, kuten sanoit, koska ne ovat edullisempia
-    ja joissain tapauksissa k&auml;tev&auml;mpi&auml; kuin perinteiset videokamerat.
-    Mutta uskoisin, ett&auml; videota ammatikseen kuvaavat valitsevat ennemmin esimerkiksi
-    Canonin 5D Mark II:n kuin D90:n? J&auml;rjestelm&auml;kameroilla saa hyv&auml;n
-    n&auml;k&ouml;ist&auml; videota, mutta se edellytt&auml;&auml; ett&auml; jaksaa
-    n&auml;hd&auml; v&auml;h&auml;n vaivaa (kuten j&auml;rjestelm&auml;kameralla valokuvaaminenkin
-    :) )\r\n\r\nD80:n ja D90:n kennot ovat tosiaan samankokoiset, mutta D90:ss&auml;
-    on enemm&auml;n pikseleit&auml; samalla alueella. Korjattu tekstiin."
+  content: "Kiitos kommentista Niklas. Kirjoitin tämän 2008, ja silloin
+    mielessä oli videokuvauksen vaikeus verrattuna joka perheen perus-ixukseen.
+    En varmaan edelleenkään suosittelisi manuaalitarkenteista videokuvausta
+    ihmiselle, joka haluaa lähinnä kuvata lomavideoita lomakuvien ohessa.
+    \r\n\r\nViime vuosina videoammattilaiset ovat alkaneet käyttää
+    järjestelmäkameroita videokuvaukseen, kuten sanoit, koska ne ovat edullisempia
+    ja joissain tapauksissa kätevämpiä kuin perinteiset videokamerat.
+    Mutta uskoisin, että videota ammatikseen kuvaavat valitsevat ennemmin esimerkiksi
+    Canonin 5D Mark II:n kuin D90:n? Järjestelmäkameroilla saa hyvän
+    näköistä videota, mutta se edellyttää että jaksaa
+    nähdä vähän vaivaa (kuten järjestelmäkameralla valokuvaaminenkin
+    :) )\r\n\r\nD80:n ja D90:n kennot ovat tosiaan samankokoiset, mutta D90:ssä
+    on enemmän pikseleitä samalla alueella. Korjattu tekstiin."
 ---
-<p><a href="http://www.flickr.com/photos/buglugs/2891387638/"><img class="alignnone" title="Nikon D90" src="http://farm4.static.flickr.com/3166/2891387638_f28a31db24_m.jpg" alt="" width="240" height="204" /></a>Nikon julkaisi hiljattain D90-j&auml;rjestelm&auml;kameran, joka on p&auml;ivitetty versio D80:st&auml;. Nikonin D80 ja D90 ovat keskitason kameroita, jotka tarjoavat hyv&auml;n kompromissin kameran koon ja kuvanlaadun v&auml;lill&auml;. Seuraaavalla hintatasolla olisi D300 (joka korvasi D200:n) ja entry-levelin vastaava kamera on D60.</p>
-<p><a title="Mik&auml; digij&auml;rkk&auml;ri? Nikon D80 vs. D200" href="http://oivaeskola.fi/2007/12/10/mika-digijarkkari-nikon-d80-vs-d200">Vertasin aikoinaan D80 ja D200:a kesken&auml;&auml;n</a> ja p&auml;&auml;dyin kasikymppiseen. Olen ollut eritt&auml;in tyytyv&auml;inen valintaani. Mutta kannattaisiko D80 vaihtaa uudempaan D90:een? Nopeasti katsottuna merkitt&auml;vimm&auml;t erot ovat n&auml;m&auml;:<a id="more"></a><a id="more-215"></a></p>
+<p><a href="http://www.flickr.com/photos/buglugs/2891387638/"><img class="alignnone" title="Nikon D90" src="http://farm4.static.flickr.com/3166/2891387638_f28a31db24_m.jpg" alt="" width="240" height="204" /></a>Nikon julkaisi hiljattain D90-järjestelmäkameran, joka on päivitetty versio D80:stä. Nikonin D80 ja D90 ovat keskitason kameroita, jotka tarjoavat hyvän kompromissin kameran koon ja kuvanlaadun välillä. Seuraaavalla hintatasolla olisi D300 (joka korvasi D200:n) ja entry-levelin vastaava kamera on D60.</p>
+<p><a title="Mikä digijärkkäri? Nikon D80 vs. D200" href="http://oivaeskola.fi/2007/12/10/mika-digijarkkari-nikon-d80-vs-d200">Vertasin aikoinaan D80 ja D200:a keskenään</a> ja päädyin kasikymppiseen. Olen ollut erittäin tyytyväinen valintaani. Mutta kannattaisiko D80 vaihtaa uudempaan D90:een? Nopeasti katsottuna merkittävimmät erot ovat nämä:<a id="more"></a><a id="more-215"></a></p>
 <h3>"Ihan kivoja" uusia ominaisuuksia:</h3>
 <ul>
-<li>Videokuvaus. T&auml;h&auml;n asti j&auml;rjestelm&auml;kamerat ovat aina h&auml;vinneet v&auml;ittelyt siin&auml; vaiheessa kun joku kysyy "...mutta voiko sill&auml; kuvata videoita?". D90:n <em>manuaalitarkenteinen</em> videokuvaus on k&auml;yt&auml;nn&ouml;ss&auml; varmaan aika turha, mutta kameralinsseill&auml; toimiva videokamera voisi olla kiva lelu.</li>
-<li>Parempi kuvanlaatu. Ehk&auml;. D90:ss&auml; on CMOS-kenno, D80:ss&auml; CCD. Kennotyyppien keskin&auml;isest&auml; paremmuudesta ei helpolla ota selv&auml;&auml;, mutta <a title="New CMOS sensors catching on in cameras" href="http://news.cnet.com/8301-13580_3-9860021-39.html">jotain osviittaa l&ouml;ytyy CNETist&auml;</a>.</li>
-<li>Isompi LCD-n&auml;ytt&ouml;. 3 tuumaa (640x480 pikseli&auml;) vs 2,5 tuumaa (320x240).</li>
-<li>Valmius GPS-palikalle, jonka avulla kuviin voisi liitt&auml;&auml; karttakoordinaatit. Sin&auml;ns&auml; GPS voisi mielest&auml;ni olla kameroissa vakiona, mutta parempi n&auml;inkin.</li>
+<li>Videokuvaus. Tähän asti järjestelmäkamerat ovat aina hävinneet väittelyt siinä vaiheessa kun joku kysyy "...mutta voiko sillä kuvata videoita?". D90:n <em>manuaalitarkenteinen</em> videokuvaus on käytännössä varmaan aika turha, mutta kameralinsseillä toimiva videokamera voisi olla kiva lelu.</li>
+<li>Parempi kuvanlaatu. Ehkä. D90:ssä on CMOS-kenno, D80:ssä CCD. Kennotyyppien keskinäisestä paremmuudesta ei helpolla ota selvää, mutta <a title="New CMOS sensors catching on in cameras" href="http://news.cnet.com/8301-13580_3-9860021-39.html">jotain osviittaa löytyy CNETistä</a>.</li>
+<li>Isompi LCD-näyttö. 3 tuumaa (640x480 pikseliä) vs 2,5 tuumaa (320x240).</li>
+<li>Valmius GPS-palikalle, jonka avulla kuviin voisi liittää karttakoordinaatit. Sinänsä GPS voisi mielestäni olla kameroissa vakiona, mutta parempi näinkin.</li>
 </ul>
-<h3>H&ouml;p&ouml;h&ouml;p&ouml;-ominaisuuksia</h3>
+<h3>Höpöhöpö-ominaisuuksia</h3>
 <ul>
-<li>Live view, eli kuvaa voi kuvatessa katsoa LCD-n&auml;yt&ouml;lt&auml; etsimen sijaan. En koe kauhean tarpeelliseksi.</li>
-<li><del>Isompi</del>&nbsp;Tihe&auml;mpi kenno: 12,3 megapikseli&auml; vs 10,2 megapikseli&auml;. T&auml;ss&auml; kokoluokassa muutos ei luultavasti n&auml;y miss&auml;&auml;n. D80:st&auml; ei ole pikselit loppuneet viel&auml; ;)</li>
+<li>Live view, eli kuvaa voi kuvatessa katsoa LCD-näytöltä etsimen sijaan. En koe kauhean tarpeelliseksi.</li>
+<li><del>Isompi</del>&nbsp;Tiheämpi kenno: 12,3 megapikseliä vs 10,2 megapikseliä. Tässä kokoluokassa muutos ei luultavasti näy missään. D80:stä ei ole pikselit loppuneet vielä ;)</li>
 </ul>
-<p>N&auml;ill&auml; spekseill&auml; en luultavasti ole vaihtamassa kameraa. Saan D80:ll&auml; sellaisia kuvia kuin tahdon. Uutta kameraa ostaessani p&auml;&auml;tyisin D90:een.</p>
-<h3>Linkkej&auml;:</h3>
+<p>Näillä spekseillä en luultavasti ole vaihtamassa kameraa. Saan D80:llä sellaisia kuvia kuin tahdon. Uutta kameraa ostaessani päätyisin D90:een.</p>
+<h3>Linkkejä:</h3>
 <ul>
 <li><a title="dpreview: Nikon D90 hands-on preview" href="http://www.dpreview.com/previews/nikond90/">DPReview</a>. Kattava lista D80 / D90 eroista.</li>
 <li><a href="http://www.kenrockwell.com/nikon/d90.htm">Ken Rockwell</a>. Marinaa elokuvamoodista, muuten suhteellisen positiivinen arvio.</li>

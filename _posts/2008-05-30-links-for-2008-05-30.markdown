@@ -22,7 +22,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://cssglobe.com/post/1695/easiest-tooltip-and-image-preview--jquery">Easiest Tooltip and Image Preview Using jQuery</a></div></p>
-<div class="delicious-extended">K&auml;ts&auml; tooltip jQueryll&auml;</div></p>
+<div class="delicious-extended">Kätsä tooltip jQueryllä</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/webdesign">webdesign</a> <a href="http://del.icio.us/oiva/jquery">jquery</a> <a href="http://del.icio.us/oiva/javascript">javascript</a> <a href="http://del.icio.us/oiva/css">css</a>)</div><br />
 	</li>
 </ul>

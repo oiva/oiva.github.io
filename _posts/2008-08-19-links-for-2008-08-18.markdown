@@ -22,6 +22,6 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://www.smashingmagazine.com/2008/08/17/10-futuristic-user-interfaces/">10 Futuristic User Interfaces</a></div></p>
-<div class="delicious-extended">Hauskoja demoja. 3D head-tracking olisi aika parasta peleiss&auml;.</div></p>
+<div class="delicious-extended">Hauskoja demoja. 3D head-tracking olisi aika parasta peleissä.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/ui">ui</a> <a href="http://delicious.com/oiva/demo">demo</a> <a href="http://delicious.com/oiva/ux">ux</a>)</div><br />
             </li></ul>

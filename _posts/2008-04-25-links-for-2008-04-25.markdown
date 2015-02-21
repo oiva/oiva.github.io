@@ -23,6 +23,6 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://releases.ubuntu.com/releases/8.04/">Ubuntu 8.04 LTS (Hardy Heron)</a></div></p>
-<div class="delicious-extended">Uusi Ubuntu on ulkona, t&auml;ll&auml; kertaa Long Time Supportattuna</div></p>
+<div class="delicious-extended">Uusi Ubuntu on ulkona, tällä kertaa Long Time Supportattuna</div></p>
 <div class="delicious-tags">(tags: <a href="http://del.icio.us/oiva/ubuntu">ubuntu</a> <a href="http://del.icio.us/oiva/linux">linux</a> <a href="http://del.icio.us/oiva/lts">lts</a>)</div></li>
 </ul>

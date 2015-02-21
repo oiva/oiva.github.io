@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Kuukausien listaaminen PHP:ss&auml;
+title: Kuukausien listaaminen PHP:ssä
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -20,7 +20,7 @@ tags:
 - PHP
 comments: []
 ---
-<p>Note to self-osastoa: Miten listataan kuukausien nimet suomeksi PHP:ss&auml;.</p>
+<p>Note to self-osastoa: Miten listataan kuukausien nimet suomeksi PHP:ssä.</p>
 {% highlight php startinline %}
 setlocale(LC_ALL, 'fi_FI');
 for ($i=1; $i<=12; $i++)

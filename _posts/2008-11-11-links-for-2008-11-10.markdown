@@ -22,7 +22,7 @@ comments: []
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://www.slideshare.net/createwithcontext/how-people-really-use-the-iphone-presentation/">How people really use the iPhone</a></div></p>
-<div class="delicious-extended">Hyvi&auml; esimerkkej&auml; miten ihmiset voivat ymm&auml;rt&auml;&auml; k&auml;ytt&ouml;liittym&auml;elementtej&auml; t&auml;ysin eri tavalla kuin ohjelmien kehitt&auml;j&auml;t.</div></p>
+<div class="delicious-extended">Hyviä esimerkkejä miten ihmiset voivat ymmärtää käyttöliittymäelementtejä täysin eri tavalla kuin ohjelmien kehittäjät.</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/iphone">iphone</a> <a href="http://delicious.com/oiva/ux">ux</a>)</div><br />
             </li>
 <li>

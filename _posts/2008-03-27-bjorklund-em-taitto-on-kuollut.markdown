@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Bj&ouml;rklund: em-taitto on kuollut'
+title: 'Björklund: em-taitto on kuollut'
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -32,12 +32,12 @@ comments:
   author_url: http://blog.nikc.org/
   date: '2008-03-28 09:12:58 +0200'
   date_gmt: '2008-03-28 07:12:58 +0200'
-  content: Eik&ouml;h&auml;n em ole ihan k&auml;yp&auml; tapa jatkossakin, joskin
-    ehk&auml; ei en&auml;&auml; niin v&auml;ltt&auml;m&auml;t&ouml;nt&auml; kuin t&auml;h&auml;n
-    asti. Yksi syy em-yksik&ouml;iden suosimiseen pikseleiden yli on ollut sen yhden
-    valmistajan selaimen kyvytt&ouml;myys skaalata pikselein m&auml;&auml;ritelty&auml;
-    teksti&auml;. On se kuitenkin helpompaa kuin prosenttien k&auml;ytt&auml;minen.
+  content: Eiköhän em ole ihan käypä tapa jatkossakin, joskin
+    ehkä ei enää niin välttämätöntä kuin tähän
+    asti. Yksi syy em-yksiköiden suosimiseen pikseleiden yli on ollut sen yhden
+    valmistajan selaimen kyvyttömyys skaalata pikselein määriteltyä
+    tekstiä. On se kuitenkin helpompaa kuin prosenttien käyttäminen.
 ---
-<p><a href="http://akibjorklund.com/arkisto/em-zoom">Aki Bj&ouml;rklund kirjoittaa elastisen em-taiton kuolevan</a> uusien selainversioiden (FF3, IE7) zoomausominaisuuksien my&ouml;t&auml;. Elastinen taitto on siis se tekniikka, miss&auml; kaikki layoutin mitat m&auml;&auml;ritell&auml;&auml;n suhteessa fontin perusyksikk&ouml;&ouml;n (<em><a href="http://en.wikipedia.org/wiki/Em_(typography)">em</a></em>).</p>
-<p>Kielt&auml;m&auml;tt&auml; ihan hyv&auml; uutinen, sill&auml; tarkkojen pikselimittojen m&auml;&auml;ritt&auml;minen em:n&auml; on melko ty&ouml;l&auml;st&auml;. Ja yleens&auml; leiska kuitenkin hajoaa jotenkin kun fonttikokoa suurennetaan. (Osaamiskysymys kaiketi, en ole kunnolla perehtynyt siihen miten homma pit&auml;isi hoitaa.)</p>
-<p>Mutta jos em-taitto kuolee, mik&auml; on se tapa miten nettisivut pit&auml;isi taittaa? Raa'asti vain pikselimittoja k&auml;ytt&auml;m&auml;ll&auml;?</p>
+<p><a href="http://akibjorklund.com/arkisto/em-zoom">Aki Björklund kirjoittaa elastisen em-taiton kuolevan</a> uusien selainversioiden (FF3, IE7) zoomausominaisuuksien myötä. Elastinen taitto on siis se tekniikka, missä kaikki layoutin mitat määritellään suhteessa fontin perusyksikköön (<em><a href="http://en.wikipedia.org/wiki/Em_(typography)">em</a></em>).</p>
+<p>Kieltämättä ihan hyvä uutinen, sillä tarkkojen pikselimittojen määrittäminen em:nä on melko työlästä. Ja yleensä leiska kuitenkin hajoaa jotenkin kun fonttikokoa suurennetaan. (Osaamiskysymys kaiketi, en ole kunnolla perehtynyt siihen miten homma pitäisi hoitaa.)</p>
+<p>Mutta jos em-taitto kuolee, mikä on se tapa miten nettisivut pitäisi taittaa? Raa'asti vain pikselimittoja käyttämällä?</p>

@@ -21,10 +21,10 @@ comments: []
 ---
 <ul class="delicious">
 <li>
-<div class="delicious-link"><a href="http://www.hs.fi/kotimaa/artikkeli/Vika+Googlessa+esti+p%C3%A4%C3%A4syn+hakutuloksiin/1135243184914">Vika Googlessa esti p&auml;&auml;syn hakutuloksiin</a></div></p>
-<div class="delicious-extended">"Hakukone ilmoitti kaikkien hakutulosten sivujen voivan vahingoittaa k&auml;ytt&auml;j&auml;n tietokonetta. Palvelu ohjasi hakutuloksia klikanneen k&auml;ytt&auml;j&auml;n varoitussivulle, jolta ei suoraan p&auml;&auml;ssyt siirtym&auml;&auml;n hakutulokseen."</p>
-<p>Linkin puuttuminen hakutulokseen oli yll&auml;tt&auml;v&auml;n suuri ongelma. Se tuntui silt&auml;, ett&auml; kohdesivu on sensuroitu, vaikka sinne olisi p&auml;&auml;ssyt osoitteen kopioimalla ja liitt&auml;m&auml;ll&auml;. </p>
-<p>Tapaus osoitti my&ouml;s miten riippuvaiseksi olen tullut Googlen hakukoneesta. J&auml;lkeenp&auml;in ajatellen olisin voinut kokeilla jotakin toista hakukonetta...</div></p>
+<div class="delicious-link"><a href="http://www.hs.fi/kotimaa/artikkeli/Vika+Googlessa+esti+p%C3%A4%C3%A4syn+hakutuloksiin/1135243184914">Vika Googlessa esti pääsyn hakutuloksiin</a></div></p>
+<div class="delicious-extended">"Hakukone ilmoitti kaikkien hakutulosten sivujen voivan vahingoittaa käyttäjän tietokonetta. Palvelu ohjasi hakutuloksia klikanneen käyttäjän varoitussivulle, jolta ei suoraan päässyt siirtymään hakutulokseen."</p>
+<p>Linkin puuttuminen hakutulokseen oli yllättävän suuri ongelma. Se tuntui siltä, että kohdesivu on sensuroitu, vaikka sinne olisi päässyt osoitteen kopioimalla ja liittämällä. </p>
+<p>Tapaus osoitti myös miten riippuvaiseksi olen tullut Googlen hakukoneesta. Jälkeenpäin ajatellen olisin voinut kokeilla jotakin toista hakukonetta...</div></p>
 <div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/google">google</a> <a href="http://delicious.com/oiva/hs">hs</a>)</div><br />
             </li>
 <li>
