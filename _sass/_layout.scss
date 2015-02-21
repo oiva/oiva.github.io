@@ -188,6 +188,10 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+    li h2 {
+        line-height: 1em;
+        margin-bottom: 0.25em;
+    }
 }
 
 .post-meta {
