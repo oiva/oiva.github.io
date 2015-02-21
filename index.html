@@ -7,17 +7,28 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <p class="post-excerpt">
+            {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 200}}{% endif %}
+          </p>
         </h2>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- Pagination links -->
+  <div class="pagination">
+    <span class="page_number">Page {{ paginator.page }} / {{ paginator.total_pages }}:</span>
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">previous page</a>{% endif %}{% if paginator.next_page and paginator.previous_page %},{% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">next page</a>
+    {% endif %}
+  </div>
 
 </div>
