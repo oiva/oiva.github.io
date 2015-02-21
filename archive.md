@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: archive
+title: Archive
 status: publish
 published: true
-title: Arkisto
 author:
   display_name: Oiva Eskola
   login: oiva
@@ -10,13 +10,9 @@ author:
   url: ''
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-wordpress_id: 38
-wordpress_url: http://www.bobs.fi/oiva/arkisto/
-date: '2008-03-29 14:13:39 +0200'
-date_gmt: '2008-03-29 12:13:39 +0200'
-categories:
-- Uncategorized
+date: '2013-05-29 23:23:35 +0300'
+date_gmt: '2013-05-29 21:23:35 +0300'
+categories: []
 tags: []
 comments: []
 ---
-
