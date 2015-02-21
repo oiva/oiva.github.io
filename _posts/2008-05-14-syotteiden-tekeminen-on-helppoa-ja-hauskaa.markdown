@@ -31,7 +31,7 @@ comments:
   author: Uuden .fi-domainin varaaminen ja sivuston siirt&auml;minen &#8212; Oivallisia
     juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/08/12/uuden-fi-domainin-varaaminen-ja-sivuston-siirtaminen/
+  author_url: http://oivaeskola.fi/2008/08/12/uuden-fi-domainin-varaaminen-ja-sivuston-siirtaminen/
   date: '2008-08-12 22:26:17 +0300'
   date_gmt: '2008-08-12 19:26:17 +0300'
   content: "[...] varaaminen ja sivuston siirt&auml;minen sujui hyvin, lukuun ottamatta

@@ -39,7 +39,7 @@ comments:
 - id: 2048
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2012-05-25 21:58:51 +0300'
   date_gmt: '2012-05-25 19:58:51 +0300'
   content: "Ei ole en&auml;&auml; k&auml;yt&ouml;ss&auml; - pit&auml;isi itse asiassa

@@ -28,7 +28,7 @@ comments:
 - id: 45
   author: K&auml;ytt&auml;j&auml;n vika &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/04/24/kayttajan-vika/
+  author_url: http://oivaeskola.fi/2008/04/24/kayttajan-vika/
   date: '2008-04-24 19:31:15 +0300'
   date_gmt: '2008-04-24 16:31:15 +0300'
   content: "[...] Filosofian ja systeemiajattelun kurssilla opin, ett&auml; ihmisen

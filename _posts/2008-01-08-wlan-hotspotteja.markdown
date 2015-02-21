@@ -25,7 +25,7 @@ comments:
 - id: 21
   author: Avoimien wlan-verkkojen puute + fillarimessut &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/03/04/avoimien-wlan-verkkojen-puute-fillarimessut/
+  author_url: http://oivaeskola.fi/2008/03/04/avoimien-wlan-verkkojen-puute-fillarimessut/
   date: '2008-03-04 21:47:14 +0200'
   date_gmt: '2008-03-04 19:47:14 +0200'
   content: "[...] tarkkailua, laitteella kun ei muuten p&auml;&auml;se nettiin. Yleens&auml;

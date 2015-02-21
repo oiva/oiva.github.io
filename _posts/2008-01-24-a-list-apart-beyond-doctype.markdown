@@ -31,7 +31,7 @@ comments:
   author: IE8 k&auml;ytt&auml;m&auml;&auml;n oletusarvoisesti standardia render&ouml;inti&auml;
     &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/03/04/ie8-kayttamaan-oletusarvoisesti-standardia-renderointia/
+  author_url: http://oivaeskola.fi/2008/03/04/ie8-kayttamaan-oletusarvoisesti-standardia-renderointia/
   date: '2008-03-04 19:47:21 +0200'
   date_gmt: '2008-03-04 17:47:21 +0200'
   content: "[...] Explorer 8:n yhteydess&auml; on puhuttu erityisist&auml; meta-tageista,

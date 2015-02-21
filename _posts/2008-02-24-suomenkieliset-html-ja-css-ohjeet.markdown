@@ -52,7 +52,7 @@ comments:
 - id: 46
   author: HTML ja CSS -ohjeet, osa 2 &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/05/05/html-ja-css-ohjeet-osa-2/
+  author_url: http://oivaeskola.fi/2008/05/05/html-ja-css-ohjeet-osa-2/
   date: '2008-05-05 18:19:28 +0300'
   date_gmt: '2008-05-05 15:19:28 +0300'
   content: "[...] aikaisemmin yhteen muutamia suomenkielisi&auml; HTML ja CSS -ohjeita.

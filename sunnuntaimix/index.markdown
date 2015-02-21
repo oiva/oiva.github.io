@@ -21,7 +21,7 @@ comments:
 - id: 99
   author: Sunnuntaimix &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/09/14/sunnuntaimix/
+  author_url: http://oivaeskola.fi/2008/09/14/sunnuntaimix/
   date: '2008-09-14 23:57:11 +0300'
   date_gmt: '2008-09-14 20:57:11 +0300'
   content: "[...] Sunnuntaimix on musiikkia sunnuntaille ja miksei muillekin p&auml;iville.

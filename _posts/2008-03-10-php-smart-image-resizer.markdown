@@ -35,7 +35,7 @@ comments:
 - id: 71
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-07-25 00:09:58 +0300'
   date_gmt: '2008-07-24 21:09:58 +0300'
   content: Kiitos vinkist&auml;. Smart image resizerin kanssa olikin v&auml;h&auml;n

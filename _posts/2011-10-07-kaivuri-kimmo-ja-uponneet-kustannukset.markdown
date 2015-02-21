@@ -30,7 +30,7 @@ comments:
 - id: 1242
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2011-11-01 21:46:03 +0200'
   date_gmt: '2011-11-01 19:46:03 +0200'
   content: "Huomasin t&auml;m&auml;n porsaanrei&auml;n my&ouml;hemmin haastattelustasi

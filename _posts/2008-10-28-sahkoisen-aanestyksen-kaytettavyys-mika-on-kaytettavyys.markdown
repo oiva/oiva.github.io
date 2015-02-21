@@ -47,7 +47,7 @@ comments:
 - id: 187
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-10-30 00:45:45 +0200'
   date_gmt: '2008-10-29 21:45:45 +0200'
   content: 'Jukka: hyv&auml; huomio. Skenaario, jossa &auml;&auml;nest&auml;j&auml;
@@ -79,7 +79,7 @@ comments:
 - id: 290
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-11-11 22:43:53 +0200'
   date_gmt: '2008-11-11 19:43:53 +0200'
   content: Mainiota Aapo. Ehk&auml; TietoEnatorin ovelana suunnitelmana oli alunperinkin

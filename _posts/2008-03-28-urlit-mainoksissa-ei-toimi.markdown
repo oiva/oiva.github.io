@@ -40,7 +40,7 @@ comments:
 - id: 29
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-03-30 23:37:13 +0300'
   date_gmt: '2008-03-30 21:37:13 +0300'
   content: "Antti, mielenkiintoinen linkki, kiitos. Voin kuvitella ett&auml; mainostajia

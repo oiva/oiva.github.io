@@ -43,7 +43,7 @@ comments:
 - id: 39
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-04-06 20:29:51 +0300'
   date_gmt: '2008-04-06 17:29:51 +0300'
   content: Dodih, hyv&auml; tiet&auml;&auml; :)

@@ -40,7 +40,7 @@ comments:
 - id: 298
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-11-12 23:20:41 +0200'
   date_gmt: '2008-11-12 20:20:41 +0200'
   content: Ok, hyv&auml; tiet&auml;&auml; ett&auml; kappalejako on olemassa. Palaute
@@ -48,7 +48,7 @@ comments:
 - id: 331
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-12-13 00:49:08 +0200'
   date_gmt: '2008-12-12 21:49:08 +0200'
   content: Podcastien j&auml;rjestysongelma n&auml;ytti korajaantuneen uudessa 2.2

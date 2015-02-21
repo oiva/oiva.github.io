@@ -62,7 +62,7 @@ comments:
 - id: 87
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-09-01 23:14:39 +0300'
   date_gmt: '2008-09-01 20:14:39 +0300'
   content: "Kokeilin k&auml;sintehty&auml; budejtti-exceli&auml; taas hetken, mutta

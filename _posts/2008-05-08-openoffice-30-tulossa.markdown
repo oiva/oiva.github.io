@@ -53,7 +53,7 @@ comments:
 - id: 59
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-05-19 17:40:01 +0300'
   date_gmt: '2008-05-19 14:40:01 +0300'
   content: "Mielipiteeni ansaitsevat perusteluja. T&auml;ss&auml; muutama asia, jotka
@@ -103,7 +103,7 @@ comments:
 - id: 103
   author: Adobe CS4 &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/10/10/adobe-cs4/
+  author_url: http://oivaeskola.fi/2008/10/10/adobe-cs4/
   date: '2008-10-10 10:07:49 +0300'
   date_gmt: '2008-10-10 07:07:49 +0300'
   content: "[...] keskitytty parantamaan workflowta ja j&auml;tetty uudet ominaisuudet

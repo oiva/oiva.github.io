@@ -54,7 +54,7 @@ comments:
 - id: 85
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-08-31 23:13:16 +0300'
   date_gmt: '2008-08-31 20:13:16 +0300'
   content: "Aivoterapeutti: kuulostaa hyv&auml;lt&auml; j&auml;rjestelylt&auml;. T&auml;h&auml;n

@@ -62,7 +62,7 @@ comments:
 - id: 336
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2009-01-02 15:24:43 +0200'
   date_gmt: '2009-01-02 12:24:43 +0200'
   content: "Henccu: riippuu varmasti kuvaustavoista tarvitseeko live viewi&auml;.
@@ -89,7 +89,7 @@ comments:
 - id: 1446
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2012-01-01 20:43:46 +0200'
   date_gmt: '2012-01-01 18:43:46 +0200'
   content: "Kiitos kommentista Niklas. Kirjoitin t&auml;m&auml;n 2008, ja silloin

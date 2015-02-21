@@ -122,7 +122,7 @@ comments:
 - id: 488
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2009-08-25 22:08:56 +0300'
   date_gmt: '2009-08-25 20:08:56 +0300'
   content: "Ainakin Paikallisosuuspankin Visa-kortilla tuntuu vaihtelevan mit&auml;
@@ -143,7 +143,7 @@ comments:
 - id: 1025
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2011-08-02 19:21:31 +0300'
   date_gmt: '2011-08-02 17:21:31 +0300'
   content: "Tilanne on nyt harmillisen sekava, koska ruudulla n&auml;kyv&auml;t tekstit

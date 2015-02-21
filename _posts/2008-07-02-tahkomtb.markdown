@@ -41,7 +41,7 @@ comments:
 - id: 67
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-07-02 22:46:04 +0300'
   date_gmt: '2008-07-02 19:46:04 +0300'
   content: "Ei pid&auml; unohtaa, ett&auml; Tahkolla oli my&ouml;s todella hauskaa.

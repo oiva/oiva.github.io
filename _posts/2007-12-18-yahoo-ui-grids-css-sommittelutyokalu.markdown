@@ -27,7 +27,7 @@ comments:
 - id: 40
   author: Paulan korusivut &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/04/13/paulan-korusivut/
+  author_url: http://oivaeskola.fi/2008/04/13/paulan-korusivut/
   date: '2008-04-13 02:14:31 +0300'
   date_gmt: '2008-04-12 23:14:31 +0300'
   content: "[...] Fonts auttaa fonttikokojen yhten&auml;ist&auml;misess&auml; eri

@@ -40,7 +40,7 @@ comments:
 - id: 1617
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2012-02-18 19:08:29 +0200'
   date_gmt: '2012-02-18 17:08:29 +0200'
   content: "Henkil&ouml;historiana varmaan toimii, ja voi olla, ett&auml; se oli se

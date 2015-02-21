@@ -28,7 +28,7 @@ comments:
 - id: 101
   author: Oiva
   author_email: oiva.eskola@gmail.com
-  author_url: http://www.bobs.fi/oiva
+  author_url: http://oivaeskola.fi
   date: '2008-09-26 00:11:04 +0300'
   date_gmt: '2008-09-25 21:11:04 +0300'
   content: Ja -10 pistett&auml; jos j&auml;it lukemaan fail-blogia ;)
@@ -43,7 +43,7 @@ comments:
 - id: 329
   author: Merlin Mannia Youtubessa &#8212; Oivallisia juttuja
   author_email: ''
-  author_url: http://www.bobs.fi/oiva/2008/11/22/merlin-mannia-youtubessa/
+  author_url: http://oivaeskola.fi/2008/11/22/merlin-mannia-youtubessa/
   date: '2008-11-22 15:00:45 +0200'
   date_gmt: '2008-11-22 12:00:45 +0200'
   content: "[...] aikaisemmin Merlin Mannin 43 Folders -sivustolta l&ouml;ytyneit&auml;
