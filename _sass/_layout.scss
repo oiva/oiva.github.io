@@ -245,3 +245,18 @@
         }
     }
 }
+
+section.comments {
+    margin-top: 2*$spacing-unit;
+    h2 {
+        border-bottom: 1px solid $grey-color;
+    }
+    article.comment {
+        width: 85%;
+    }
+}
+
+.comments-closed {
+    color: $grey-color;
+    font-style: italic;
+}

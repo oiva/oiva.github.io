@@ -12,4 +12,28 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.comments %}
+  <section class="comments">
+    <h2>Comments</h2>
+    {% for c in page.comments %}
+      <article class="comment">
+        <h3 class="author">
+        {% if c.author_url == '' %}
+          {{c.author}}
+        {% else %}
+          <a href="{{c.author_url}}" rel="author">{{c.author}}</a>
+        {% endif %}
+        on <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">
+          {{c.date | date: "%b %-d, %Y"}}
+        </time>
+        </h3>
+        <p>
+          {{c.content}}
+        </p>
+      </article>
+    {% endfor %}
+    <p class="comments-closed">Comments are now closed.</p>
+  </section>
+  {% endif %}
+
 </div>
