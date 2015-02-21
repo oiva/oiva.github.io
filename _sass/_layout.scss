@@ -252,11 +252,23 @@ section.comments {
         border-bottom: 1px solid $grey-color;
     }
     article.comment {
+        font-size: 18px;
         width: 85%;
+    }
+    time {
+        color: $grey-color;
     }
 }
 
 .comments-closed {
     color: $grey-color;
     font-style: italic;
+}
+
+section.feedback {
+    h2 {
+        font-family: $title-font-family;
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
 }

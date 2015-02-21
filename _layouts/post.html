@@ -1,20 +1,32 @@
 ---
 layout: default
 ---
+{% capture cutoff %}{{ '2013-05-30' | Date.parse | date: '%s'}}{% endcapture %}
+{% assign cutoff = cutoff | plus: 0 %}
+{% capture pagetime %}{{page.date | date: '%s'}}{% endcapture %}
+{% assign pagetime = pagetime | plus: 0 %}
 <div class="post">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% if page.language == 'fi' or pagetime < cutoff %}
+      <p class="post-meta">{{ page.date | date: "%-d.%-m.%Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% else %}
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% endif %}
   </header>
 
   <article class="post-content">
     {{ content }}
   </article>
 
-  {% if page.comments %}
+  {% if page.comments.size > 0 %}
   <section class="comments">
-    <h2>Comments</h2>
+    {% if page.language == 'fi' or pagetime < cutoff %}
+      <h2>{{page.comments.size}} kommentti{% if page.comments.size != 1 %}a{% endif %}</h2>
+    {% else %}
+      <h2>{{page.comments.size}} comment{% if page.comments.size != 1 %}s{% endif %}</h2>
+    {% endif %}
     {% for c in page.comments %}
       <article class="comment">
         <h3 class="author">
@@ -23,17 +35,35 @@ layout: default
         {% else %}
           <a href="{{c.author_url}}" rel="author">{{c.author}}</a>
         {% endif %}
-        on <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">
-          {{c.date | date: "%b %-d, %Y"}}
-        </time>
+        {% if page.language == 'fi' or pagetime < cutoff %}
+          &ndash; <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">{{c.date | date: "%-d.%-m.%Y"}}</time>
+        {% else %}
+          on <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">{{c.date | date: "%b %-d, %Y"}}</time>
+        {% endif %}
         </h3>
         <p>
           {{c.content}}
         </p>
       </article>
     {% endfor %}
+    {% if page.language == 'fi' or pagetime < cutoff %}
+    <p class="comments-closed">Kommentit on suljettu.</p>
+    {% else %}
     <p class="comments-closed">Comments are now closed.</p>
+    {% endif %}
   </section>
   {% endif %}
+
+  <section class="feedback">
+    {% if page.language == 'fi' or pagetime < cutoff %}
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="http://twitter.com/oiva">Twitterissä</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    {% else %}
+    <h2>Questions or feedback?</h2>
+    <p>Send a message on <a href="http://twitter.com/oiva">Twitter</a> or 
+      <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
+    {% endif %}
+  </section>
 
 </div>
