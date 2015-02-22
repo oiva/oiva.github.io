@@ -8,6 +8,8 @@
         {{ content }}
       </div>
     </div>
+    {% if page.title != 'About' %}
     {% include footer.html %}
+    {% endif %}
   </body>
 </html>

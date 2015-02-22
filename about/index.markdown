@@ -21,12 +21,12 @@ tags: []
 comments: []
 ---
 <img class="alignleft" src="http://www.gravatar.com/avatar/be55d0d9dbce2798950d7d7ebfc2ada8.jpg?s=256" width="128" height="128" />
-<p>Hi, I'm Oiva. I'm a front-end developer currently living in Espoo, Finland. As all front-end devs, I'm interested
-in <a href="https://www.flickr.com/photos/oiva/">photography</a>, cycling (never failing to mention that I was a
+<p>Hi, I'm Oiva. I'm a front-end deve&shy;lo&shy;per currently living in Espoo, Finland. As all front-end devs, I'm inte&shy;rested
+in <a href="https://www.flickr.com/photos/oiva/">photo&shy;graphy</a>, cycling (never failing to mention that I was a
 messenger back in the day), and good beers.</p>
 
-<p>I work for a consultancy company called <a href="https://sc5.io">SC5</a> and do a bunch of 
-hobby projects on the side. Because why watch TV if you can code, am I right?<br/>At work I'm mostly working on
+<p>I work for a consul&shy;tancy com&shy;pany called <a href="https://sc5.io">SC5</a> and do a bunch of 
+hobby projects on the side. Because why watch TV if you can code, am I right? At work I'm mostly working on
 a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a>.</p>
 
 

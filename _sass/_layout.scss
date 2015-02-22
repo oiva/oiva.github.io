@@ -175,10 +175,11 @@
  */
 .page-content {
     padding: $spacing-unit 0 ($spacing-unit / 2);
-}
 
-.page-heading {
-    font-size: 20px;
+    iframe {
+        max-height: 50vw;
+        max-width: 100%;
+    }
 }
 
 .post-list {
