@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Archive: Movies"
+title: "Blog Archive: Life"
 status: publish
 includeheader: false
 published: true
@@ -12,10 +12,10 @@ author:
   url: ''
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-date: '2013-05-29 23:23:35 +0300'
-date_gmt: '2013-05-29 21:23:35 +0300'
+date: '2015-01-01 23:23:35 +0300'
+date_gmt: '2015-01-01 21:23:35 +0300'
 categories: []
-category: movies
+category: life
 tags: []
 comments: []
 ---

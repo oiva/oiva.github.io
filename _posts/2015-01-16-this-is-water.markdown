@@ -6,7 +6,7 @@ title: This is Water
 date: '2015-01-16 15:53:00 +0200'
 date_gmt: '2015-01-16 13:53:00 +0200'
 categories:
-- elämä
+- life 
 tags:
 - david foster wallace
 ---

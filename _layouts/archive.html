@@ -3,7 +3,11 @@ layout: default
 ---
 <div class="archive">
   {% if page.category %}
-    <h3 id="{{ page.category }}">Kategoria: {% if page.categoryname %}{{ page.categoryname }}{% else %}{{ page.category }}{% endif %}</h3>
+    {% if page.language == 'en' %}
+      <h3 id="{{ page.category }}">Category: {% if page.categoryname %}{{ page.categoryname }}{% else %}{{ page.category }}{% endif %}</h3>
+    {% else %}
+      <h3 id="{{ page.category }}">Kategoria: {% if page.categoryname %}{{ page.categoryname }}{% else %}{{ page.category }}{% endif %}</h3>
+    {% endif %}
     <ul>
     {% for post in site.categories[page.category] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>

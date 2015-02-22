@@ -18,6 +18,18 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+    {% if page.categories.size > 0 %}
+      {% capture categories %}
+        {% for category in page.categories %}
+          <a href="/archive/{{ category | replace: 'ä','a' | replace: 'ö','o' }}">{{category}}</a>{% if forloop.index < page.categories.size - 1 %}, {% endif %}
+        {% endfor %}
+      {% endcapture %}
+      {% if page.language == 'fi' or pagetime < cutoff %}
+      <p>Kategoria{% if page.categories.size != 1 %}t{% endif %}: {{ categories }}</p>
+      {% else %}
+      <p>Categor{% if page.categories.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
+      {% endif %}
+    {% endif %}
   </article>
 
   {% if page.comments.size > 0 %}
