@@ -28,7 +28,6 @@ comments:
     Mukana on mm. Regina, Trentemøller ja SIG  . Katso lisää ja lataa
     mp3: oiva - sunnuntaimix. [...]"
 ---
-<p><a href="http://www.flickr.com/photos/pesis/2295689513/"><img title="O l t r a i t by Pörrö" src="http://farm4.static.flickr.com/3250/2295689513_1186be4674.jpg" alt="O l t r a i t by Pörrö" width="500" height="334" /></a></p>
 <p>Sunnuntai on minulle päivistä pahin, on aina ollut. Enkä puhu nyt krapulasta. Maanantailla ei ole mitään jakoa verrattuna sunnuntain tyhjyyteen ja pysähtyneisyyteen. Onneksi on musiikkia.</p>
 <p>Kasasin yhteen musiikkia, joka sopii omaan sunnuntaipäivääni. Rauhoittavaa, piristävää, lohduttavaa ja muuta.</p>
 <p>Lataa tästä: <a href="http://www.bobs.fi/oiva-sunnuntaimix.mp3">oiva - sunnuntaimix</a> (mp3, n. 57Mt)</p>
