@@ -4,7 +4,6 @@ title: About
 status: publish
 published: true
 includeheader: true
-title: About
 author:
   display_name: Oiva Eskola
   login: oiva

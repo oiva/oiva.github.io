@@ -16,7 +16,7 @@
             {% assign current = 'current' %}
           {% endif %}
           {% if link.title and link.includeheader %}
-          <a class="page-link {{ current }}" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+          <a class="page-link {{ current }}" href="{{ link.url | prepend: site.baseurl | remove:'index.html' }}">{{ link.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
