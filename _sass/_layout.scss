@@ -200,6 +200,24 @@
             color: $text-color;
         }
     }
+    li.full-post:last-child {
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+.language-barrier {
+    text-align: center;
+
+    h3 {
+        border-bottom: 3px dashed #ccc;
+        margin-bottom: 0;
+    }
+    p {
+        background: $background-color;
+        display: inline-block;
+        margin-top: -3px;
+        padding: 3px 10px 0;
+    }
 }
 
 .post-meta {
