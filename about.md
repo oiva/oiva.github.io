@@ -33,9 +33,11 @@ a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a
 
 <h3>Contact me</h3>
 <div class="vcard">
-<ul>
+<ul class="contact">
 <li class="email"><a href="mailto:oiva.eskola@gmail.com">oiva.eskola@gmail.com</a></li>
 <li class="tel"><a href="tel:+358407739493">+358 40 773 9493</a></li>
-<li class="X-TWITTER"><a href="https://twitter.com/oiva">@oiva</a></li>
+<li class="X-TWITTER"><a href="https://twitter.com/oiva">@oiva</a> on Twitter</li>
+<li><a href="http://fi.linkedin.com/in/oivaeskola">LinkedIn profile</a></li>
+<li><a href="https://github.com/oiva/">GitHub profile</a></li>
 </ul>
 </div>
