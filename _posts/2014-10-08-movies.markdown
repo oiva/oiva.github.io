@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: David Fincher style
+date: '2014-10-08 15:49:00 +0200'
+date_gmt: '2014-10-08 13:49:00 +0200'
+categories:
+- movies
+tags:
+- fincher
+---
+<figure>
+  <iframe src="//player.vimeo.com/video/107779620?color=f0a400&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <figcaption><a href="https://vimeo.com/107779620">David Fincher - And the Other Way is Wrong</a>
+from <a href="https://vimeo.com/tonyzhou">Tony Zhou</a> on <a href="https://vimeo.com">Vimeo</a>.</figcaption>
+</figure>
+
+I like movies and I have studied a tiny bit what goes into making one. Still, 
+at the movies I'm just enjoying the movie, not looking at how it was made. 
+I might notice a clever cut or [good lighting](http://imgur.com/a/cpLno), but 
+most of the that just goes by and helps telling a story.
+
+That's why it's fun to see studies of different directors where someone points 
+out all the tricks they use.
+
+Here's one example about the stuff David Fincher does, or doesn't do.
+(Via [Kottke](http://kottke.org/14/10/what-david-fincher-doesnt-do))
