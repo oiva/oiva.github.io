@@ -3,7 +3,7 @@ title: Oiva Eskola
 email: oiva.eskola@gmail.com
 description: Full stack web developer
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://oivaeskola.fi" # the base hostname & protocol for your site
+url: "https://oivaeskola.fi" # the base hostname & protocol for your site
 twitter_username: oiva
 github_username: oiva
 flickr_username: oiva
