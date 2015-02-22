@@ -194,16 +194,24 @@
         margin-bottom: 0.25em;
     }
     li.full-post {
-        border-bottom: 1px solid $grey-color-light;
-        padding-bottom: $spacing-unit / 2;
-
         h2 a, h2 a:visited {
             color: $text-color;
+        }
+        hr {
+            background-color: $grey-color-light;
+            border: 0;
+            height: 1px;
+            margin: $spacing-unit auto 0;
+            width: 80%;
         }
     }
     li.full-post:last-child {
         border-bottom: 0;
         padding-bottom: 0;
+
+        hr {
+            display: none;
+        }
     }
 }
 .language-barrier {
@@ -282,6 +290,18 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+    hr {
+        background-color: $grey-color-light;
+        border: 0;
+        height: 1px;
+        margin: 0 auto;
+        width: 80%;
+    }
+    .categories {
+        color: $grey-color;
+        font-size: 80%;
+        margin-top: $spacing-unit;
     }
 }
 

@@ -33,6 +33,7 @@ layout: default
         </h2>
         {% if paginator.page == 1 and forloop.index <= 5 %}
           <p class="post-excerpt">{{ post.content }}</p>
+          <hr />
         {% elsif paginator.page == 1 %}
           <p class="post-excerpt">
             {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 250}}{% endif %}

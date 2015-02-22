@@ -25,11 +25,12 @@ layout: default
         {% endfor %}
       {% endcapture %}
       {% if page.language == 'fi' or pagetime < cutoff %}
-      <p>Kategoria{% if page.categories.size != 1 %}t{% endif %}: {{ categories }}</p>
+      <p class="categories">Kategoria{% if page.categories.size != 1 %}t{% endif %}: {{ categories }}</p>
       {% else %}
-      <p>Categor{% if page.categories.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
+      <p class="categories">Categor{% if page.categories.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
       {% endif %}
     {% endif %}
+    <hr/>
   </article>
 
   {% if page.comments.size > 0 %}
