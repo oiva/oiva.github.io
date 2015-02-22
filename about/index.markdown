@@ -19,7 +19,7 @@ categories: []
 tags: []
 comments: []
 ---
-<img class="alignleft" src="http://www.gravatar.com/avatar/be55d0d9dbce2798950d7d7ebfc2ada8.jpg?s=256" width="128" height="128" />
+<img class="alignleft" src="https://www.gravatar.com/avatar/be55d0d9dbce2798950d7d7ebfc2ada8.jpg?s=256" width="128" height="128" />
 <p>Hi, I'm Oiva. I'm a front-end deve&shy;lo&shy;per currently living in Espoo, Finland. As all front-end devs, I'm inte&shy;rested
 in <a href="https://www.flickr.com/photos/oiva/">photo&shy;graphy</a>, cycling (never failing to mention that I was a
 messenger back in the day), and good beers.</p>
