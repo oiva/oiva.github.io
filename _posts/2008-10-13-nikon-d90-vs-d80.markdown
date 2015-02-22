@@ -106,7 +106,7 @@ comments:
     :) )\r\n\r\nD80:n ja D90:n kennot ovat tosiaan samankokoiset, mutta D90:ssä
     on enemmän pikseleitä samalla alueella. Korjattu tekstiin."
 ---
-<p><a href="http://www.flickr.com/photos/buglugs/2891387638/"><img class="alignnone" title="Nikon D90" src="http://farm4.static.flickr.com/3166/2891387638_f28a31db24_m.jpg" alt="" width="240" height="204" /></a>Nikon julkaisi hiljattain D90-järjestelmäkameran, joka on päivitetty versio D80:stä. Nikonin D80 ja D90 ovat keskitason kameroita, jotka tarjoavat hyvän kompromissin kameran koon ja kuvanlaadun välillä. Seuraaavalla hintatasolla olisi D300 (joka korvasi D200:n) ja entry-levelin vastaava kamera on D60.</p>
+<p><a href="http://www.flickr.com/photos/buglugs/2891387638/"><img class="alignleft" title="Nikon D90" src="https://farm4.static.flickr.com/3166/2891387638_f28a31db24_m.jpg" alt="" width="240" height="204" /></a>Nikon julkaisi hiljattain D90-järjestelmäkameran, joka on päivitetty versio D80:stä. Nikonin D80 ja D90 ovat keskitason kameroita, jotka tarjoavat hyvän kompromissin kameran koon ja kuvanlaadun välillä. Seuraaavalla hintatasolla olisi D300 (joka korvasi D200:n) ja entry-levelin vastaava kamera on D60.</p>
 <p><a title="Mikä digijärkkäri? Nikon D80 vs. D200" href="http://oivaeskola.fi/2007/12/10/mika-digijarkkari-nikon-d80-vs-d200">Vertasin aikoinaan D80 ja D200:a keskenään</a> ja päädyin kasikymppiseen. Olen ollut erittäin tyytyväinen valintaani. Mutta kannattaisiko D80 vaihtaa uudempaan D90:een? Nopeasti katsottuna merkittävimmät erot ovat nämä:<a id="more"></a><a id="more-215"></a></p>
 <h3>"Ihan kivoja" uusia ominaisuuksia:</h3>
 <ul>

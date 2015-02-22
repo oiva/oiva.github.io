@@ -23,7 +23,6 @@ tags:
 - fonecta
 comments: []
 ---
-<p><a href="http://www.flickr.com/photos/sami73/2129217112/"><img class="alignnone" title="big pile of snail spam by Sami Keinänen" src="http://farm3.static.flickr.com/2167/2129217112_b846d6d953_m.jpg" alt="" width="240" height="180" /></a></p>
 <p>Fonecta tarjoaa mahdollisuuden perua 2010 puhelinluettelon jakelun omaan osoitteeseesi. Täytä lomake <a title="Peruuta puhelinluettelon jakelu" href="http://www.fonecta.fi/puhelinluettelot/alueelliset_puhelinluettelot/fi_FI/jakeluperiaatteet/">täällä</a>. Tämä on oikeasti hienoa Fonecta!</p>
 <p>Seuraava looginen askel: tehkää lomake, jonka täyttämällä voi <em>tilata</em> puhelinluettelot itselleen. Muille ei tarvitse jakaa turhaan. Tai järjestäkää luetteloiden jakaminen kaupoista (eikö näin ollut joskus?) Käyttäkää jäljelle jääneet rahat internetpalvelujen kehittämiseen.</p>
 <p>Fonectalla (ja Enirolla) on ihan <a title="02.fi" href="http://02.fi">asiallisia</a> <a title="kartat.eniro.fi" href="http://kartat.eniro.fi/">nettipalveluja</a>, mitä kautta esimerkiksi yritysten yhteystiedot löytyvät riittävän helposti. <strong>Miksi luetteloita pitää spämmätä kaikille?</strong></p>

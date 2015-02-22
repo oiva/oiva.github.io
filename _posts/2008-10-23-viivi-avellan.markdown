@@ -25,6 +25,6 @@ tags:
 comments: []
 ---
 <p><a title="Flickr Blog: Welcome to your new Home Page" href="http://blog.flickr.net/en/2008/10/16/your-new-home-page">Flickr uudisti käyttäjien aloitussivuja</a>, ja huomasin siellä myös linkin tilastoihin. En tiedä ovatko tilastot olleet olemassa aikaisemminkin, mutta sieltä paljastui mielenkiintoista tietoa. Kaikkien aikojen katsotuin kuvani Flickrissä on tämä epäterävä kuva Viivi Avellanista:</p>
-<p><a title="Viivi Avellan by oiva_eskola, on Flickr" href="http://www.flickr.com/photos/oiva/2304694299/"><img src="http://farm3.static.flickr.com/2378/2304694299_65780328ef.jpg" alt="Viivi Avellan" width="335" height="500" /></a></p>
+<p><a title="Viivi Avellan by oiva_eskola, on Flickr" href="http://www.flickr.com/photos/oiva/2304694299/"><img src="https://farm3.static.flickr.com/2378/2304694299_65780328ef.jpg" alt="Viivi Avellan" width="335" height="500" /></a></p>
 <p>Kuvaa on katsottu 865 kertaa. <a title="Downhill" href="http://www.flickr.com/photos/oiva/2561142088/">Seuraavana tulevaa kuvaa</a> on katsottu vaivaiset 201 kertaa.</p>
 <p>Paljon enemmän ja parempia kuvia löytyy <a title="Viivi Avellan" href="http://www.viiviavellan.com/?cat=4">Viivin kotisivuilta</a>, jossa niitä voi myös reitata!</p>
