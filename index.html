@@ -1,24 +1,44 @@
 ---
 layout: default
 ---
-
+{% capture cutoff %}{{ '2013-05-30' | Date.parse | date: '%s'}}{% endcapture %}
+{% assign cutoff = cutoff | plus: 0 %}
+{% assign previousposttime = 0 %}
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Blog Posts</h1>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      <li{% if paginator.page == 1 %} class="has-excerpt"{% endif %}>
+      {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+      {% assign posttime = posttime | plus: 0 %}
+      {% if posttime < cutoff and previousposttime > cutoff %}
+      </ul>
+      <div class="barrier">
+        <h3>Language Barrier</h3>
+        <p>Posts below are all in Finnish. Be careful.</p>
+      </div>
+      <ul class="post-list">
+      {% endif %}
+      <li{% if paginator.page == 1 and forloop.index <= 5 %} class="full-post"{% elsif paginator.page == 1 %} class="has-excerpt"{% endif %}>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {% if paginator.page == 1 %}
-        <p class="post-excerpt">
-          {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 250}}{% endif %}
-        </p>
+        {% if paginator.page == 1 and forloop.index <= 5 %}
+          <p class="post-excerpt">{{ post.content }}</p>
+        {% elsif paginator.page == 1 %}
+          <p class="post-excerpt">
+            {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 250}}{% endif %}
+            {% if post.language == 'fi' or posttime < cutoff %}
+            <a class="read-more" href="{{post.url | prepend: site.baseurl }}" title="Lue lisää">&#8594;</a>
+            {% else %}
+            <a class="read-more" href="{{post.url | prepend: site.baseurl }}" title="Read more">&#8594;</a>
+            {% endif %}
+          </p>
         {% endif %}
       </li>
+      {% assign previousposttime = posttime %}
     {% endfor %}
   </ul>
 

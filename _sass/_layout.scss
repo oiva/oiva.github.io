@@ -192,6 +192,14 @@
         line-height: 1em;
         margin-bottom: 0.25em;
     }
+    li.full-post {
+        border-bottom: 1px solid $grey-color-light;
+        padding-bottom: $spacing-unit / 2;
+
+        h2 a, h2 a:visited {
+            color: $text-color;
+        }
+    }
 }
 
 .post-meta {
@@ -206,7 +214,7 @@
 }
 
 .post-excerpt {
-    font-size: $small-font-size;
+    
 }
 
 
@@ -312,4 +320,8 @@ section.feedback {
 }
 .twitter-share:visited {
     color: #fff;
+}
+
+a.read-more {
+    font-size: 80%;
 }
