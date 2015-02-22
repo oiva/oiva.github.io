@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: Archive
+title: Blog Archive
 status: publish
+includeheader: true
 published: true
 author:
   display_name: Oiva Eskola

@@ -2,6 +2,7 @@
 layout: page
 status: publish
 published: true
+includeheader: false
 title: Sunnuntaimix
 author:
   display_name: Oiva Eskola
