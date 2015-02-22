@@ -179,5 +179,5 @@ comments:
 <p>[Osittain tähän asiaan liittyen tyttöystäväni ehdotti, että perustaisin <em>käytettävyyspoliisiblogin.</em> Sellaisen, jossa voisin puuttua joka puolella rehottavaan huonoon käytettävyyteen. Idea on hyvä, mutta asiassa on yksi ongelma. Pelkkä subjektiivinen mielipide ei vielä takaa, että jonkin asian käytettävyys olisi huono.</p>
 <p>Se miten oikeat loppukäyttäjät toimivat <span style="text-decoration: line-through;">voi olla</span> on yleensä jotain ihan muuta. Uudet maksukortitkin voivat olla helppo juttu <em>kaikille muille. </em>Pelkkä virheiden osoittaminen ei siten ole kovinkaan oikeutettua. Ja parannusehdotusten esittäminen on aina kovin työlästä. ;-) Tietty kiusaus tuollaisen blogin perustamiseksi on silti olemassa.]</p>
 <div style="margin-left: -20px">
-<script type="text/javascript" src="http://impfi.tradedoubler.com/imp?g(19173450)a(1897618)" charset=""></script>
+<script type="text/javascript" src="https://impfi.tradedoubler.com/imp?g(19173450)a(1897618)" charset=""></script>
 </div>

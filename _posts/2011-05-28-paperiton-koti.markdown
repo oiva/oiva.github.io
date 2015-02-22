@@ -33,7 +33,7 @@ comments: []
 <h2>Netposti</h2>
 <p>Ensimmäinen vaihe on kotiin tulevan paperin vähentäminen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a>
 <script type="text/javascript">// < ![CDATA[
-var uri = 'http://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);
+var uri = 'https://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);
 document.write('<img src="'+uri +'"/>');
 // ]]></script>voi kääntää osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) lähettämät kirjeet.</p>
 <p>Netpostissa on lista lähettäjistä, joista voi valita keiden postit haluaa saada sähköisesti. Kirjeet eivät tule sähköpostiin, mutta niistä saa halutessaan sähköposti-ilmoituksen. Kirjeet voi ladata Netpostista PDF:inä omalle koneelleen.</p>
