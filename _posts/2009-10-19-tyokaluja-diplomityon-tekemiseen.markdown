@@ -17,7 +17,6 @@ date_gmt: '2009-10-19 19:19:40 +0300'
 categories:
 - koulu
 - web-palvelut
-- Palautetut
 tags:
 - diplomityö
 - Dropbox

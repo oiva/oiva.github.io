@@ -18,7 +18,6 @@ categories:
 - web-kehitys
 - internet
 - linux
-- Palautetut
 tags: []
 comments: []
 excerpt: Blogi siirtyi virtuaaliselle palvelimelle pilveen.

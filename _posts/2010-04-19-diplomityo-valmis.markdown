@@ -17,7 +17,6 @@ date_gmt: '2010-04-19 19:27:04 +0300'
 categories:
 - koulu
 - työ
-- Palautetut
 tags:
 - diplomityö
 - sosiaalinen media

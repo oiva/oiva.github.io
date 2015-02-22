@@ -18,8 +18,6 @@ categories:
 - web-kehitys
 - työ
 - internet
-- Palautetut
-- HTML
 tags: []
 comments: []
 excerpt: Miten HTML5 vastaa nykypäivän web applikaatioiden asettamiin vaatimuksiin?

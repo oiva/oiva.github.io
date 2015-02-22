@@ -8,7 +8,8 @@ date_gmt: '2014-10-08 14:23:00 +0200'
 categories:
 - movies
 tags:
-- fincher
+- edgar wright
+- comedy
 ---
 <figure>
   <iframe src="//player.vimeo.com/video/96558506?color=f0a400&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

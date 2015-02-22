@@ -14,8 +14,7 @@ wordpress_id: 471
 wordpress_url: http://www.bobs.fi/oiva/?p=471
 date: '2009-01-09 00:00:16 +0200'
 date_gmt: '2009-01-08 21:00:16 +0200'
-categories:
-- Uncategorized
+categories: []
 tags:
 - Microsoft
 - Windows

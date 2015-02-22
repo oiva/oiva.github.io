@@ -15,8 +15,7 @@ wordpress_id: 196
 wordpress_url: http://www.bobs.fi/oiva/?page_id=196
 date: '2008-09-14 23:49:13 +0300'
 date_gmt: '2008-09-14 20:49:13 +0300'
-categories:
-- Uncategorized
+categories: []
 tags: []
 comments:
 - id: 99

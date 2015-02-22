@@ -18,7 +18,6 @@ categories:
 - web-kehitys
 - työ
 - osx
-- tietokoneet
 tags:
 - apple
 - OS X

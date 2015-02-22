@@ -17,7 +17,6 @@ date_gmt: '2010-01-17 19:22:36 +0200'
 categories:
 - ipod
 - web-palvelut
-- Palautetut
 tags: []
 comments: []
 excerpt: HuffDuffer on muutaman vuoden ikäinen verkkopalvelu, jonka avulla voit löytää uusia podcasteja, sekä kerätä itsellesi oman podcastin.

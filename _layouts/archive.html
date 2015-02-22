@@ -2,19 +2,28 @@
 layout: default
 ---
 <div class="archive">
-  <ul>
-  {% for post in site.posts %}
-    {% unless post.next %}
-      <h2>{{ post.date | date: '%Y' }}</h2>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
+  {% if page.category %}
+    <h3 id="{{ page.category }}">Kategoria: {% if page.categoryname %}{{ page.categoryname }}{% else %}{{ page.category }}{% endif %}</h3>
+    <ul>
+    {% for post in site.categories[page.category] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <ul>
+    {% for post in site.posts %}
+      {% unless post.next %}
         <h2>{{ post.date | date: '%Y' }}</h2>
-      {% endif %}
-    {% endunless %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-      <time pubdate datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date: "%b %-d, %Y" }}</time></li>
-  {% endfor %}
-  </ul>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h2>{{ post.date | date: '%Y' }}</h2>
+        {% endif %}
+      {% endunless %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a>
+        <time pubdate datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date: "%b %-d, %Y" }}</time></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
 </div>

@@ -14,8 +14,7 @@ wordpress_id: 140
 wordpress_url: http://www.bobs.fi/oiva/2008/08/19/links-for-2008-08-18/
 date: '2008-08-19 00:30:03 +0300'
 date_gmt: '2008-08-18 21:30:03 +0300'
-categories:
-- Uncategorized
+categories: []
 tags: []
 comments: []
 ---

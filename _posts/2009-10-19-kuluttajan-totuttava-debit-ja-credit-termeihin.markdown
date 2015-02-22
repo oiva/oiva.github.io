@@ -17,7 +17,6 @@ date_gmt: '2009-10-19 19:17:17 +0300'
 categories:
 - käytettävyys
 - elämä
-- Palautetut
 tags: []
 comments: []
 excerpt: Kuluttajaviranomainen ei voi eikä halua puuttua siihen, että suomalaiset joutuvat totuttelemaan "debit- ja credit-kortteihin".

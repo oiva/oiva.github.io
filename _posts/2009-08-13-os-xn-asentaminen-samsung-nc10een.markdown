@@ -15,7 +15,6 @@ wordpress_url: http://www.bobs.fi/oiva/?p=632
 date: '2009-08-13 23:25:20 +0300'
 date_gmt: '2009-08-13 21:25:20 +0300'
 categories:
-- ohjeet
 - osx
 tags:
 - apple

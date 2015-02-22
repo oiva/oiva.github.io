@@ -16,7 +16,6 @@ date: '2009-10-01 20:48:05 +0300'
 date_gmt: '2009-10-01 18:48:05 +0300'
 categories:
 - web-palvelut
-- Palautetut
 tags: []
 comments: []
 excerpt: Mike McDermentin esitys siitä, miten verkkopalvelua voi markkinoida ja miten seurata markkinoinnin tehoa.

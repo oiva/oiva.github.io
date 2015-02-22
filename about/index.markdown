@@ -15,8 +15,7 @@ wordpress_id: 48
 wordpress_url: http://www.bobs.fi/oiva/?page_id=48
 date: '2008-04-27 01:22:30 +0300'
 date_gmt: '2008-04-26 22:22:30 +0300'
-categories:
-- Uncategorized
+categories: []
 tags: []
 comments: []
 ---

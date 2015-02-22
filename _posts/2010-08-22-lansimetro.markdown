@@ -17,7 +17,6 @@ date_gmt: '2010-08-22 19:36:16 +0300'
 categories:
 - elämä
 - huumori
-- Palautetut
 tags:
 - länsimetro
 comments: []
