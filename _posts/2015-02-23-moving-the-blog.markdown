@@ -1,7 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
+status: draft
+published: false
 title: Moving my blog
 date: '2015-02-23 15:53:00 +0200'
 date_gmt: '2015-02-23 13:53:00 +0200'
@@ -11,7 +11,7 @@ tags:
 - jekyll
 - GitHub
 ---
-It seems that blogs are more or less on their way out. People publish material
+It seems that blogs are more or less [on their way out](http://www.marco.org/2015/02/16/google-and-blogs-shit). People publish material
 more than ever but it's divided into a multitude of services based on context.
 Personal life updates might go to Facebook, vacation photos to Instagram,
 goofy links to Tumblr and professional stuff to Twitter.
