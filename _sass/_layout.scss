@@ -204,6 +204,9 @@
             margin: $spacing-unit auto 0;
             width: 80%;
         }
+        > ol {
+            margin-bottom: 1em;
+        }
     }
     li.full-post:last-child {
         border-bottom: 0;
