@@ -198,7 +198,7 @@
             color: $text-color;
         }
         hr {
-            background-color: $grey-color-light;
+            background-color: $grey-color;
             border: 0;
             height: 1px;
             margin: $spacing-unit auto 0;
@@ -219,7 +219,7 @@
     text-align: center;
 
     h3 {
-        border-bottom: 3px dashed #ccc;
+        border-bottom: 3px dashed $grey-color;
         margin-bottom: 0;
     }
     p {
@@ -369,4 +369,13 @@ ul.contact {
     li {
         margin-bottom: 0;
     }
+}
+
+.footnotes {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 2em;
+}
+.footnotes p {
+    font-size: 80%;
+    margin-bottom: 1em;
 }
