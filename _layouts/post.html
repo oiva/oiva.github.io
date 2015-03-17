@@ -6,18 +6,32 @@ layout: default
 {% capture pagetime %}{{page.date | date: '%s'}}{% endcapture %}
 {% assign pagetime = pagetime | plus: 0 %}
 <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.subheading %}
-      <p class="sub-heading">{{ page.subheading }}</p>
-    {% endif %}
+  {% if page.background %}
+    <div class="hero" style="background-image: url('{{ page.background }}')"></div>
+    <header class="post-header with-hero">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subheading %}
+        <p class="sub-heading">{{ page.subheading }}</p>
+      {% endif %}
+    </header>
     {% if page.language == 'fi' or pagetime < cutoff %}
       <p class="post-meta">{{ page.date | date: "%-d.%-m.%Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     {% else %}
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     {% endif %}
-  </header>
+  {% else %}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subheading %}
+        <p class="sub-heading">{{ page.subheading }}</p>
+      {% endif %}
+      {% if page.language == 'fi' or pagetime < cutoff %}
+        <p class="post-meta">{{ page.date | date: "%-d.%-m.%Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      {% else %}
+        <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      {% endif %}
+    </header>
+  {% endif %}
 
   <article class="post-content">
     {{ content }}

@@ -253,11 +253,34 @@
 /**
  * Posts
  */
+.hero {
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 57px;
+    width: 100%;
+    z-index: -1;
+}
 .post-header {
     margin-bottom: $spacing-unit / 2;
 
     .sub-heading {
         font-style: italic;
+    }
+}
+.post-header.with-hero {
+    color: #fff;
+    min-height: 200px;
+    margin-top: 170px;
+
+    h1 {
+        text-shadow: rgba(0,0,0,0.5) 0 0 10px;
     }
 }
 
