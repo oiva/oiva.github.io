@@ -3,63 +3,84 @@ layout: post
 status: draft
 published: true
 title: Trade one hour of your time for one solid idea
-subheading: "Lose a bunch of stress too"
 date: '2015-03-15 15:53:00 +0200'
 date_gmt: '2015-03-15 13:53:00 +0200'
-categories: [] 
+categories: []
+background: "/images/forest.jpg"
 tags:
 - blog
 - jekyll
 - GitHub
 ---
 
-Walking. The answer's walking. For walking an hour in the woods you are  guaranteed at least one actionable idea.
+You go into the woods and come back with an idea. How does that work?
 
-This is just my personal experience though. I might have been able to lace this post with studies about exercise but, for your enjoyment, decided not to. That shit is quite dry. <a href="https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise">Neurobiological effects of physical exercise</a> is a good place to start if you want to read more. [Oh well, this one's pretty good too: <a href="http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html">Stanford study finds walking improves creativity</a>.]
+Walking. The answer's walking. For walking **an hour in the woods** you are  guaranteed at least **one actionable idea**.
 
+Now, this is my personal experience. It's not a scientific fact (that I know of). There does exist some walking related research ([see links at the end](#bonus-round-research)) that could be summarized: walking increases creativity and relieves stress. So.
+ 
 ##What kind of ideas are we talking about?
 
-It's hard to say beforehand. Some examples of ideas I've had:
+Examples of ideas I've had while walking:
 
 - A simple solution for that one programming problem at work
 - How to improve our client's processes. (Really a small thing the computer could do when we push new versions live but it solves one really old problem.)
-- What blog posts to write. Blog posts basically write themselves. The trouble is writing the ideas down.
+- What blog posts to write. Sometimes blog posts basically write themselves. The trouble is writing the ideas down.
 - <a href="https://oivaeskola.fi/2015/02/23/moving-the-blog/">What to do with my website</a>
+- How to word a presentation
 - Tons of new startup ideas :)
 
-To generalize, it's usually stuff you've already thought about for a while, sometimes subconsciously. You might know the problem but not the answer. _Clarity_ is a good word for it. Things become clear.
+To generalize, it's usually stuff you've already thought about for a while, sometimes subconsciously. You might know the problem but not the answer.
 
-##An hour though?
+_Clarity_ is a good word for it. Things become clear. You know what to do, how to do it, and what not to do. 
 
-Yeah. One hour is a long time to take out of a day for doing "nothing". But it's a trade-off. You could also stay home and brute-force your way through your life's little problems. Walking is more fun.
+##A whole hour though?
 
-Why walking works is this: after walking for half an hour in one direction your brain goes: *"Hmm, we are kinda far away from home. I guess there isn't much more to do than to just keep walking until we get back home."*
+I know, one hour is a long time to take out of a day for doing "nothing".  You could also stay home and spend one hour brute-forcing your way through your life's little problems. Walking is more fun.
 
-**This brief moment of your brain turning off is the valuable part.** It's a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days.
+Why a one-hour walk works is this: after 30 minutes of walking in one direction your brain goes: *"Hmm, we are kinda far away from home. I guess there isn't much more to do than to just keep walking until we get back home."*
+
+**This brief moment of your brain turning off is the valuable part.** It's a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days. 
+
+This pause from actively doing stuff or reading Twitter lets you pick up stuff from your subconscious, think it through, and piece something sensible together.
 
 Sure, you could maybe achieve the same in less time. But consider this old Zen proverb:
 
 <blockquote cite="http://buddhism.stackexchange.com/questions/5632/who-said-if-you-are-too-busy-meditate-for-two-hours"><p>You should sit in meditation for 20 minutes a day. Unless you're too busy, then you should sit for an hour.</p></blockquote>
 
-A busy brain needs more time to unwind. Short lunch walks might be OK too for increasing productivity and such, but personally I need longer pauses for completely resetting my brain. [Insert beer joke here]
+A busy brain needs more time to unwind. Dont' get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it's a great way to boost your creativity when you know you need to do something... creative. But often it's like they say in Inception: *"we&nbsp;need to go deeper"*.
 
 ##Just walking around?
 
-Mostly. It helps to do it in nature. The quieter the better. Walking alongside a highway, or any way really, probably won't work as well.
+Mostly. However, there are a few implementation details that yield better results:
 
-Looking up a route of roughly 6 to 7 kilometers beforehand helps too. Not having to navigate or pick your phone leaves more time for thinking.
+###Make it easy
 
-I'm a bit on the fence about listening to podcasts while walking. Some podcasts are inspiring and can help generate new ideas. Sometimes they are just filler for blocking the otherwise useful silence. I tend to sometimes listen to podcasts because everything I've said about walking in silence in nature is actually **hard to do**. It's pretty dull at first. But do realize that it's not a _guarantee_ anymore if you focus on someone else talking.
+- Look up a route of roughly 6 to 7 kilometers beforehand. Not having to navigate leaves more time for thinking. Although sometimes getting lost is fun too if you have the time.
+- Technical Sportswear baby! Well, having at least comfortable shoes and warm clothing does help.
+- Don't run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.
 
-You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also <a href="https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2">sync your recorded reminders to OmniFocus</a>.
+###Minimize distractions
 
-##Bonus: lose stress
+- Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn't work as well. Cars are loud.
+- Leave your headphones home. I'm a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.
 
-Going for a walk is especially important if you are stressed out. It's hard to stay mad at trees. There's a bunch of research about this too and it often boils down to that even looking at pictures of trees relieves stress.
+You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also <a href="https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2">sync your recorded reminders to OmniFocus</a>. Notes are a bit of an unsolved problem. I've sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.
+
+##Bonus round: research
+
+- [Wikipedia: Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise) is a good place to start if you want to know exactly how exercise affects the brain
+- [Stanford study finds walking improves creativity](http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html)
+- [Walking off depression and beating stress outdoors? Nature group walks linked to improved mental health](http://www.uofmhealth.org/news/archive/201409/walking-depression-and-beating-stress-outdoors-nature-group)
+- [WSJ: Coffee Break? Walk in the Park? Why Unwinding Is Hard](http://www.wsj.com/articles/SB10001424053111904199404576538260326965724)
+
+What's interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.
 
 <figure>
   <a href="https://www.flickr.com/photos/oiva/2695843572" title="Puu by Oiva Eskola, on Flickr"><img src="https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg" width="214" height="320" alt="Puu"></a>
   <figcaption>Here's a tree.</figcaption>
 </figure>
 
-I'm very much aware that telling people how awesome exercise is usually does little to convince anyone to try it. 
+There are some proven benefits, see? But don't take it as "exercising is important and you should run every day!" All I dare to say is that walking probably isn't bad for you. 
+
+I'm very well aware that telling people how awesome any form of exercise is usually does little to convince anyone to try it. (I've been at the receiving end many times.) So I'm just going to leave this here, and maybe if you need *fresh ideas* you could get some *fresh air*. Pow!
