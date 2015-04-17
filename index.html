@@ -32,6 +32,9 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         {% if paginator.page == 1 and forloop.index <= 5 %}
+          {% if post.background %}
+            <img src="{{ post.background }}" alt="" class="post-background" />
+          {% endif %}
           <p class="post-excerpt">{{ post.content }}</p>
           <hr />
         {% elsif paginator.page == 1 %}
