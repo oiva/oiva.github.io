@@ -24,10 +24,8 @@ comments: []
 in <a href="https://www.flickr.com/photos/oiva/">photo&shy;graphy</a>, cycling (never failing to mention that I was a
 messenger back in the day), and good beers.</p>
 
-<p>I work for a consul&shy;tancy com&shy;pany called <a href="https://sc5.io">SC5</a> and do a bunch of 
-hobby projects on the side. Because why watch TV if you can code, am I right? At work I'm mostly working on
-a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a>.</p>
-
+<p>I work for a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a> and do a bunch of 
+hobby projects on the side. Because why watch TV if you can code, am I right?</p>
 
 <h3>Contact me</h3>
 <div class="vcard">
@@ -35,7 +33,12 @@ a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a
 <li class="email"><a href="mailto:oiva.eskola@gmail.com">oiva.eskola@gmail.com</a></li>
 <li class="tel"><a href="tel:+358407739493">+358 40 773 9493</a></li>
 <li class="X-TWITTER"><a href="https://twitter.com/oiva">@oiva</a> on Twitter</li>
+</ul>
+
+<h3>Elsewhere</h3>
+<ul>
 <li><a href="http://fi.linkedin.com/in/oivaeskola">LinkedIn profile</a></li>
 <li><a href="https://github.com/oiva/">GitHub profile</a></li>
+<li><a href="https://www.flickr.com/photos/oiva">Flickr</a></li>
 </ul>
 </div>
