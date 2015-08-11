@@ -9,6 +9,8 @@ categories: []
 tags:
 - airbnb
 ---
+<img src="/images/2015/croatia.jpg" alt="Road in Croatia" width="686" />
+
 During a recent road trip to Croatia we booked most of our accommodation
 through [Airbnb](https://www.airbnb.com/). We hadn't booked anything in
 advance and at the height of the summer season there were no cheap hotels left.
