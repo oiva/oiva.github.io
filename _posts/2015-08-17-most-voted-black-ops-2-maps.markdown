@@ -2,7 +2,7 @@
 layout: post
 status: published
 published: true
-title: Most Popular Black Ops II Multiplayer maps
+title: Most Popular Black Ops II Multiplayer Maps
 date: '2015-08-18 15:53:00 +0300'
 date_gmt: '2015-08-18 13:53:00 +0300'
 categories: [] 
