@@ -11,7 +11,7 @@ tags:
 - multiplayer
 - Black Ops II
 ---
-<img src="/images/2015/nuketown.jpg" alt="Nuketown" width="686" height="386" />
+<img src="/images/2015/nuketown.jpg" alt="Nuketown" width="686" />
 
 [Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II) 
 is a 2012 first-person shooter game for the previous generation consoles 

@@ -31,7 +31,14 @@ layout: default
         </h2>
         {% if paginator.page == 1 and forloop.index <= 5 %}
           {% if post.background %}
-            <img src="{{ post.background }}" alt="" class="post-background" />
+            <picture>
+              <img 
+                src="{{ post.background_small }}"
+                srcset="{{ post.background }} 2x"
+                alt=""
+                class="post-background"
+              />
+            </picture>
           {% endif %}
           <p class="post-excerpt">{{ post.content }}</p>
           <hr />
