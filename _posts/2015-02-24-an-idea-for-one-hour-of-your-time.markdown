@@ -7,6 +7,7 @@ date: '2015-03-17 23:40:00 +0200'
 date_gmt: '2015-03-17 23:40:00 +0200'
 categories: []
 background: "/images/forest.jpg"
+background_small: "/images/forest-small.jpg"
 tags:
 - blog
 - jekyll

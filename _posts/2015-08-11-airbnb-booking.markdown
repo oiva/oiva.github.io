@@ -9,7 +9,15 @@ categories: []
 tags:
 - airbnb
 ---
-<img src="/images/2015/croatia.jpg" alt="Road in Croatia" width="686" />
+<picture>
+  <img
+    src="/images/2015/croatia-1.jpg"
+    srcset="images/2015/croatia-1.5.jpg 1.5x,
+            images/2015/croatia.jpg 2x"
+    alt="Road in Croatia"
+    width="686"
+  />
+</picture>
 
 During a recent road trip to Croatia we booked most of our accommodation
 through [Airbnb](https://www.airbnb.com/). We hadn't booked anything in

@@ -15,9 +15,7 @@ layout: default
   <h1 class="page-heading">Blog Posts</h1>
 
   <ul class="post-list">
-    {% for post in paginator.posts %}
-      {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-      {% assign posttime = posttime | plus: 0 %}
+    {% for post in paginator.posts %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% assign posttime = posttime | plus: 0 %}
       {% if posttime < cutoff and previousposttime > cutoff %}
       </ul>
       <div class="language-barrier">
@@ -33,7 +31,14 @@ layout: default
         </h2>
         {% if paginator.page == 1 and forloop.index <= 5 %}
           {% if post.background %}
-            <img src="{{ post.background }}" alt="" class="post-background" />
+            <picture>
+              <img 
+                src="{{ post.background_small }}"
+                srcset="{{ post.background }} 2x"
+                alt=""
+                class="post-background"
+              />
+            </picture>
           {% endif %}
           <p class="post-excerpt">{{ post.content }}</p>
           <hr />
@@ -48,8 +53,7 @@ layout: default
           </p>
         {% endif %}
       </li>
-      {% assign previousposttime = posttime %}
-    {% endfor %}
+{% assign previousposttime = posttime %}{% endfor %}
   </ul>
 
   <!-- Pagination links -->
