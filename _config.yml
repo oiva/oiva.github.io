@@ -11,12 +11,12 @@ linkedin_username: oivaeskola
 
 # Conversion
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
 
 # Output
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 timezone: Europe/Helsinki
 paginate: 20
 paginate_path: "page:num/"
