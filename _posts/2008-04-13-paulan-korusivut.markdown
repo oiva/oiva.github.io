@@ -50,20 +50,20 @@ comments: []
 <p>Smarty on PHP-paketti, jolla koodi ja ulkoasu voidaan erottaa toisistaan helposti. Koodin puolella kaikki dynaamisesti kerättävä tieto tallennetaan muuttujiin. Sivun näyttämiseen käytetään tämän jälkeen omaa template-tiedostoa, jossa on säännöt muuttujien sisältämän tiedon esittämiselle. </p>
 <p>Esimerkiksi navigaation piirtäminen hoituu suurein piirtein seuraavanlaisella rakenteella: (olen rakentanut Smartyn päälle oman "sivu"-luokan, joka piilottaa muuttujien rekisteröinnin ja sivun piirtokutsun.)</p>
 <h5>index.php:</h5>
-{% highlight php startinline %}
+``` php
 $navigaatio = array("1"=>array("href"=>"index.php", name="Myynnissä"),
                            ...
 $sivu->assign("navigaatio", $navigaatio);
 $sivu->display("index.tpl");
-{% endhighlight %}
+```
 <h5>index.tpl:</h5>
-{% highlight smarty %}
+``` smarty
 <ul id="navigaatio">
   {foreach from=$navigaatio item=navi}
     <li><a href="{$navi.href}">{$navi.name}</a></li>
   {/foreach}
 </ul>
-{% endhighlight %}
+```
 <p>Kaikki sivuston sivut käyttävät jotakin templatea. Tällä tavoin sivuille yhteiset rakenteet on saatu siivottua yhteen templateen ja vain sivujen sisällöt eroavat toisistaan.</p>
 <h4>Yahoo UI: <a href="http://developer.yahoo.com/yui/reset/">Reset</a>, <a href="http://developer.yahoo.com/yui/fonts/">Fonts</a>, <a href="http://developer.yahoo.com/yui/grids/">Grids</a> ja <a href="http://developer.yahoo.com/yui/base/">Base</a></h4>
 <p>Lyhyesti kerrottuna Reset poistaa kaikki HTML-elementtien valmiit muotoilut, jotka saattavat erota eri selaimissa. Tämän jälkeen kaikki selaimet näyttävät peruselementit kuten tekstikappaleet ja listat periaatteessa samalla tavalla.</p>
@@ -72,22 +72,22 @@ $sivu->display("index.tpl");
 <h4><a href="http://jquery.com/">jQuery</a></h4>
 <p>jQuery on JavaScript-kirjasto, joka on tarkoitettu helpottamaan JavaScriptin yhdistämistä HTML:ään. Perinteisesti HTML-sivun eri elementteihin on JavaScriptissä viitattu käyttämällä <em><a href="http://jacksleight.com/blog/2008/01/14/getelementsby/">getElementBy*</a></em>-funktioita. jQueryssä voi sen sijaan käyttää paljon yksinkertaisempaa koodia eri elementtien hakemiseen. Kirjastossa on paljon erilaisia funktioita animaatioihin ja ajax-juttuihin, joihin en ole vielä tutustunut kunnolla.</p>
 <p>Paulan korusivulla jQueryä käytetään varjostuksen lisäämiseksi kuville. Kuvat on tässä määritelty kattamaan .kuvat-divien sisällä olevat <img>-tagit.</p>
-{% highlight javascript %}
+``` javascript
 $(document).ready(function(){
   $('.kuva img').shadow({
     offset: 5,
     opacity: 0.11
   });
 });
-{% endhighlight %}
+```
 <p>Kannattaa huomata, että shadow-funktio vaatii toimiakseen jQuery-peruspaketin lisäksi myös <em><a href="http://dev.jquery.com/view/trunk/plugins/dimensions/jquery.dimensions.js">jquery.dimensions.js</a></em> ja <em><a href="http://dev.jquery.com/view/trunk/fx/fx.shadow.js">fx.shadow.js</a></em> -tiedostot.</p>
 <p>Varjotukset eivät valitettavasti toimi aivan täydellisesti. Varjot menevät IE6:lla rikki ja jäävät joskus näkymättä uudemmillakin selaimilla.</p>
 <h4><a href="http://wettone.com/code/clean-urls">mod_rewrite</a></h4>
 <p>Sivuston käyttämät URLit on siivottu käyttäen apachen mod_rewrite-sääntöjä. Esimerkki:</p>
-{% highlight apache %}
+``` apache
 RewriteEngine On
 RewriteRule ^([a-z\-]+)/([0-9]+)$ index.php?kategoria=$1&sivu=$2
-{% endhighlight %}
+```
 <p>Kyseinen sääntö muuttaisi esimerkiksi URLin</p>
 <pre>http://www.paulaminni.fi/korvakorut/1</pre>
 <p>muotoon</p>
