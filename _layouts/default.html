@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html language="{% if page.language %}{{ page.language }}{% elsif page.date && page.date < Date.parse('2013-05-30') %}fi{% else %}en{% endif %}">
+<html lang="{% if page.language %}{{ page.language }}{% elsif page.date && page.date < Date.parse('2013-05-30') %}fi{% else %}en{% endif %}">
   {% include head.html %}
   <body>
     {% include header.html %}
