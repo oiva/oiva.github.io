@@ -57,7 +57,7 @@ $sivu->assign("navigaatio", $navigaatio);
 $sivu->display("index.tpl");
 ```
 <h5>index.tpl:</h5>
-``` smarty
+```
 <ul id="navigaatio">
   {foreach from=$navigaatio item=navi}
     <li><a href="{$navi.href}">{$navi.name}</a></li>
