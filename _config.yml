@@ -1,5 +1,8 @@
 # Site settings
+name: oivaeskola.fi
 title: Oiva Eskola
+author: Oiva Eskola
+author_email: oiva.eskola@gmail.com
 email: oiva.eskola@gmail.com
 description: Full stack web developer
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -10,10 +13,13 @@ flickr_username: oiva
 linkedin_username: oivaeskola
 
 # Conversion
-markdown:    kramdown
-lsi:         false
 excerpt_separator: "\n\n"
 exclude: [vendor]
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 # Output
 permalink: /:year/:month/:day/:title/
@@ -24,3 +30,8 @@ paginate_path: "page:num/"
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+whitelist:
+  - jekyll-paginate
+
+quiet: false

@@ -23,7 +23,7 @@ What's funny is that almost all of them seem to be doing the switch after
 owning a Nikon D800. That's one particularly big DSLR which might play a part
 in why people start looking for something smaller.
 
-#### [Bye bye NIKON, Hello FUJIFILM !](http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html)
+#### [Bye bye NIKON, Hello FUJIFILM!](http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html)
 
 **Bjorn Moerman's** experience switching from Nikon D800 to then Fuji family.
 
