@@ -248,6 +248,11 @@
     font-size: 24px;
 }
 
+@media screen and (max-width: 480px) {
+    .post-link {
+        font-size: 22px;
+    }
+}
 
 .post-excerpt {
     
@@ -296,6 +301,13 @@
 
     @include media-query($on-laptop) {
         font-size: 36px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .post-title {
+        font-size: 22px;
+        margin-bottom: 6px;
     }
 }
 
