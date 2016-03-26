@@ -71,7 +71,7 @@ $sivu->display("index.tpl");
 <p>Fonts auttaa fonttikokojen yhtenäistämisessä eri selaimien välillä. Grids CSS:ää olen <a href="http://oivaeskola.fi/2007/12/18/yahoo-ui-grids-css-sommittelutyokalu/">sivunnut aikaisemmin</a>.</p>
 <h4><a href="http://jquery.com/">jQuery</a></h4>
 <p>jQuery on JavaScript-kirjasto, joka on tarkoitettu helpottamaan JavaScriptin yhdistämistä HTML:ään. Perinteisesti HTML-sivun eri elementteihin on JavaScriptissä viitattu käyttämällä <em><a href="http://jacksleight.com/blog/2008/01/14/getelementsby/">getElementBy*</a></em>-funktioita. jQueryssä voi sen sijaan käyttää paljon yksinkertaisempaa koodia eri elementtien hakemiseen. Kirjastossa on paljon erilaisia funktioita animaatioihin ja ajax-juttuihin, joihin en ole vielä tutustunut kunnolla.</p>
-<p>Paulan korusivulla jQueryä käytetään varjostuksen lisäämiseksi kuville. Kuvat on tässä määritelty kattamaan .kuvat-divien sisällä olevat <img>-tagit.</p>
+<p>Paulan korusivulla jQueryä käytetään varjostuksen lisäämiseksi kuville. Kuvat on tässä määritelty kattamaan .kuvat-divien sisällä olevat &lt;img&gt;-tagit.</p>
 ``` javascript
 $(document).ready(function(){
   $('.kuva img').shadow({
