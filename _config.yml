@@ -14,6 +14,10 @@ markdown:    kramdown
 lsi:         false
 excerpt_separator: "\n\n"
 
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 # Output
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Helsinki
