@@ -23,7 +23,7 @@ What's funny is that almost all of them seem to be doing the switch after
 owning a Nikon D800. That's one particularly big DSLR which might play a part
 in why people start looking for something smaller.
 
-####[Bye bye NIKON, Hello FUJIFILM !](http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html)
+#### [Bye bye NIKON, Hello FUJIFILM !](http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html)
 
 **Bjorn Moerman's** experience switching from Nikon D800 to then Fuji family.
 
@@ -36,7 +36,7 @@ I sincerely believe that by 2020 there will be hardly any new
 classic DSLR's being sold.
 </blockquote>
 
-####[From Nikon to Fuji, 20,000 pictures with the x-t1](https://www.youtube.com/watch?v=wZM40jC2ueE)
+#### [From Nikon to Fuji, 20,000 pictures with the x-t1](https://www.youtube.com/watch?v=wZM40jC2ueE)
 
 A video from **Lukas Gisbert-Mora**, a wedding photographer, about the reasons why he 
 switched to Fuji X-T1. Including limitations of the Fuji.
@@ -54,7 +54,7 @@ switched to Fuji X-T1. Including limitations of the Fuji.
   and just adjust the aperture.
 </blockquote>
 
-####[Switching from the Nikon D800 to the Fuji X-T1](http://melhadtea.com/switching-from-the-nikon-d800-to-the-fuji-xt1/)
+#### [Switching from the Nikon D800 to the Fuji X-T1](http://melhadtea.com/switching-from-the-nikon-d800-to-the-fuji-xt1/)
 
 **Mel Hattie**, from the perspective of switching a full \$\$\$\$ Nikon system and
 actually saving money in the process.
@@ -70,7 +70,7 @@ comfortable pulling it out on the street without attracting a lot of attention.
   snappier autofocus, higher ISO tolerance, the video capabilities.
 </blockquote>
 
-####[Switching to Fuji - First Impressions](http://www.andymumford.co.uk/blog/switching-to-fuji-first-impressions/)
+#### [Switching to Fuji - First Impressions](http://www.andymumford.co.uk/blog/switching-to-fuji-first-impressions/)
 
 **Andy Mumford's** comparison of Nikon D800E and Fuji X-T10. Many side-by-side
 photos from both cameras
