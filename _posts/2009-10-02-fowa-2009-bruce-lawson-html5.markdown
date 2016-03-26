@@ -32,7 +32,9 @@ excerpt: Miten HTML5 vastaa nykypäivän web applikaatioiden asettamiin vaatimuk
 <h3>HTML5 forms (Web forms 2)</h3>
 <p>Lomakkeita käytetään netissä paljon. Sovelluskehittäjän kannalta  niiden tekeminen on kuitenkin tylsää. Lomakedatan validointi pitää usein  tehdä sekä asiakaspäässä JavaScriptillä että serveripäässä.</p>
 <p>HTML5 yrittää helpottaa lomakkeiden tekemistä siirtämällä validoinnin  selaimen tehtäväksi, Käytännössä kehittäjä voisi esimerkiksi määrittää  input-tageille erilaisia tyyppejä, joiden perusteella selain voi  validoida käyttäjän syöttämän sisällön. Brucen demoamia sisältötyyppeejä  olivat mm. email, url, date ja range.</p>
-<p>Esimerkiksi koodi {% highlight html %}<input name="email" type="email" required autofocus />{% endhighlight %} luo tekstikentän, jonka sisällön pitää olla validi sähköpostiosoite.  Required parametri kertoo selaimelle että kenttä ei saa olla tyhjä.  Autofocus antaa kentällä fokuksen sivun lataamisen jälkeen.</p>
+
+Esimerkiksi koodi `<input name="email" type="email" required autofocus />` luo tekstikentän, jonka sisällön pitää olla validi sähköpostiosoite.  Required parametri kertoo selaimelle että kenttä ei saa olla tyhjä.  Autofocus antaa kentällä fokuksen sivun lataamisen jälkeen.
+
 <p>Kun lomake lähetetään, selain tarkistaa kenttään syötetyn sisällön ja  tarvittaessa pysäyttää lomakkeen lähetyksen ja näyttää käyttäjälle  virheilmoituksen. Epäselväksi jäi pystyykö virheilmoitusta kustomoimaan,  vai onko se selainkohtainen.</p>
 <p>Input-kenttien sisältöä pystyy myös rajoittamaan min ja max-parametreilla sekä regexp-lauseilla.</p>
 <p>HTML5:n käyttämät kenttätyypit ovat osittain taaksepäin  yhteensopivia. Jos selain ei tue kenttätyyppiä, näytetään tilalla  tavallinen tekstikenttä.</p>

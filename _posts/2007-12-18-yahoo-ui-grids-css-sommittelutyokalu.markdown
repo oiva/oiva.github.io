@@ -36,19 +36,19 @@ comments:
 ---
 <p>Monet webbisivut noudattavat pohjimmiltaan samaa rakennetta. Ylhäällä on otsake, sisältö on jaettu sarakkeisiin ja alhaalla saattaa olla alatunniste. Tuleva <a href="http://www.alistapart.com/articles/previewofhtml5">HTML5-standardi</a> ottaa tämän huomioon ja tarjoaa mm. erilliset <em>header, nav, article</em> ja <em>aside</em>-tagit. Näiden avulla sivun <em>sisällön</em> voi jaotella loogisesti.</p>
 <p>Asiaan löyhästi liittyen, <a href="http://www.alistapart.com/articles/css3multicolumn/">CSS3</a> tarjoaa tulevaisuudessa myös oman ratkaisunsa siihen, miten teksti voidaan jakaa sarakkeisiin:</p>
-{% highlight css %}
+``` css
 DIV {
     column-count: 2;
     column-width: 12em;
     column-gap: 1em;
 }
-{% endhighlight %}
+```
 <p>Tämä määrittely esimerkiksi jakaisi DIV-elementin kahteen 12em leveään sarakkeeseen, joiden väliin jää 1em:n rako. (Lisää aiheesta W3C:n luonnostelmassa: <a href="http://www.w3.org/TR/css3-multicol/">CSS3 multi-column layout</a>). Standardeja työstävä W3C on kuitenkin tunnettu hitaudestaan, joten molempia uudistuksia saadaan odottaa vielä.</p>
 <h3>Yahoo UI Grids CSS</h3>
 <p><a href="http://developer.yahoo.com/yui/grids/">Grids CSS</a> on osa laajempaa <a href="http://developer.yahoo.com/yui/">Yahoon käyttöliittymäkirjastoa</a>. Se on käytännössä yksittäinen CSS-tiedosto, jonka avulla voidaan helposti toteuttaa erilaisia layoutteja. Grids tarjoaa eri levyisiä <em>templateja</em>, jotka on sovitettu yleisimpiin monitorien resoluutioihin. Leveyden ja sivun jaottelun voi toki myös päättää itse. Sivua pystyy jakamaan sarakkeisiin yksinkertaisilla elementeillä, joiden leveydet on määritelty suhteellisesti, esimerkiksi 1/3 - 2/3.<br />
 <a id="more"></a><a id="more-8"></a></p>
 <p>Nopea esimerkki:</p>
-{% highlight html %}
+``` html
 <body>
   <div id="doc">
     <div id="hd"><!-- header --></div>
@@ -65,7 +65,7 @@ DIV {
     <div id="ft"></div> <!-- footer -->
   </div>
 </body>
-{% endhighlight %}
+```
 
 <p>Ylläoleva määrittely tuottaa <a href="{{ site.baseurl }}/images/2007/12/test.html" title="Yahoo UI Grid testisivu">tällaisen rakenteen</a>. Myönnettäköön että sisäkkäiset <code>yui-main, yui-b, yui-g</code> -määrittelyt näyttävät aluksi vähän pelottavilta. Rakenne on kuitenkin selkeä:</p>
 <ul>

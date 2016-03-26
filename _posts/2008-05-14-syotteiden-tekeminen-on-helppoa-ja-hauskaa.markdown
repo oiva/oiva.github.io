@@ -45,7 +45,7 @@ comments:
 <a href="http://en.wikipedia.org/wiki/RSS_(file_format)">RSS Wikipediassa</a><br />
 <a id="more"></a><a id="more-90"></a></p>
 <p>Lopullinen syötte näyttää jotakuinkin tältä (vähän karsittuna):</p>
-{% highlight xml %}
+```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
@@ -67,20 +67,25 @@ comments:
   <atom:link href="http://www.paulaminni.fi/feed.php" rel="self" type="application/rss+xml" />
 </channel>
 </rss>
-{% endhighlight %}
+```
+
 <p>Syötteen päivittymisajankohtana voidaan käyttää uusimman korun julkaisuajankohtaa. Julkaisuajankohta on MySQL:n timestamp-muodossa, josta se saadaan haluttuun muotoon esimerkiksi seuraavalla koodinpätkällä:</p>
-{% highlight php startinline %}$lastBuildDate = date("D, d M Y H:i:s O", strtotime($timestamp));{% endhighlight %}
-<p>Itemien descriptioneiden sisällä voi käyttää HTML-koodia, kunhan muistaa merkitä sen <em>character dataksi</em>:
-{% highlight xml %}
+`$lastBuildDate = date("D, d M Y H:i:s O", strtotime($timestamp));`
+<p>Itemien descriptioneiden sisällä voi käyttää HTML-koodia, kunhan muistaa merkitä sen <em>character dataksi</em>:</p>
+
+```xml
 <description>
 <![CDATA[
     <!-- html-koodit tähän -->
 ]]>
 </description>
-{% endhighlight %}
+```
+
 <h3>Muuta huomionarvoista</h3>
 RSS-syöte pitää tarjoilla palvelimelta <em>application/rss+xml</em> -muodossa. Helpoiten tämä onnistuu kun PHP:ssä sanoo ennen syötteen tulostamista:
-{% highlight php startinline %}header('Content-type: application/rss+xml');{% endhighlight %}
+`header('Content-type: application/rss+xml');`
+
 Selaimelle voi kertoa, että sivusta löytyy myös RSS-versio lisäämällä linkin syötteeseen XHTML-tiedoston head-osioon:
-{% highlight html %}<link rel="alternate" type="application/rss+xml" href="http://www.paulaminni.fi/feed.php" title="Tilaa syöte" />{% endhighlight %}
+`<link rel="alternate" type="application/rss+xml" href="http://www.paulaminni.fi/feed.php" title="Tilaa syöte" />`
+
 <p>Syötteen tekeminen oli yllättävän helppoa. Skriptiä voisi vielä jatkokehittää niin, että se cachettaisi valmiin syötteen, eikä rakentaisi sitä joka kerta uudestaan tyhjästä. Nykyisillä liikennemäärillä tämä ei vielä ole ongelma.</p>
