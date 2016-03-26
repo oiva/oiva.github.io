@@ -21,6 +21,5 @@ paginate: 20
 paginate_path: "page:num/"
 
 gems:
-  - jekyll-archives
   - jekyll-sitemap
   - jekyll-paginate
