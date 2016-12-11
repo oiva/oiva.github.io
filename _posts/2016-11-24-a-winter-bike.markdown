@@ -48,3 +48,10 @@ bike for a fair price. With a belt drive instead of chain, no suspension and no
 gears it's *very* low maintenance and perfect for winter cycling. The tires
 hold OK in snow and icy asphalt. How it handles in the forest remains to be
 seen but I try not to stress too much about it.
+
+### Update
+
+I did take the bike on to some trails and participated in VPCX anniversary
+competition (a local, not so serious cyclocross competition). The bike's
+geometry was good but the gearing was really not suitable for off-road. Still a
+lot of fun.
