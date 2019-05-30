@@ -25,7 +25,8 @@ in <a href="https://www.flickr.com/photos/oiva/">photo&shy;graphy</a>, cycling (
 messenger back in the day), and good beers.</p>
 
 <p>I work for a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a> and do a bunch of 
-hobby projects on the side. Because why watch TV if you can code, am I right?</p>
+hobby projects on the side. One of them is <a href="https://infotoggle.com">InfoToggle</a>, a tool geared for 
+ecommerce websites to quickly update customer messaging without updating the website.</p>
 
 <h3>Contact me</h3>
 <div class="vcard">
