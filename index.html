@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% capture cutoff %}{{ '2013-05-30' | Date.parse | date: '%s'}}{% endcapture %}
+{% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
 {% assign cutoff = cutoff | plus: 0 %}
 {% assign previousposttime = 0 %}
 <div class="home">

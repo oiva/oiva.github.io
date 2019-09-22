@@ -35,7 +35,7 @@ photo. While phone cameras are technically good, a camera camera usually has
 better usability for taking pictures and adjusting the settings. And shooting
 with a real camera is more _fun_.
 
-###DSLR vs. Mirrorless Cameras
+### DSLR vs. Mirrorless Cameras
 
 If you do decide to purchase a camera, the next question is DSLR or mirrorless?
 ([Digital single-lens reflex camera](https://en.wikipedia.org/wiki/Digital_single-slens_reflex_camera "Wikipedia: DSLR")
@@ -69,7 +69,7 @@ just good enough, judging both picture quality and price. They are capable
 of producing high quality images in most situations without the "overhead" of
 carrying a DSLRs with you.
 
-###Upgrading from Nikon D90
+### Upgrading from Nikon D90
 
 Most recently I've shot with a [Nikon
 D90](https://en.wikipedia.org/wiki/Nikon_D90) DSLR which I bought cheap as used.
@@ -95,7 +95,7 @@ I'm not a professional photographer. I *like* taking photos but practically
 speaking I only take some silly photos on vacations and parties and that's about
 it. There are hardly any situations where the camera would be holding me back.
 
-###A Contender Appears
+### A Contender Appears
 
 <img src="/images/2016/01/fuji-xt10.jpg" alt="Fuji X-T10" width="686" />
 

@@ -24,7 +24,7 @@ fast-paced, two team *run-shoot-die* game mode.
 And I have been playing that <span style="text-decoration: underline">a lot</span>
 lately (under my secret alias *Oivaraattori*).
 
-###Picking a map
+### Picking a map
 
 A key part of the team deathmatch is voting for the next map to be played.
 In Black Ops II there are 
@@ -46,7 +46,7 @@ of the maps.
 I decided to find out if certain maps really are more likely to win, and which
 of the maps are most popular.
 
-###The Data
+### The Data
 
 I collected data by observing map voting until the maps had completed a
 double round-robin tournament: each map faced all other maps twice in a vote.
@@ -59,7 +59,7 @@ In the end I observed 193 map pairs out of the 256 possible (75% coverage).
 This gave enough data to see which maps tend to win, but certain groups of maps
 might have had different order with more data.
 
-###Ranking
+### Ranking
 
 <style>
 table#ranking {

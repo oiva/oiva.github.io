@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% capture cutoff %}{{ '2013-05-30' | Date.parse | date: '%s'}}{% endcapture %}
+{% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
 {% assign cutoff = cutoff | plus: 0 %}
 {% capture pagetime %}{{page.date | date: '%s'}}{% endcapture %}
 {% assign pagetime = pagetime | plus: 0 %}
@@ -36,9 +36,10 @@ layout: default
   <article class="post-content">
     {{ content }}
     {% if page.categories.size > 0 %}
+      {% assign categortysize = page.categories.size | minus: 1 %}
       {% capture categories %}
         {% for category in page.categories %}
-          <a href="/archive/{{ category | replace: 'ä','a' | replace: 'ö','o' }}">{{category}}</a>{% if forloop.index < page.categories.size - 1 %}, {% endif %}
+          <a href="/archive/{{ category | replace: 'ä','a' | replace: 'ö','o' }}">{{category}}</a>{% if forloop.index < categorysize %}, {% endif %}
         {% endfor %}
       {% endcapture %}
       {% if page.language == 'fi' or pagetime < cutoff %}

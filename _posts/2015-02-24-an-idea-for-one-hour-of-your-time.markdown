@@ -20,7 +20,7 @@ Walking. The answer's walking. For walking **an hour in the woods** you are  gua
 
 Now, this is my personal experience. It's not a scientific fact (that I know of). There does exist some walking related research ([see links at the end](#bonus-round-research)) that could be summarized: walking increases creativity and relieves stress. So.
  
-###What kind of ideas are we talking about?
+### What kind of ideas are we talking about?
 
 Examples of ideas I've had while walking:
 
@@ -35,7 +35,7 @@ To generalize, it's usually stuff you've already thought about for a while, some
 
 _Clarity_ is a good word for it. Things become clear. You know what to do, how to do it, and what not to do. 
 
-###A whole hour though?
+### A whole hour though?
 
 I know, one hour is a long time to take out of a day for doing "nothing".  You could also stay home and spend one hour brute-forcing your way through your life's little problems. Walking is more fun.
 
@@ -51,24 +51,24 @@ Sure, you could maybe achieve the same in less time. But consider this old Zen p
 
 A busy brain needs more time to unwind. Dont' get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it's a great way to boost your creativity when you know you need to do something... creative. But often it's like they say in Inception: *"we&nbsp;need to go deeper"*.
 
-###Just walking around?
+### Just walking around?
 
 Mostly. However, there are a few implementation details that yield better results:
 
-####Make it easy
+#### Make it easy
 
 - Look up a route of roughly 6 to 7 kilometers beforehand. Not having to navigate leaves more time for thinking. Although sometimes getting lost is fun too if you have the time.
 - Technical Sportswear baby! Well, having at least comfortable shoes and warm clothing does help.
 - Don't run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.
 
-####Minimize distractions
+#### Minimize distractions
 
 - Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn't work as well. Cars are loud.
 - Leave your headphones home. I'm a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.
 
 You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also <a href="https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2">sync your recorded reminders to OmniFocus</a>. Notes are a bit of an unsolved problem. I've sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.
 
-###Bonus round: research
+### Bonus round: research
 
 - [Wikipedia: Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise) is a good place to start if you want to know exactly how exercise affects the brain
 - [Stanford study finds walking improves creativity](http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html)
