@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Oiva Eskola</title>
+    <description>Full stack web developer</description>
+    <link>https://oivaeskola.fi/</link>
+    <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Jun 2020 18:39:40 +0300</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2020 18:39:40 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Youtube recommendations</title>
+        <description>I’ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it’s that there’s been little else to do lately.Youtube is finding more videos in random categories I didn’t know were a thing but I find intereseting. I thought I’d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today’s rec...</description>
+        <content>&lt;p&gt;I’ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it’s that there’s been little else to do lately.&lt;/p&gt;
+
+&lt;p&gt;Youtube is finding more videos in random categories I didn’t know were a thing but I find intereseting. I thought I’d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today’s recommendation:&lt;/p&gt;
+
+&lt;h2 id=&quot;daniel-duskins-mixing-videos&quot;&gt;Daniel Duskin’s mixing videos:&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Em9EwVQy-6s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Daniel is a mixing engineer (selling sound mixing services) and he demonstrates his skills on Youtube by strapping a GoPro to his head and fliming himself mixing classic songs on an analog mixing console. Like Queen’s “Don’t Stop Me Now” above.&lt;/p&gt;
+
+&lt;p&gt;Daniel doesn’t try to replicate the original songs but does a quick, maybe even better, mix from individual instrument tracks (sourced where???). It’s wild to see and hear how a song comes together with each new instrument.&lt;/p&gt;
+
+&lt;p&gt;Another video of mixing The Doobie Brothers’ “Long Train Running” has explanations of what he’s doing although heavy with mixing lingo:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_QkyzM0xLLk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Daniel makes mixing look so easy and effortless. Of course one thing to note is that the source material on these videos is super good.&lt;/p&gt;
+
+&lt;p&gt;A lot of effort went into composing and recording these songs and planning how all the instruments play together even before mixing. “Long Train Running” is already groovy as hell with only the drums and guitar. You wouldn’t be able to quickly mix ten garbage tracks and make the song &lt;em&gt;sing&lt;/em&gt; the same way.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-round-nile-rodgers-tells-the-story-of-lets-dance&quot;&gt;Bonus round: Nile Rodgers Tells The Story of “Let’s Dance”&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NlDCPCwVNUw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie’s simple guitar riff and turned it into “&lt;a href=&quot;https://en.wikipedia.org/wiki/Let%27s_Dance_\(David_Bowie_song\)&quot;&gt;Let’s Dance&lt;/a&gt;”, a massive hit in 1982. Pure magic.&lt;/p&gt;
+</content>
+        <pubDate>Sun, 28 Jun 2020 18:00:00 +0300</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2020/06/28/youtube-recommendations/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2020/06/28/youtube-recommendations/</guid>
+        
+        
+        <category>youtube</category>
+        
+        <category>internet</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Technical learnings from InfoToggle</title>
+        <description>I’ve been building a SaaS product called InfoToggle as a side project. Myprevious post has details on what it is and what itdoes.As a programmer having a side project is a good way to learn new technologiesthat you might not come across in your regular job. Having a project meansthere’s a clear problem you want to solve and you get to choose the mostsuitable tools to solve it.In the context of InfoToggle I had a chance to learnmultiple new too...</description>
+        <content>&lt;p&gt;I’ve been building a SaaS product called InfoToggle as a side project. My
+&lt;a href=&quot;/2019/10/21/infotoggle/&quot;&gt;previous post&lt;/a&gt; has details on what it is and what it
+does.&lt;/p&gt;
+
+&lt;p&gt;As a programmer having a side project is a good way to learn new technologies
+that you might not come across in your regular job. Having a &lt;em&gt;project&lt;/em&gt; means
+there’s a clear problem you want to solve and you get to choose the most
+suitable tools to solve it.&lt;/p&gt;
+
+&lt;p&gt;In the context of &lt;a href=&quot;https://infotoggle.com&quot;&gt;InfoToggle&lt;/a&gt; I had a chance to learn
+multiple new tools, including Laravel, Docker, React Hooks, Stripe, and some
+AWS features like CloudFront.&lt;/p&gt;
+
+&lt;h2 id=&quot;laravel-thumbs-up&quot;&gt;Laravel: thumbs up&lt;/h2&gt;
+
+&lt;p&gt;A big initial impetus for this whole project was to test out &lt;a href=&quot;https://laravel.com&quot;&gt;Laravel
+framework&lt;/a&gt;. I had heard many good things about it and
+wanted to see what a &lt;em&gt;modern&lt;/em&gt; PHP framework would look like. I’e used Zend
+Framework in my jobby job and it works there but it’s no fun to use really.&lt;/p&gt;
+
+&lt;p&gt;Laravel’s tagline “freeing you to create without sweating the small things”
+is pretty spot on. The framework has a lot of built-in functionality and
+sensible defaults for creating basic web apps. Creating new routes,
+controllers, database migrations, and events is all very streamlined.&lt;/p&gt;
+
+&lt;p&gt;Occasionally some of the inner workings of Laravel might feel a bit too magical
+which might become a problem in a bigger web app. The call stacks for some of
+the errors are *wild* but mostly &lt;em&gt;it just works&lt;/em&gt; and it’s fast enough for a
+basic web app. Laravel’s documentation is also pretty good, at least compared to
+Zend.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-challenges-with-stripe&quot;&gt;Technical Challenges with Stripe&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest hurdles was building the subscription system. Billing happens
+through &lt;a href=&quot;https://stripe.com&quot;&gt;Stripe&lt;/a&gt; and integrating with their subscription
+flow took a month and a half (not full time, but working hours here and there.)
+That’s a pretty big chunk of time where little progress was made.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, Stripe is probably the best payment processor there is and
+others would probably have taken far longer. The problem with Stripe was mostly
+that there are quite many different ways to create a sign up / subscription flow
+and there is no clear path to choose the correct one.&lt;/p&gt;
+
+&lt;p&gt;On top of that their documentation occasionally had PSD2-related warnings “Are
+you in Europe? Then you probably shouldn’t be using this method but this other
+one here which is in beta and doesn’t have the same features.”&lt;/p&gt;
+
+&lt;h3 id=&quot;stripe-webhook-matching&quot;&gt;Stripe webhook matching&lt;/h3&gt;
+
+&lt;p&gt;Most of Stripe’s flows work by sending requests to a
+&lt;a href=&quot;https://stripe.com/docs/webhooks&quot;&gt;webhook&lt;/a&gt; you set up. One of the biggest
+source of my confusion was that there was no single way of matching an incoming
+webhook event to a customer.&lt;/p&gt;
+
+&lt;p&gt;You can tie a “client reference ID” to Stripe’s customer objects (usually the
+customer’s ID in your own system) but only some of the events sent back to you
+include the reference. Other times you are left trying to match a subscription
+ID to a ID you know or in worst case an email address.&lt;/p&gt;
+
+&lt;p&gt;Some of Stripe’s events include a Customer ID (in Stripe’s system) and once you
+can match that to a known ID you are mostly set. But for example the “customer
+created”, “subscription created”, and “invoice created” events can arrive in any
+order and each has a different set of identifiers that you must keep track of
+and try to match to later requests. I still have a hundred line function whose
+only job is to match an incoming Stripe event to a customer in my database.&lt;/p&gt;
+
+&lt;h2 id=&quot;docker&quot;&gt;Docker&lt;/h2&gt;
+
+&lt;p&gt;I’ve avoided Docker for a very long time, mostly because in my job I have worked
+on just a single project where I had the development and production environments
+set up. But at this point Docker seems to be required knowledge pretty much
+everywhere so why not try it?&lt;/p&gt;
+
+&lt;p&gt;It seems that waiting with Docker was partly a good thing. Researching how to
+configure Docker (and Docker Compose) revealed that the configuration options
+and syntaxes haves changed at least a couple times. This made following
+tutorials quite difficult as most of the examples didn’t work anymore when run
+against a recent version of Docker.&lt;/p&gt;
+
+&lt;p&gt;What’s positive about docker is that it makes deployments easy. Replicating the
+production environment is also easy although I haven’t needed that apart from
+adding a separate testing environment.&lt;/p&gt;
+
+&lt;p&gt;Docker was also the biggest source of WTFs along with Stripe. Most of this stems
+from all Docker tutorials and examples being about building a &lt;em&gt;development&lt;/em&gt;
+environment with Docker.&lt;/p&gt;
+
+&lt;p&gt;Very little of that is applicable when deploying to production which was what I
+tried to achieve. For example Docker volumes work completely different locally
+and on a server. In the end I needed to have two separate configurations for
+building the development environment and the production environment which feels
+a bit silly.&lt;/p&gt;
+
+&lt;p&gt;Another small disadvantage with Docker is that deployments on the go over a cell
+phone connection take a long time. Apparently there’s quite a lot of data
+transfer happening?&lt;/p&gt;
+
+&lt;h2 id=&quot;react-hooks&quot;&gt;React Hooks&lt;/h2&gt;
+
+&lt;p&gt;Quick shout out to &lt;a href=&quot;https://reactjs.org/docs/hooks-intro.html&quot;&gt;React Hooks&lt;/a&gt;:
+they work, and make developing basic components that much nicer. Use them.&lt;/p&gt;
+
+&lt;p&gt;That’s it for now! Everything sort of works and I’m pretty happy with the stack
+as it is. There are also many parts that didn’t get a mention, maybe more on
+those next time.&lt;/p&gt;
+</content>
+        <pubDate>Thu, 31 Oct 2019 22:00:00 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2019/10/31/infotoggle-technical-side/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2019/10/31/infotoggle-technical-side/</guid>
+        
+        
+        <category>infotoggle</category>
+        
+        <category>web-kehitys</category>
+        
+        <category>web-palvelut</category>
+        
+        <category>työ</category>
+        
+        <category>internet</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>InfoToggle</title>
+        <description>I’ve been building a product for displaying announcements and alert messages onecommerce websites, called InfoToggle. It started outas a side project and has now grown to a point where it might actually beuseful to others as well.The problem InfoToggle solves is pretty simple and is something we see in mycurrent work at POP Vakuutus quite often. We sellinsurance but a successful sale depends on multiple external systems, forexample the nationa...</description>
+        <content>&lt;p&gt;I’ve been building a product for displaying announcements and alert messages on
+ecommerce websites, called &lt;a href=&quot;https://infotoggle.com&quot;&gt;InfoToggle&lt;/a&gt;. It started out
+as a side project and has now grown to a point where it might actually be
+useful to others as well.&lt;/p&gt;
+
+&lt;p&gt;The problem InfoToggle solves is pretty simple and is something we see in my
+current work at &lt;a href=&quot;https://www.popvakuutus.fi&quot;&gt;POP Vakuutus&lt;/a&gt; quite often. We sell
+insurance but a successful sale depends on multiple external systems, for
+example the national vehicle database Trafi, a credit check service, and 
+customer authentication, a service provided by banks. Any of these systems
+might and do break from time to time. Especially Trafi has a notoriously bad
+uptime record and often does unscheduled service breaks they only announce
+afterwards. During an outage we might not be able to sell a single vehicle
+insurance but such is life.&lt;/p&gt;
+
+&lt;p&gt;If any of these services breaks there’s not much we can do but wait. One thing
+we &lt;em&gt;can&lt;/em&gt; do is communicate the disruption and its extent to our customers. Due
+to the ecommerce aspect it has to be done in a way that doesn’t scare away
+customers not affected by the disruption. If a disruption prevents customers
+from buying a car insurance, it’s best to only inform customers about to buy
+car insurance and preferably ask them to try again later.&lt;/p&gt;
+
+&lt;p&gt;Here’s where InfoToggle comes in: it lets site owners create messages for
+situations like these and easily *toggle* them on. For service
+breaks known in advance a message can be timed to be visible the duration of
+the break.&lt;/p&gt;
+
+&lt;p&gt;Of course the messages added to your site can be whatever: announcements,
+discount codes… InfoToggle lets you add any HTML, CSS, and JS code you need
+to your site. But I feel it’s useful to frame it around situations where you
+quickly need to communicate things to your customers. Once an initial set of
+messages have been defined they can easily be duplicated and modified.&lt;/p&gt;
+
+&lt;p&gt;Not every site needs a system like this–a good CMS will let you do all of
+this. What I’m willing to bet is that there are a lot of ecommerce sites that
+don’t have a good CMS :)&lt;/p&gt;
+
+&lt;h2 id=&quot;side-hustle&quot;&gt;Side hustle&lt;/h2&gt;
+
+&lt;p&gt;InfoToggle started as and still is a side project. One motivator was to try out
+new tech (which I will expand on later) and have fun coding challenges.&lt;/p&gt;
+
+&lt;p&gt;It also provides a chance to practice many non-technical skills like product
+development and marketing.&lt;/p&gt;
+
+&lt;p&gt;Of course being limited to a couple of hours after work and on weekends means
+any progress is a bit slow but the development combined to trying to sell a
+product gives great focus. There are countless things you could do but you have
+to choose the single most important feature (or bug) and get it done.
+I think it’s also great for learning new things.&lt;/p&gt;
+
+&lt;h2 id=&quot;going-forward&quot;&gt;Going Forward&lt;/h2&gt;
+
+&lt;p&gt;InfoToggle is now at a point where technically it works and it’s in production
+use. There are a ton of features and improvements still to do but I also need
+to focus on marketing and selling hard. All in all it’s still super early and
+we’ll see how it goes. I’ll keep you posted :)&lt;/p&gt;
+
+</content>
+        <pubDate>Mon, 21 Oct 2019 20:20:00 +0300</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2019/10/21/infotoggle/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2019/10/21/infotoggle/</guid>
+        
+        
+        <category>infotoggle</category>
+        
+        <category>web-kehitys</category>
+        
+        <category>web-palvelut</category>
+        
+        <category>työ</category>
+        
+        <category>internet</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>A Winter Mountain Bike</title>
+        <description>After some unfortunate bike-thieving-events half a year ago I was left withonly one bike: a White road bike. It’s a good bike, I even scored a pair ofcarbon wheels for it.Still, one bike is hardly enough. This year I wanted to continue the cyclingseason through the winter so a winter bike was needed. I also wanted a mountainbike even though I’ve spent very little time in the forest lately. But it mighthappen, you know?Could these two bikes be ...</description>
+        <content>&lt;p&gt;&lt;img src=&quot;/images/2016/11/rcz-race-ra.jpg&quot; alt=&quot;RCZ Race RA&quot; width=&quot;686&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After some unfortunate bike-thieving-events half a year ago I was left with
+only one bike: a White road bike. It’s a good bike, I even scored a pair of
+carbon wheels for it.&lt;/p&gt;
+
+&lt;p&gt;Still, one bike is hardly enough. This year I wanted to continue the cycling
+season through the winter so a winter bike was needed. I also wanted a mountain
+bike even though I’ve spent very little time in the forest lately. But it might
+happen, you know?&lt;/p&gt;
+
+&lt;p&gt;Could these two bikes be combined? Maybe a &lt;em&gt;rigid&lt;/em&gt; mountain bike that’s fast on
+the road but still survives some trails?&lt;/p&gt;
+
+&lt;p&gt;My last mountain bike had a suspension fork. It was nice. Trying to decide if
+having a rigid mountain bike was sane I came across this perfect answer on
+Quora:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;quora-content-embed&quot; data-name=&quot;Mountain-Biking-What-are-the-advantages-of-rigid-forks-on-a-29er/answer/Alex-Ragus&quot;&gt;
+Read &lt;a class=&quot;quora-content-link&quot; data-width=&quot;559&quot; load-full-answer=&quot;False&quot; data-key=&quot;46de24bec7b5180dcbc861e8d94431e8&quot; data-id=&quot;2253368&quot; data-embed=&quot;zchtrap&quot; href=&quot;https://www.quora.com/Mountain-Biking-What-are-the-advantages-of-rigid-forks-on-a-29er/answer/Alex-Ragus&quot; data-type=&quot;answer&quot; data-height=&quot;250&quot;&gt;
+  &lt;a href=&quot;https://www.quora.com/Alex-Ragus&quot;&gt;Alex Ragus&lt;/a&gt;'
+  &lt;a href=&quot;/Mountain-Biking-What-are-the-advantages-of-rigid-forks-on-a-29er#ans2253368&quot;&gt;answer&lt;/a&gt; to 
+  &lt;a href=&quot;/Mountain-Biking-What-are-the-advantages-of-rigid-forks-on-a-29er&quot; ref=&quot;canonical&quot;&gt;
+  &lt;span class=&quot;rendered_qtext&quot;&gt;Mountain Biking: What are the advantages of rigid forks on a 29er?&lt;/span&gt;&lt;/a&gt;
+  &lt;/a&gt; on &lt;a href=&quot;https://www.__nousername__.main.quora.com&quot;&gt;Quora&lt;/a&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;https://www.quora.com/widgets/content&quot;&gt;&lt;/script&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyway, as you might have guessed from the picture, I found a used RCZ mountain
+bike for a fair price. With a belt drive instead of chain, no suspension and no 
+gears it’s &lt;em&gt;very&lt;/em&gt; low maintenance and perfect for winter cycling. The tires
+hold OK in snow and icy asphalt. How it handles in the forest remains to be
+seen but I try not to stress too much about it.&lt;/p&gt;
+
+&lt;h3 id=&quot;update&quot;&gt;Update&lt;/h3&gt;
+
+&lt;p&gt;I did take the bike on to some trails and participated in VPCX anniversary
+competition (a local, not so serious cyclocross competition). The bike’s
+geometry was good but the gearing was really not suitable for off-road. Still a
+lot of fun.&lt;/p&gt;
+</content>
+        <pubDate>Thu, 24 Nov 2016 22:00:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2016/11/24/a-winter-bike/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2016/11/24/a-winter-bike/</guid>
+        
+        <category>bikes</category>
+        
+        <category>winter</category>
+        
+        <category>mountain bike</category>
+        
+        
+        <category>bikes</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Stories about switching to Fuji</title>
+        <description>Some experiences from folks who’ve switched to from Nikon to Fuji systems,something I might be doing as well. Many of these talk about Fuji’s X-T1 whichis the big brother of the X-T10 I’m interested in but also about the reasonsfor switching.What’s funny is that almost all of them seem to be doing the switch afterowning a Nikon D800. That’s one particularly big DSLR which might play a partin why people start looking for something smaller.Bye b...</description>
+        <content>&lt;p&gt;Some experiences from folks who’ve switched to from Nikon to Fuji systems,
+something I might be doing as well. Many of these talk about Fuji’s X-T1 which
+is the big brother of the X-T10 I’m interested in but also about the reasons
+for switching.&lt;/p&gt;
+
+&lt;p&gt;What’s funny is that almost all of them seem to be doing the switch after
+owning a Nikon D800. That’s one particularly big DSLR which might play a part
+in why people start looking for something smaller.&lt;/p&gt;
+
+&lt;h4 id=&quot;bye-bye-nikon-hello-fujifilm&quot;&gt;&lt;a href=&quot;http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html&quot;&gt;Bye bye NIKON, Hello FUJIFILM!&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Bjorn Moerman’s&lt;/strong&gt; experience switching from Nikon D800 to then Fuji family.&lt;/p&gt;
+
+&lt;blockquote&gt;
+When was the last time Nikon or Canon came out with a brand new
+camera feature on a camera that has been out more than 12 months?
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+I sincerely believe that by 2020 there will be hardly any new
+classic DSLR's being sold.
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;from-nikon-to-fuji-20000-pictures-with-the-x-t1&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wZM40jC2ueE&quot;&gt;From Nikon to Fuji, 20,000 pictures with the x-t1&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;A video from &lt;strong&gt;Lukas Gisbert-Mora&lt;/strong&gt;, a wedding photographer, about the reasons why he 
+switched to Fuji X-T1. Including limitations of the Fuji.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  At a wedding, actually on the dance floor, when I compared my shots taken with
+  a Nikon and the Fuji, I could actually see that the Fuji was performing
+  better.
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  When you look in the EVF (electronic viewfinder) it tells you exactly what
+  the exposure is like, before you take the shot. You can actually be much
+  quicker with [the Fuji] than a DSLR ... You just keep the camera to your eye
+  and just adjust the aperture.
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;switching-from-the-nikon-d800-to-the-fuji-x-t1&quot;&gt;&lt;a href=&quot;http://melhadtea.com/switching-from-the-nikon-d800-to-the-fuji-xt1/&quot;&gt;Switching from the Nikon D800 to the Fuji X-T1&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Mel Hattie&lt;/strong&gt;, from the perspective of switching a full $$$$ Nikon system and
+actually saving money in the process.&lt;/p&gt;
+
+&lt;blockquote&gt;
+Despite the solid construction, the Fuji X-T1 is very light. There's a
+noticeable size and weight difference when I'm carrying it around, and I feel
+comfortable pulling it out on the street without attracting a lot of attention.
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  There are definitely things I'll miss about the Nikon D800: Dual card slots,
+  snappier autofocus, higher ISO tolerance, the video capabilities.
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;switching-to-fuji---first-impressions&quot;&gt;&lt;a href=&quot;http://www.andymumford.co.uk/blog/switching-to-fuji-first-impressions/&quot;&gt;Switching to Fuji - First Impressions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Andy Mumford’s&lt;/strong&gt; comparison of Nikon D800E and Fuji X-T10. Many side-by-side
+photos from both cameras&lt;/p&gt;
+
+&lt;blockquote&gt;
+After spending some time playing around with the images from the XT10, I'm
+really impressed by the image quality and really don't feel as though I'm
+losing anything significant from the Nikon D800E in real world shooting
+conditions.
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  I think we’ve reached a point with image quality where improvements are more
+  technical than real world for the work I do and I want small, light, cameras
+  that feel almost invisible when shooting with them or carrying them around,
+  and I want a camera that's fun to use and experiment with.
+&lt;/blockquote&gt;
+</content>
+        <pubDate>Thu, 21 Jan 2016 00:05:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2016/01/21/people-switching-to-fuji/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2016/01/21/people-switching-to-fuji/</guid>
+        
+        <category>camera</category>
+        
+        <category>Nikon</category>
+        
+        <category>Fujifilm</category>
+        
+        <category>photography</category>
+        
+        
+        <category>kamera</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Next camera: Nikon vs. Fujifilm</title>
+        <description>Buying a camera in 2016 is hard. What kind of camera should you buy?Should you even buy a camera anymore? Phone cameras are beginning to be verygood and they are the cameras that are literally always on you.The iPhone 6s and Google Nexuses now have 12MP camera sensors andI’m sure other phones have even more ridiculous sensors. Phones still fall shortin shooting in low light where they tend to produce noisier photos. Still,shooting with a phone...</description>
+        <content>&lt;p&gt;&lt;img src=&quot;/images/2016/01/nikon-d7200-vs-fuji-xt10.jpg&quot; alt=&quot;Fuji X-T10 vs. Nikon D7200&quot; width=&quot;686&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Buying a camera in 2016 is hard. What kind of camera should you buy?&lt;/p&gt;
+
+&lt;p&gt;Should you even buy a camera anymore? Phone cameras are beginning to be very
+good and they are the cameras that are literally always on you.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://austinmann.com/trek/iphone-6s-camera-review-switzerland&quot; title=&quot;iPhone 6s camera review&quot;&gt;iPhone 6s&lt;/a&gt; and Google Nexuses now have 12MP camera sensors and
+I’m sure other phones have even more ridiculous sensors. Phones still fall short
+in shooting in low light where they tend to produce noisier photos. Still,
+shooting with a phone hardly stops you from getting great pictures, just look at
+&lt;a href=&quot;https://www.instagram.com/austinmann/&quot;&gt;Austin Mann’s Instagram feed&lt;/a&gt; for
+example.&lt;/p&gt;
+
+&lt;p&gt;But let’s say you want a separate camera. For one, carrying a camera helps put
+you in shooting mode. Holding a camera in my hand makes me look for photo
+opportunities, and having the camera ready means I’m more likely to catch the
+photo. While phone cameras are technically good, a camera camera usually has
+better usability for taking pictures and adjusting the settings. And shooting
+with a real camera is more &lt;em&gt;fun&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;dslr-vs-mirrorless-cameras&quot;&gt;DSLR vs. Mirrorless Cameras&lt;/h3&gt;
+
+&lt;p&gt;If you do decide to purchase a camera, the next question is DSLR or mirrorless?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_single-slens_reflex_camera&quot; title=&quot;Wikipedia: DSLR&quot;&gt;Digital single-lens reflex camera&lt;/a&gt;
+/ &lt;a href=&quot;https://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera&quot; title=&quot;Wikipedia: Mirrorless interchangeable-lens camera&quot;&gt;Mirrorless interchangeable-lens camera&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;To date, about one billion articles and blog posts have been written about 
+“&lt;a href=&quot;https://www.google.fi/search?q=dslr+vs+mirrorless&quot; title=&quot;Google&quot;&gt;DSLR vs. mirrorless&lt;/a&gt;”.
+To summarize them all quickly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mirrorless cameras are smaller and lighter to carry&lt;/li&gt;
+  &lt;li&gt;DSLRs have better grips (because of the size)&lt;/li&gt;
+  &lt;li&gt;DSLR batteries last at least twice as long (like 350 vs. 1000 shots per charge)&lt;/li&gt;
+  &lt;li&gt;DSLRs have bigger image sensors&lt;/li&gt;
+  &lt;li&gt;Optical and electronic viewfinders are different, or not&lt;/li&gt;
+  &lt;li&gt;Mirrorless are more &lt;em&gt;fun&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sure there are other aspects to assess like autofocus and selection of lenses
+but there the gap is getting narrower. And of course people are quick to point
+out that &lt;strong&gt;not all DSLRs&lt;/strong&gt; are big and bulky and not all mirrorless cameras are
+small and light. I get it, but that’s the difference &lt;em&gt;in general&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anyway, what’s interesting reading those articles is that reasons for having a
+DSLR are moving towards “I’m a war photographer and need the best camera there
+is.” And that’s a valid point. Mirrorless cameras probably aren’t replacing
+high-end DSLRs. For example the bigger sensor does help get marginally better
+pictures when there’s less light or you need to do extensive post-processing.
+And a DSLR is probably better if you shoot sports for a living.&lt;/p&gt;
+
+&lt;p&gt;But for ordinary consumers like me the mirrorless cameras are now starting to be
+just good enough, judging both picture quality and price. They are capable
+of producing high quality images in most situations without the “overhead” of
+carrying a DSLRs with you.&lt;/p&gt;
+
+&lt;h3 id=&quot;upgrading-from-nikon-d90&quot;&gt;Upgrading from Nikon D90&lt;/h3&gt;
+
+&lt;p&gt;Most recently I’ve shot with a &lt;a href=&quot;https://en.wikipedia.org/wiki/Nikon_D90&quot;&gt;Nikon
+D90&lt;/a&gt; DSLR which I bought cheap as used.
+It was a good camera but the image quality was not quite up to today’s
+standards. The camera was released in 2008 and sensor technology has advanced a
+bit since then. Nikon has since release three cameras in the same “prosumer”
+category: &lt;strong&gt;D7000&lt;/strong&gt; (2010), &lt;strong&gt;D7100&lt;/strong&gt; (2013) and &lt;strong&gt;D7200&lt;/strong&gt; (2015).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016/01/D7200.jpg&quot; alt=&quot;Nikon D7200&quot; width=&quot;686&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most logical upgrade path would be to purchase the D7200 or a used D7100. Their
+differences are &lt;a href=&quot;http://snapsort.com/compare/Nikon-D7100-vs-Nikon-D7200/detailed&quot;&gt;minor&lt;/a&gt;
+and both would be much better than the D90 for example in low light.&lt;/p&gt;
+
+&lt;p&gt;I’m not tempted to upgrade to more high-end Nikon cameras or to switch to full
+frame cameras (= even bigger sensors). Nikon’s prosumer line has the features I
+imagine needing and the D7200 at 1000€ is near the upper limit for what I would
+ever pay for a camera.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/oiva/15886299454/in/dateposted-public/&quot;&gt;&lt;img src=&quot;/images/2016/01/camel.jpg&quot; alt=&quot;Camel&quot; width=&quot;686&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not a professional photographer. I &lt;em&gt;like&lt;/em&gt; taking photos but practically
+speaking I only take some silly photos on vacations and parties and that’s about
+it. There are hardly any situations where the camera would be holding me back.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-contender-appears&quot;&gt;A Contender Appears&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2016/01/fuji-xt10.jpg&quot; alt=&quot;Fuji X-T10&quot; width=&quot;686&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had almost convinced myself I should buy the D7200… until a friend of a
+friend posted a long post on Facebook about how they &lt;em&gt;love&lt;/em&gt; their Fuji camera
+and how it totally makes you like photography again. Oh boy.&lt;/p&gt;
+
+&lt;p&gt;That person had a &lt;a href=&quot;http://www.dpreview.com/reviews/fujifilm-x-t1&quot;&gt;Fuji X-T1&lt;/a&gt;
+which is a bit pricey for my budget but after a frantic googling of all possible
+Fujifilm cameras I found two other models that had very favorable reviews: the
+&lt;a href=&quot;http://www.dpreview.com/reviews/fujifilm-x-e2&quot;&gt;X-E2&lt;/a&gt; and the
+&lt;a href=&quot;http://www.dpreview.com/reviews/fujifilm-x-t10&quot;&gt;X-T10&lt;/a&gt;. The latter is a
+slightly stripped  down version of the X-T1 (no weather-sealing, smaller buffer)
+but it’s also more affordable: with a 18-55mm kit lens it costs just a bit more
+than the D7200.&lt;/p&gt;
+
+&lt;p&gt;One key feature that makes Fujis &lt;em&gt;fun&lt;/em&gt; is repeated in several reviews: dials on
+top of the camera. The X-T10 has dials for exposure compensation, shutter speed
+and drive mode. This may not seem like a big deal, but on Nikon digital cameras
+those specific functions are handled with two anonymous front and back dials.
+What’s worse, they seem to be weirdly modal: sometimes spinning the real dial
+doesn’t change exposure or the front dial won’t change the shutter speed. 
+Dedicating dials with numbers on them for these functions sounds promising.&lt;/p&gt;
+
+&lt;p&gt;The top dials also remind me of my first serious camera, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Nikon_FA&quot;&gt;Nikon
+FA&lt;/a&gt; that I inherited from my father. It
+has dials for ISO, exposure compensation, shutter speed and shooting mode:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/images/2016/01/nikon-fa-top.jpg&quot; alt=&quot;Nikon FA&quot; width=&quot;686&quot; /&gt;
+&lt;figcaption align=&quot;bottom&quot;&gt;Photo: &lt;a href=&quot;https://en.wikipedia.org/wiki/Nikon_FA&quot;&gt;Wikipedia&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;That’s one camera I’d like to use if shooting film wasn’t such a hassle.&lt;/p&gt;
+
+&lt;p&gt;One downside of Fuji is that their lenses are a bit expensive. There are no 200€
+FUJINON lenses similar to the &lt;a href=&quot;http://www.kenrockwell.com/nikon/35mm-f18.htm&quot;&gt;Nikkor
+35mm/1.8&lt;/a&gt; (which offers great
+bang for the buck). All Fuji lenses start at 450€ and quickly climb to 1000€
+range, for example for the 23mm/1.4.&lt;/p&gt;
+
+&lt;p&gt;However, there are some cheap adapters and some expensive adapters, like
+&lt;a href=&quot;http://www.metabones.com/products/details/MB_SPNFG-X-BM2&quot;&gt;Metabones Speed Booster
+ULTRA&lt;/a&gt; which would let
+me use my current Nikkor lenses on the Fuji. The Metabones adapter is
+interesting as it has a focal length ratio of 0.71 which combined with the
+camera’s 1.5x ratio makes an effective 1.07 multiplier. So a 35mm lens with the
+adapter would act as a 37mm lens. It also increases the maximum aperture by 1
+stop.&lt;/p&gt;
+
+&lt;p&gt;I found some interesting stories from people switching to Fuji including people
+who used to own Nikons. I could link to some of them in another post. I haven’t
+made the jump yet so I’m still speculating while I’m saving the money. But at
+least the options are now interesting and seem fun!&lt;/p&gt;
+</content>
+        <pubDate>Wed, 20 Jan 2016 00:44:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2016/01/20/next-camera-nikon-vs-fujifilm/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2016/01/20/next-camera-nikon-vs-fujifilm/</guid>
+        
+        <category>camera</category>
+        
+        <category>Nikon</category>
+        
+        <category>Fujifilm</category>
+        
+        <category>photography</category>
+        
+        
+        <category>kamera</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Most Popular Black Ops II Multiplayer Maps</title>
+        <description>Call of Duty: Black Ops II is a 2012 first-person shooter game for the previous generation consoles (PS3, Xbox 360, Wii U). While the game is a bit old, its multiplayer mode is still insanely popular.Most of the multiplayer action happens in Team Deathmatch which is a fast-paced, two team run-shoot-die game mode.And I have been playing that a lotlately (under my secret alias Oivaraattori).Picking a mapA key part of the team deathmatch is votin...</description>
+        <content>&lt;p&gt;&lt;img src=&quot;/images/2015/nuketown.jpg&quot; alt=&quot;Nuketown&quot; width=&quot;686&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II&quot;&gt;Call of Duty: Black Ops II&lt;/a&gt; 
+is a 2012 first-person shooter game for the previous generation consoles 
+(PS3, Xbox 360, Wii U). While the game is a bit old, its multiplayer mode is 
+still insanely popular.&lt;/p&gt;
+
+&lt;p&gt;Most of the multiplayer action happens in Team Deathmatch which is a 
+fast-paced, two team &lt;em&gt;run-shoot-die&lt;/em&gt; game mode.&lt;/p&gt;
+
+&lt;p&gt;And I have been playing that &lt;span style=&quot;text-decoration: underline&quot;&gt;a lot&lt;/span&gt;
+lately (under my secret alias &lt;em&gt;Oivaraattori&lt;/em&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;picking-a-map&quot;&gt;Picking a map&lt;/h3&gt;
+
+&lt;p&gt;A key part of the team deathmatch is voting for the next map to be played.
+In Black Ops II there are 
+&lt;a href=&quot;http://callofduty.wikia.com/wiki/Category:Call_of_Duty:_Black_Ops_II_Multiplayer_Maps&quot;&gt;15 standard maps&lt;/a&gt;
+to choose from.&lt;/p&gt;
+
+&lt;p&gt;Each player can either vote a new map chosen randomly by the game,
+the previous map, or a random map which is revealed when voting ends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2015/blackops2.png&quot; alt=&quot;Black Ops 2 map voting&quot; width=&quot;343&quot; height=&quot;260&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If a map has been played two times in a row it cannot be voted again and only
+available options are the new map suggested by the game or a random map.&lt;/p&gt;
+
+&lt;p&gt;After playing a while you start to see which of the 15 maps usually win the
+vote. Players seem to be surprisingly unanimous about the ranking
+of the maps.&lt;/p&gt;
+
+&lt;p&gt;I decided to find out if certain maps really are more likely to win, and which
+of the maps are most popular.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-data&quot;&gt;The Data&lt;/h3&gt;
+
+&lt;p&gt;I collected data by observing map voting until the maps had completed a
+double round-robin tournament: each map faced all other maps twice in a vote.&lt;/p&gt;
+
+&lt;p&gt;In practice I didn’t get 100% coverage of all the possible map pairs. Some maps
+just don’t come up often enough in voting and waiting for those pairs to play
+out would have taken a very long time.&lt;/p&gt;
+
+&lt;p&gt;In the end I observed 193 map pairs out of the 256 possible (75% coverage).
+This gave enough data to see which maps tend to win, but certain groups of maps
+might have had different order with more data.&lt;/p&gt;
+
+&lt;h3 id=&quot;ranking&quot;&gt;Ranking&lt;/h3&gt;
+
+&lt;style&gt;
+table#ranking {
+  margin-bottom: 1em;
+}
+table#ranking tbody th {
+  font-weight: 400;
+}
+table#ranking span {
+  display: block;
+  padding: 2px 5px 2px 10px;
+}
+table#ranking tr.best td span {
+  background: #BBD22F;
+}
+table#ranking tr.good td span {
+  background: #7D8A2E;
+}
+table#ranking tr.random span {
+  background: #10222B;
+  color: white;
+}
+table#ranking tr.ok td span {
+  background: #C9D787;
+}
+table#ranking tr.okish td span {
+  background: #FFC0A9;
+}
+table#ranking tr.bad td span {
+  background: #FF8598;
+}
+table#ranking tr.worse td span {
+  background: #D06C7B;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;ranking&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Map&lt;/th&gt;
+      &lt;th&gt;Winning percentage&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr class=&quot;best&quot;&gt;
+      &lt;th&gt;Nuketown&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 200px&quot;&gt;100%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;good&quot;&gt;
+      &lt;th&gt;Hijacked&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 162px&quot;&gt;82.1%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;good&quot;&gt;
+      &lt;th&gt;Standoff&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 155px&quot;&gt;77.8%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;good&quot;&gt;
+      &lt;th&gt;Raid&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 150px&quot;&gt;75%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;random&quot;&gt;
+      &lt;th&gt;&lt;span&gt;Random&lt;/span&gt;&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 133px&quot;&gt;66.7%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;ok&quot;&gt;
+      &lt;th&gt;Express&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 92px&quot;&gt;46.2%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;ok&quot;&gt;
+      &lt;th&gt;Yemen&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 80px&quot;&gt;40%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;okish&quot;&gt;
+      &lt;th&gt;Carrier&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 56px&quot;&gt;28%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;okish&quot;&gt;
+      &lt;th&gt;Turbine&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 45px&quot;&gt;22.7%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;okish&quot;&gt;
+      &lt;th&gt;Meltdown&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 44px&quot;&gt;22.2%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;bad&quot;&gt;
+      &lt;th&gt;Plaza&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 38px&quot;&gt;19%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;bad&quot;&gt;
+      &lt;th&gt;Slums&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 36px&quot;&gt;18.2%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;bad&quot;&gt;
+      &lt;th&gt;Drone&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 30px&quot;&gt;15%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;bad&quot;&gt;
+      &lt;th&gt;Overflow&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 30px&quot;&gt;15%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;worse&quot;&gt;
+      &lt;th&gt;Cargo&lt;/th&gt;
+      &lt;td&gt;&lt;span style=&quot;width: 10px&quot;&gt;5.3%&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;worst&quot;&gt;
+      &lt;th&gt;Aftermath&lt;/th&gt;
+      &lt;td&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;So, there you have it. &lt;em&gt;Nuketown 2025&lt;/em&gt; was the clear winner. The map never loses
+a vote. On the other end of the spectrum &lt;em&gt;Aftermath&lt;/em&gt; was a clear loser, never
+winning a vote against any of the other maps.&lt;/p&gt;
+
+&lt;p&gt;The random line is interesting. If given an option below the random line people
+are more likely to vote for random in order to possibly get one of the four
+“good” maps above it. The maps above the line nearly always beat random in a 
+vote. &lt;strong&gt;If players were given a free choice they would probably just play the
+top-4 maps&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As mentioned before, some maps were really close and could easily have changed
+order given slightly different votes or more data. &lt;em&gt;Carrier&lt;/em&gt; / &lt;em&gt;Turbine&lt;/em&gt; / 
+&lt;em&gt;Meltdown&lt;/em&gt; were always close, as were &lt;em&gt;Plaza&lt;/em&gt; / &lt;em&gt;Slums&lt;/em&gt; / &lt;em&gt;Drone&lt;/em&gt; /
+&lt;em&gt;Overflow&lt;/em&gt;. Of the top maps &lt;em&gt;Hijacked&lt;/em&gt;, &lt;em&gt;Standoff&lt;/em&gt;, and &lt;em&gt;Raid&lt;/em&gt; were almost 
+equally as good.&lt;/p&gt;
+
+&lt;p&gt;Personally I feel the results are OK. &lt;em&gt;Nuketown&lt;/em&gt; &lt;strong&gt;is&lt;/strong&gt; a really fun map with
+many ways to play it and limited sniper action. And I dislike &lt;em&gt;Drone&lt;/em&gt;
+because it’s mostly a sniper map with some anemic close combat action
+but apparently it has some fans.&lt;/p&gt;
+
+&lt;p&gt;I’m sure Treyarch would have a lot more data about this but I haven’t come 
+across any official rankings. If some previous work exists or you have better
+data hit me up on &lt;a href=&quot;https://twitter.com/oiva&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+</content>
+        <pubDate>Tue, 18 Aug 2015 13:53:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/08/18/most-voted-black-ops-2-maps/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/08/18/most-voted-black-ops-2-maps/</guid>
+        
+        <category>games</category>
+        
+        <category>multiplayer</category>
+        
+        <category>Black Ops II</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Airbnb is a reservation tool</title>
+        <description>  During a recent road trip to Croatia we booked most of our accommodationthrough Airbnb. We hadn’t booked anything inadvance and at the height of the summer season there were no cheap hotels left.Airbnb had much more choice and prices were reasonable if not cheap.This was my first time of really using Airbnb and I was surprised to find outthat all the apartments and rooms we booked were run by professional accommodation businesses. One was ac...</description>
+        <content>&lt;picture&gt;
+  &lt;img src=&quot;/images/2015/croatia-1.jpg&quot; srcset=&quot;images/2015/croatia-1.5.jpg 1.5x,
+            images/2015/croatia.jpg 2x&quot; alt=&quot;Road in Croatia&quot; width=&quot;686&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;p&gt;During a recent road trip to Croatia we booked most of our accommodation
+through &lt;a href=&quot;https://www.airbnb.com/&quot;&gt;Airbnb&lt;/a&gt;. We hadn’t booked anything in
+advance and at the height of the summer season there were no cheap hotels left.
+Airbnb had much more choice and prices were reasonable if not cheap.&lt;/p&gt;
+
+&lt;p&gt;This was my first time of really using Airbnb and I was surprised to find out
+that all the apartments and rooms we booked were run by professional 
+accommodation businesses. One was actually a hostel but really felt more like
+a hotel minus the breakfast.&lt;/p&gt;
+
+&lt;p&gt;I had an obviously erroneous image of Airbnb selection consisting of people
+renting out their flats but it seems these companies just use Airbnb as an
+additional sales channel. The same apartments could have been booked for
+example through booking.com.&lt;/p&gt;
+
+&lt;p&gt;Not that there’s anything wrong with that. It was just a bit surprising
+considering the image I had of Airbnb. It’s understandable that touristy cities
+have lots of apartments to rent and they are sold through any channel possible.&lt;/p&gt;
+
+&lt;p&gt;One downside of this is that many of the places we looked didn’t have reviews
+on Airbnb but they might have had on other booking sites. Airbnb also hides the
+exact location of the apartments prior to booking them which seems a bit
+unnecessary given they are not anyone’s homes. Anyway, one lesson learned
+again.&lt;/p&gt;
+</content>
+        <pubDate>Tue, 11 Aug 2015 15:26:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/08/11/airbnb-booking/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/08/11/airbnb-booking/</guid>
+        
+        <category>airbnb</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Back to Work Reading List</title>
+        <description>Back to Work is a great podcast about productivity,communication and many other things. From time to time the hosts Dan and Merlinrecommend books and comics they’ve read. The books cover a wide range as well,from Buddhism to Unix to cooking.Personally I like book recommendations and reading stuff at least someone hasdeemed worthy. So I created a small script thatscrapes all the book recommendations from Back to Work’s feed andassembles Back to...</description>
+        <content>&lt;p&gt;&lt;a href=&quot;http://5by5.tv/b2w&quot;&gt;Back to Work&lt;/a&gt; is a great podcast about productivity,
+communication and many other things. From time to time the hosts Dan and Merlin
+recommend books and comics they’ve read. The books cover a wide range as well,
+from Buddhism to Unix to cooking.&lt;/p&gt;
+
+&lt;p&gt;Personally I like book recommendations and reading stuff at least someone has
+deemed worthy. So I created a &lt;a href=&quot;https://github.com/oiva/b2w&quot;&gt;small script&lt;/a&gt; that
+scrapes all the book recommendations from Back to Work’s feed and
+assembles &lt;a href=&quot;http://oivaeskola.fi/b2w/&quot;&gt;Back to Work Reading List&lt;/a&gt;. Hope you find
+it useful!&lt;/p&gt;
+</content>
+        <pubDate>Tue, 11 Aug 2015 12:04:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/08/11/back-to-work/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/08/11/back-to-work/</guid>
+        
+        <category>podcast</category>
+        
+        <category>books</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Does Meditation Suppress Bad Memories?</title>
+        <description>The other day I stumbled upon a Facebook argument about meditation: is it about suppressing bad memories, or processing bad memories? The  personthinking meditation suppresses memories naturally considered it harmful, and apossibly dangerous fad.IANAB (I’m not a Buddhist) and my experience in meditation is very limited, butI’d be willing to argue meditation is neither. It’s more about being ready whenthe next bad thing happens. Or a good thing...</description>
+        <content>&lt;p&gt;The other day I stumbled upon a Facebook argument about meditation: is it 
+about &lt;em&gt;suppressing&lt;/em&gt; bad memories, or &lt;em&gt;processing&lt;/em&gt; bad memories? The  person
+thinking meditation suppresses memories naturally considered it harmful, and a
+possibly dangerous fad.&lt;/p&gt;
+
+&lt;p&gt;IANAB (I’m not a Buddhist) and my experience in meditation is very limited, but
+I’d be willing to argue meditation is neither. It’s more about being ready when
+the next bad thing happens. Or a good thing for that matter.&lt;/p&gt;
+
+&lt;p&gt;The reward from meditation is to gain clarity and to be ready for whatever life
+throws you. Sometimes life throws you lemons and it pays to realize that it’s 
+something that does happen from time to time, that it might not even be 
+anything to get angry at, and maybe even see the lemonade-making opportunities
+that await you.&lt;/p&gt;
+
+&lt;p&gt;There are certain aspects of meditation that might give a ‘thought suppression’
+vibe. From 
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Meditation&quot;&gt;Wikipedia’s great meditation article&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote cite=&quot;http://en.wikipedia.org/wiki/Meditation&quot;&gt;
+  &lt;p&gt;Meditation often involves an internal effort to self-regulate the mind in 
+     some way. Meditation is often used to clear the mind ...&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But in this context clearing your mind or self-regulating your thoughts
+does not mean &lt;em&gt;not&lt;/em&gt; thinking certain thoughts you feel are ‘bad’.&lt;/p&gt;
+
+&lt;p&gt;The point of meditation exercises is to build a transparent layer between your
+thoughts and you. That layer’s job is to detect and acknowledge the thoughts that run
+through your mind, to understand how they make you feel and why, and to assess
+if there’s any real reason to get upset about that email you got.&lt;/p&gt;
+
+&lt;p&gt;All in all, I’m a bit more positive about using meditation to process memories,
+but way more using it as a tool to better survive everyday life without stress
+and being prepared for any possible future.&lt;/p&gt;
+</content>
+        <pubDate>Fri, 17 Apr 2015 23:04:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/04/17/why-would-you-meditate/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/04/17/why-would-you-meditate/</guid>
+        
+        <category>meditation</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Trade one hour of your time for one solid idea</title>
+        <description>You go into the woods and come back with an idea. How does that work?Walking. The answer’s walking. For walking an hour in the woods you are  guaranteed at least one actionable idea.Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (see links at the end) that could be summarized: walking increases creativity and relieves stress. So.What kind of ideas are we talking ...</description>
+        <content>&lt;p&gt;You go into the woods and come back with an idea. How does that work?&lt;/p&gt;
+
+&lt;p&gt;Walking. The answer’s walking. For walking &lt;strong&gt;an hour in the woods&lt;/strong&gt; you are  guaranteed at least &lt;strong&gt;one actionable idea&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (&lt;a href=&quot;#bonus-round-research&quot;&gt;see links at the end&lt;/a&gt;) that could be summarized: walking increases creativity and relieves stress. So.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-kind-of-ideas-are-we-talking-about&quot;&gt;What kind of ideas are we talking about?&lt;/h3&gt;
+
+&lt;p&gt;Examples of ideas I’ve had while walking:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A simple solution for that one programming problem at work&lt;/li&gt;
+  &lt;li&gt;How to improve our client’s processes. (Really a small thing the computer could do when we push new versions live but it solves one really old problem.)&lt;/li&gt;
+  &lt;li&gt;What blog posts to write. Sometimes blog posts basically write themselves. The trouble is writing the ideas down.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oivaeskola.fi/2015/02/23/moving-the-blog/&quot;&gt;What to do with my website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to word a presentation&lt;/li&gt;
+  &lt;li&gt;Tons of new startup ideas :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To generalize, it’s usually stuff you’ve already thought about for a while, sometimes subconsciously. You might know the problem but not the answer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Clarity&lt;/em&gt; is a good word for it. Things become clear. You know what to do, how to do it, and what not to do.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-whole-hour-though&quot;&gt;A whole hour though?&lt;/h3&gt;
+
+&lt;p&gt;I know, one hour is a long time to take out of a day for doing “nothing”.  You could also stay home and spend one hour brute-forcing your way through your life’s little problems. Walking is more fun.&lt;/p&gt;
+
+&lt;p&gt;Why a one-hour walk works is this: after 30 minutes of walking in one direction your brain goes: &lt;em&gt;“Hmm, we are kinda far away from home. I guess there isn’t much more to do than to just keep walking until we get back home.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This brief moment of your brain turning off is the valuable part.&lt;/strong&gt; It’s a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days.&lt;/p&gt;
+
+&lt;p&gt;This pause from actively doing stuff or reading Twitter lets you pick up stuff from your subconscious, think it through, and piece something sensible together.&lt;/p&gt;
+
+&lt;p&gt;Sure, you could maybe achieve the same in less time. But consider this old Zen proverb:&lt;/p&gt;
+
+&lt;blockquote cite=&quot;http://buddhism.stackexchange.com/questions/5632/who-said-if-you-are-too-busy-meditate-for-two-hours&quot;&gt;&lt;p&gt;You should sit in meditation for 20 minutes a day. Unless you're too busy, then you should sit for an hour.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A busy brain needs more time to unwind. Dont’ get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it’s a great way to boost your creativity when you know you need to do something… creative. But often it’s like they say in Inception: &lt;em&gt;“we need to go deeper”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;just-walking-around&quot;&gt;Just walking around?&lt;/h3&gt;
+
+&lt;p&gt;Mostly. However, there are a few implementation details that yield better results:&lt;/p&gt;
+
+&lt;h4 id=&quot;make-it-easy&quot;&gt;Make it easy&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Look up a route of roughly 6 to 7 kilometers beforehand. Not having to navigate leaves more time for thinking. Although sometimes getting lost is fun too if you have the time.&lt;/li&gt;
+  &lt;li&gt;Technical Sportswear baby! Well, having at least comfortable shoes and warm clothing does help.&lt;/li&gt;
+  &lt;li&gt;Don’t run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;minimize-distractions&quot;&gt;Minimize distractions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn’t work as well. Cars are loud.&lt;/li&gt;
+  &lt;li&gt;Leave your headphones home. I’m a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also &lt;a href=&quot;https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2&quot;&gt;sync your recorded reminders to OmniFocus&lt;/a&gt;. Notes are a bit of an unsolved problem. I’ve sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.&lt;/p&gt;
+
+&lt;h3 id=&quot;bonus-round-research&quot;&gt;Bonus round: research&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise&quot;&gt;Wikipedia: Neurobiological effects of physical exercise&lt;/a&gt; is a good place to start if you want to know exactly how exercise affects the brain&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html&quot;&gt;Stanford study finds walking improves creativity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uofmhealth.org/news/archive/201409/walking-depression-and-beating-stress-outdoors-nature-group&quot;&gt;Walking off depression and beating stress outdoors? Nature group walks linked to improved mental health&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wsj.com/articles/SB10001424053111904199404576538260326965724&quot;&gt;WSJ: Coffee Break? Walk in the Park? Why Unwinding Is Hard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What’s interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;https://www.flickr.com/photos/oiva/2695843572&quot; title=&quot;Puu by Oiva Eskola, on Flickr&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg&quot; width=&quot;214&quot; height=&quot;320&quot; alt=&quot;Puu&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Here's a tree.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;There are some proven benefits, see? But don’t take it as “exercising is important and you should run every day!” All I dare to say is that walking probably isn’t bad for you.&lt;/p&gt;
+
+&lt;p&gt;I’m very well aware that telling people how awesome any form of exercise is usually does little to convince anyone to try it. (I’ve been at the receiving end many times.) So I’m just going to leave this here, and maybe if you need &lt;em&gt;fresh ideas&lt;/em&gt; you could get some &lt;em&gt;fresh air&lt;/em&gt;. Pow!&lt;/p&gt;
+</content>
+        <pubDate>Tue, 17 Mar 2015 23:40:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/03/17/an-idea-for-one-hour-of-your-time/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/03/17/an-idea-for-one-hour-of-your-time/</guid>
+        
+        <category>blog</category>
+        
+        <category>jekyll</category>
+        
+        <category>GitHub</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>What to do with my blog</title>
+        <description>It seems that blogs are more or less on their way out. On the other hand people publish more material than ever, but it’s divided into a multitude of services based on content and context. Personal life updates go to Facebook, vacation photos to Instagram, goofy links to Tumblr and professionalstuff to Twitter.My blog is no exception. Its updates have slowed to a steady pace of one or two posts a year while I happily tweet on Twitter and code ...</description>
+        <content>&lt;p&gt;It seems that blogs are more or less 
+&lt;a href=&quot;http://www.marco.org/2015/02/16/google-and-blogs-shit&quot;&gt;on their way out&lt;/a&gt;. On 
+the other hand people publish more material than ever, but it’s divided into a 
+multitude of services based on content and context. Personal life updates go to 
+Facebook, vacation photos to Instagram, goofy links to Tumblr and professional
+stuff to Twitter.&lt;/p&gt;
+
+&lt;p&gt;My blog is no exception. Its updates have slowed to a steady pace of one or 
+two posts a year while I happily tweet on Twitter and code on GitHub. This 
+led me to thinking that I could save my blog and create &lt;strong&gt;one central place&lt;/strong&gt; 
+for all the stuff I produce elsewhere on the net. You know, to better build my 
+&lt;em&gt;personal braaand&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, if you think about it for a minute, the answer is 
+pretty clearly &lt;strong&gt;no&lt;/strong&gt;. Not only would it be a great hassle to set up, but 
+it would duplicate content somewhere where people didn’t expect to find it.
+Audiences on different services have formed there for a reason. People who 
+follow me on Twitter probably don’t care about the food shots in my 
+&lt;a href=&quot;https://instagram.com/bobs/&quot; title=&quot;You should totally follow me.&quot;&gt;Instagram feed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The kind of websites I’ve enjoyed lately are often personal blogs that just
+have clear and concise writing, and none of the cruft. The kind of pages that 
+almost look like &lt;a href=&quot;https://www.instapaper.com&quot;&gt;Instapapered&lt;/a&gt; before 
+&lt;span title=&quot;Yes it's a verb&quot;&gt;instapapering&lt;/span&gt; them. Granted, I don’t
+always know whose blogs I’ve been reading, but those who are particularly good
+I will follow on Twitter and maybe share their post there too.&lt;/p&gt;
+
+&lt;p&gt;Subscribing to a blog might be a bit more rare these days, especially after
+Google Reader died. But I’m not sure if it’s all bad. Old-fashioned blog posts 
+still tend to work on their own because people find them through Google or 
+social sharing.&lt;/p&gt;
+
+&lt;p&gt;Anyway, following this train of thought I ended up with two criteria for my
+future website:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I want to have a place where I can easily put text on the Internet&lt;/li&gt;
+  &lt;li&gt;I could have a starting point for people googling me (or more realistically 
+just to answer “what is your website?” questions on web forms.)&lt;/li&gt;
+  &lt;li&gt;(I would like to own the content&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In the end I decided to host my blog content on
+&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;, accessible through my own
+domain&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Easy, and totally building my brand. It remains to be seen if that
+helps me write any more blog posts. The chances are low, but who knows.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+
+      &lt;p&gt;I’ve spent enough time on the Internet to known that you need to host 
+your blog content yourself (sorry &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;.) I once had
+a blog on &lt;a href=&quot;http://www.posterous.com/&quot;&gt;Posterous&lt;/a&gt; only to see it die a year 
+later. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+
+      &lt;p&gt;The tech stack of the blog (mostly &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; really)
+and all the steps needed for you to read this post might be a topic for a
+follow-up post. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+        <pubDate>Mon, 23 Feb 2015 13:53:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/02/23/moving-the-blog/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/02/23/moving-the-blog/</guid>
+        
+        <category>blog</category>
+        
+        <category>jekyll</category>
+        
+        <category>GitHub</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>This is Water</title>
+        <description>          This is Water from Patrick Buckley on Vimeo.  merlin:  David Foster Wallace - “This is Water”  So happy this video is available again. (I think DFW’s estate DMCA’d the original post a few years ago booooooo)  I can recommend watching this a couple times a year. We all really need to hear it.</description>
+        <content>&lt;figure&gt;
+  &lt;iframe src=&quot;//player.vimeo.com/video/68855377&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;  
+  &lt;figcaption&gt;
+    &lt;a href=&quot;https://vimeo.com/68855377&quot;&gt;This is Water&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user5039564&quot;&gt;Patrick Buckley&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.kungfugrippe.com/post/108184858974/david-foster-wallace-this-is-water-so-happy&quot;&gt;merlin&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote cite=&quot;http://www.kungfugrippe.com/post/108184858974/david-foster-wallace-this-is-water-so-happy&quot;&gt;
+  &lt;p&gt;David Foster Wallace - “This is Water”&lt;/p&gt;
+  &lt;p&gt;So happy this video is available again. (I think DFW’s estate DMCA’d the original post a few years ago booooooo)&lt;/p&gt;
+  &lt;p&gt;I can recommend watching this a couple times a year. We all really need to hear it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+        <pubDate>Fri, 16 Jan 2015 13:53:00 +0200</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2015/01/16/this-is-water/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2015/01/16/this-is-water/</guid>
+        
+        <category>david foster wallace</category>
+        
+        
+        <category>life</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Edgar Wright - How to Do Visual Comedy</title>
+        <description>        Edgar Wright - How to Do Visual Comedy from Tony Zhou on Vimeo.    Here’s another example: a video about how Edgar Wright does visual comedy (via Merlin Mann).There’s also a long, long (but good) review about The World’s End which explains how Wright foreshadows future events in his films. Fascinating stuff.</description>
+        <content>&lt;figure&gt;
+  &lt;iframe src=&quot;//player.vimeo.com/video/96558506?color=f0a400&amp;amp;badge=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;figcaption&gt;
+    &lt;a href=&quot;https://vimeo.com/96558506&quot;&gt;Edgar Wright - How to Do Visual Comedy&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/tonyzhou&quot;&gt;Tony Zhou&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.  
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here’s another example: a video about how Edgar Wright does visual comedy (via &lt;a href=&quot;http://twitter.com/hotdogsladies&quot;&gt;Merlin Mann&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;There’s also a long, long (but good) &lt;a href=&quot;http://www.edgarwrighthere.com/2013/10/11/film-crit-hulk-smash-alcohol-withnail-and-gary-king-lower-caps-bruce-banner-edition/&quot;&gt;review about The World’s End&lt;/a&gt; which explains how Wright foreshadows future events in his films. Fascinating stuff.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 08 Oct 2014 15:23:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2014/10/08/edgar-wright/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2014/10/08/edgar-wright/</guid>
+        
+        <category>edgar wright</category>
+        
+        <category>comedy</category>
+        
+        
+        <category>movies</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>David Fincher style</title>
+        <description>    David Fincher - And the Other Way is Wrongfrom Tony Zhou on Vimeo.I like movies and I have studied a tiny bit what goes into making one. Still, at the movies I’m just enjoying the movie, not looking at how it was made. I might notice a clever cut or good lighting, but most of the that just goes by and helps telling a story.That’s why it’s fun to see studies of different directors where someone points out all the tricks they use.Here’s one ...</description>
+        <content>&lt;figure&gt;
+  &lt;iframe src=&quot;//player.vimeo.com/video/107779620?color=f0a400&amp;amp;badge=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://vimeo.com/107779620&quot;&gt;David Fincher - And the Other Way is Wrong&lt;/a&gt;
+from &lt;a href=&quot;https://vimeo.com/tonyzhou&quot;&gt;Tony Zhou&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I like movies and I have studied a tiny bit what goes into making one. Still, 
+at the movies I’m just enjoying the movie, not looking at how it was made. 
+I might notice a clever cut or &lt;a href=&quot;http://imgur.com/a/cpLno&quot;&gt;good lighting&lt;/a&gt;, but 
+most of the that just goes by and helps telling a story.&lt;/p&gt;
+
+&lt;p&gt;That’s why it’s fun to see studies of different directors where someone points 
+out all the tricks they use.&lt;/p&gt;
+
+&lt;p&gt;Here’s one example about the stuff David Fincher does, or doesn’t do.
+(Via &lt;a href=&quot;http://kottke.org/14/10/what-david-fincher-doesnt-do&quot;&gt;Kottke&lt;/a&gt;)&lt;/p&gt;
+</content>
+        <pubDate>Wed, 08 Oct 2014 14:49:00 +0300</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2014/10/08/movies/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2014/10/08/movies/</guid>
+        
+        <category>fincher</category>
+        
+        
+        <category>movies</category>
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>OpenStreetMap</title>
+        <description>OpenStreetMap on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille. Kuka tahansa pääsee lisäämään yhteiselle kartalle asioita, ja karttadatasta voi muodostaa erilaisia karttoja tai käyttää sitä navigointiin, tai mitä nyt ikinä keksiikin.Koko maailman kartoitus on yllättävän iso homma, eikä OSM ole kattavuudeltaan ihan kaupallisten karttapalveluiden ...</description>
+        <content>&lt;p&gt;&lt;a href=&quot;http://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt; on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille. Kuka tahansa pääsee lisäämään yhteiselle kartalle asioita, ja karttadatasta voi muodostaa erilaisia karttoja tai käyttää sitä navigointiin, tai mitä nyt ikinä keksiikin.&lt;/p&gt;
+&lt;p&gt;Koko maailman kartoitus on yllättävän iso homma, eikä OSM ole kattavuudeltaan ihan kaupallisten karttapalveluiden tasoa, mutta avoimuus tarjoaa sellaista ketteryyttä, mihin isommat toimijat eivät pysty. OSM-piireissä tykätään kertoa tarinaa siitä, miten Haitin maanjäristyksen jälkeen &lt;a href=&quot;http://www.newyorker.com/online/blogs/closeread/2010/02/a-map-of-thousands.html&quot;&gt;tuhannet OSM-käyttäjät kartoittivat saaren viikossa&lt;/a&gt;, kun olemassa olevat kartat alueelta olivat epätarkkoja ja vuosikymmeniä vanhoja. Uudet kartat auttoivat pelastustyöntekijöitä toimittamaan apua tehokkaammin perille.&lt;/p&gt;
+&lt;p&gt;Vaikka OpenStreetMappia verrataan usein Wikipediaan, niin niillä on myös selkeä ero: OpenStreetMappiin kannustetaan tekemään muutoksia riippumatta siitä, miten merkittäviä tai merkityksettömiä ne ovat. Mikään taho ei tunnu määräävän millaista tietoa kartalle kerätään. Jos joku haluaa merkitä kartalle &lt;a title=&quot;Liikennemerkkien kartoitus - OpenStreetMap forum&quot; href=&quot;http://forum.openstreetmap.org/viewtopic.php?id=20822&quot;&gt;kaikki Suomen liikennemerkit&lt;/a&gt;, niin riittää, että keksii liikennemerkeille sopivat tagit ja rupeaa lisäämään niitä kartalle. Jos idea saa kannatusta, niin muutkin rupeavat keräämään liikennemerkkejä.&lt;/p&gt;
+&lt;p&gt;Kartalle kerätyillä asioilla ei ole oikeastaan väliä, koska niitten merkitys määräytyy vasta siinä vaiheessa kun joku muodostaa datasta kartan. &lt;a href=&quot;http://www.openwhatevermap.org/&quot;&gt;OpenWhateverMap&lt;/a&gt; näyttää esimerkkejä siitä, miten erilaisia karttoja samasta datasta voidaan muodostaa.&lt;/p&gt;
+&lt;p&gt;Jos ontuvaa vertausta Wikipediaan haluttaisiin jatkaa, niin Wikipediaan voitaisiin periaatteessa kerätä kaikki tieto, mistä joku taho voisi halutessaan julkaista koosteen &quot;Wikipedia - järkevät artikkelit&quot;. OSM:n datan on toki tarkoitus kuvata todellisuutta mahdollisimman hyvin, mutta asioiden luokittelu ja tägäys on ainakin aloittelijan näkökulmasta yllättävän vapaata.&lt;/p&gt;
+&lt;h3&gt;iD-editor&lt;/h3&gt;
+&lt;p&gt;Yhteisöllisissä projekteissa kunnon työkaluilla on yllättävän suuri merkitys. Avoimen lähdekoodin ohjelmien kehitys lähti kunnolla nousuun kun &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; teki projekteihin osallistumisesta helppoa. Veikkaisin, että OpenStreetMapin tietojen keruu tehostuu samaan tapaan uuden &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/ID&quot;&gt;iD-editorin&lt;/a&gt; myötä.&lt;/p&gt;
+&lt;p&gt;ID on javascriptillä tehty editori, joka toimii selaimessa. Editoria pääsee kokeilemaan kun klikkaa &lt;a href=&quot;http://www.openstreetmap.org/&quot;&gt;OpenStreetMapissa&lt;/a&gt; &quot;muokkaa&quot;. &amp;nbsp;Editori on tarkoituksella kevyt, eikä se edes yritä tarjota samoja ominaisuuksia mitä vanhemmissa OSM-applikaatioissa on. Se on myös sen merkittävin etu, jos kohderyhmänä ovat uudet käyttäjät. Kumpaa alla olevista ohjelmista kokeilisit mieluummin?&lt;/p&gt;
+&lt;h4&gt;JOSM (Java OpenStreetMap Editor)&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/images/2013/05/osm1.png&quot;&gt;&lt;img class=&quot;size-full wp-image-1163 alignnone&quot; alt=&quot;JOSM&quot; src=&quot;/images/2013/05/osm1.png&quot; width=&quot;426&quot; height=&quot;527&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;iD-editor&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/images/2013/05/osm2.jpg&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-1164&quot; alt=&quot;iD-editor&quot; src=&quot;/images/2013/05/osm2.jpg&quot; width=&quot;425&quot; height=&quot;345&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Voin kyllä melkein lyödä vetoa, että vanhojen partojen mielestä iD on liian kevyt, ei tarjoa ollenkaan tarvittavia ominaisuuksia, ja on tehty vaarallisen helpoksi :D. Väittäisin silti, että tämänkaltaisessa projektissa kontribuutioiden määrä korvaa laadun. Jotkut ovat varmasti eri mieltä.&lt;/p&gt;
+&lt;h3&gt;Mitä kartalta puuttuu?&lt;/h3&gt;
+&lt;p&gt;OpenStreetMap on joiltain osin hämäävän valmiin oloinen. Olen katsonut karttaa pari kertaa ylimalkaisesti ja todennut sen olevan oman asuinalueeni kohdalta &quot;valmis&quot;. Näkemykseni muuttui pari viikkoa sitten &lt;a href=&quot;https://www.facebook.com/HSLdevcom&quot;&gt;HSL:n kehittäjätapaamisessa&lt;/a&gt;, missä &lt;a href=&quot;http://paikkatieto.com/&quot;&gt;Pekka Sarkola&lt;/a&gt; oli kertomassa OpenStreetMapista ja sen haasteista. Pekka pystyi heti osoittamaan Espoosta muutamia asuinalueita, joilta puuttuvat talot kokonaan. Esimerkiksi &lt;a href=&quot;http://www.openstreetmap.org/?lat=60.17662&amp;amp;lon=24.68426&amp;amp;zoom=15&quot;&gt;Kukkumäki&lt;/a&gt; ja &lt;a href=&quot;http://www.openstreetmap.org/?lat=60.15839&amp;amp;lon=24.66967&amp;amp;zoom=15&quot;&gt;Nöykkiö&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vaikka talot olisivatkin paikoillaan, niin kartoitettavaa riittää silti. Voit merkitä &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Key:parking:lane&quot;&gt;tienvarsipysäköintejä&lt;/a&gt;, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Key:button_operated&quot;&gt;painonapilla toimivia liikennevaloja&lt;/a&gt;, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Key:lit&quot;&gt;valaistuja tienpätkiä&lt;/a&gt;, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_parking&quot;&gt;polkupyöräparkkeja&lt;/a&gt;, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Tag:highway%3Dpath&quot;&gt;polkuja&lt;/a&gt;, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Map_Features#Aerialway&quot;&gt;köysiratoja&lt;/a&gt;... &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Fi:Map_Features&quot;&gt;Tagien syvyys&lt;/a&gt; on aika tajuton.&lt;/p&gt;
+&lt;p&gt;Monesta paikasta puuttuvat myös talojen osoitteet. Puuttuvia tietoja on helppo lisätä kevyellä paikallistuntemuksella, tai niitä voi käydä tarkistamassa paikan päällä.&lt;/p&gt;
+&lt;p&gt;Itse olen kartoittanut tuntemiani paikkoja lähistöltä. ID-editorin taustalla näkyvät oletusarvoisesti &lt;a title=&quot;Bing Maps&quot; href=&quot;http://www.bing.com/maps/&quot;&gt;Bingin&lt;/a&gt; ilmakuvat, joiden perusteella voi jossain määrin piirtää taloja ja teitä. Nykyään parempi lähde on &lt;a href=&quot;http://kartat.kapsi.fi&quot;&gt;MML:n ilmakuvat&lt;/a&gt;, jotka saa iD:n taustaksi asettamalla osoitteeksi &lt;code&gt;http://tiles.kartat.kapsi.fi/ortokuva/{z}/{x}/{y}.jpg&lt;/code&gt;. Ilmakuvien avulla näkee jo melko tarkasti miten talot ja tiet menevät, ja jopa montako autopaikkaa parkkipaikalla on. Aineistot ovat kuitenkin välillä muutaman vuoden ikäisiä, joten ihan uusimpia tietoja ei aina löydy.&lt;/p&gt;
+&lt;p&gt;Kartan muokkaaminen on yllättävän koukuttavaa puuhaa. Tein ensimmäisenä päivänä noin 100 muokkausta pelkästään lisäämällä lähistön asukaspysäköintejä ja uusia taloja. Muokkaamista on nyt hieman rauhoittanut ymmärrys siitä, miten &lt;em&gt;paljon&lt;/em&gt; tietoja vielä puuttuu. Vaikka oman korttelinsa saisikin täydelliseksi, niin jo naapurista puuttuu taloja, teitä ja metatietoja.&lt;/p&gt;
+&lt;p&gt;Suosittelen kuitenkin kokeilemaan kartan muokkaamista. Käy lisäämässä vaikka oikopolut, joita käytät joka päivä. Niitä tuskin löytyy Google Mapsista.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 29 May 2013 21:23:35 +0300</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2013/05/29/openstreetmap/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2013/05/29/openstreetmap/</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>OpenStreetMap</category>
+        
+        <category>OSM</category>
+        
+        <category>kartat</category>
+        
+        
+        <category>käytettävyys</category>
+        
+        <category>elämä</category>
+        
+        <category>internet</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+      <item>
+        <title>Pysäkit</title>
+        <description>Pysäkit on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni Phonegap-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.&quot;Pysäkkien&quot; tärkeimmät ominaisuudet ovat:Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeillePysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella... tai voit hakea suoraan lähimmät pysäkitProjekti lähti alunperin liikkeelle siitä, että minun piti ope...</description>
+        <content>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Pysäkit&lt;/a&gt; on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni &lt;a href=&quot;http://phonegap.com/&quot;&gt;Phonegap&lt;/a&gt;-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.&lt;/p&gt;
+&lt;p&gt;&quot;Pysäkkien&quot; tärkeimmät ominaisuudet ovat:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeille&lt;/li&gt;
+&lt;li&gt;Pysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella&lt;/li&gt;
+&lt;li&gt;... tai voit hakea suoraan lähimmät pysäkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Projekti lähti alunperin liikkeelle siitä, että minun piti opetella käyttämään &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.&lt;/p&gt;
+&lt;p&gt;Halusin tehdä itselleni ohjelman, millä näkee pysäkkiaikataulut yhdellä silmäyksellä, ilman että tarvitsee erikseen navigoida ohjelmassa.&lt;/p&gt;
+&lt;p&gt;Oma ongelmani pysäkkiaikataulujen kanssa juontuu siitä, että ryömin töihin joskus klo 7-10 välisenä aikana. Lisäksi töihin pääsee joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei välttämättä olisi, mutta olen laiska.&lt;/p&gt;
+&lt;p&gt;Ongelma on aika tarkkaan rajattu, mutta mielestäni hyvä applikaatio ratkaisee mieluummin yhden ongelman hyvin kuin monta huonosti. App Storessa on jo lukuisia reittiopas-applikaatioita - en yritä kilpailla niitten kanssa.&lt;/p&gt;
+&lt;p&gt;HSL tarjoaa kelvollisen &lt;a href=&quot;http://developer.reittiopas.fi/pages/fi/reittiopas-api.php&quot;&gt;API:n&lt;/a&gt;, mitä kautta saa haettua pysäkkien tiedot ja aikataulut. APIn päälle oli helppo lähteä rakentamaan ja tiedoista saa myös kätevän XML-dumpin.&lt;/p&gt;
+&lt;h2&gt;Teknologiat&lt;/h2&gt;
+&lt;p&gt;Itse applikaatio on HTML5-tekniikoilla toteutettu &lt;a href=&quot;http://en.wikipedia.org/wiki/Single-page_application&quot;&gt;Single Page App&lt;/a&gt;. Käytössä on sekä &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;, että &lt;a href=&quot;http://jquerymobile.com/&quot;&gt;jQuery Mobile&lt;/a&gt; -kirjastot.&lt;/p&gt;
+&lt;p&gt;Näiden kahden kirjaston yhteensovittaminen oli hieman hankalaa. Molemmat haluaisivat esimerkiksi hoitaa navigaation eri sivujen välillä, ja eri sivujen uudelleenpiirtäminen sisällön muuttuessa aiheutti harmaita hiuksia. Muut ovat kirjoittaneet aiheesta pitemmin ja paremmin, esimerkiksi &lt;a href=&quot;https://supportbee.com/devblog/2013/02/12/jquery-mobile-backbone-backbone/&quot;&gt;täällä&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Projektin aikana innostus jQuery Mobilea kohtaan hiipui aika lailla. JQuery Mobilen &lt;a href=&quot;https://github.com/jquery/jquery-mobile/issues?state=open&quot;&gt;bugilista&lt;/a&gt; tuli nopeasti hyvin tutuksi. Esimerkiksi monia transitioihin ja kiinteisiin navigaatiopalkkeihin liittyviä bugeja ei ole saatu korjattua, ja varsinkin Phonegapin ja jQuery Mobilen kanssa on hankalia ongelmia.&lt;/p&gt;
+&lt;p&gt;Koodaaminen satunnaisten blogien &lt;a href=&quot;http://outof.me/fixing-flickers-jumps-of-jquery-mobile-transitions-in-phonegap-apps/&quot;&gt;ohjeiden&lt;/a&gt; ja &lt;a href=&quot;http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/&quot;&gt;work-aroundien&lt;/a&gt; varassa ei herätä luottamusta.&lt;/p&gt;
+&lt;p&gt;Työ-chatissä tiivistyi lopulta ajatus: jos aloittaisin saman projektin nyt, en ottaisi jQuery Mobilea mukaan. Muutamat jQM:n tarjoamat transitiot olisi helppo tehdä itse (tai irrottaa jQM:stä), ja ne vois optimoida paremmin pelkästään iOS:lle.&lt;/p&gt;
+&lt;p&gt;Lisäksi kirjaston tarjoamat tyylit eivät nykyään ole kovinkaan käyttökelpoisia. Mobiiliapplikaatio, joka &quot;näyttää jQuery Mobilelta&quot; aiheuttaa samanlaisia hylkiviä reaktioita kuin nettisivu, joka näyttää &lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrapin&lt;/a&gt; perustyyleiltä. &lt;a href=&quot;http://jquerymobile.com/themeroller/&quot;&gt;Theme Rollerilla&lt;/a&gt; saa vaihdettua värejä ja nappien pyöristyksiä, mutta muuten tyylejä joutuu joka tapauksessa tekemään paljon itse.&lt;/p&gt;
+&lt;p&gt;Backbone (ja &lt;a href=&quot;http://marionettejs.com/&quot;&gt;Marionette.js&lt;/a&gt;) tulevat sen sijaan pysymään &lt;em&gt;stäkissäni&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Lopuksi applikaatio on wrapatty Phonegapilla natiiviksi paketiksi, jonka saa App Storeen myyntiin. Periaatteessa Phonegapin avulla saisi tehtyä myös Android-version jos siltä tuntuu. Toki ennen sitä ohjelmasta pitäisi poistaa takaisin-nuolet ja graffoista tehdä vähemmän iOS:n näköiset :)&lt;/p&gt;
+&lt;p&gt;Kaiken kaikkiaan projekti oli hyvä tapa oppia asioita Backbonesta, Xcodesta, App Storen julkaisuprosessista ja testaamisesta. Kehityslistalle jäi vielä läjä ominaisuuksia ja bugikorjauksia, joiden parissa menee vielä tovi.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;Pysäkit App Storessa&lt;/a&gt;&lt;/p&gt;
+</content>
+        <pubDate>Fri, 22 Mar 2013 07:56:10 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2013/03/22/pysakit/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2013/03/22/pysakit/</guid>
+        
+        
+        <category>web-kehitys</category>
+        
+        <category>web-palvelut</category>
+        
+        <category>työ</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+      <item>
+        <title>Uudenvuodenlupauksia</title>
+        <description>Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta pariin otteeseen, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa hyvä podcast-jakso*.Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta...</description>
+        <content>&lt;p&gt;Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta &lt;a href=&quot;http://www.43folders.com/2006/01/30/fresh-modest-wrapup&quot;&gt;pariin&lt;/a&gt; &lt;a href=&quot;http://www.43folders.com/2011/01/07/first-pancake&quot;&gt;otteeseen&lt;/a&gt;, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa &lt;a href=&quot;http://5by5.tv/b2w/47&quot;&gt;hyvä podcast-jakso&lt;/a&gt;*.&lt;/p&gt;
+&lt;p&gt;Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta käymään salilla viidesti viikossa, niin epäonnistuminen on aika todennäköistä.&lt;/p&gt;
+&lt;p&gt;Uudenvuodenlupauksiin liittyy usein myös tietty on/off -ajattelu: &lt;em&gt;&quot;en polta enää ikinä&quot;&lt;/em&gt; on hyvä tavoite, mutta koko lupaus saattaa unohtua jos siinä epäonnistuu kerrankin.&lt;/p&gt;
+&lt;p&gt;Pienet, realistiset muutokset, sekä lupa epäonnistua ovat parempia tapoja aikaansaada pysyviä muutoksia.&lt;/p&gt;
+&lt;p&gt;Ja jos oikeasti haluat muuttaa jotain elämässäsi, ja olet valmis tekemään töitä sen eteen, niin mikä esti aloittamasta vaikka syyskuussa? Vuodenvaihde on toki luonnollinen hetki katsoa taaksepäin ja eteenpäin, ja pohtia mitkä asiat ovat onnistuneet ja mitkä voisivat olla paremmin. Eri vuosiluku ei kuitenkaan maagisesti helpota aloittamiseen liittyviä ongelmia tai lisää tahdonvoimaa.&lt;/p&gt;
+&lt;p&gt;Näillä alkupuheilla juhlallisesti lupaan pohtia seuraavia asioita aina välillä vuonna 2013.&lt;/p&gt;
+&lt;h2&gt;1. Tylsien asioiden automatisointi&lt;/h2&gt;
+&lt;p&gt;Miksi tehdä mitään toistuvia asioita jos ne pystyy automatisoimaan?&lt;/p&gt;
+&lt;p&gt;Laskut voi muuttaa e-laskuiksi ja säätää lähtemään tililtä automaattisesti, matkakortin saa suoraveloituksella (on jo hoidossa, ja on superkätevä).&lt;/p&gt;
+&lt;p&gt;Toistuvat ruokaostokset voisi ehkä tilata netistä jos kuljetuskulut ovat ok. Joka viikko tulee kuitenkin ostettua maitoa, leipää ja jogurttia. Vaateostokset voisi tiettyyn rajaan asti hoitaa netistä, varsinkin jos löytää jonkun Steve Jobs -tyylisen univormun.&lt;/p&gt;
+&lt;p&gt;Siivoojan palkkaamisesta voisi myös ottaa selvää, mutta pelkään, että tästä tulee sanomista. Olen laiska, minkäs sille mahtaa? :)&lt;/p&gt;
+&lt;h2&gt;2. Paperittomampi koti&lt;/h2&gt;
+&lt;p&gt;E-laskujen lisäksi paperin määrää voisi vähentää digitoimalla kaikki kuitit ja kirjeet ym. &lt;a title=&quot;Paperiton koti&quot; href=&quot;http://oivaeskola.fi/2011/05/28/paperiton-koti/&quot;&gt;Prosessi on jo tiedossa&lt;/a&gt;, mutta ensimmäinen pieni askel asian toteuttamiseksi voisi olla sopivan skannerin hommaaminen. Paperittomuuteen voi totutella pikku hiljaa aloittamalla postissa saapuvien lappujen skannaamisesta - koko paperiarkistoa ei tarvitse skannata heti.&lt;/p&gt;
+&lt;h2&gt;3. Unirytmi kuntoon&lt;/h2&gt;
+&lt;p&gt;Tämä on vaikeaa, hyvin vaikeaa. Nykyisellään yhdeksäksi töihin pääseminen tuottaa suuria vaikeuksia. Koko unirytmin kääntäminen pari tuntia varhaisemmaksi kuulostaisi hyvältä, mutta ei ole kovin realistista. Tämä tavoite tarvitsee paljon pienempiä välitavotteita, esimerkiksi kahvinjuonnin vähentämistä, aikaisemmin nukkumaan menemistä, rutiineja...&lt;/p&gt;
+&lt;h2&gt;Muut&lt;/h2&gt;
+&lt;p&gt;Kirjoja voisi yrittää lukea enemmän. Ehkä. Nyt noin 50% ostamistani ja saamistani kirjoista jää lukematta, mutta en ole vielä keksinyt onko se hyvä vai huono asia. Liikuntaakin voisi harrastaa enemmän(!)&lt;/p&gt;
+&lt;p&gt;Ja yksi konkreettinen lupaus: lupaan päästä vähintään 1000 Stack Overflow -pisteeseen vuoden loppuun mennessä (nyt n. 480).&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;*) Huomaan suosittelevani paljon podcasteja eri aiheista (esimerkiksi patenteista! &lt;a href=&quot;http://5by5.tv/hypercritical/67&quot;&gt;A Pill That Helps with Whatever [77:00]&lt;/a&gt;&amp;nbsp;&amp;amp;&amp;nbsp;&lt;a href=&quot;http://5by5.tv/hypercritical/68&quot;&gt;Patent Hands [11:00]&lt;/a&gt;). Podcasteja tekevät ihmiset osaavat usein selittää asioita paremmin kuin minä, mutta niiden kuunteleminen vaatii aika paljon enemmän aikaa verrattuna vaikka blogipostin lukemiseen. Mutta koen itse monet podcastit hyödyllisiksi tai vähintään hyväksi viihteeksi, joten ehkä joku muukin saa niistä jotain irti.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 02 Jan 2013 17:50:51 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2013/01/02/uudenvuodenlupauksia/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2013/01/02/uudenvuodenlupauksia/</guid>
+        
+        
+        <category>elämä</category>
+        
+        <category>podcastit</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+      <item>
+        <title>Tipaton 2012</title>
+        <description>Olin vuoden 2012 juomatta alkoholia. Olen aikaisemmin viettänyt tipattomia tammikuita kolme-neljä kertaa, mikä on sujunut helpohkosti. Kuukauteen on yleensä mahtunut yksi tai kaksi biletyskertaa, joissa höllääminen on ollut helppoa. Kuskinakin on joskus kiva olla.Tänä vuonna tipaton tammikuu jatkui omalla painollaan. Halusin hiukan haastaa itseäni ja katsoa miten pitkään pystyisin jatkamaan. Asetin ensin tavoitteeksi jatkaa vappuun asti, sitte...</description>
+        <content>&lt;p&gt;Olin vuoden 2012 juomatta alkoholia. Olen aikaisemmin viettänyt tipattomia tammikuita kolme-neljä kertaa, mikä on sujunut helpohkosti. Kuukauteen on yleensä mahtunut yksi tai kaksi biletyskertaa, joissa höllääminen on ollut helppoa. Kuskinakin on joskus kiva olla.&lt;/p&gt;
+&lt;p&gt;Tänä vuonna tipaton tammikuu jatkui omalla painollaan. Halusin hiukan haastaa itseäni ja katsoa miten pitkään pystyisin jatkamaan. Asetin ensin tavoitteeksi jatkaa vappuun asti, sitten juhannukseen. Juhannus sujui helposti vesilinjalla, jonka jälkeen oli kova kiusaus jatkaa vuoden loppuun. Loppuvuodesta motivaatioksi riittikin vain vuoden loppuun asti pääseminen. Hyvää putkea olisi ollut sääli lopettaa.&lt;/p&gt;
+&lt;p&gt;Yksi motivaation lähde oli huomata kuinka moni muu tuttu ja (netti)julkkis on juomatta. Pystyisin nopeasti nimeämään kymmenisen raitista ihmistä. Jos he pystyvät siihen, niin miksen minäkin?&lt;/p&gt;
+&lt;p&gt;Luokittelisin tipattoman pitämisen samankaltaiseksi tutusta asiasta luopumiseksi kuin vaikkapa karppauksen tai kasvissyönnin. Ongelma ei ole niinkään itse aineesta luopuminen, vaan siihen liittyvien tilanteiden uudelleenajattelu tai välttäminen. Kavereiden kanssa nyt vain on kiva kokoontua välillä vähän syömään lihaa. Ravintolassa voi tilata kasvisruokaa, mutta possujuhlat kannattaa ehkä jättää väliin.&lt;/p&gt;
+&lt;p&gt;Suomessa alkoholin, pullan tai pihvin tarjoaminen kuuluu kiinteästi tiettyihin tilanteisiin. Tarjouksesta kieltäytyminen voi aluksi tuntua hankalalta. En silti joutunut kertaakaan selittelemään juomattomuuttani, eikä kukaan yrittänyt tuputtaa juotavaa. Tämä oli mukava yllätys.&lt;/p&gt;
+&lt;h2&gt;Plussat&lt;/h2&gt;
+&lt;p&gt;Yksi itsestäänselvä hyöty tipattomuudesta on rahan säästyminen. Se ei sinänsä ollut tavoitteena, mutta oli mukava bonus. Rahaa kyllä meni tavallista enemmän erikoislimppareihin ja energiajuomiin, ja baareissa tuli joka tapauksessa käytyä muutamia kertoja, mihin uppoaa rahaa vaikkei joisikaan kaljaa. Tarkoista summista ei ole tietoa, mutta uskoisin kuitenkin jääneeni plussalle.&lt;/p&gt;
+&lt;p&gt;Merkittävämpi hyöty oli lisääntynyt työteho. Sunnuntait pystyi helposti pyhittämään työnteolle, mikä voi katsontatavasta riippuen olla joko hyvä, tai hiukan kyseenalainen saavutus. Toisaalta ikä teettää sen, että krapulan saa aikaan jo valvomalla myöhään ja juomalla liikaa limpparia, MOT. Yleisfiilis on kuitenkin se, että sain vuoden aikana enemmän aikaan kuin normaalisti.&lt;/p&gt;
+&lt;p&gt;Terveyden kannalta juomattomuus oli varmaan hyvä juttu, mutta siitä minulla ei ole mitään dataa. Terveystarkastus ennen ja jälkeen olisi voinut olla mielenkiintoista nähtävää, mutta eipä tullut mieleen.&lt;/p&gt;
+&lt;h2&gt;Miinukset&lt;/h2&gt;
+&lt;p&gt;Hyviä alkoholittomia oluita ei minun tietääkseni ole olemassa. Tämä oli tiedossa jo aikaisempien tipattomien tammikuiden perusteella, enkä yrittänyt sen enempää tutkia vaihtoehtoja. Oluen vaihtaminen alkoholittomaan olueen ei vain ole vaihtoehto. Alkoholittomia viinejä en kokeillut. Olen kuullut niistä hieman ristiriitaisia tuomioita, enkä viitsinyt ruveta testaamaan asiaa.&lt;/p&gt;
+&lt;p&gt;Edelliseen liittyen, hyvien alkoholijuomien ja makuelämysten missaaminen harmitti melkolailla. Ranskassa olisi ollut kiva maistella viinejä, Helsingin drinkkibaareissa mojitoja ja viskinmaisteluillassa viskejä :|&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-medium wp-image-920&quot; alt=&quot;viskit&quot; src=&quot;/images/2012/12/viskit-300x225.jpg&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ja toki tietyt tapahtumat olisivat luultavasti olleet mukavampia pienessä humalassa. En välttämättä lähtisi enää Tallinnan risteilylle selvinpäin, ja mies- / työporukalla lasiin syljeskely herkästi heikentää bondaamista.&lt;/p&gt;
+&lt;h2&gt;Muuta&lt;/h2&gt;
+&lt;p&gt;Seurustelu hiprakassa olevien ihmisten kanssa oli plussa ja miinus. Normaalissa keskustelussa tunnen yleensä olevani jatkuvasti askeleen jäljessä. Muut ovat yleensä jo seuraavassa aiheessa kun keksin sanottavaa edelliseen aiheeseen. Muiden nauttima alkoholi tasoitti pelikenttää hiukan, mutta tietenkin tarpeeksi pitkälle vietynä keskustelun yrittäminen muuttui turhauttavaksi.&lt;/p&gt;
+&lt;p&gt;Vuoden aikana oli mielenkiintoista yrittää tunnistaa millaisissa tilanteissa a) tulisi normaalisti juotua b) tekisi mieli juoda. Esimerkiksi syyspimeällä 12 tunnin työpäivien jälkeen oli kiusaus maistella hieman viskiä. Tämän tarpeen tiedostaminen oli mielestäni arvokasta verrattuna siihen, että olisi vain autopilotilla avannut pullon.&lt;/p&gt;
+&lt;p&gt;Oli myös hauska seurata miten ihmiset reagoivat tipattomuuteen. Osa halusi ottaa puheeksi oman alkoholinkäyttönsä. &quot;En ikinä juo &lt;em&gt;niin&lt;/em&gt; paljoa kerralla&quot;, &quot;olen vähentänyt pariin viikonloppuun kuukaudessa&quot;, jne. Ymmärrän kyllä reaktion; omaa juomista ei herkästi tule ajateltua ilman ulkopuolista ärsykettä. Olen varmaan aikaisemmin käynyt saman keskustelun absolutistituttujeni kanssa.&lt;/p&gt;
+&lt;p&gt;En jaksanut hirveästi puhua aiheesta tuttujen kanssa. Mielestäni juomattomuus on yhtä jännitävä keskutelunaihe kuin jonkun karppaus tai karppaamattomuus. Enkä tosiaankaan ole tuomitsemassa muitten alkoholinkäyttöä, tai ole asiasta yleensäkään mitään mieltä. En aja alkoholille myyntikieltoa ja teinit saavat puolestani päristellä ES:ää jos siltä tuntuu.&lt;/p&gt;
+&lt;p&gt;Projektin jatko on vielä vähän auki. Plussat ja miinukset ovat aika tasan, eikä kummassakaan laarissa ole kovin dramaattisia asioita. Vähemmälläkin juomisella selkeästi pärjää, mutta ihan kokonaan ilman ei viitsisi olla. Katsotaan. Sanoisin, että &lt;a href=&quot;http://tipaton.fi&quot;&gt;tipaton tammikuu&lt;/a&gt; on joka tapauksessa kokeilemisen arvoinen juttu, jota tulen varmaan vähintään jatkamaan.&lt;/p&gt;
+</content>
+        <pubDate>Sat, 29 Dec 2012 17:22:51 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2012/12/29/tipaton-2012/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2012/12/29/tipaton-2012/</guid>
+        
+        
+        <category>elämä</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+      <item>
+        <title>Tee-se-itse mäkit</title>
+        <description>Kokosin vähän muisteloita miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla. Pahoitteluni &quot;Apple ja minä&quot;-tyyppisestä postauksesta, mutta lupaan olla mainitsematta iPhonea.&quot;Macbook Air&quot;Joskus vuoden 2009 tienoilla kaipailin läppäriä kouluun. En muista mistä ajatus lähti, mutta halusin oman mäkin. Ehkä himoitsin vuotta aikaisemmin julkaistua Applen Macbook Airia. Koulussa oli tullut myös käytettyä mäkkejä, joten ihan tyhjästä...</description>
+        <content>&lt;p&gt;Kokosin vähän muisteloita miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla. Pahoitteluni &quot;Apple ja minä&quot;-tyyppisestä postauksesta, mutta lupaan olla mainitsematta iPhonea.&lt;/p&gt;
+&lt;h2&gt;&quot;Macbook Air&quot;&lt;/h2&gt;
+&lt;p&gt;Joskus vuoden 2009 tienoilla kaipailin läppäriä kouluun. En muista mistä ajatus lähti, mutta halusin oman mäkin. Ehkä himoitsin vuotta aikaisemmin julkaistua Applen Macbook Airia. Koulussa oli tullut myös käytettyä mäkkejä, joten ihan tyhjästä ei tarvinnut lähteä liikkeelle.&lt;/p&gt;
+&lt;p&gt;Tein ensimmäisen &quot;Hackintoshini&quot; ostamalla Samsungin 10&quot; miniläppärin ja &lt;a title=&quot;OS X:n asentaminen Samsung NC10:een&quot; href=&quot;http://oivaeskola.fi/2009/08/13/os-xn-asentaminen-samsung-nc10een/&quot;&gt;asentamalla siihen OS&amp;nbsp;X 10.5:n&lt;/a&gt;. Olin etukäteen tutkinut eri läppäreiden yhteensopivuutta OS&amp;nbsp;X:n kanssa ja päädyin Samsungiin, koska siinä oli hyvä akku ja hintakin oli suhteellisen edullinen.&lt;/p&gt;
+&lt;p&gt;OS&amp;nbsp;X:n asennuksesta jäi kuva, ettei se nyt niin vaikeaa ollut, mutta aika kultaa muistot tehokkaasti. Kuten silloisesta blogipostistani selviää, kone piti avata ja wifi-kortti vaihtaa toiseen; näppäimistölle piti tehdä oma layout; näytön, hiiren, ja äänen säädöt eivät toimineet ilman komentorivikomentoja jne.&lt;/p&gt;
+&lt;p&gt;Koneen hinassa kyllä säästi muutaman satasen halvimpaan mäkkiläppäriin verrattuna, mutta asennus vaati aika paljon vaivaa, ja lopputuloskaan ei ollut ihan täydellinen. Samsungin 2009 miniläppärit olivat aika kaukana Applen MacBookien laadusta ja tyylikkyydestä. Oikeaan mäkkiin ei kuitenkaan silloin olisi ollut varaa, ja oma feikki-OS&amp;nbsp;X-läppäri oli huomattavasti parempi kuin ei mitään.&lt;/p&gt;
+&lt;p&gt;Pienestä läppäristä oli myös välitöntä hyötyä dipan kirjoittamisessa. Pystyin hyödyntämään junamatkat kodin ja työpaikan välillä, joten ylipäätään jonkun läppärin hankkiminen olisi ollut järkevää.&lt;/p&gt;
+&lt;p&gt;Seuraavan vuoden aikana siirryin töissä Windowsista OS&amp;nbsp;X:n ja sain käyttööni ihan oikean MacBookin. Pienen totuttelun jälkeen UNIX-pohjaisen koneen paremmuus ohjelmointikäyttössä kävi selväksi ja päätin olla palaamatta Windowsiin (ainakaan työkäytössä).&lt;/p&gt;
+&lt;h2&gt;&quot;Mac Pro&quot;&lt;/h2&gt;
+&lt;p&gt;Kotona minulla oli joskus 2005 hankittu Windows-pöytäkone. Tykkäsin käyttää konetta pelaamiseen, kuvien muokkaamiseen ja musiikin tekemiseen, mutta yli viiden vuoden ikäisenä se rupesi olemaan liian hidas tarkoitukseensa. Varsinkin pelien tehovaatimukset kasvavat nopeasti, enkä käytännössä pystynyt pelaamaan 2008 jälkeen julkaistuja huippupelejä. Tietyt pelit, kuten vaikkapa &lt;a title=&quot;Wikipedia: Grand Theft Auto IV: Commercial success&quot; href=&quot;http://en.wikipedia.org/wiki/Grand_Theft_Auto_IV#Commercial_success&quot;&gt;GTA-sarja&lt;/a&gt;, ovat nykyään aika merkittävä osa kulttuuria, ja tunsin jääväni jossain määrin paitsioon.&lt;/p&gt;
+&lt;p&gt;Halusin siksi kotiin koneen, jolla pystyisi pelaamaan, mutta myös tekemään töitä ja käsittelemään kuvia yms. Aikaisemman läppärikokemuksen perusteella päätin rakentaa perus-PC:n ja kokeilla asentaa siihen Windowsin ja OS&amp;nbsp;X:n rinnakkain. Windows peleille, ja OS&amp;nbsp;X kaikkeen muuhun.&lt;/p&gt;
+&lt;p&gt;OS&amp;nbsp;X:n asentaminen kaupasta ostettuun PC-rautaan on nykyään itse asiassa aika helppoa. Apple käyttää omissa koneissaan Intelin Core i3, i5 ja i7 -prosessoreja, ja emolevyjä, jotka vastaavat ominaisuuksiltaan esim. &lt;a href=&quot;http://www.tomshardware.com/news/hackintosh-mac-motherboards-chameleon-rc5,11577.html&quot;&gt;Gigabyten emolevyjä&lt;/a&gt;. Periaatteessa tämä tarkoittaa sitä, että OS&amp;nbsp;X:ssä on valmiina ajurit kyseisille emolevyille ja prosessoreille, sekä tietyille NVIDIAn ja AMD:n näytönohjaimille. Käytännössä asia ei tietenkään ole ihan näin yksinkertainen.&lt;/p&gt;
+&lt;p&gt;Osien valitseminen uuteen tietokoneeseen on hauska optimointiongelma, missä pitää välttää tehopullonkauloja, yrittää tehdä koneesta mahdollisimman pitkäikäinen, ja saada koko paketti mahtumaan budjettiin. Esimerkiksi emolevyn kohdalla voi tutkia tuleeko se tukemaan myös seuraavaa prosessorisukupolvea, tai miten paljon muistia siihen saa. Tällä kertaa osien piti olla myös OS X-yhteensopivia.&lt;/p&gt;
+&lt;p&gt;Päädyin lopulta Asuksen P867 emolvyyn, Intelin i5 prosessoriin ja AMD Radeon 6870 näytönohjaimeen. OS&amp;nbsp;X&amp;nbsp;10.7:n asennus meni muistaakseni ihan hyvin, tosin voi olla, että olen taas unohtanut siihen liittyvät epämiellyttävät seikat. En ajatellut mennä sen tarkemmin asennuksen yksityiskohtiin, mutta prosessi oli suurin piirtein koneen boottaaminen iBootilla -&amp;gt; 10.6:n asentaminen DVD:ltä -&amp;gt; päivitys 10.7:n App Storen kautta -&amp;gt; puuttuvien ajurien asentaminen MultiBeastilla. Iboot, MultiBeast, sekä melkein kaikki tarvittavat ohjeet löytyvät&amp;nbsp;&lt;a href=&quot;http://www.tonymacx86.com/&quot;&gt;tonymacx86.com&lt;/a&gt;:sta.&lt;/p&gt;
+&lt;h2&gt;Tein itse ja säästin&lt;/h2&gt;
+&lt;p&gt;Jos vertaan itse rakentamaani konetta halvimpaan Mac Prohon, niin koneeni oli yli puolet halvempi. Mutta vertaus ei ole ihan reilu. Mac Pro:ssa on mm. Intel Xeon -prosessori, josta löytyy melko varmasti enemmän potkua kuin i5:stä. Toisaalta Pro:t ovat juuri nyt kummallisessa välitilassa, koska mallistoa ei ole kunnolla päivitetty yli kahteen vuoteen. Kaupasta saa nykyään helposti enemmän muistia ja kovalevyä, sekä paremman näytönohjaimen halvemmalla kuin mitä Apple tarjoaa. Pro:t ovat &lt;a href=&quot;http://www.forbes.com/sites/connieguglielmo/2012/06/12/apple-says-new-models-designs-for-imac-mac-pro-in-works-due-in-2013/&quot;&gt;ehkä päivittymässä joskus vuoden 2013 aikana&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jotta vertaus olisi reilumpi, pitäisi itse rakennetun koneen hintaan lisätä myös joku summa hukkaan heitetylle ajalle. Rakentamiseen menee tietty aika, mutta myös ylläpito on hankalampaa.&lt;/p&gt;
+&lt;p&gt;Esimerkiksi tässä tapauksessa kone toimi todella hyvin puolisen vuotta, mutta kun asensin OS&amp;nbsp;X:n 10.7.4 päivityksen, en saanut enää OS&amp;nbsp;X:ää käyntiin ilman bootti-cd:tä. En muista tarkalleen mitä tein(!), mutta yritin kai päivittää ajureita, jonka jälkeen en saanut OS&amp;nbsp;X:ää käyntiin millään ilveellä. Tuhrasin tilanteen korjaamiseen useampia viikonloppuja (lue: &amp;nbsp;ehkä 5), mutta ongelmaan ei löytynyt ratkaisua.&lt;/p&gt;
+&lt;p&gt;Sivuhuomiona Hackintosheihin liittyviä ongelmia on hiukan hankala googlata, koska yhteisö on melko pieni ja ihmisillä on todella erilaisia laitteistoja ja todella erilaisia ongelmia. Koneesta ei myöskään saa aina kovinkaan hyödyllistä debug-tietoa näkyviin. Välillä tiettyjä ongelmia esiintyy myös oikeiden mäkkien omistajilla, mutta se ei tarkoita, että niihin löytyisi mitään järkeviä ratkaisuja.&lt;/p&gt;
+&lt;p&gt;Jouduin lopulta antamaan periksi ja alustamaan kovalevyn, jonka jälkeen asensin OS&amp;nbsp;X:n puhtaalta pöydältä. Päivitin samalla OS X 10.8:n, joka tuntuu nyt toimivan hyvin. Vaikka ei sekään aluksi toiminut: muutaman uudelleenkäynnistyksen jälkeen en enää päässyt kirjautumaan koneelle sisään, eikä siihen auttanut salasanan vaihto, uuden käyttäjätilin luominen, automaattisesti käynnistyvien ohjelmien poistaminen tai mikään muukaan mitä netissä ehdotettiin. Jouduin tyhjentämään kovalevyn toistamiseen ja lähtemään taas alusta liikkeelle.&lt;/p&gt;
+&lt;p&gt;Ylläpitoon on siis palanut useamman henkilötyöpäivän verran aikaa, jonka olisin voinut mahdollisesti käyttää fiksummin.&lt;/p&gt;
+&lt;h2&gt;Jatkossa&lt;/h2&gt;
+&lt;p&gt;Voin kyllä suositella Hackintoshin rakentamista jos intoa riittää ja jos haluaa nimenomaan pöytäkoneen. Sillä tavoin saa juuri sellaisen koneen kuin haluaa, esimerkiksi paremmin pelikäyttöön sopivan. Samalla säästää hinnassa pitkän pennin.&lt;/p&gt;
+&lt;p&gt;Opin viimeisestä episodista sen, että varmuuskopioita kannattaa tehdä useammalla eri taktiikalla. Olin kyllä virittänyt TimeMachine-varmuuskopiot, joilla sain pelastettua kaikki tiedostoni, mutta pelkän TimeMachinen avulla ei käyttöjärjestelmää&amp;nbsp;saanut palautettua toimivaan tilaan. Nyt otan lisäksi &lt;a href=&quot;http://www.bombich.com/&quot;&gt;Carbon Copy Clonerilla&lt;/a&gt;&amp;nbsp;kopion kovalevystä USB-tikulle, tosin palautusta pitää vielä kokeilla. Kopioin myös OS&amp;nbsp;X&amp;nbsp;10.8:n asennuspaketin toiselle USB-tikulle, jonka avulla koneen saa hätätapauksessa käyntiin ja tiedostoihin pääsee käsiksi.&lt;/p&gt;
+&lt;p&gt;Tajusin myös sen, että nykyään suuri osa tiedostoista on pilvessä. Kaikki tärkeimmät tiedostot sai takaisin &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropboxilla&lt;/a&gt;, Google Chrome synkkaa nettisivujen salasanat ja selaimen asetukset, ja &lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt; loput salasanat. Lähdekoodit ovat &lt;a href=&quot;https://github.com/&quot;&gt;GitHubissa&lt;/a&gt; tai muilla git-palvelimilla ja musiikit tulevat&amp;nbsp;&lt;a href=&quot;http://www.spotify.com/fi&quot;&gt;Spotifystä&lt;/a&gt;. Pelkäsin siis turhaan koneen puhdistamista ja käytin aivan liikaa aikaa sen pelastamisyrityksiin.&lt;/p&gt;
+&lt;p&gt;Jos joskus ostan uuden tietokoneen, se tulee luultavasti olemaan joku Applen läppäri. Jos sellaiseen on silloin varaa :). Apple tuntuu osaavan suunnitella entistä parempia koneita, joiden hinnat eivät koskaan ole kovinkaan kivuttomia. Viimeisimpänä esimerkkinä &lt;a href=&quot;http://www.apple.com/fi/macbook-pro/specs/&quot;&gt;MacBook Pro:n Retina-malli&lt;/a&gt;, josta &lt;a href=&quot;http://www.macrumors.com/2012/09/10/production-of-13-inch-retina-macbook-pro-and-updated-imacs-reportedly-ramping-up/&quot;&gt;huhutaan tulevan myös 13-tuumainen versio piakkoin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Läppäreiden tehot riittävät nykyään hyvin tekemääni työhön, ja ainoa rajoittava tekijä tuntuu olevan tallennustila. Pelaaminen kunnon PC:llä on kyllä kivaa, mutta siihekin tuntuu löytyvän entistä vähemmän aikaa. Steamin alennusmyynneistä tarttuu paljon pelejä, joista olen haaveillut joskus, mutta tälläkin hetkellä puolet niistä on pelaamatta...&lt;/p&gt;
+</content>
+        <pubDate>Mon, 24 Sep 2012 20:22:51 +0300</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2012/09/24/tee-se-itse-makit/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2012/09/24/tee-se-itse-makit/</guid>
+        
+        <category>apple</category>
+        
+        <category>OS X</category>
+        
+        <category>hackintosh</category>
+        
+        <category>Mac Pro</category>
+        
+        <category>Time Machine</category>
+        
+        
+        <category>web-kehitys</category>
+        
+        <category>työ</category>
+        
+        <category>osx</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+      <item>
+        <title>Kokeile liikuntaa?</title>
+        <description>Aika ajoin joku kirjoittaa netissä siitä, miten saa liikunnasta ylimääräistä puhtia elämäänsä. Yleensä joku menestynyt kaveri. Joel käy salilla joka aamu. Alex Stubb saa urheiluun käytetyn ajan kaksinkertaisena takaisin. Richard Branson on samoilla linjoilla, ja kokee saavansa liikunnasta neljä ylimääräistä tuntia päiviinsä. Ja tiedeuutiset raportoivat jatkuvasti miten liikunta tekee sinusta fiksumman. Tai ainakin hiiristä.Tavallaan &quot;tiedän&quot;, ...</description>
+        <content>&lt;p&gt;&lt;a href=&quot;https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash2/v/t1.0-9/562374_10150893531394518_421627031_n.jpg?oh=330d9c43ec26db41ccdb1fdf45e1b340&amp;amp;oe=55908EDD&amp;amp;__gda__=1435156623_681ec69f04a310a2ec41eae0014664c5&quot;&gt;&lt;img class=&quot;alignnone&quot; src=&quot;https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash2/v/t1.0-9/562374_10150893531394518_421627031_n.jpg?oh=330d9c43ec26db41ccdb1fdf45e1b340&amp;amp;oe=55908EDD&amp;amp;__gda__=1435156623_681ec69f04a310a2ec41eae0014664c5&quot; alt=&quot;&quot; width=&quot;423&quot; height=&quot;282&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aika ajoin joku kirjoittaa netissä siitä, miten saa liikunnasta ylimääräistä puhtia elämäänsä. Yleensä joku menestynyt kaveri. Joel &lt;a title=&quot;The exercise habit (eng)&quot; href=&quot;http://joel.is/post/24064139389/the-exercise-habit&quot;&gt;käy salilla joka aamu&lt;/a&gt;. Alex Stubb &lt;a title=&quot;Alex Stubb: Pirkan pyöräily ja Frankfurtin Ironman&quot; href=&quot;http://www.alexstubb.com/fi/blog/1937/&quot;&gt;saa urheiluun käytetyn ajan kaksinkertaisena takaisin&lt;/a&gt;. Richard Branson on samoilla linjoilla, ja kokee saavansa &lt;a title=&quot;How to Supercharge your Productivity the Richard Branson Way (eng)&quot; href=&quot;http://www.lifehack.org/articles/productivity/how-to-supercharge-your-productivity-the-richard-branson-way.html&quot;&gt;liikunnasta neljä ylimääräistä tuntia päiviinsä&lt;/a&gt;. Ja tiedeuutiset raportoivat jatkuvasti miten &lt;a title=&quot;NYTimes: How Exercise Could Lead to a Better Brain (eng)&quot; href=&quot;http://www.nytimes.com/2012/04/22/magazine/how-exercise-could-lead-to-a-better-brain.html&quot;&gt;liikunta&lt;/a&gt; &lt;a title=&quot;NYTime: How Exercise Fuels the Brain (eng)&quot; href=&quot;http://well.blogs.nytimes.com/2012/02/22/how-exercise-fuels-the-brain/&quot;&gt;tekee&lt;/a&gt; &lt;a title=&quot;NYTimes: How Exercise Can Strengthen the Brain (eng)&quot; href=&quot;http://well.blogs.nytimes.com/2011/09/28/how-exercise-can-strengthen-the-brain/&quot;&gt;sinusta&lt;/a&gt; &lt;a title=&quot;NYTimes: How Working the Muscles May Boost Brainpower (eng)&quot; href=&quot;http://well.blogs.nytimes.com/2012/05/09/how-working-the-muscles-may-boost-brainpower/&quot;&gt;fiksumman&lt;/a&gt;. Tai ainakin hiiristä.&lt;/p&gt;
+&lt;p&gt;Tavallaan &quot;tiedän&quot;, että urheilu kannattaa, mutta käytännösä käytän illat mieluummin omien projektien koodaamiseen. Osittain ehkä siksi, että siinä etenemisen huomaa helposti. Pari riviä lisää koodia, pari bugia vähemmän. Eihän koodia synny, jos ei ole näppäimistön ääressä? Ja urheilun jälkeen väsyttää ja koodia syntyy vielä vähemmän!&lt;/p&gt;
+&lt;p&gt;Tänään kävin pyöräilemässä. En mehustele poljetulla matkalla tai keskinopeudella, eikä niissä toisaalta ole mitään mehusteltavaa. Kuvan pyörä (Fuji Classic Track) on ihan hyvä pyörä, mutta kiinteävälityksisenä vähän liian raskas ajettava niin kauan kun kuski ei ole kunnossa.&lt;/p&gt;
+&lt;p&gt;Ja lenkki oli raskas. Pysähdyin välillä puhaltamaan ja ensimmäinen puoli tuntia oli ns. pepusta. Mutta &lt;del&gt;viimeinen&lt;/del&gt; toinen puoli tuntia oli ihan kivaa.&lt;/p&gt;
+&lt;p&gt;Ja sain lenkin aikana pari hyvää ideaa. Ratkaisin pari vanhaa ongelmaa, joita olen pyöritellyt mielessäni. Ei välttämättä mitään ihmeellistä, mutta tavallaan bonusta normaaliin verrattuna. Ehkä aivot saivat happea ensimmäisen kerran pitkään aikaan. Ajattelin myös, että voisin käydä joskus toistekin pyöräilemässä.&lt;/p&gt;
+&lt;p&gt;Joten jos olet lukenut jo tarpeeksi siitä, miksi urheilu on hyväksi, niin kokeile käydä vaikka kerran kävelemässä. Se on lopulta ihan kivaa.&lt;/p&gt;
+</content>
+        <pubDate>Tue, 31 Jul 2012 18:53:39 +0300</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2012/07/31/kokeile-liikuntaa/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2012/07/31/kokeile-liikuntaa/</guid>
+        
+        <category>ohjelmointi</category>
+        
+        <category>liikunta</category>
+        
+        <category>urheilu</category>
+        
+        
+        <category>elämä</category>
+        
+        <slash:comments>1</slash:comments>
+      </item>
+    
+      <item>
+        <title>Kuuntelemisen arvoisia podcasteja</title>
+        <description>En varmaan pystyisi kulkemaan bussilla Espoosta Helsinkiin jos podcasteja ei olisi olemassa. Nyt tuon ajan pystyy käyttämään, jos ei sivistävästi, niin ainakin viihdyttävästi.Uskoakseni kaikki muutkin kuuntelevat jo näitä, mutta kaiken varalta tässä on lista podcasteista, joita kuuntelen tällä hetkellä. Kaikki listan podcastit ovat englanniksi, mutta kerro toki kommenteissa jos tiedät hyviä suomenkielisiä podcasteja. Tai muuten vaan hyviä podc...</description>
+        <content>&lt;p&gt;En varmaan pystyisi kulkemaan bussilla Espoosta Helsinkiin jos podcasteja ei olisi olemassa. Nyt tuon ajan pystyy käyttämään, jos ei sivistävästi, niin ainakin viihdyttävästi.&lt;/p&gt;
+&lt;p&gt;Uskoakseni &lt;em&gt;kaikki muutkin&lt;/em&gt; kuuntelevat jo näitä, mutta kaiken varalta tässä on lista podcasteista, joita kuuntelen tällä hetkellä. Kaikki listan podcastit ovat englanniksi, mutta kerro toki kommenteissa jos tiedät hyviä suomenkielisiä podcasteja. Tai muuten vaan hyviä podcasteja. Mutta asiaan:&lt;/p&gt;
+&lt;p&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Tietotyöläisille&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a title=&quot;Back to Work&quot; href=&quot;http://5by5.tv/b2w/54&quot;&gt;Back to work&lt;/a&gt;&lt;/strong&gt;. &lt;a href=&quot;http://www.merlinmann.com/&quot;&gt;Merlin Mann&lt;/a&gt; ja &lt;a href=&quot;http://benjamin.org/dan/&quot;&gt;Dan Benjamin&lt;/a&gt; keskustelevat viikoittain siitä, miten tehdä hyvää työtä nykypäivän työelämässä, miten omaan työnkuvaan voi vaikuttaa, ja miten tietää mitä haluaa oikeasti tehdä. Ja yleensä höpöttävät aiheen vierestä, mutta viihdyttävästi.&lt;/p&gt;
+&lt;p&gt;Merlin tykkää heittää kuulijoille vaikeita kysymyksiä, joihin ei tarjoa helppoja vastauksia. Esimerkiksi &quot;pitäisitkö siitä, jos nykyinen työsi olisi kymmenen kertaa enemmän &lt;em&gt;sitä,&lt;/em&gt; mitä se on nyt? (Koska sitä se tulee luultavasti olemaan.)&quot; Vanhoista jaksoista erityisen hyviä ovat &lt;a title=&quot;Back to Work #7: Vocational Wheel&quot; href=&quot;http://5by5.tv/b2w/7&quot;&gt;7&lt;/a&gt;, &lt;a title=&quot;Back to Work #10: At Last the 'Inspiration' Show&quot; href=&quot;http://5by5.tv/b2w/10&quot;&gt;10&lt;/a&gt;, &lt;a title=&quot;Back to Work #12: Chewie's Medal is Not Canonical&quot; href=&quot;http://5by5.tv/b2w/12&quot;&gt;12&lt;/a&gt;, &lt;a title=&quot;Back to Work #17: Brick Building Full of Lies&quot; href=&quot;http://5by5.tv/b2w/17&quot;&gt;17&lt;/a&gt;, &lt;a title=&quot;Back to Work #33: The Hypocrite You Can Live With&quot; href=&quot;http://5by5.tv/b2w/33&quot;&gt;33&lt;/a&gt;, &lt;a title=&quot;Back to Work #39: A Source of Rice with Velocity&quot; href=&quot;http://5by5.tv/b2w/39&quot;&gt;39&lt;/a&gt;, &lt;a title=&quot;Back to Work #41: Carpal Tunnel Diem&quot; href=&quot;http://5by5.tv/b2w/41&quot;&gt;41&lt;/a&gt;, &lt;a title=&quot;Back to Work #47: Utter Failure &amp;amp; Hotel Steak&quot; href=&quot;http://5by5.tv/b2w/47&quot;&gt;47&lt;/a&gt;, &lt;a title=&quot;Back to Work #50: The Pork Soup Paradox&quot; href=&quot;http://5by5.tv/b2w/50&quot;&gt;50&lt;/a&gt;... oikeastaan kannattaa kuunnella kaikki jos vain jaksaa. Jos kuuntelisin vain yhtä podcastia, kuuntelisin tätä.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a title=&quot;Mac Power Users&quot; href=&quot;http://5by5.tv/mpu&quot;&gt;Mac Power Users&lt;/a&gt;.&lt;/strong&gt; &lt;a href=&quot;http://www.macsparky.com/&quot;&gt;David Sparks&lt;/a&gt; ja &lt;a href=&quot;http://katiefloyd.me/&quot;&gt;Katie Floyd&lt;/a&gt; kertovat miten saat enemmän irti Applen tuotteista, ja haastattelevat eri alojen ihmisiä heidän työskentelytavoistaan. &lt;a title=&quot;Mac Power Users #70: Using Automator with Ben Waldie&quot; href=&quot;http://5by5.tv/mpu/70&quot;&gt;Automator-jakso&lt;/a&gt; oli ainakin minulle uutta asiaa.&lt;/p&gt;
+&lt;h3&gt;Ohjelmoijille&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://javascriptjabber.com/&quot;&gt;Javascript Jabber&lt;/a&gt;&lt;/strong&gt;: huono äänenlaatu, mutta hyvää asiaa JS-maailman viimeisimmistä käänteistä. Mukana mm. &lt;a href=&quot;http://yehudakatz.com/&quot;&gt;Yehuda Katz&lt;/a&gt;. Kuuntele tätä jos haluat tietää mitä MVC-frameworkkia käytät puolen vuoden päästä ;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://5by5.tv/buildanalyze&quot;&gt;Build and Analyze&lt;/a&gt;&lt;/strong&gt;. Yksittäisen iOS-ohjelmoijan (&lt;a href=&quot;http://www.instapaper.com/&quot;&gt;InstaPaperin&lt;/a&gt; &lt;a href=&quot;http://www.marco.org/&quot;&gt;Marco Armentin&lt;/a&gt;) näkemyksiä tuotteen rakentamisesta, iOS-kehityksestä, mobiiliskenestä ja kahvista. Alkupään jaksoissa keskityttiin ehkä hieman enemmän käytännön devaamiseen, nyt painopiste on siirtynyt yleiseen käsienheilutteluun Applesta.&lt;/p&gt;
+&lt;h3&gt;Web Designereille&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://5by5.tv/webahead&quot;&gt;The Web Ahead&lt;/a&gt;&lt;/strong&gt;: &lt;a href=&quot;http://5by5.tv/person/jen-simmons&quot;&gt;Jen Simmons&lt;/a&gt; ja vieraat vastaavat kysymyksiin mihin internet on menossa, miten ihmiset käyttävät sitä, ja miten verkkopalveluita pitäisi suunnitella. Hyviä pointteja esimerkiksi &lt;a title=&quot;The Web Ahead #16: Mobile Capabilities with Jason Grigsby&quot; href=&quot;http://5by5.tv/webahead/16&quot;&gt;mobiililaitteille suunnittelusta&lt;/a&gt;, mutta muihin podcasteihin verrattuna hyötysuhde on tähän mennessä ollut vähän heikompi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://5by5.tv/bigwebshow&quot;&gt;The Big Webshow&lt;/a&gt;&lt;/strong&gt;: &lt;a href=&quot;http://www.zeldman.com/&quot;&gt;Jeffrey Zeldman&lt;/a&gt; ja vieraat keskustelevat satunnaisista web designiin liittyvistä asioista. Tämä on rehellisesti sanottuna eniten vaarassa tippua listaltani, koska äänenlaatu on usein heikko, ja aiheiden kirjo on liian suuri makuuni.&lt;/p&gt;
+&lt;h3&gt;Sekalaiset&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://5by5.tv/hypercritical&quot;&gt;Hypercritical&lt;/a&gt;: &lt;/strong&gt;&lt;a href=&quot;http://5by5.tv/person/john-siracusa&quot;&gt;John Siracusa&lt;/a&gt; pystyy viihdyttävästi kritisoimaan asiaa kuin asiaa, oli se sitten Pixar, Apple (&lt;em&gt;varsinkin&lt;/em&gt; Apple) tai voileipägrillit. Siracusa analysoi aiheitaan joka kantilta muodostaen aukottomia päättelyketjuja.&lt;/p&gt;
+&lt;p&gt;Ehdottomasti parhaimpia jaksoja ovat olleet &lt;a title=&quot;Hypercritical #42: The Wrong Guy&quot; href=&quot;http://5by5.tv/hypercritical/42&quot;&gt;42&lt;/a&gt;&amp;nbsp;ja&amp;nbsp;&lt;a title=&quot;Hypercritical #43: The Scorpion and the Frog&quot; href=&quot;http://5by5.tv/hypercritical/43&quot;&gt;43&lt;/a&gt;, joissa pureudutaan siihen, mikä kaikki on pielessä Walter Isaacsonin kirjoittamassa Steve Jobs -elämänkerrassa, ja miksi Isaacson oli ylipäätään väärä ihminen kirjoittamaan kyseistä kirjaa.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://itunes.apple.com/us/podcast//id489250422&quot;&gt;Man vs. Debt&lt;/a&gt;&lt;/strong&gt; on samannimisen &lt;a href=&quot;http://manvsdebt.com/&quot;&gt;blogin&lt;/a&gt; vielä suhteellisen tuore podcast, mikä on vaikuttanut lupaavalta. Hyvää inspiraatiokamaa veloista irti pääsemiseen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://5by5.tv/criticalpath&quot;&gt;&lt;strong&gt;Critical Path&lt;/strong&gt;&lt;/a&gt;: Suomessa asuva, ex-nokialainen &lt;a href=&quot;http://www.asymco.com/&quot;&gt;Horace Dediu&lt;/a&gt; on yhtään vähättelemättä luultavasti paras mobiilialan analyytikko. Suositeltavaa kuunneltavaa jos kiinnosta esimerkiksi &lt;a title=&quot;The Critical Path #10: The Means of Production&quot; href=&quot;http://5by5.tv/criticalpath/10&quot;&gt;miksi Apple oikeasti menestyy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.freakonomics.com/radio/&quot;&gt;Freakonomics Radio&lt;/a&gt;&lt;/strong&gt;: Freakonomics-kirjojen kirjoittajat Steven D. Levitt ja Stephen J. Dubner kertovat hauskasti yllättävistä talouteen liittyvistä asioista.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.radiolab.org/&quot;&gt;Radiolab&lt;/a&gt;&lt;/strong&gt;: todella hyvin tuotettuja radio-ohjelmia milloin mistäkin. Hyviä esimerkkejä laadusta ovat esimerkiksi &lt;a href=&quot;http://www.radiolab.org/blogs/radiolab-blog/2011/jul/26/4-track-mind/&quot;&gt;A 4-Track Mind&lt;/a&gt;, &lt;a href=&quot;http://www.radiolab.org/blogs/radiolab-blog/2011/oct/18/slow/&quot;&gt;Slow&lt;/a&gt;, &lt;a href=&quot;http://www.radiolab.org/2011/nov/14/&quot;&gt;Patient Zero&lt;/a&gt; ja &lt;a href=&quot;http://www.radiolab.org/2010/oct/08/&quot;&gt;Cities&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Downcast&lt;/h3&gt;
+&lt;p&gt;Podcastien kuuntelemiseen kannattaa hankkia sitä varten suunniteltu applikaatio. Iphonelle on esimerkiksi &lt;a href=&quot;http://downcastapp.com/&quot;&gt;Downcast&lt;/a&gt;, joka osaa ladata podcastit suoraan puhelimeen, tehdä älykkäitä soittolistoja, striimata podcasteja ja paljon muuta. Tämän applikaation ansiosta en enää synkronoi iPhonea iTunesiin. Vaihtoehtoja iOS ja Android-laitteille löytyy &lt;a href=&quot;http://lifehacker.com/5811101/five-best-mobile-podcast-catchers&quot;&gt;täältä&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;5by5&lt;/h3&gt;
+&lt;p&gt;Tarkkasilmäisimmät ehkä huomasivatkin jo, että suurin osa podcasteista on &lt;a href=&quot;http://5by5.tv/&quot;&gt;5by5&lt;/a&gt;:n julkaisemia. 5by5 ja sen perustaja Dan Benjamin tuntuvat löytävän mielenkiintoisia ihmisiä ja aiheita jatkuvalla syötöllä.&lt;/p&gt;
+&lt;p&gt;Dan myös kanssajuontaa itse useaa mainituista podcasteista, mikä on ilo, sillä hän osaa antaa vierailleen tilaa, mutta saa heistä heidän parhaimpansa esiin. Dan on podcastien perusteella myös varsin &lt;em&gt;hyvä&lt;/em&gt; ihminen, mikä tekee niistä inspiroivaa kuunneltavaa. Kannattaa siis katsoa, josko 5by5:n julkaisemien &lt;a href=&quot;http://5by5.tv/broadcasts&quot;&gt;podcastien listalta&lt;/a&gt; löytyisi jotain sinua kiinnostavaa.&lt;/p&gt;
+</content>
+        <pubDate>Sat, 18 Feb 2012 07:46:36 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2012/02/18/kuuntelemisen-arvoisia-podcasteja/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2012/02/18/kuuntelemisen-arvoisia-podcasteja/</guid>
+        
+        <category>podcast</category>
+        
+        <category>ohjelmointi</category>
+        
+        <category>5by5</category>
+        
+        <category>JavaSript</category>
+        
+        
+        <category>elämä</category>
+        
+        <category>linkit</category>
+        
+        <category>internet</category>
+        
+        <slash:comments>2</slash:comments>
+      </item>
+    
+      <item>
+        <title>Minikaivurikisa päättyi</title>
+        <description>Kaivuriskaba päättyi kisan järjestäjän päätöksellä kun kisaa oli kestänyt puoli vuotta. Onnea Kimmolle ja Hannulle, jotka saavat molemmat oman minikaivurin ja iPadin.Kisan lopettaminen oli luultavasti ihan järkevä päätös. Kumpikaan jäljellä olevista kilpailijoista tuskin olisi luovuttanut helpolla, ja puolen vuoden istuminen ei voi olla terveellistä.</description>
+        <content>&lt;p&gt;&lt;a href=&quot;http://kaivuriskaba.fi/index.php?page=1041&amp;amp;lang=1&quot;&gt;Kaivuriskaba päättyi&lt;/a&gt; kisan järjestäjän päätöksellä kun kisaa oli kestänyt puoli vuotta. Onnea Kimmolle ja Hannulle, jotka saavat molemmat oman minikaivurin ja iPadin.&lt;/p&gt;
+&lt;p&gt;Kisan lopettaminen oli luultavasti ihan järkevä päätös. Kumpikaan jäljellä olevista kilpailijoista tuskin olisi luovuttanut helpolla, ja puolen vuoden istuminen ei voi olla terveellistä.&lt;/p&gt;
+</content>
+        <pubDate>Sat, 10 Dec 2011 12:07:32 +0200</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2011/12/10/minikaivurikisa-paattyi/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2011/12/10/minikaivurikisa-paattyi/</guid>
+        
+        
+        <category>elämä</category>
+        
+        <slash:comments>0</slash:comments>
+      </item>
+    
+  </channel>
+</rss>
+
