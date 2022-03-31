@@ -49,7 +49,7 @@ comments:
     saisiko Samsungin päivitettyä 10.6:een tai uudempaan. 10.5.6 rupeaa
     jo olemaan vähän vanha, ja ihan kaikkia ohjelmia ei siihen saa."
 ---
-<p><a href="{{ site.baseurl }}/images/2009/08/DSC_0442.jpg"><img class="size-medium wp-image-676 alignnone" title="Samsung NC10 ja OS X" src="{{ site.baseurl }}/images/2009/08/DSC_0442-300x200.jpg" alt="Samsung NC10 ja OS X" width="300" height="200" /></a></p>
+<p><a href="/images/2009/08/DSC_0442.jpg"><img class="size-medium wp-image-676 alignnone" title="Samsung NC10 ja OS X" src="/images/2009/08/DSC_0442-300x200.jpg" alt="Samsung NC10 ja OS X" width="300" height="200" /></a></p>
 <p>Ostin vähän aikaa sitten Samsungin NC10 -miniläppärin. Tavoitteenani oli tehdä siitä halpa ja kevyt mäkkikone asentamalla OS X mukana tulleen Windows XP:n tilalle.</p>
 <p>(OS X:n voi asentaa myös muihin miniläppäreihin. Boing Boingilla on <a title="Mac OS X Netbook Compatibility Chart" href="http://gadgets.boingboing.net/2008/12/17/osx-netbook-compatib.html">yhteensopivuuslista</a>, joka on melko hyvin ajan tasalla.)</p>
 <p>OS X:n asentamiseen löytyy todella pätevät ohjeet <a title="Definitive Mac OS X installation guide for netbooks" href="http://blog.stuart.shelton.me/archives/256">Stuart Sheltonin blogista</a>, joita noudattamalla homma onnistuu hyvin. Huom! Stuartin ohjeissa Win XP poistetaan kokonaan. Dual boot -asennus vaatii kikkailua, enkä ole toistaiseksi löytänyt siihen ohjeita.</p>
@@ -81,18 +81,18 @@ comments:
 <h3>Näytön kirkkauden säätäminen</h3>
 <p>Kirkkauden säätäminen fn+nuolinäppäimillä ei toimi. Näytön taustavaloa voi kuitenkin säätää skriptillä. Ratkaisuna on siis asentaa <a title="Download Quicksilver for Mac" href="http://www.macupdate.com/info.php/id/14831">Quicksilver</a>, jolla voi ajaa skriptejä haluamillaan näppäinyhdistelmillä.</p>
 <p>InsanelyMac-foorumin <a title="Mysticus C*: Brightness control" href="http://www.insanelymac.com/forum/index.php?s=ba2a310e85d04ba09456b3b08189e7cc&amp;showtopic=137314&amp;view=findpost&amp;p=1006464">viestistä</a> löytyy brightness.zip, joka sisältää kirkkauden säätämiseen tarvittavan skriptin. Pura paketin sisältö <em>/Library/Scripts/Brightness</em> -hakemistoon.</p>
-<p><a href="{{ site.baseurl }}/images/2009/08/Picture-11.png"><img class="alignleft size-thumbnail wp-image-655" title="Kuvakaappaus Quicksilveristä" src="{{ site.baseurl }}/images/2009/08/Picture-11-150x150.png" alt="Kuvakaappaus Quicksilveristä" width="150" height="150" /></a>Tee Quicksilveriin kaksi uutta 'Custom Triggeriä'. Vedä decrease.scpt / increase.scpt item-laatikkoon, ja aseta actioniksi 'Run'. Komennolle pitää vielä antaa 'hot key'. Itse käytän omppu+nuolinäppäimiä.</p>
+<p><a href="/images/2009/08/Picture-11.png"><img class="alignleft size-thumbnail wp-image-655" title="Kuvakaappaus Quicksilveristä" src="/images/2009/08/Picture-11-150x150.png" alt="Kuvakaappaus Quicksilveristä" width="150" height="150" /></a>Tee Quicksilveriin kaksi uutta 'Custom Triggeriä'. Vedä decrease.scpt / increase.scpt item-laatikkoon, ja aseta actioniksi 'Run'. Komennolle pitää vielä antaa 'hot key'. Itse käytän omppu+nuolinäppäimiä.</p>
 <p>Skripti kysyy ensimmäisellä kerralla salasanaa, jonka jälkeen se toimii kivasti taustalla, kunhan muistaa asettaa Quicksilverin käynnistymän automaattisesti.</p>
 <h3>Näppäimistö</h3>
-<p>Näppäimistöasetteluja voi muokata <a title="Mac OS X Keyboard Layout Editor" href="http://scripts.sil.org/ukelele">Ukelelella</a>. Tein Ukelelella kokeeksi suomenkielisen näppäimistöasettelun, jolla toimivat useimmat näppäimet [<a href="{{ site.baseurl }}/images/2009/08/finnish_nc10.keylayout">finnish_nc10.keylayout</a>].</p>
+<p>Näppäimistöasetteluja voi muokata <a title="Mac OS X Keyboard Layout Editor" href="http://scripts.sil.org/ukelele">Ukelelella</a>. Tein Ukelelella kokeeksi suomenkielisen näppäimistöasettelun, jolla toimivat useimmat näppäimet [<a href="/images/2009/08/finnish_nc10.keylayout">finnish_nc10.keylayout</a>].</p>
 <p>Tallenna .keylayout-tiedosto <em>/Library/Keyboard Layouts</em> -hakemistoon, avaa international -asetukset ja valitse listasta "Finnish NC10".</p>
-<p><img class="alignleft size-full wp-image-649" title="Picture 2" src="{{ site.baseurl }}/images/2009/08/Picture-2.png" alt="Kuvakaappaus OS X:n näppäimistövalikosta, Finnish NC10 valittuna" width="250" height="206" /></p>
+<p><img class="alignleft size-full wp-image-649" title="Picture 2" src="/images/2009/08/Picture-2.png" alt="Kuvakaappaus OS X:n näppäimistövalikosta, Finnish NC10 valittuna" width="250" height="206" /></p>
 <p>Tämän jälkeen näppäimistöasettelu pitää vielä ottaa käyttöön yläpalkin näppäimistövalikosta.</p>
 <h3>Trackpad</h3>
 <p>Trackpad-asetusten saaminen system preferenceihin on neuvottu Stuartin <a title="Trackpad PreferencePane fix" href="http://blog.stuart.shelton.me/archives/256#comment-7614">kommentissa</a> asennusohjeiden lopussa.</p>
 <p>Trackpad on hiukan erimuotoinen kuin oikeissa maceissa, minkä takia kursorin kiihtyvyys ylös ja alas on liian suuri. Tähän on olemassa jokin komentorivikomento jolla asian saa korjattua, mutta en löytänyt sitä uudestaan. (Muista bookmarkata kaikki ohjeet...)</p>
 <h3>äänen ulostulon valinta</h3>
-<p><a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap"><img class="alignleft size-full wp-image-669" title="Audiee Menu" src="{{ site.baseurl }}/images/2009/08/audieee_menu1.jpg" alt="Audiee Menu" width="245" height="169" /></a></p>
+<p><a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap"><img class="alignleft size-full wp-image-669" title="Audiee Menu" src="/images/2009/08/audieee_menu1.jpg" alt="Audiee Menu" width="245" height="169" /></a></p>
 <p>Lataa <a href="http://ipis-osx.wikidot.com/forum/t-101853/audieee:the-less-ugly-stop-gap">Audiee -apuohjelma täältä</a>.</p>
 <h3>Linkkejä</h3>
 <ul>

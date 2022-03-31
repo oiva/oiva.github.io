@@ -48,7 +48,7 @@ comments:
     suihkussa ja mitä tekisi ylimääräisellä kaivurilla. Tsemppiä
     kisaan ja elämään Kimmo!"
 ---
-<p style="text-align: center;"><img class="size-full wp-image-766 aligncenter" title="Kaivuri-Kimmo" src="{{ site.baseurl }}/images/2011/10/kimmo.jpg" alt="" width="342" height="296" /></p>
+<p style="text-align: center;"><img class="size-full wp-image-766 aligncenter" title="Kaivuri-Kimmo" src="/images/2011/10/kimmo.jpg" alt="" width="342" height="296" /></p>
 <p>Espoossa kauppakeskus Sellossa on nyt muutaman kuukauden ollut minikaivuri, jossa istuu nuori mies päivästä toiseen. Homman nimi on&nbsp;<a href="http://www.kaivuriskaba.fi/">kaivuriskaba</a>:</p>
 <blockquote><p>Kaivuriskaba on kuudella paikkakunnalla järjestettävä suurkisa, jossa pisimpään minikaivurissa istunut henkilö voittaa 32 000 &euro; arvoisen aidon japanilaisen Takeuchi-minikaivurin.</p></blockquote>
 <p>Kisa on jatkunut nyt 128 päivää, ja kuudesta kaivuria himoitsevasta miehestä kolme on tippunut kisasta pois.</p>

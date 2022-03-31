@@ -49,7 +49,7 @@ comments:
 </ul>
 <p>Käytän tällä hetkellä herätyskellona Nokian kännykkää, joka täyttää ainoastaan ensimmäisen ehdon.</p>
 <p>Torkun pituutta ei voi säätää, tosin tämä on kuulemma ollut mahdollista vanhemmissa malleissa. Viiden minuutin torkku on minulle ehkä minuutin tai kaksi liian lyhyt. Ainakin eri pituisia torkkuja olisi kiva kokeilla.<a id="more"></a><a id="more-384"></a></p>
-<p><a href="{{ site.baseurl }}/images/2008/11/dsc_0031-2.jpg"><img class="alignleft size-medium wp-image-385" title="Nokia E51 herätyskello" src="{{ site.baseurl }}/images/2008/11/dsc_0031-2-225x300.jpg" alt="" width="225" height="300" /></a></p>
+<p><a href="/images/2008/11/dsc_0031-2.jpg"><img class="alignleft size-medium wp-image-385" title="Nokia E51 herätyskello" src="/images/2008/11/dsc_0031-2-225x300.jpg" alt="" width="225" height="300" /></a></p>
 <p>Kolmaskaan ehto ei täyty, koska herätyskellon voi sammuttaa vahingossa. Nukun keskimäärin kerran viikossa pommiin, koska olen painanut "Pysäytä" enkä "Torkku".</p>
 <p>Kuvasta näkyy miten molemmat napit ovat hyvin lähellä toisiaan ja samanlaisia. Virhe tapahtuu helposti, kun nappien ainoa ero on vasen/oikea sijoittelussa. Nokialla asiaa on pohdittu kuitenkin sen verran fiksusti, että kaikista muista napeista menee torkku päälle.</p>
 <p>Herätyskellon suunnittelu on aika haastava aihe. Herätyskello on niitä harvoja käyttöliittymiä, joita käyttäjän on voitava käyttää myös nukkuessaan.</p>

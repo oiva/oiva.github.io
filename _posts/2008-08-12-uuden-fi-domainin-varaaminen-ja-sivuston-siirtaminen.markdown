@@ -37,14 +37,14 @@ comments: []
 <li>Verkkotunnuksen varaamista varten tarvitset vähintään kaksi <a title="Wikipedia: DNS" href="http://fi.wikipedia.org/wiki/DNS">nimipalvelinta</a>, jotka kertovat mihin <a title="Wikipedia: IP-osoite" href="http://fi.wikipedia.org/wiki/IP-osoite">IP-osoitteeseen</a> uuden verkkotunnuksen liikenne ohjataan. Hyvä, ilmainen nimipalvelinpalvelu löytyy esimerkiksi <a href="http://xname.org">xname.org</a>:sta. Alla esimerkki nimipalvelimen virittämisestä paulaminni.fi-domainille:
 <ul>
 <li><em>(Rekisteröidy xname.orgiin)</em></li>
-<li><a href="{{ site.baseurl }}/images/2008/08/xname1.png"><img class="alignnone size-thumbnail wp-image-133" title="klikkaa suuremmaksi" src="{{ site.baseurl }}/images/2008/08/xname1-150x150.png" alt="Luo uusi zone" width="150" height="150" /></a><br />
+<li><a href="/images/2008/08/xname1.png"><img class="alignnone size-thumbnail wp-image-133" title="klikkaa suuremmaksi" src="/images/2008/08/xname1-150x150.png" alt="Luo uusi zone" width="150" height="150" /></a><br />
 <em>Luo uusi zone</em></li>
-<li><a href="{{ site.baseurl }}/images/2008/08/xname2.png"><img class="alignnone size-thumbnail wp-image-134" title="klikkaa suuremmaksi" src="{{ site.baseurl }}/images/2008/08/xname2-150x150.png" alt="" width="150" height="150" /></a><br />
+<li><a href="/images/2008/08/xname2.png"><img class="alignnone size-thumbnail wp-image-134" title="klikkaa suuremmaksi" src="/images/2008/08/xname2-150x150.png" alt="" width="150" height="150" /></a><br />
 <em>nimipalvelimiksi voi antaa </em>ns0.xname.org.<em> ja </em>ns1.xname.org.<em> Muista liittää nimen loppuun piste. Myös </em>ns2.xname.org.<em> on olemassa ja sitä voi käyttää edellisten lisäksi.</em></li>
-<li><a href="{{ site.baseurl }}/images/2008/08/xname3.png"><img class="alignnone size-thumbnail wp-image-135" title="klikkaa suuremmaksi" src="{{ site.baseurl }}/images/2008/08/xname3-150x150.png" alt="" width="150" height="150" /></a><br />
+<li><a href="/images/2008/08/xname3.png"><img class="alignnone size-thumbnail wp-image-135" title="klikkaa suuremmaksi" src="/images/2008/08/xname3-150x150.png" alt="" width="150" height="150" /></a><br />
 <em>A-recordiin tulee domainin nimi (taas loppupisteen kanssa) ja IP-osoite, jossa oma palvelin sijaitsee.<br />
 </em></li>
-<li><a href="{{ site.baseurl }}/images/2008/08/xname4.png"><img class="alignnone size-thumbnail wp-image-136" title="klikkaa suuremmaksi" src="{{ site.baseurl }}/images/2008/08/xname4-150x150.png" alt="" width="150" height="150" /></a><br />
+<li><a href="/images/2008/08/xname4.png"><img class="alignnone size-thumbnail wp-image-136" title="klikkaa suuremmaksi" src="/images/2008/08/xname4-150x150.png" alt="" width="150" height="150" /></a><br />
 <em>Jos haluat osoitteen toimivan myös www-alkuosan kanssa, lisää 'www' CNAME-osioon. CNAMEa voi käyttää jos haluaa useampia alidomaineita, jotka vievät samaan IP-osoitteeseen kuin A-record.</em></li>
 </ul>
 </li>

@@ -49,7 +49,7 @@ comments: []
 <p><strong>Molemmat ovat todenneet, ettei nykyinen nettiselain ole kiveen hakattu, ja että käyttäjien tarpeet ovat muuttuneet muutaman viime vuoden aikana huomattavasti.</strong></p>
 <p>Google on lähestynyt ongelmaa suunnittelemalla oman selaimensa, Google Chromen. Mozilla Labsilla taas on käynnissä pieniä projekteja Firefoxin parantamiseksi, mutta myös kauas tulevaisuuteen ulottuvia suunnitelmia.</p>
 <h3>Google Chrome</h3>
-<p><img class="size-medium wp-image-178 alignleft" style="margin-right: 10px;" title="google chrome logo" src="{{ site.baseurl }}/images/2008/09/googlechromelogo.png" alt="" width="196" height="187" />Chrome on <a title="Wikipedia: WebKit (eng.)" href="http://en.wikipedia.org/wiki/Webkit">WebKitin</a> päälle rakennettu avoimen lähdekoodin selain, jonka suunnittelu on aloitettu tyhjältä pöydältä. Suunnittelussa on otettu huomioon mm. se, että yhä useampi palvelu on JavaScript-applikaatio.</p>
+<p><img class="size-medium wp-image-178 alignleft" style="margin-right: 10px;" title="google chrome logo" src="/images/2008/09/googlechromelogo.png" alt="" width="196" height="187" />Chrome on <a title="Wikipedia: WebKit (eng.)" href="http://en.wikipedia.org/wiki/Webkit">WebKitin</a> päälle rakennettu avoimen lähdekoodin selain, jonka suunnittelu on aloitettu tyhjältä pöydältä. Suunnittelussa on otettu huomioon mm. se, että yhä useampi palvelu on JavaScript-applikaatio.</p>
 <p>Nopeuden lisäksi selaimessa on panostettu vakauteen ja turvallisuuteen. Käyttöliittymä on kuitenkin pyritty pitämään mahdollisimman selkeänä.</p>
 <ul>
 <li><a href="http://www.google.com/chrome/intl/en/features.html">Google: Google Chrome</a>: beta-versio ladattavissa</li>

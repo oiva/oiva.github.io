@@ -31,7 +31,7 @@ comments: []
 <p>Matkustin pitkästä aikaa junalla ja tulin samalla testanneeksi VR:n palautelomakkeen käytön kännykällä. Ehkä pari sanaa käyttökontekstista:</p>
 <p>Juna lähti aamulla kello 7:30, mikä on opiskelijalle suurin piirtein sama kuin 4:30 muille. Väsytti. Olin tilannut liput edellisenä päivänä VR:n nettivarauksesta ilman mitään erityistoiveita. Junassa odottikin sitten yllätys: paikat olivat lasten leikkivaunusta, vaikka juna oli muuten melko väljästi täytetty. Nukkuminen ei siis tullut kysymykseen, joten päätin käyttää ajan hyödyksi ja lähettää VR:lle kysymyksen heidän paikkojen sijoittelualgoritmista, ymmärrättehän.</p>
 <p>Pääsin kännykällä kätevästi VR:n palautelomakkeeseen ja täytin sen huolellisesti. Kaikki sujui hyvin, kunnes "Lähetä"-napin alta paljastui teksti: "<strong>Huom! Lomake vaatii oikein toimiakseen javascript-tuen." </strong>(Kuvakaappaus alla)</p>
-<p><a href="{{ site.baseurl }}/images/2008/02/vr_palaute2.PNG" title="VR:n palautelomake"><img src="{{ site.baseurl }}/images/2008/02/vr_palaute2.thumbnail.PNG" alt="VR:n palautelomake" /></a></p>
+<p><a href="/images/2008/02/vr_palaute2.PNG" title="VR:n palautelomake"><img src="/images/2008/02/vr_palaute2.thumbnail.PNG" alt="VR:n palautelomake" /></a></p>
 <p>Palaute jäi sitten lähettämättä. Väsymys ja harmistus vaikuttivat käyttötilanteeseen paljon - kaikki kognitiiviset resurssit eivät ehkä olleet käytössä. Lomakkeessa on silti vakava käytettävyysongelma. Muutama parannusehdotus:</p>
 <ol>
 <li>älä vaadi JavaScriptin käyttöä palautelomakkeessa. VR:n tapauksessa JavaScriptiä käytetään vain tarkistamaan onko käyttäjä täyttänyt kaikki kentät. Tämän voi toteuttaa myös ilman JavaScriptiä.</li>

@@ -39,7 +39,7 @@ comments: []
 <p>Ylimääräiset käteisautomaatit ovat tervetullut lisä Otto-maattien rinnalle. <a href="http://www.rkioski.fi/fileadmin/Siirto/Tiedote/Lehdist_tiedote130308.doc">Lehdistötiedotteen [doc]</a> mukaan automaatteja sijoitetaan R-kioskeille, koska kioskilla ihmiset maksavat usein käteisellä, joten käteisautomaatti kioskilla lisää kioskin myyntiä. Loogista.</p>
 <p>Kokeilin nostaa automaatista 20&euro; ja tässä muutamia huomioita:<br />
 <a id="more"></a><a id="more-85"></a><br />
-<a href="{{ site.baseurl }}/images/2008/05/09052008001.jpg"><img class="alignnone size-medium wp-image-86" title="09052008001" src="{{ site.baseurl }}/images/2008/05/09052008001-225x300.jpg" alt="Klikkaa suuremmaksi" width="225" height="300" /></a></p>
+<a href="/images/2008/05/09052008001.jpg"><img class="alignnone size-medium wp-image-86" title="09052008001" src="/images/2008/05/09052008001-225x300.jpg" alt="Klikkaa suuremmaksi" width="225" height="300" /></a></p>
 <p>Laitteen kyljessä on tarra, joka kertoo:</p>
 <blockquote><p>Nosta rahaa tästä.</p>
 <p>Tämä on yksi Suomen uusista käteisautomaateista. Se toimii täysin samalla tavalla kuin tavallinen Otto-automaatti. Tervetuloa käyttämään Cashia.</p>
@@ -48,7 +48,7 @@ comments: []
 <p>Maininta nostomaksusta hämmensi. En ole törmännyt Otto-automaateissa nostomaksuihin, mutta oletin että tässä tapauksessa jokin maksu saattaa mennä, koska laite ei ole pankin omistama. En tunne korttini ehtoja niin hyvin, että tietäisin meneekö.</p>
 <p>Kortin syöttäminen automaattiin ei ole yhtä helppoa kuin Otto-automaatissa. Korttiaukon yläpuolella on symboli, joka viestittää että kortti pitää työntää tähän aukkoon, mutta se ei kerro missä asennossa kortti halutaan. Näppäimistön vierestä löytyy toinen ohje, jossa on kuvattu kortin oikea asento. (Tavallaan tiesin, että kortti pitää työntää sirupuoli edellä, mutta kaipaan silti ohjetta. Parkkihalleissa kortti pitää joskus työntää laitteeseen niin, että siru on kortin takareunassa.)</p>
 <p>Laite kysyy tunnuslukua, ja pyytää tämän jälkeen painamaan "OK".  Tässä vaiheessa huomasin, ettei näppäimistössä ole yhtään nappia, jossa lukisi "OK". Vihreällä värillä varustettu nappi oli kuitenkin oikea. Napissa lukee "KLAR / ENTER" (katso kuva).</p>
-<p><a href="{{ site.baseurl }}/images/2008/05/09052008.jpg"><img class="alignnone size-medium wp-image-88" title="Cash-laitteen näppäimistö" src="{{ site.baseurl }}/images/2008/05/09052008-225x300.jpg" alt="Cash-laitteen näppäimistö" width="225" height="300" /></a></p>
+<p><a href="/images/2008/05/09052008.jpg"><img class="alignnone size-medium wp-image-88" title="Cash-laitteen näppäimistö" src="/images/2008/05/09052008-225x300.jpg" alt="Cash-laitteen näppäimistö" width="225" height="300" /></a></p>
 <p>Jälkeenpäin tajusin, että nappien tekstit ovat ensin ruotsiksi, sitten englanniksi. Suomenkieliset napit olisivat kiva lisä, tai nappi jossa lukee "OK".</p>
 <p>Tämän jälkeen ilmeni ensimmäinen seikka, joka eroaa Otto-automaatin toiminnasta: Omaa saldoaan ei Cashista voi tarkistaa.</p>
 <p>Toinen ero on se, että automaatista voi nostaa myös 10&euro;:n seteleitä. Tämä on ominaisuus, jota olen köyhänä opiskelijana kaivannut jo pitkään. Nostettavan summan voi valita valmiista vaihtoehdoista käyttämällä näytön vieressä olevia nappeja, tai syöttämällä haluamansa summan näppäimistöllä. Valmiita vaihtoehtoja vaikutti olevan enemmän kuin Otto-automaateissa.</p>

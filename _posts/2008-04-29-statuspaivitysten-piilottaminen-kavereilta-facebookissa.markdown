@@ -29,23 +29,23 @@ comments: []
 <a id="more"></a><a id="more-67"></a></p>
 <h3>Kaverilistan luominen</h3>
 <p>Aluksi luodaan lista kavereista, joiden ei haluta näkevän päivityksiä. Valitse ylhäältä Friends (Kaverit):</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook1.png"><img class="alignnone size-full wp-image-69" title="facebook1" src="{{ site.baseurl }}/images/2008/04/facebook1.png" alt="" width="393" height="56" /></a></p>
+<p><a href="/images/2008/04/facebook1.png"><img class="alignnone size-full wp-image-69" title="facebook1" src="/images/2008/04/facebook1.png" alt="" width="393" height="56" /></a></p>
 <p>Valitse oikeasta reunasta "Limited Profile" (Rajattu profiili). Voit myös tehdä uuden listan ja nimetä sen miten haluat.</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook2.png"><img class="alignnone size-full wp-image-70" title="facebook2" src="{{ site.baseurl }}/images/2008/04/facebook2.png" alt="" width="156" height="113" /></a></p>
+<p><a href="/images/2008/04/facebook2.png"><img class="alignnone size-full wp-image-70" title="facebook2" src="/images/2008/04/facebook2.png" alt="" width="156" height="113" /></a></p>
 <p>Kavereiden lisääminen listaan on helpointa "Select Multiple Friends"-toiminnon avulla.<br />
-<a href="{{ site.baseurl }}/images/2008/04/facebook3.png"><img class="alignnone size-full wp-image-71" title="facebook3" src="{{ site.baseurl }}/images/2008/04/facebook3.png" alt="" width="489" height="67" /></a></p>
+<a href="/images/2008/04/facebook3.png"><img class="alignnone size-full wp-image-71" title="facebook3" src="/images/2008/04/facebook3.png" alt="" width="489" height="67" /></a></p>
 <p>Muista tallentaa lista klikkaamalla "Save List"-nappia.<br />
-<a href="{{ site.baseurl }}/images/2008/04/facebook4.png"><img class="alignnone size-full wp-image-72" title="facebook4" src="{{ site.baseurl }}/images/2008/04/facebook4.png" alt="" width="488" height="47" /></a></p>
+<a href="/images/2008/04/facebook4.png"><img class="alignnone size-full wp-image-72" title="facebook4" src="/images/2008/04/facebook4.png" alt="" width="488" height="47" /></a></p>
 <h3>Yksityisyysasetukset</h3>
 <p>Valitse seuraavaksi ylhäältä privacy (yksityisyys):</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook5.png"><img class="alignnone size-full wp-image-73" title="facebook5" src="{{ site.baseurl }}/images/2008/04/facebook5.png" alt="" /></a></p>
+<p><a href="/images/2008/04/facebook5.png"><img class="alignnone size-full wp-image-73" title="facebook5" src="/images/2008/04/facebook5.png" alt="" /></a></p>
 <p>Statuspäivitysten ja muiden henkilökohtaisten tietojen yksityisyysasetukset löytyvät "Profile"-linkin takaa:<br />
-<a href="{{ site.baseurl }}/images/2008/04/facebook6.png"><img class="alignnone size-full wp-image-74" title="facebook6" src="{{ site.baseurl }}/images/2008/04/facebook6.png" alt="" /></a></p>
-<p>Tämä sivu sisältää asetukset eri tietojen näkymiselle. Valitse  kohdasta "Status  Updates"  ->  Customize...<a href="{{ site.baseurl }}/images/2008/04/facebook7.png"><img class="alignnone size-full wp-image-75" title="facebook7" src="{{ site.baseurl }}/images/2008/04/facebook7.png" alt="" width="425" height="88" /></a></p>
+<a href="/images/2008/04/facebook6.png"><img class="alignnone size-full wp-image-74" title="facebook6" src="/images/2008/04/facebook6.png" alt="" /></a></p>
+<p>Tämä sivu sisältää asetukset eri tietojen näkymiselle. Valitse  kohdasta "Status  Updates"  ->  Customize...<a href="/images/2008/04/facebook7.png"><img class="alignnone size-full wp-image-75" title="facebook7" src="/images/2008/04/facebook7.png" alt="" width="425" height="88" /></a></p>
 <p>"Limited Profile"-ryhmä lisätään kohtaan "Except these people", jolloin statuspäivitykset eivät enää näy "Limited Profile"-ryhmään kuuluville. Ryhmän pääsee valitsemaan kun klikkaa kentän oikeassa laidassa näkyvää ikonia.</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook8.png"><img class="alignnone size-full wp-image-76" title="facebook8" src="{{ site.baseurl }}/images/2008/04/facebook8.png" alt="" width="375" height="447" /></a></p>
+<p><a href="/images/2008/04/facebook8.png"><img class="alignnone size-full wp-image-76" title="facebook8" src="/images/2008/04/facebook8.png" alt="" width="375" height="447" /></a></p>
 <p>Lopputuloksen pitäisi näyttää tältä:</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook9.png"><img class="alignnone size-full wp-image-77" title="facebook9" src="{{ site.baseurl }}/images/2008/04/facebook9.png" alt="" width="375" height="144" /></a></p>
+<p><a href="/images/2008/04/facebook9.png"><img class="alignnone size-full wp-image-77" title="facebook9" src="/images/2008/04/facebook9.png" alt="" width="375" height="144" /></a></p>
 <p>Paina "Okay"-nappia ja statuspäivitysten yksityisyysasetusten pitäisi nyt näyttää tältä:</p>
-<p><a href="{{ site.baseurl }}/images/2008/04/facebook10.png"><img class="alignnone size-full wp-image-68" title="facebook10" src="{{ site.baseurl }}/images/2008/04/facebook10.png" alt="" width="423" height="83" /></a></p>
+<p><a href="/images/2008/04/facebook10.png"><img class="alignnone size-full wp-image-68" title="facebook10" src="/images/2008/04/facebook10.png" alt="" width="423" height="83" /></a></p>
 <p>Muista tallentaa muutokset alhaalta löytyvällä "Save Changes"-napilla. Siinäpä on kaikki mitä vaaditaan. Muiden tietojen yksityisyyttä voi rajata samalla tavalla. Voit myös tehdä useita erilaisia listoja kavereistasi ja rajata tietoja eri ryhmille. Tämän ohjeen puutteita tai korjausehdotuksia voi lisätä kommentteihin.</p>

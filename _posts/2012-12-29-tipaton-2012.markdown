@@ -32,7 +32,7 @@ excerpt: Olin vuoden 2012 juomatta alkoholia.
 <h2>Miinukset</h2>
 <p>Hyviä alkoholittomia oluita ei minun tietääkseni ole olemassa. Tämä oli tiedossa jo aikaisempien tipattomien tammikuiden perusteella, enkä yrittänyt sen enempää tutkia vaihtoehtoja. Oluen vaihtaminen alkoholittomaan olueen ei vain ole vaihtoehto. Alkoholittomia viinejä en kokeillut. Olen kuullut niistä hieman ristiriitaisia tuomioita, enkä viitsinyt ruveta testaamaan asiaa.</p>
 <p>Edelliseen liittyen, hyvien alkoholijuomien ja makuelämysten missaaminen harmitti melkolailla. Ranskassa olisi ollut kiva maistella viinejä, Helsingin drinkkibaareissa mojitoja ja viskinmaisteluillassa viskejä :|</p>
-<p><img class="alignnone size-medium wp-image-920" alt="viskit" src="{{ site.baseurl }}/images/2012/12/viskit-300x225.jpg" width="300" height="225" /></p>
+<p><img class="alignnone size-medium wp-image-920" alt="viskit" src="/images/2012/12/viskit-300x225.jpg" width="300" height="225" /></p>
 <p>Ja toki tietyt tapahtumat olisivat luultavasti olleet mukavampia pienessä humalassa. En välttämättä lähtisi enää Tallinnan risteilylle selvinpäin, ja mies- / työporukalla lasiin syljeskely herkästi heikentää bondaamista.</p>
 <h2>Muuta</h2>
 <p>Seurustelu hiprakassa olevien ihmisten kanssa oli plussa ja miinus. Normaalissa keskustelussa tunnen yleensä olevani jatkuvasti askeleen jäljessä. Muut ovat yleensä jo seuraavassa aiheessa kun keksin sanottavaa edelliseen aiheeseen. Muiden nauttima alkoholi tasoitti pelikenttää hiukan, mutta tietenkin tarpeeksi pitkälle vietynä keskustelun yrittäminen muuttui turhauttavaksi.</p>

@@ -67,7 +67,7 @@ DIV {
 </body>
 ```
 
-<p>Ylläoleva määrittely tuottaa <a href="{{ site.baseurl }}/images/2007/12/test.html" title="Yahoo UI Grid testisivu">tällaisen rakenteen</a>. Myönnettäköön että sisäkkäiset <code>yui-main, yui-b, yui-g</code> -määrittelyt näyttävät aluksi vähän pelottavilta. Rakenne on kuitenkin selkeä:</p>
+<p>Ylläoleva määrittely tuottaa <a href="/images/2007/12/test.html" title="Yahoo UI Grid testisivu">tällaisen rakenteen</a>. Myönnettäköön että sisäkkäiset <code>yui-main, yui-b, yui-g</code> -määrittelyt näyttävät aluksi vähän pelottavilta. Rakenne on kuitenkin selkeä:</p>
 <ul>
 <li><code>yui-main</code>: kertoo että tämän sisällä olevat <code>yui-b</code> elementit nousevat sivulla ylimmäksi. Tämä ansiosta elementtien visuaalinen järjestys ei riipu lähdekoodissa olevasta järjestyksestä.</li>
 <li><code>yui-b</code>: B niin kuin "Block". Jakaa sivua vaakasuunnassa.</li>

@@ -61,7 +61,7 @@ comments:
     - Valitse vasemmalta \"Aalto wants to\" -linkki.\r\n\r\nKirjoitin hiemaan aiheeseen
     liittyen kommentin. Ehkä sinullakin olisi asiaan sanottavaa :)"
 ---
-<p><img class="alignnone size-full wp-image-221" title="43 Folders logo" src="{{ site.baseurl }}/images/2008/09/clipboard01.jpg" alt="" width="342" height="110" /></p>
+<p><img class="alignnone size-full wp-image-221" title="43 Folders logo" src="/images/2008/09/clipboard01.jpg" alt="" width="342" height="110" /></p>
 <p>Merlin Mann pitää kuuluisahkoa <a href="http://www.43folders.com/">43 Folders</a>-sivustoa, joka keskittyi aikaisemmin henkilökohtaisen tuottavuuden parantamiseen erilaisten tekniikoiden ja apuvälineiden avulla. Muutama viikko sitten Mann kertoi keskittyvänsä tulevaisuudessa siihen, miten ihmiset voisivat löytää aikaa asioiden tekemiseen ja pystyisivät keskittymään siihen miten tekevät. Aikaisemman ja uuden lähestymistavan ero selviää hyvin <a title="43 Folders: Time, Attention, and Creative Work" href="http://www.43folders.com/2008/09/10/time-attention-creative-work">tästä</a> pitkästä, mutta hyvästä kirjoituksesta.</p>
 <p><a id="more"></a><a id="more-219"></a>Tarkoituksena on siis saada ihmiset tekemään niitä asioita, joita heidän kannattaisi tehdä. Netissä surffaaminen ei esimerkiksi ole kovin kannattavaa. Siksi tykkään erityisesti 43 Foldersin <a title="How to Use 43 Folders" href="http://www.43folders.com/howto">howto-sivusta</a>, joka kertoo miten sivustoa käytetään:</p>
 <blockquote><p>A very simple guide to leaving here quickly so you can get back to making something awesome. <strong>Ask yourself&hellip; Why am I here right now instead of making something cool on my own?</strong> What&rsquo;s the barrier to me starting that right now?</p></blockquote>
