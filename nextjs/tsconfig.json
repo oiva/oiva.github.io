@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "include": ["components/**/*", "lib/**/*"],
+  "exclude": ["node_modules"]
+}

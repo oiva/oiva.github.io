@@ -1,7 +1,6 @@
 import fs from 'fs'
 import { join } from 'path'
 import { getPage } from 'next-page-tester'
-import { screen, fireEvent } from '@testing-library/react'
 
 const testDirectory = join(process.cwd(), '__tests__')
 
