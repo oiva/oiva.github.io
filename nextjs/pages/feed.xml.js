@@ -34,9 +34,11 @@ const getFeed = (posts) => {
         return `<item>
         <title>${post.title}</title>
         <description>${description(post.content)}</description>
-        <content>${escape(post.content)}</content>
-        <pubDate>${post.date}</pubDate>
-        <dc:creator/>
+        <content>${escape(
+          fixFeedProblems(idAttributes(post.content))
+        )}</content>
+        <pubDate>${post.dateString}</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
         <link>https://oivaeskola.fi/${post.slug}</link>
         <guid isPermaLink="false">https://oivaeskola.fi/${post.slug}</guid>
         ${
@@ -74,10 +76,26 @@ async function getPosts() {
   ])
 
   const markdownPosts = []
+  const timeFormat = new Intl.DateTimeFormat('en-GB', {
+    weekday: 'short',
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  })
+
   for (const post of allPosts) {
     post.rawContent = post.content
-    post.content = await markdownToHtml(post.content || '')
+    post.content = await markdownToHtml(post.content || '', {
+      sanitize: false,
+      collapseEmptyAttributes: false,
+    })
     post.excerpt = await markdownToHtml(post.excerpt || '')
+    const date = new Date(post.date)
+    post.dateString = `${timeFormat.format(date)} ${zeropad(
+      date.getHours()
+    )}:${zeropad(date.getMinutes())}:${zeropad(date.getSeconds())} +0${
+      date.getTimezoneOffset() / -60
+    }00`
     markdownPosts.push(post)
   }
 
@@ -95,6 +113,34 @@ function description(value, truncateLength = 450) {
   return text
 }
 
+function zeropad(num) {
+  if (num < 10) return `0${num}`
+  return num
+}
+
+function idAttributes(value) {
+  return value.replace(
+    /<h([1-6])>(.*?)<\/h/g,
+    (match, p1, p2, offset, string) => {
+      const slug = p2
+        .replace(/\s/g, '-')
+        .replace(/[^a-zA-Z\-]/g, '')
+        .toLowerCase()
+      return `<h${p1} id="${slug}">${p2}</h`
+    }
+  )
+}
+
+function fixFeedProblems(value) {
+  return value
+    .replace(/_\(David_Bowie_song\)/, '_\\(David_Bowie_song\\)')
+    .replace('”<a href', '“<a href')
+    .replace(/allowfullscreen>/g, 'allowfullscreen="">')
+}
+
 function escape(value) {
-  return value.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/'/g, '’')
+  return value
+    .replace(/\n/g, '\n\n')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
 }
