@@ -7,14 +7,14 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-date: '2019-10-21 19:20:00 +0200'
-date_gmt: '2019-10-21 17:20:00 +0000'
-categories: 
-- infotoggle
-- web-kehitys
-- web-palvelut
-- työ
-- internet
+date: "2019-10-21 19:20:00 +0200"
+date_gmt: "2019-10-21 17:20:00 +0000"
+categories:
+  - infotoggle
+  - web-kehitys
+  - web-palvelut
+  - työ
+  - internet
 tags: []
 excerpt: "I'm creating a SaaS called InfoToggle"
 ---
@@ -27,7 +27,7 @@ useful to others as well.
 The problem InfoToggle solves is pretty simple and is something we see in my
 current work at [POP Vakuutus](https://www.popvakuutus.fi) quite often. We sell
 insurance but a successful sale depends on multiple external systems, for
-example the national vehicle database Trafi, a credit check service, and 
+example the national vehicle database Trafi, a credit check service, and
 customer authentication, a service provided by banks. Any of these systems
 might and do break from time to time. Especially Trafi has a notoriously bad
 uptime record and often does unscheduled service breaks they only announce
@@ -44,7 +44,7 @@ car insurance and preferably ask them to try again later.
 Here's where InfoToggle comes in: it lets site owners create messages for
 situations like these and easily \*toggle\* them on. For service
 breaks known in advance a message can be timed to be visible the duration of
-the break. 
+the break.
 
 Of course the messages added to your site can be whatever: announcements,
 discount codes... InfoToggle lets you add any HTML, CSS, and JS code you need
@@ -76,4 +76,3 @@ InfoToggle is now at a point where technically it works and it's in production
 use. There are a ton of features and improvements still to do but I also need
 to focus on marketing and selling hard. All in all it's still super early and
 we'll see how it goes. I'll keep you posted :)
-

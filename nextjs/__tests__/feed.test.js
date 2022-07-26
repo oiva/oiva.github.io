@@ -1,3 +1,4 @@
+import { max } from 'date-fns'
 import fs from 'fs'
 import { join } from 'path'
 import { getServerSideProps } from '../pages/feed.xml'
@@ -24,18 +25,31 @@ const getFeed = async () => {
   return { rendered, responseHeader, responseHeaderValue }
 }
 
+const getDifference = (s, t) => {
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] !== t[i]) {
+      return `index ${i}: ${s[i]}: ${s.charCodeAt(i)} != ${t.charCodeAt(
+        i
+      )}\n\n(${s.substring(Math.max(i - 10, 0), i + 10)})`
+    }
+  }
+}
+
 expect.extend({
   toMatchField(received, oldValue, message) {
-    if (util.isDeepStrictEqual(received, oldValue)) {
+    if (received == oldValue || util.isDeepStrictEqual(received, oldValue)) {
       return {
         message: () =>
-          `${message}\n\nreceived: \x1b[32m${received}\n\n\x1b[37mexpected: \x1b[31m${oldValue}`,
+          `${message}\n\nreceived: "\x1b[32m${received}\x1b[37m"\n\nexpected: "\x1b[31m${oldValue}\x1b[37m"`,
         pass: true,
       }
     }
     return {
       message: () =>
-        `${message}\n\nreceived: \x1b[32m${received}\n\n\x1b[37mexpected: \x1b[31m${oldValue}`,
+        `${message}\n\nreceived: "\x1b[32m${received}\x1b[37m"\n\nexpected: "\x1b[31m${oldValue}\x1b[37m"\n\nDiff: "${getDifference(
+          received,
+          oldValue
+        )}"`,
       pass: false,
     }
   },
@@ -59,8 +73,15 @@ describe('RSS Feed', () => {
     for (const item in docOld.rss.channel.item) {
       const oldItem = docOld.rss.channel.item[item]
       for (const field in oldItem) {
-        const oldField = oldItem[field]
-        const newField = docNew.rss.channel.item[item][field]
+        let oldField = oldItem[field]
+        let newField = docNew.rss.channel.item[item][field]
+        if (oldField.trim) {
+          oldField = oldField.trim()
+        }
+        if (newField.trim) {
+          newField = newField.trim()
+        }
+
         expect(newField).toMatchField(
           oldField,
           `field '${field}' does not match`

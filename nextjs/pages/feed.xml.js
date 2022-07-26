@@ -90,12 +90,8 @@ async function getPosts() {
       collapseEmptyAttributes: false,
     })
     post.excerpt = await markdownToHtml(post.excerpt || '')
-    const date = new Date(post.date)
-    post.dateString = `${timeFormat.format(date)} ${zeropad(
-      date.getHours()
-    )}:${zeropad(date.getMinutes())}:${zeropad(date.getSeconds())} +0${
-      date.getTimezoneOffset() / -60
-    }00`
+    post.dateString = getDateString(post.date, timeFormat)
+    post.slug = getSlug(post.slug)
     markdownPosts.push(post)
   }
 
@@ -111,6 +107,17 @@ function description(value, truncateLength = 450) {
     text = text.substring(0, truncateLength - 3) + '...'
   }
   return text
+}
+
+function getSlug(postSlug) {
+  return postSlug.replace(/^(\d{4})-(\d{2})-(\d{2})-/, '$1/$2/$3/') + '/'
+}
+
+function getDateString(postDate, timeFormat) {
+  const date = new Date(postDate)
+  return `${timeFormat.format(date)} ${zeropad(date.getHours())}:${zeropad(
+    date.getMinutes()
+  )}:${zeropad(date.getSeconds())} +0${date.getTimezoneOffset() / -60}00`
 }
 
 function zeropad(num) {
@@ -136,11 +143,12 @@ function fixFeedProblems(value) {
     .replace(/_\(David_Bowie_song\)/, '_\\(David_Bowie_song\\)')
     .replace('”<a href', '“<a href')
     .replace(/allowfullscreen>/g, 'allowfullscreen="">')
+    .replace(/:\)<\/p>\n?$/, ':)</p>\n\n')
 }
 
 function escape(value) {
   return value
-    .replace(/\n/g, '\n\n')
+    .replace(/>\n(\s*?)</g, '>\n\n$1<')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
 }

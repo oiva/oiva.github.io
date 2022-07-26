@@ -190,7 +190,7 @@ useful to others as well.&lt;/p&gt;
 &lt;p&gt;The problem InfoToggle solves is pretty simple and is something we see in my
 current work at &lt;a href=&quot;https://www.popvakuutus.fi&quot;&gt;POP Vakuutus&lt;/a&gt; quite often. We sell
 insurance but a successful sale depends on multiple external systems, for
-example the national vehicle database Trafi, a credit check service, and 
+example the national vehicle database Trafi, a credit check service, and
 customer authentication, a service provided by banks. Any of these systems
 might and do break from time to time. Especially Trafi has a notoriously bad
 uptime record and often does unscheduled service breaks they only announce

@@ -1,17 +1,17 @@
 ---
 layout: post
-status: publish 
+status: publish
 published: true
 title: "Youtube recommendations"
 author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-date: '2020-06-28 17:00:00 +0200'
-date_gmt: '2020-06-28 15:00:00 +0000'
-categories: 
-- youtube
-- internet
+date: "2020-06-28 17:00:00 +0200"
+date_gmt: "2020-06-28 15:00:00 +0000"
+categories:
+  - youtube
+  - internet
 tags: []
 excerpt: "Some youtube videos I've like recently"
 ---
@@ -36,8 +36,8 @@ Daniel makes mixing look so easy and effortless. Of course one thing to note is 
 
 A lot of effort went into composing and recording these songs and planning how all the instruments play together even before mixing. "Long Train Running" is already groovy as hell with only the drums and guitar. You wouldn't be able to quickly mix ten garbage tracks and make the song _sing_ the same way.
 
-## Bonus round: Nile Rodgers Tells The Story of "Let's Dance" 
+## Bonus round: Nile Rodgers Tells The Story of "Let's Dance"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NlDCPCwVNUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie's simple guitar riff and turned it into "[Let's Dance](https://en.wikipedia.org/wiki/Let%27s_Dance_\(David_Bowie_song\))", a massive hit in 1982. Pure magic.
+This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie's simple guitar riff and turned it into "[Let's Dance](<https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_song)>)", a massive hit in 1982. Pure magic.
