@@ -3,14 +3,15 @@ layout: post
 status: publish
 published: true
 title: Edgar Wright - How to Do Visual Comedy
-date: '2014-10-08 16:23:00 +0200'
-date_gmt: '2014-10-08 14:23:00 +0200'
+date: "2014-10-08 14:23:00 +0200"
+date_gmt: "2014-10-08 14:23:00 +0200"
 categories:
-- movies
+  - movies
 tags:
-- edgar wright
-- comedy
+  - edgar wright
+  - comedy
 ---
+
 <figure>
   <iframe src="//player.vimeo.com/video/96558506?color=f0a400&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>

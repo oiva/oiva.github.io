@@ -7,20 +7,21 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
 wordpress_id: 949
 wordpress_url: http://www.bobs.fi/oiva/?p=949
-date: '2013-01-02 19:50:51 +0200'
-date_gmt: '2013-01-02 17:50:51 +0200'
+date: "2013-01-02 17:50:51 +0200"
+date_gmt: "2013-01-02 17:50:51 +0200"
 categories:
-- elämä
-- podcastit
+  - elämä
+  - podcastit
 tags: []
 comments: []
 excerpt: Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea.
 ---
+
 <p>Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta <a href="http://www.43folders.com/2006/01/30/fresh-modest-wrapup">pariin</a> <a href="http://www.43folders.com/2011/01/07/first-pancake">otteeseen</a>, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa <a href="http://5by5.tv/b2w/47">hyvä podcast-jakso</a>*.</p>
 <p>Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta käymään salilla viidesti viikossa, niin epäonnistuminen on aika todennäköistä.</p>
 <p>Uudenvuodenlupauksiin liittyy usein myös tietty on/off -ajattelu: <em>"en polta enää ikinä"</em> on hyvä tavoite, mutta koko lupaus saattaa unohtua jos siinä epäonnistuu kerrankin.</p>

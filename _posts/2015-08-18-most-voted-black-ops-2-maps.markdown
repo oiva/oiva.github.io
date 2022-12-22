@@ -4,7 +4,7 @@ status: published
 published: true
 title: Most Popular Black Ops II Multiplayer Maps
 date: '2015-08-18 15:53:00 +0300'
-date_gmt: '2015-08-18 13:53:00 +0300'
+date_gmt: '2015-08-18 12:53:00 +0000'
 categories: [] 
 tags:
 - games
@@ -13,12 +13,12 @@ tags:
 ---
 <img src="/images/2015/nuketown.jpg" alt="Nuketown" width="686" />
 
-[Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II) 
-is a 2012 first-person shooter game for the previous generation consoles 
-(PS3, Xbox 360, Wii U). While the game is a bit old, its multiplayer mode is 
+[Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II)
+is a 2012 first-person shooter game for the previous generation consoles
+(PS3, Xbox 360, Wii U). While the game is a bit old, its multiplayer mode is
 still insanely popular.
 
-Most of the multiplayer action happens in Team Deathmatch which is a 
+Most of the multiplayer action happens in Team Deathmatch which is a
 fast-paced, two team *run-shoot-die* game mode.
 
 And I have been playing that <span style="text-decoration: underline">a lot</span>
@@ -27,14 +27,14 @@ lately (under my secret alias *Oivaraattori*).
 ### Picking a map
 
 A key part of the team deathmatch is voting for the next map to be played.
-In Black Ops II there are 
+In Black Ops II there are
 [15 standard maps](http://callofduty.wikia.com/wiki/Category:Call_of_Duty:_Black_Ops_II_Multiplayer_Maps)
 to choose from.
 
 Each player can either vote a new map chosen randomly by the game,
 the previous map, or a random map which is revealed when voting ends.
 
-<img src="/images/2015/blackops2.png" alt="Black Ops 2 map voting" width="343" height="260">
+<p><img src="/images/2015/blackops2.png" alt="Black Ops 2 map voting" width="343" height="260" /></p>
 
 If a map has been played two times in a row it cannot be voted again and only
 available options are the new map suggested by the game or a random map.
@@ -176,14 +176,14 @@ winning a vote against any of the other maps.
 
 The random line is interesting. If given an option below the random line people
 are more likely to vote for random in order to possibly get one of the four
-"good" maps above it. The maps above the line nearly always beat random in a 
+"good" maps above it. The maps above the line nearly always beat random in a
 vote. **If players were given a free choice they would probably just play the
 top-4 maps**.
 
 As mentioned before, some maps were really close and could easily have changed
-order given slightly different votes or more data. *Carrier* / *Turbine* / 
+order given slightly different votes or more data. *Carrier* / *Turbine* /
 *Meltdown* were always close, as were *Plaza* / *Slums* / *Drone* /
-*Overflow*. Of the top maps *Hijacked*, *Standoff*, and *Raid* were almost 
+*Overflow*. Of the top maps *Hijacked*, *Standoff*, and *Raid* were almost
 equally as good.
 
 Personally I feel the results are OK. *Nuketown* **is** a really fun map with
@@ -191,6 +191,6 @@ many ways to play it and limited sniper action. And I dislike *Drone*
 because it's mostly a sniper map with some anemic close combat action
 but apparently it has some fans.
 
-I'm sure Treyarch would have a lot more data about this but I haven't come 
+I'm sure Treyarch would have a lot more data about this but I haven't come
 across any official rankings. If some previous work exists or you have better
 data hit me up on [Twitter](https://twitter.com/oiva)!

@@ -7,26 +7,27 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
 wordpress_id: 867
 wordpress_url: http://www.bobs.fi/oiva/?p=867
-date: '2012-09-24 22:22:51 +0300'
-date_gmt: '2012-09-24 20:22:51 +0300'
+date: "2012-09-24 20:22:51 +0300"
+date_gmt: "2012-09-24 20:22:51 +0300"
 categories:
-- web-kehitys
-- työ
-- osx
+  - web-kehitys
+  - työ
+  - osx
 tags:
-- apple
-- OS X
-- hackintosh
-- Mac Pro
-- Time Machine
+  - apple
+  - OS X
+  - hackintosh
+  - Mac Pro
+  - Time Machine
 comments: []
 excerpt: Miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla.
 ---
+
 <p>Kokosin vähän muisteloita miten päädyin käyttämään OS X:ää, mutta en aina Applen tietokoneilla. Pahoitteluni "Apple ja minä"-tyyppisestä postauksesta, mutta lupaan olla mainitsematta iPhonea.</p>
 <h2>"Macbook Air"</h2>
 <p>Joskus vuoden 2009 tienoilla kaipailin läppäriä kouluun. En muista mistä ajatus lähti, mutta halusin oman mäkin. Ehkä himoitsin vuotta aikaisemmin julkaistua Applen Macbook Airia. Koulussa oli tullut myös käytettyä mäkkejä, joten ihan tyhjästä ei tarvinnut lähteä liikkeelle.</p>

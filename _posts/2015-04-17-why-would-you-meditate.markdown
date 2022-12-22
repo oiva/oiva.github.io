@@ -10,7 +10,7 @@ tags:
 - meditation
 ---
 The other day I stumbled upon a Facebook argument about meditation: is it 
-about *suppressing* bad memories, or *processing* bad memories? The  person
+about *suppressing* bad memories, or *processing* bad memories? The person
 thinking meditation suppresses memories naturally considered it harmful, and a
 possibly dangerous fad.
 
@@ -19,17 +19,17 @@ I'd be willing to argue meditation is neither. It's more about being ready when
 the next bad thing happens. Or a good thing for that matter.
 
 The reward from meditation is to gain clarity and to be ready for whatever life
-throws you. Sometimes life throws you lemons and it pays to realize that it's 
-something that does happen from time to time, that it might not even be 
+throws you. Sometimes life throws you lemons and it pays to realize that it's
+something that does happen from time to time, that it might not even be
 anything to get angry at, and maybe even see the lemonade-making opportunities
 that await you.
 
 There are certain aspects of meditation that might give a 'thought suppression'
-vibe. From 
+vibe. From
 [Wikipedia's great meditation article](http://en.wikipedia.org/wiki/Meditation):
 
 <blockquote cite="http://en.wikipedia.org/wiki/Meditation">
-  <p>Meditation often involves an internal effort to self-regulate the mind in 
+  <p>Meditation often involves an internal effort to self-regulate the mind in
      some way. Meditation is often used to clear the mind ...</p>
 </blockquote>
 

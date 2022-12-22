@@ -3,13 +3,14 @@ layout: post
 status: publish
 published: true
 title: This is Water
-date: '2015-01-16 15:53:00 +0200'
-date_gmt: '2015-01-16 13:53:00 +0200'
+date: "2015-01-16 13:53:00 +0200"
+date_gmt: "2015-01-16 15:53:00 +0200"
 categories:
-- life 
+  - life
 tags:
-- david foster wallace
+  - david foster wallace
 ---
+
 <figure>
   <iframe src="//player.vimeo.com/video/68855377" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
   <figcaption>
@@ -24,4 +25,3 @@ tags:
   <p>So happy this video is available again. (I think DFW’s estate DMCA’d the original post a few years ago booooooo)</p>
   <p>I can recommend watching this a couple times a year. We all really need to hear it.</p>
 </blockquote>
- 

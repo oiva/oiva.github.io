@@ -7,52 +7,53 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
 excerpt: Muutamia podcasteja, joita sinunkin kannattaisi kuunnella.
 wordpress_id: 809
 wordpress_url: http://www.bobs.fi/oiva/?p=809
-date: '2012-02-18 09:46:36 +0200'
-date_gmt: '2012-02-18 07:46:36 +0200'
+date: "2012-02-18 07:46:36 +0200"
+date_gmt: "2012-02-18 07:46:36 +0200"
 categories:
-- elämä
-- linkit
-- internet
+  - elämä
+  - linkit
+  - internet
 tags:
-- podcast
-- ohjelmointi
-- 5by5
-- JavaSript
+  - podcast
+  - ohjelmointi
+  - 5by5
+  - JavaSript
 comments:
-- id: 1616
-  author: "äiree"
-  author_email: amanda@iloinen.net
-  author_url: ''
-  date: '2012-02-18 17:38:01 +0200'
-  date_gmt: '2012-02-18 15:38:01 +0200'
-  content: "Hei,\r\nhienoa että oot luonnehtinut näitä valitsemiasi
-    podcasteja: just tällasta tiedon esipureksintaa tarvitaan tänä
-    päivänä. Aion kuunnella noi Walter Isaacson-pätkät, ainakin
-    toisen niistä.\r\n\r\nOiskohan kirjassa kuitenkin ytyä henkilöhistoriana?
-    Se siinä ainakin meikäläiseen tehosi eniten, ihminen ja hänen
-    kohtalonsa."
-- id: 1617
-  author: Oiva
-  author_email: oiva.eskola@gmail.com
-  author_url: http://oivaeskola.fi
-  date: '2012-02-18 19:08:29 +0200'
-  date_gmt: '2012-02-18 17:08:29 +0200'
-  content: "Henkilöhistoriana varmaan toimii, ja voi olla, että se oli se
-    mitä Jobskin kirjalta toivoi.\r\n\r\nMeitä nörttejä kuitenkin
-    kiinnostaa eniten Jobsin työ: mitä hän teki NeXTillä ja Applella,
-    ja miksi iPhone ja OS X ovat sellaisia kuin ovat. Siracusa ja Gruber (http://daringfireball.net/2012/02/walter_isaacson_steve_jobs)
-    ovat sitä mieltä, että Isaacson paitsi jätti kysymättä
-    kaikkein mielenkiintoisimmista asioista, myös raporoi Jobsin työhön
-    liittyvistä asioista välillä täysin päinvastoin kuin
-    ne oikeasti ovat. Ja harmistus on suuri, kun Jobsilta näitä asioita
-    ei enää päästä kysymään."
+  - id: 1616
+    author: "äiree"
+    author_email: amanda@iloinen.net
+    author_url: ""
+    date: "2012-02-18 17:38:01 +0200"
+    date_gmt: "2012-02-18 15:38:01 +0200"
+    content: "Hei,\r\nhienoa että oot luonnehtinut näitä valitsemiasi
+      podcasteja: just tällasta tiedon esipureksintaa tarvitaan tänä
+      päivänä. Aion kuunnella noi Walter Isaacson-pätkät, ainakin
+      toisen niistä.\r\n\r\nOiskohan kirjassa kuitenkin ytyä henkilöhistoriana?
+      Se siinä ainakin meikäläiseen tehosi eniten, ihminen ja hänen
+      kohtalonsa."
+  - id: 1617
+    author: Oiva
+    author_email: oiva.eskola@gmail.com
+    author_url: http://oivaeskola.fi
+    date: "2012-02-18 19:08:29 +0200"
+    date_gmt: "2012-02-18 17:08:29 +0200"
+    content: "Henkilöhistoriana varmaan toimii, ja voi olla, että se oli se
+      mitä Jobskin kirjalta toivoi.\r\n\r\nMeitä nörttejä kuitenkin
+      kiinnostaa eniten Jobsin työ: mitä hän teki NeXTillä ja Applella,
+      ja miksi iPhone ja OS X ovat sellaisia kuin ovat. Siracusa ja Gruber (http://daringfireball.net/2012/02/walter_isaacson_steve_jobs)
+      ovat sitä mieltä, että Isaacson paitsi jätti kysymättä
+      kaikkein mielenkiintoisimmista asioista, myös raporoi Jobsin työhön
+      liittyvistä asioista välillä täysin päinvastoin kuin
+      ne oikeasti ovat. Ja harmistus on suuri, kun Jobsilta näitä asioita
+      ei enää päästä kysymään."
 ---
+
 <p>En varmaan pystyisi kulkemaan bussilla Espoosta Helsinkiin jos podcasteja ei olisi olemassa. Nyt tuon ajan pystyy käyttämään, jos ei sivistävästi, niin ainakin viihdyttävästi.</p>
 <p>Uskoakseni <em>kaikki muutkin</em> kuuntelevat jo näitä, mutta kaiken varalta tässä on lista podcasteista, joita kuuntelen tällä hetkellä. Kaikki listan podcastit ovat englanniksi, mutta kerro toki kommenteissa jos tiedät hyviä suomenkielisiä podcasteja. Tai muuten vaan hyviä podcasteja. Mutta asiaan:</p>
 <a id="more"></a>

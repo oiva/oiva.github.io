@@ -25,12 +25,17 @@ const getFeed = async () => {
   return { rendered, responseHeader, responseHeaderValue }
 }
 
+const trimLines = (value) => {
+  // removes spaces from end of lines
+  return value.replace(/[^\S\r\n]+\n/g, '\n')
+}
+
 const getDifference = (s, t) => {
   for (let i = 0; i < s.length; i++) {
     if (s[i] !== t[i]) {
       return `index ${i}: ${s[i]}: ${s.charCodeAt(i)} != ${t.charCodeAt(
         i
-      )}\n\n(${s.substring(Math.max(i - 10, 0), i + 10)})`
+      )}\n\n(${s.substring(Math.max(i - 20, 0), i + 20)})\n\n(${t.substring(Math.max(i - 20, 0), i + 20)})`
     }
   }
 }
@@ -80,6 +85,10 @@ describe('RSS Feed', () => {
         }
         if (newField.trim) {
           newField = newField.trim()
+        }
+        // remove trailing spaces from 'content' field
+        if (field === 'content') {
+          oldField = trimLines(oldField)
         }
 
         expect(newField).toMatchField(

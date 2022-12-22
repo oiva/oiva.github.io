@@ -3,25 +3,25 @@ layout: post
 status: draft
 published: true
 title: "Next camera: Nikon vs. Fujifilm"
-date: '2016-01-20 00:44:00 +0200'
-date_gmt: '2016-01-19 22:44:00 +0000'
-categories: 
-- kamera
+date: "2016-01-20 00:44:00 +0200"
+date_gmt: "2016-01-19 22:44:00 +0000"
+categories:
+  - kamera
 tags:
-- camera
-- Nikon
-- Fujifilm
-- photography
+  - camera
+  - Nikon
+  - Fujifilm
+  - photography
 ---
-<img src="/images/2016/01/nikon-d7200-vs-fuji-xt10.jpg" alt="Fuji X-T10 vs. Nikon D7200" width="686" />
+
+<p><img src="/images/2016/01/nikon-d7200-vs-fuji-xt10.jpg" alt="Fuji X-T10 vs. Nikon D7200" width="686" /></p>
 
 Buying a camera in 2016 is hard. What kind of camera should you buy?
 
 Should you even buy a camera anymore? Phone cameras are beginning to be very
 good and they are the cameras that are literally always on you.
 
-The [iPhone 6s](http://austinmann.com/trek/iphone-6s-camera-review-switzerland
-"iPhone 6s camera review") and Google Nexuses now have 12MP camera sensors and
+The [iPhone 6s](http://austinmann.com/trek/iphone-6s-camera-review-switzerland "iPhone 6s camera review") and Google Nexuses now have 12MP camera sensors and
 I'm sure other phones have even more ridiculous sensors. Phones still fall short
 in shooting in low light where they tend to produce noisier photos. Still,
 shooting with a phone hardly stops you from getting great pictures, just look at
@@ -41,7 +41,7 @@ If you do decide to purchase a camera, the next question is DSLR or mirrorless?
 ([Digital single-lens reflex camera](https://en.wikipedia.org/wiki/Digital_single-slens_reflex_camera "Wikipedia: DSLR")
 / [Mirrorless interchangeable-lens camera](https://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera "Wikipedia: Mirrorless interchangeable-lens camera").)
 
-To date, about one billion articles and blog posts have been written about 
+To date, about one billion articles and blog posts have been written about
 "[DSLR vs. mirrorless](https://www.google.fi/search?q=dslr+vs+mirrorless "Google")".
 To summarize them all quickly:
 
@@ -55,7 +55,7 @@ To summarize them all quickly:
 Sure there are other aspects to assess like autofocus and selection of lenses
 but there the gap is getting narrower. And of course people are quick to point
 out that **not all DSLRs** are big and bulky and not all mirrorless cameras are
-small and light. I get it, but that's the difference *in general*.
+small and light. I get it, but that's the difference _in general_.
 
 Anyway, what's interesting reading those articles is that reasons for having a
 DSLR are moving towards "I'm a war photographer and need the best camera there
@@ -78,7 +78,7 @@ standards. The camera was released in 2008 and sensor technology has advanced a
 bit since then. Nikon has since release three cameras in the same "prosumer"
 category: **D7000** (2010), **D7100** (2013) and **D7200** (2015).
 
-<img src="/images/2016/01/D7200.jpg" alt="Nikon D7200" width="686" />
+<p><img src="/images/2016/01/D7200.jpg" alt="Nikon D7200" width="686" /></p>
 
 Most logical upgrade path would be to purchase the D7200 or a used D7100. Their
 differences are [minor](http://snapsort.com/compare/Nikon-D7100-vs-Nikon-D7200/detailed)
@@ -91,7 +91,7 @@ ever pay for a camera.
 
 <a href="https://www.flickr.com/photos/oiva/15886299454/in/dateposted-public/"><img src="/images/2016/01/camel.jpg" alt="Camel" width="686" /></a>
 
-I'm not a professional photographer. I *like* taking photos but practically
+I'm not a professional photographer. I _like_ taking photos but practically
 speaking I only take some silly photos on vacations and parties and that's about
 it. There are hardly any situations where the camera would be holding me back.
 
@@ -100,7 +100,7 @@ it. There are hardly any situations where the camera would be holding me back.
 <img src="/images/2016/01/fuji-xt10.jpg" alt="Fuji X-T10" width="686" />
 
 I had almost convinced myself I should buy the D7200... until a friend of a
-friend posted a long post on Facebook about how they *love* their Fuji camera
+friend posted a long post on Facebook about how they _love_ their Fuji camera
 and how it totally makes you like photography again. Oh boy.
 
 That person had a [Fuji X-T1](http://www.dpreview.com/reviews/fujifilm-x-t1)
@@ -108,7 +108,7 @@ which is a bit pricey for my budget but after a frantic googling of all possible
 Fujifilm cameras I found two other models that had very favorable reviews: the
 [X-E2](http://www.dpreview.com/reviews/fujifilm-x-e2) and the
 [X-T10](http://www.dpreview.com/reviews/fujifilm-x-t10). The latter is a
-slightly stripped  down version of the X-T1 (no weather-sealing, smaller buffer)
+slightly stripped down version of the X-T1 (no weather-sealing, smaller buffer)
 but it's also more affordable: with a 18-55mm kit lens it costs just a bit more
 than the D7200.
 
@@ -117,7 +117,7 @@ top of the camera. The X-T10 has dials for exposure compensation, shutter speed
 and drive mode. This may not seem like a big deal, but on Nikon digital cameras
 those specific functions are handled with two anonymous front and back dials.
 What's worse, they seem to be weirdly modal: sometimes spinning the real dial
-doesn't change exposure or the front dial won't change the shutter speed. 
+doesn't change exposure or the front dial won't change the shutter speed.
 Dedicating dials with numbers on them for these functions sounds promising.
 
 The top dials also remind me of my first serious camera, the [Nikon

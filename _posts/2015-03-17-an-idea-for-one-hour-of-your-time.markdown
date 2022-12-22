@@ -16,7 +16,7 @@ tags:
 
 You go into the woods and come back with an idea. How does that work?
 
-Walking. The answer's walking. For walking **an hour in the woods** you are  guaranteed at least **one actionable idea**.
+Walking. The answer's walking. For walking **an hour in the woods** you are guaranteed at least **one actionable idea**.
 
 Now, this is my personal experience. It's not a scientific fact (that I know of). There does exist some walking related research ([see links at the end](#bonus-round-research)) that could be summarized: walking increases creativity and relieves stress. So.
  
@@ -78,7 +78,7 @@ You might want to take notes on your walks. One option is to use Siri or Google 
 What's interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.
 
 <figure>
-  <a href="https://www.flickr.com/photos/oiva/2695843572" title="Puu by Oiva Eskola, on Flickr"><img src="https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg" width="214" height="320" alt="Puu"></a>
+  <a href="https://www.flickr.com/photos/oiva/2695843572" title="Puu by Oiva Eskola, on Flickr"><img src="https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg" width="214" height="320" alt="Puu" /></a>
   <figcaption>Here's a tree.</figcaption>
 </figure>
 

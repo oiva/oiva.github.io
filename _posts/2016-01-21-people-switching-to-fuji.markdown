@@ -3,15 +3,15 @@ layout: post
 status: draft
 published: true
 title: "Stories about switching to Fuji"
-date: '2016-01-21 00:05:00 +0200'
-date_gmt: '2016-01-20 22:05:00 +0000'
-categories: 
-- kamera
+date: "2016-01-21 00:05:00 +0200"
+date_gmt: "2016-01-20 22:05:00 +0000"
+categories:
+  - kamera
 tags:
-- camera
-- Nikon
-- Fujifilm
-- photography
+  - camera
+  - Nikon
+  - Fujifilm
+  - photography
 ---
 
 Some experiences from folks who've switched to from Nikon to Fuji systems,
@@ -31,6 +31,7 @@ in why people start looking for something smaller.
 When was the last time Nikon or Canon came out with a brand new
 camera feature on a camera that has been out more than 12 months?
 </blockquote>
+
 <blockquote>
 I sincerely believe that by 2020 there will be hardly any new
 classic DSLR's being sold.
@@ -38,7 +39,7 @@ classic DSLR's being sold.
 
 #### [From Nikon to Fuji, 20,000 pictures with the x-t1](https://www.youtube.com/watch?v=wZM40jC2ueE)
 
-A video from **Lukas Gisbert-Mora**, a wedding photographer, about the reasons why he 
+A video from **Lukas Gisbert-Mora**, a wedding photographer, about the reasons why he
 switched to Fuji X-T1. Including limitations of the Fuji.
 
 <blockquote>

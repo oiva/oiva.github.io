@@ -4,7 +4,7 @@ import html from 'remark-html'
 
 export default async function markdownToHtml(markdown, options) {
   const result = await remark()
-    .use(smartypants)
+    .use(smartypants, { dashes: 'oldschool' })
     .use(html, options)
     .process(markdown)
   return result.toString()

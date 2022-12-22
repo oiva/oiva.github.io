@@ -12,8 +12,8 @@ tags:
 <picture>
   <img
     src="/images/2015/croatia-1.jpg"
-    srcset="images/2015/croatia-1.5.jpg 1.5x,
-            images/2015/croatia.jpg 2x"
+    srcset="/images/2015/croatia-1.5.jpg 1.5x,
+            /images/2015/croatia.jpg 2x"
     alt="Road in Croatia"
     width="686"
   />
@@ -25,7 +25,7 @@ advance and at the height of the summer season there were no cheap hotels left.
 Airbnb had much more choice and prices were reasonable if not cheap.
 
 This was my first time of really using Airbnb and I was surprised to find out
-that all the apartments and rooms we booked were run by professional 
+that all the apartments and rooms we booked were run by professional
 accommodation businesses. One was actually a hostel but really felt more like
 a hotel minus the breakfast.
 

@@ -7,25 +7,26 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
 wordpress_id: 1159
 wordpress_url: http://www.bobs.fi/oiva/?p=1159
-date: '2013-05-29 23:23:35 +0300'
-date_gmt: '2013-05-29 21:23:35 +0300'
+date: "2013-05-29 18:23:35 +0000"
+date_gmt: "2013-05-29 21:23:35 +0300"
 excerpt: OpenStreetMap on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille.
 categories:
-- käytettävyys
-- elämä
-- internet
+  - käytettävyys
+  - elämä
+  - internet
 tags:
-- JavaScript
-- OpenStreetMap
-- OSM
-- kartat
+  - JavaScript
+  - OpenStreetMap
+  - OSM
+  - kartat
 comments: []
 ---
+
 <p><a href="http://www.openstreetmap.org/">OpenStreetMap</a> on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille. Kuka tahansa pääsee lisäämään yhteiselle kartalle asioita, ja karttadatasta voi muodostaa erilaisia karttoja tai käyttää sitä navigointiin, tai mitä nyt ikinä keksiikin.</p>
 <p>Koko maailman kartoitus on yllättävän iso homma, eikä OSM ole kattavuudeltaan ihan kaupallisten karttapalveluiden tasoa, mutta avoimuus tarjoaa sellaista ketteryyttä, mihin isommat toimijat eivät pysty. OSM-piireissä tykätään kertoa tarinaa siitä, miten Haitin maanjäristyksen jälkeen <a href="http://www.newyorker.com/online/blogs/closeread/2010/02/a-map-of-thousands.html">tuhannet OSM-käyttäjät kartoittivat saaren viikossa</a>, kun olemassa olevat kartat alueelta olivat epätarkkoja ja vuosikymmeniä vanhoja. Uudet kartat auttoivat pelastustyöntekijöitä toimittamaan apua tehokkaammin perille.</p>
 <p>Vaikka OpenStreetMappia verrataan usein Wikipediaan, niin niillä on myös selkeä ero: OpenStreetMappiin kannustetaan tekemään muutoksia riippumatta siitä, miten merkittäviä tai merkityksettömiä ne ovat. Mikään taho ei tunnu määräävän millaista tietoa kartalle kerätään. Jos joku haluaa merkitä kartalle <a title="Liikennemerkkien kartoitus - OpenStreetMap forum" href="http://forum.openstreetmap.org/viewtopic.php?id=20822">kaikki Suomen liikennemerkit</a>, niin riittää, että keksii liikennemerkeille sopivat tagit ja rupeaa lisäämään niitä kartalle. Jos idea saa kannatusta, niin muutkin rupeavat keräämään liikennemerkkejä.</p>

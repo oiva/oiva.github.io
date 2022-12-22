@@ -7,21 +7,22 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
 wordpress_id: 973
 wordpress_url: http://www.bobs.fi/oiva/?p=973
-date: '2013-03-22 09:56:10 +0200'
-date_gmt: '2013-03-22 07:56:10 +0200'
+date: "2013-03-22 05:56:10 +0000"
+date_gmt: "2013-03-22 07:56:10 +0000"
 categories:
-- web-kehitys
-- web-palvelut
-- työ
+  - web-kehitys
+  - web-palvelut
+  - työ
 tags: []
 comments: []
 excerpt: Pysäkit on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni Phonegap-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.
 ---
+
 <p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit</a> on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni <a href="http://phonegap.com/">Phonegap</a>-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.</p>
 <p>"Pysäkkien" tärkeimmät ominaisuudet ovat:</p>
 <ul>
