@@ -1,4 +1,5 @@
-import PostPreview from "../components/post-preview";
+import React from 'react'
+import PostPreview from '../components/post-preview'
 
 export default function MoreStories({ posts }) {
   return posts.map((post) => (
@@ -11,5 +12,5 @@ export default function MoreStories({ posts }) {
       slug={post.slug}
       excerpt={post.excerpt}
     />
-  ));
+  ))
 }

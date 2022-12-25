@@ -1,12 +1,13 @@
-import markdownStyles from "./markdown-styles.module.css";
+import React from 'react'
+import markdownStyles from './markdown-styles.module.css'
 
 export default function PostBody({ content }) {
   return (
     <div className="">
       <div
-        className={markdownStyles["markdown"]}
+        className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>
-  );
+  )
 }

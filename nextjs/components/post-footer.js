@@ -1,3 +1,4 @@
+import React from 'react'
 export default function PostFooter({ slug, title }) {
   const shareURL = `https://twitter.com/intent/tweet?text=${encodeURIComponent(
     title

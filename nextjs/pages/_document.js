@@ -1,4 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
+import 'regenerator-runtime/runtime'
+import React from 'react'
 
 export default class MyDocument extends Document {
   render() {

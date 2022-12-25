@@ -1,6 +1,8 @@
 import { getAllPosts } from '../lib/api'
 import markdownToHtml from '../lib/markdownToHtml'
 import React from 'react'
+const jsdom = require('jsdom')
+const { JSDOM } = jsdom
 
 const Feed = () => {}
 export default Feed
@@ -9,7 +11,7 @@ export async function getServerSideProps({ res }) {
   const posts = await getPosts()
   const feed = getFeed(posts)
 
-  res.setHeader('Content-Type', 'text/xml')
+  res.setHeader('Content-Type', 'application/xml')
   res.write(feed)
   res.end()
 
@@ -97,11 +99,20 @@ async function getPosts() {
 }
 
 function description(value, truncateLength = 450) {
-  const div = document.createElement('div')
   // replace line breaks with spaces: description is a single line text
   value = value.replace(/\n{1,}/g, ' ')
-  div.innerHTML = value
-  let text = div.textContent || div.innerText || ''
+  let text
+
+  if (typeof document !== 'undefined') {
+    const div = document.createElement('div')
+    div.innerHTML = value
+    text = div.textContent || div.innerText || ''
+  } else {
+    const dom = new JSDOM(
+      `<!DOCTYPE html><body><div id="main">${value}</div></body>`
+    )
+    text = dom.window.document.getElementById('main').textContent
+  }
   text = text.replace(/'/g, '’').replace(/\n/g, '')
 
   if (text.length > truncateLength) {

@@ -7,6 +7,7 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
+import React from 'react'
 
 export default function Index({ allPosts = [], preview }) {
   const heroPosts = allPosts.slice(0, 5)
