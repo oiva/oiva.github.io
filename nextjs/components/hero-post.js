@@ -13,7 +13,6 @@ export default function HeroPost({
   author,
   slug,
 }) {
-  console.log({ date })
   return (
     <li className="full-post">
       <span className="post-meta">
