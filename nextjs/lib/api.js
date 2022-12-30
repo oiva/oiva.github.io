@@ -12,10 +12,29 @@ export function getPostBySlug(slug, fields = []) {
   const realSlug = slug.replace(/\.markdown$/, '')
   const fullPath = join(postsDirectory, `${realSlug}.markdown`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const { data, content } = matter(fileContents)
+  const matterOptions = {
+    excerpt: true,
+    excerpt_separator: '<a id="more"></a>',
+  }
+  const { data, excerpt, content, isEmpty } = matter(
+    fileContents,
+    matterOptions
+  )
   const items = {}
 
-  fields.push('status', 'published', 'date')
+  const commonFields = [
+    'content',
+    'status',
+    'published',
+    'date',
+    'lang',
+    'excerpt',
+  ]
+  for (const field of commonFields) {
+    if (!fields.includes(field)) {
+      fields.push(field)
+    }
+  }
 
   // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
@@ -25,9 +44,20 @@ export function getPostBySlug(slug, fields = []) {
     if (field === 'content') {
       items[field] = content
     }
+    if (field === 'excerpt') {
+      items[field] = excerpt
+    }
 
     if (typeof data[field] !== 'undefined') {
       items[field] = data[field]
+    }
+
+    if (field === 'lang' && typeof items['lang'] === 'undefined') {
+      if (data['date'] < '2014-10-08 00:00:00 +0200') {
+        items['lang'] = 'fi'
+      } else {
+        items['lang'] = 'en'
+      }
     }
   })
 
