@@ -7,27 +7,30 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-  url: ''
+  url: ""
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-excerpt: Vertailen Nikonin D80 ja D200 kameroita keskenään yleisellä tasolla. Tarkoituksena
+excerpt:
+  Vertailen Nikonin D80 ja D200 kameroita keskenään yleisellä tasolla. Tarkoituksena
   on päättää kumpi kannattaisi ostaa käytettynä.
 wordpress_id: 6
 wordpress_url: http://www.bobs.fi/oiva/2007/12/10/mika-digijarkkari-nikon-d80-vs-d200/
-date: '2007-12-10 01:48:20 +0200'
-date_gmt: '2007-12-09 23:48:20 +0200'
+date: "2007-12-10 01:48:20 +0200"
+date_gmt: "2007-12-09 23:48:20 +0200"
 categories:
-- kamera
+  - kamera
 tags:
-- kamera
-- nikon
-- D80
-- D200
-- käytetyt kamerat
+  - kamera
+  - nikon
+  - D80
+  - D200
+  - käytetyt kamerat
 comments: []
 ---
+
+<div>
 <p>Kameroiden himoitseminen on siitä hankalaa, että unelmien kohde ehtii vaihtua noin sata kertaa ennen kuin rahat lopulta lyödään tiskiin. Kaikki todistusaineisto viittaa myös siihen, että uuden kameran tai linssin ostaminen ei varsinaisesti vähennä kaluston speksailua. Aina löytyy parempaa, ja aina kalusto jollakin tapaa (muka) rajoittaa kuvaamista.</p>
-<p>Päätin kirjoittaa ylös mitä kalustoa hankkisin, jos hankkisin jotakin nyt. Luulin, että tiedän minkä kameran haluan ostaa: <a href="http://www.dpreview.com/reviews/nikond200/">Nikon D200</a> [dpreview.com]. Perusteluita  D200:n puolesta olivat mm.:<br />
+<p>Päätin kirjoittaa ylös mitä kalustoa hankkisin, jos hankkisin jotakin nyt. Luulin, että tiedän minkä kameran haluan ostaa: <a href="http://www.dpreview.com/reviews/nikond200/">Nikon D200</a> [dpreview.com]. Perusteluita  D200:n puolesta olivat mm.:<br>
 <a id="more"></a><a id="more-6"></a></p>
 <ol>
 <li>Nikon on saanut markkinoille uuden D300-mallin, jonka myötä vanhempia D200-kameroita rupeaa toivottavasti löytymään järkevin hinnoin. (Kallis ja hyvä kamera "edullisesti")</li>
@@ -45,3 +48,4 @@ comments: []
 <p>Kuten mainittua, näitten lisäksi eroa on linssien yhteensopivuuden kanssa D200:n eduksi. Kameroiden hintaero on kuitenkin huomattava. Erotuksella hankkii helposti hyvän linssin tai muita varusteita kameran kaveriksi. Monessa suhteessa D80 on jopa parempi. Pienempi ja kevyempi kamera tulisi luultavasti otettua mukaan useammin.</p>
 <p>Tällä hetkellä olen siis kallistumassa D80:n puoleen. Micro-Nikkorin voi aina myydä, vaikka se onkin varsin hauska leikkikalu. Mikään ei kuitenkaan ole varmaa, paitsi se, että mielipiteeni vaihtuu vielä monta kertaa :)</p>
 <p>Seuraavaksi pitäisikin sitten pohtia mikä linssi olisi paras ostos...</p>
+</div>
