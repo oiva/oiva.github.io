@@ -4,58 +4,21 @@ import Header from '../components/header'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
+import Pagination from '../components/pagination'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import ErrorPage from 'next/error'
 import markdownToHtml from '../lib/markdownToHtml'
 import React from 'react'
 
-const intersperse = (arr, sep) => {
-  if (arr.length === 0) {
-    return []
-  }
-
-  return arr.slice(1).reduce(
-    function (xs, x, i) {
-      return xs.concat([sep, x])
-    },
-    [arr[0]]
-  )
-}
-
-const getPagination = (page, totalPages) => {
-  const pageNumber = (
-    <span className="page_number">
-      Page {page} / {totalPages}:
-    </span>
-  )
-  const links = []
-  if (page > 1) {
-    links.push(
-      <a className="previous" href={`page${page - 1}`}>
-        previous page
-      </a>
-    )
-  }
-  if (page < totalPages) {
-    links.push(
-      <a className="next" href={`/page${page + 1}`}>
-        next page
-      </a>
-    )
-  }
-  return (
-    <div className="pagination">
-      {pageNumber} {intersperse(links, ', ')}
-    </div>
-  )
-}
+const POSTS_PER_PAGE = 20
+let totalPages
 
 export default function Index(params) {
-  const { allPosts = [], preview, slug, page, totalPages } = params
+  const { allPosts = [], preview, slug, page } = params
 
   console.log({ slug, page })
-  if (typeof slug === 'undefined' && page == 1) {
+  if (typeof slug === 'undefined' && (page == 1 || page > totalPages)) {
     return <ErrorPage statusCode={404} />
   }
 
@@ -87,7 +50,7 @@ export default function Index(params) {
             />
           ))}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-          {getPagination(page, totalPages)}
+          <Pagination page={page} totalPages={totalPages} />
         </Container>
       </Layout>
     </>
@@ -95,10 +58,16 @@ export default function Index(params) {
 }
 
 export const getStaticPaths = async () => {
+  const allPosts = getAllPosts()
+  if (typeof totalPages === 'undefined') {
+    totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE)
+  }
   return {
     // Prerender the next 5 pages after the first page, which is handled by the index page.
     // Other pages will be prerendered at runtime.
-    paths: Array.from({ length: 9 }).map((_, i) => `/page${i + 2}`),
+    paths: Array.from({ length: totalPages - 1 }).map(
+      (_, i) => `/page${i + 2}`
+    ),
     // Block the request for non-generated pages and cache them in the background
     fallback: 'blocking',
   }
@@ -113,6 +82,9 @@ export async function getStaticProps({ params }) {
   ) {
     page = parseInt(params.slug[0].replace('page', ''), 10)
   }
+  if (page > totalPages) {
+  }
+
   const allPosts = getAllPosts([
     'title',
     'date',
@@ -123,9 +95,10 @@ export async function getStaticProps({ params }) {
     'content',
   ])
 
-  const markdownPosts = [],
-    postsPerPage = 20,
-    totalPages = Math.ceil(allPosts.length / postsPerPage)
+  const markdownPosts = []
+  if (typeof totalPages === 'undefined') {
+    totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE)
+  }
 
   for (const post of allPosts) {
     post.content = await markdownToHtml(post.content || '')
@@ -133,13 +106,12 @@ export async function getStaticProps({ params }) {
     markdownPosts.push(post)
   }
 
-  const totalPostCount = 20,
-    paginatedPosts = markdownPosts.slice(
-      postsPerPage * (page - 1),
-      postsPerPage * page
-    )
+  const paginatedPosts = markdownPosts.slice(
+    POSTS_PER_PAGE * (page - 1),
+    POSTS_PER_PAGE * page
+  )
 
   return {
-    props: { allPosts: paginatedPosts, totalPostCount, page, totalPages },
+    props: { allPosts: paginatedPosts, page, totalPages },
   }
 }
