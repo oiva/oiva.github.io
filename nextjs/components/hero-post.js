@@ -4,6 +4,7 @@ import DateFormatter from '../components/date-formatter'
 import CoverImage from '../components/cover-image'
 import PostBody from '../components/post-body'
 import Link from 'next/link'
+import { slugToParts } from '../lib/urlParser'
 
 export default function HeroPost({
   title,
@@ -13,6 +14,8 @@ export default function HeroPost({
   author,
   slug,
 }) {
+  const { urlYear, urlMonth, urlDate, urlSlug } = slugToParts(slug)
+
   return (
     <li className="full-post">
       <span className="post-meta">
@@ -31,7 +34,10 @@ export default function HeroPost({
       </div>
       <div>
         <h2>
-          <Link as={`/posts/${slug}`} href="/posts/[slug]">
+          <Link
+            as={`/${urlYear}/${urlMonth}/${urlDate}/${urlSlug}`}
+            href="/[urlYear]/[urlMonth]/[urlDate]/[urlSlug]"
+          >
             <a className="post-link">{title}</a>
           </Link>
         </h2>

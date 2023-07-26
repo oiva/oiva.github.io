@@ -25,14 +25,14 @@ export default function Pagination({ page, totalPages }) {
   const links = []
   if (page > 1) {
     links.push(
-      <a className="previous" href={`page${page - 1}`}>
+      <a className="previous" href={`page${page - 1}`} key={`page${page - 1}`}>
         previous page
       </a>
     )
   }
   if (page < totalPages) {
     links.push(
-      <a className="next" href={`/page${page + 1}`}>
+      <a className="next" href={`/page${page + 1}`} key={`page${page - 1}`}>
         next page
       </a>
     )

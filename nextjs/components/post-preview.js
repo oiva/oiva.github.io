@@ -29,11 +29,10 @@ export default function PostPreview({
         <DateFormatter dateString={date} />
       </span>
       <h2 className="text-3xl mb-3 leading-snug">
-        <Link as={`/posts/${slug}`} href="/posts/[slug]">
+        <Link as={`/${slug}`} href="/[slug]">
           <a className="hover:underline">{title}</a>
         </Link>
       </h2>
-
       <p
         className="post-excerpt"
         dangerouslySetInnerHTML={{ __html: excerpt }}

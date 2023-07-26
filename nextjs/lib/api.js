@@ -2,15 +2,26 @@ import fs from 'fs'
 import { join } from 'path'
 import matter from 'gray-matter'
 
+import { filenameToSlug, slugToFilename } from './urlParser'
+
 const postsDirectory = join(process.cwd(), '../_posts')
 
 export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory)
+  const filenames = fs.readdirSync(postsDirectory)
+  const paths = filenames.map(filenameToSlug)
+  return paths
 }
 
 export function getPostBySlug(slug, fields = []) {
-  const realSlug = slug.replace(/\.markdown$/, '')
-  const fullPath = join(postsDirectory, `${realSlug}.markdown`)
+  console.log('getPostBySlug: ' + slug)
+  const realSlug = slug.replace(/\.markdown$/, ''),
+    fileName = slugToFilename(realSlug)
+
+  if (!fileName.match(/^\d{4}-\d{2}-\d{2}/)) {
+    return null
+  }
+
+  const fullPath = join(postsDirectory, `${fileName}.markdown`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const matterOptions = {
     excerpt: true,
