@@ -13,7 +13,6 @@ export function getPostSlugs() {
 }
 
 export function getPostBySlug(slug, fields = []) {
-  console.log('getPostBySlug: ' + slug)
   const realSlug = slug.replace(/\.markdown$/, ''),
     fileName = slugToFilename(realSlug)
 
@@ -51,12 +50,19 @@ export function getPostBySlug(slug, fields = []) {
   fields.forEach((field) => {
     if (field === 'slug') {
       items[field] = realSlug
-    }
-    if (field === 'content') {
+    } else if (field === 'content') {
       items[field] = content
-    }
-    if (field === 'excerpt') {
+    } else if (field === 'excerpt') {
       items[field] = excerpt
+    } else if (field === 'formattedDate') {
+      const date = new Date(data.date),
+        options = { year: 'numeric', month: 'short', day: 'numeric' }
+      items[field] = date.toLocaleDateString('en-EN', options)
+    } else if (field === 'datetime') {
+      items[field] = data.date
+        .replace(' ', 'T')
+        .replace(' +', '+')
+        .replace(/00$/, ':00')
     }
 
     if (typeof data[field] !== 'undefined') {

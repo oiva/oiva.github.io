@@ -1,16 +1,15 @@
 import React from 'react'
 
-import Container from '../components/container'
-import Header from '../components/header'
-import Intro from '../components/intro'
-import Layout from '../components/layout'
+import Container from '../../components/container'
+import Header from '../../components/header'
+import Intro from '../../components/intro'
+import Layout from '../../components/layout'
 import Head from 'next/head'
 
-import { getAllPosts } from '../lib/api'
+import { getAllPosts } from '../../lib/api'
 
 export default function Archive(params) {
   const { allPosts = [] } = params
-  console.log({ allPosts })
 
   const postsGroupedByYear = allPosts.reduce((acc, post) => {
     const postYear = post.date.substr(0, 4)
@@ -21,8 +20,6 @@ export default function Archive(params) {
     return acc
   }, {})
 
-  console.log(postsGroupedByYear)
-
   const listItems = []
   Object.keys(postsGroupedByYear)
     .reverse()
@@ -31,8 +28,13 @@ export default function Archive(params) {
       postsGroupedByYear[year].map((post) => {
         listItems.push(
           <li key={post.slug}>
-            <a href={post.slug}>{post.title}</a>
-            {post.date}
+            <a
+              href={`/${post.slug}`}
+              dangerouslySetInnerHTML={{ __html: post.title }}
+            ></a>{' '}
+            <time pubdate="" dateTime={post.datetime}>
+              {post.formattedDate}
+            </time>
           </li>
         )
       })
@@ -44,8 +46,6 @@ export default function Archive(params) {
         <Head>
           <title>Oiva Eskola</title>
         </Head>
-        <Intro />
-        <Header />
         <Container>
           <div className="archive">
             <ul>{listItems}</ul>
@@ -60,6 +60,8 @@ export async function getStaticProps({ params }) {
   const allPosts = getAllPosts([
     'title',
     'date',
+    'formattedDate',
+    'datetime',
     'slug',
     'author',
     'coverImage',
