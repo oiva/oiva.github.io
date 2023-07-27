@@ -49,7 +49,7 @@ export default function Index(params) {
 
 export async function getStaticProps({ params }) {
   let page = 1
-
+  console.log('index.js getStaticProps')
   const allPosts = getAllPosts([
     'title',
     'date',

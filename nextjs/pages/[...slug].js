@@ -59,6 +59,7 @@ export default function Index(params) {
 }
 
 export const getStaticPaths = async () => {
+  console.log('[...slug].js getStaticPaths')
   const allPosts = getAllPosts()
   if (typeof totalPages === 'undefined') {
     totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE)
@@ -84,7 +85,7 @@ export async function getStaticProps({ params }) {
   }
   if (page > totalPages) {
   }
-
+  console.log('[...slug].js getStaticProps')
   const allPosts = getAllPosts([
     'title',
     'date',

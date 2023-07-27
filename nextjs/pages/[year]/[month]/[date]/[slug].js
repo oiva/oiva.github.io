@@ -15,6 +15,8 @@ import PostTitle from '../../../../components/post-title'
 import markdownToHtml from '../../../../lib/markdownToHtml'
 import { partsToSlug, slugToParts } from '../../../../lib/urlParser'
 
+const allPosts = getAllPosts(['slug'])
+
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
@@ -87,10 +89,10 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  console.log('[slug].js getStaticPaths')
 
   return {
-    paths: posts.map((post) => {
+    paths: allPosts.map((post) => {
       const { urlYear, urlMonth, urlDate, urlSlug } = slugToParts(post.slug)
       return {
         params: {
