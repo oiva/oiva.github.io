@@ -4,7 +4,8 @@ import matter from 'gray-matter'
 
 import { filenameToSlug, slugToFilename } from './urlParser'
 
-const postsDirectory = join(process.cwd(), '../_posts')
+const postsDirectory = join(process.cwd(), '../_posts'),
+  singlePageDirectory = join(process.cwd(), '..')
 
 export function getPostSlugs() {
   const filenames = fs.readdirSync(postsDirectory)
@@ -12,16 +13,26 @@ export function getPostSlugs() {
   return paths
 }
 
-export function getPostBySlug(slug, fields = []) {
-  const realSlug = slug.replace(/\.markdown$/, ''),
-    fileName = slugToFilename(realSlug)
+const getFileContents = (slug) => {
+  const filename = slugToFilename(slug),
+    singlePagePath = join(singlePageDirectory, filename, 'index.markdown'),
+    postPath = join(postsDirectory, filename)
 
-  if (!fileName.match(/^\d{4}-\d{2}-\d{2}/)) {
+  if (fs.existsSync(singlePagePath)) {
+    return fs.readFileSync(singlePagePath)
+  }
+
+  if (!filename.match(/^\d{4}-\d{2}-\d{2}/)) {
     return null
   }
 
-  const fullPath = join(postsDirectory, `${fileName}.markdown`)
-  const fileContents = fs.readFileSync(fullPath, 'utf8')
+  return fs.readFileSync(postPath, 'utf8')
+}
+
+export function getPostBySlug(slug, fields = []) {
+  console.log('getPostBySlug', slug)
+  const realSlug = slug.replace(/\.markdown$/, '')
+  const fileContents = getFileContents(slug)
   const matterOptions = {
     excerpt: true,
     excerpt_separator: '<a id="more"></a>',
