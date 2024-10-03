@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.4.0/build/grids/grids-min.css">
+
+	<style type="text/css">
+		div {
+			border-top: 1px solid #000;
+			padding: 0.5em 1em;
+		}
+
+		.greyish {
+			color: #999;
+		}
+
+		div.yui-gd {
+			background: #ddd;
+		}
+
+		div.yui-u {
+			padding:0;
+			background: #aaa;
+		}
+	</style>
+</head>
+<body>
+
+<div id="doc"> <!-- #doc = 750px width, centered-->
+	<div id="hd"><!-- header -->
+		<p>Header</p>
+	</div>
+ 	<div id="bd"><!-- body -->
+		<p>body</p>
+ 		<div id="yui-main">
+			<p class="greyish">yui-main</p>
+ 			<div class="yui-b">
+				<p class="greyish">yui-b</p>
+ 				<div class="yui-gd">
+					<p class="greyish">yui-g</p>
+					<div class="yui-u first">
+						<p>yui-main &gt; yui-b &gt; yui-g &gt; yui-u first</p>
+					</div>
+ 					<div class="yui-u">
+						<p>yui-main &gt; yui-b &gt; yui-g &gt; yui-u</p>
+					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	<div id="ft">
+		<p>Footer</p>
+	</div> <!-- footer -->
+</div>
+</body>
+</html>
