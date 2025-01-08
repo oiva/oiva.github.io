@@ -1,0 +1,107 @@
+---
+layout: default
+regenerate: true
+---
+{% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
+{% assign cutoff = cutoff | plus: 0 %}
+{% capture pagetime %}{{ date | date: '%s' }}{% endcapture %}
+{% assign pagetime = pagetime | plus: 0 %}
+<div class="post">
+  {% if background %}
+    <div class="hero" style="background-image: url('{{ background }}')"></div>
+    <header class="post-header with-hero">
+      <h1 class="post-title">{{ title }}</h1>
+      {% if subheading %}
+        <p class="sub-heading">{{ subheading }}</p>
+      {% endif %}
+    </header>
+    {% if language == 'fi' or pagetime < cutoff %}
+      <p class="post-meta">{{ date | date: "%-d.%-m.%Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
+    {% else %}
+      <p class="post-meta">{{ date | date: "%b %-d, %Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
+    {% endif %}
+  {% else %}
+    <header class="post-header">
+      <h1 class="post-title">{{ title }}</h1>
+      {% if subheading %}
+        <p class="sub-heading">{{ subheading }}</p>
+      {% endif %}
+      {% if language == 'fi' or pagetime < cutoff %}
+        <p class="post-meta">{{ date | date: "%-d.%-m.%Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
+      {% else %}
+        <p class="post-meta">{{ date | date: "%b %-d, %Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
+      {% endif %}
+    </header>
+  {% endif %}
+
+  <article class="post-content">
+    {{ content }}
+    {% if categories.size > 0 %}
+      {% assign categorySize = categories.size | minus: 1 %}
+      {% assign categoryIndex = 0 %}
+      {% capture categories %}
+        {% for category in categories %}
+          <a href="/archive/{{ category | replace: 'ä','a' | replace: 'ö','o' }}">{{category}}</a>{% if categoryIndex < categorySize %}, {% endif %}
+          {% assign categoryIndex = categoryIndex | plus: 1 %}
+        {% endfor %}
+      {% endcapture %}
+      {% if language == 'fi' or pagetime < cutoff %}
+      <p class="categories">Kategoria{% if categories.size != 1 %}t{% endif %}: {{ categories }}</p>
+      {% else %}
+      <p class="categories">Categor{% if categories.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
+      {% endif %}
+    {% endif %}
+  </article>
+
+  {% if comments.size > 0 %}
+  <section class="comments">
+    {% if language == 'fi' or pagetime < cutoff %}
+      <h2>{{comments.size}} kommentti{% if comments.size != 1 %}a{% endif %}</h2>
+    {% else %}
+      <h2>{{comments.size}} comment{% if comments.size != 1 %}s{% endif %}</h2>
+    {% endif %}
+    {% for c in comments %}
+      <article class="comment">
+        <h3 class="author">
+        {% if c.author_url == '' %}
+          {{c.author}}
+        {% else %}
+          <a href="{{c.author_url}}" rel="author">{{c.author}}</a>
+        {% endif %}
+        {% if language == 'fi' or pagetime < cutoff %}
+          &ndash; <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">{{c.date | date: "%-d.%-m.%Y"}}</time>
+        {% else %}
+          on <time class="comment-date" pubdate datetime="{{c.date | date_to_xmlschema}}">{{c.date | date: "%b %-d, %Y"}}</time>
+        {% endif %}
+        </h3>
+        <p>
+          {{c.content}}
+        </p>
+      </article>
+    {% endfor %}
+    {% if language == 'fi' or pagetime < cutoff %}
+    <p class="comments-closed">Kommentit on suljettu.</p>
+    {% else %}
+    <p class="comments-closed">Comments are now closed.</p>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  <section class="feedback">
+    {% if language == 'fi' or pagetime < cutoff %}
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="http://twitter.com/oiva">Twitterissä</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    {% else %}
+    <h2>Questions or feedback?</h2>
+    <p>Send a message on <a href="http://twitter.com/oiva">Twitter</a> or 
+      <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
+    {% endif %}
+
+    {% if language == 'fi' or pagetime < cutoff %}
+    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{title | cgi_escape}}&url={{url | prepend: site.baseurl | prepend: site.url}}">Jaa tämä sivu Twitterissä</a>
+    {% else %}
+    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{title | cgi_escape}}&url={{url | prepend: site.baseurl | prepend: site.url}}">Share this post on Twitter</a>
+    {% endif %}
+  </section>
+</div>

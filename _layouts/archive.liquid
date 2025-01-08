@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="archive">
+  {% if category %}
+    <h3 id="{{ category }}">
+      {% if language == 'en' %}Category:{% else %}Kategoria:{% endif %}
+    {% if categoryname %}{{categoryname}}{% else %}{{ category }}{% endif %}
+    </h3>
+    <ul>
+    {% for post in collections[category] %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <ul>
+    {% assign prevItemYear = '' %}
+    {% for post in collections.all reversed %}
+      {% assign itemYear = post.date | date: '%Y' %}
+      {% if itemYear != prevItemYear %}
+        <h2>{{ itemYear }}</h2>
+      {% endif %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <time pubdate datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      </li>
+      {% assign prevItemYear = itemYear %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+</div>
