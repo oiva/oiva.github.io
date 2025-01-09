@@ -23,10 +23,10 @@ comments: []
 <li>
 <div class="delicious-link"><a href="http://www.bravenewcode.com/wptouch/">WPtouch: WordPress On iPhone</a></div></p>
 <div class="delicious-extended">WordPress-teema, joka on suunniteltu iPhonelle ja iPod touchille. Pitää kokeilla joskus.</div></p>
-<div class="delicious-tags">(old_tags: <a href="http://delicious.com/oiva/ipodtouch">ipodtouch</a> <a href="http://delicious.com/oiva/iphone">iphone</a> <a href="http://delicious.com/oiva/wordpress">wordpress</a>)</div><br />
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/ipodtouch">ipodtouch</a> <a href="http://delicious.com/oiva/iphone">iphone</a> <a href="http://delicious.com/oiva/wordpress">wordpress</a>)</div><br />
             </li>
 <li>
 <div class="delicious-link"><a href="http://silverbackapp.com/">Silverback &mdash; guerrilla usability testing</a></div></p>
 <div class="delicious-extended">Käytettävyystestausta helpommin. Valitettavasti vain macille</div></p>
-<div class="delicious-tags">(old_tags: <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/tools">tools</a>)</div><br />
+<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/usability">usability</a> <a href="http://delicious.com/oiva/webdesign">webdesign</a> <a href="http://delicious.com/oiva/tools">tools</a>)</div><br />
             </li></ul>

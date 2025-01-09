@@ -18,4 +18,5 @@ category: html
 categoryname: HTML
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

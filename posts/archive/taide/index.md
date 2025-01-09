@@ -17,4 +17,5 @@ tags: []
 category: taide
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

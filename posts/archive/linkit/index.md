@@ -17,4 +17,5 @@ tags: []
 category: linkit
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

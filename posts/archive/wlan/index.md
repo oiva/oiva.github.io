@@ -17,4 +17,5 @@ tags: []
 category: wlan
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

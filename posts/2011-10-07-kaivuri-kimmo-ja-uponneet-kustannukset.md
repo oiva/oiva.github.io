@@ -18,8 +18,7 @@ tags:
 - elämä
 - huumori
 old_tags: []
-excerpt: "Kauppakeskus sellossa on käynnissä kisa, jossa nuoren miehen pitää istua
-  minikaivurissa kauemmin kuin muut nuoret muissa kauppakeskuksissa"
+excerpt: "Kauppakeskus sellossa on käynnissä kisa, jossa nuoren miehen pitää istua minikaivurissa kauemmin kuin muut nuoret muissa kauppakeskuksissa"
 comments:
 - id: 1241
   author: Kaivuri-Kimmo

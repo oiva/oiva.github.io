@@ -17,4 +17,5 @@ tags: []
 category: web-kehitys
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

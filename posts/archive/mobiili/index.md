@@ -17,4 +17,5 @@ tags: []
 category: mobiili
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

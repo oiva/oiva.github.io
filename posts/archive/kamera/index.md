@@ -17,4 +17,5 @@ tags: []
 category: kamera
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

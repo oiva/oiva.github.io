@@ -17,4 +17,5 @@ tags: []
 category: internet
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

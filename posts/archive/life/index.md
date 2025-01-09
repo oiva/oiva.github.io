@@ -18,4 +18,5 @@ tags: []
 category: life
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

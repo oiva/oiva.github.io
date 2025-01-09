@@ -17,4 +17,5 @@ tags: []
 old_tags: []
 comments: []
 regenerate: true
+eleventyExcludeFromCollections: true
 ---

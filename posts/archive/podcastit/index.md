@@ -17,4 +17,5 @@ tags: []
 category: podcastit
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

@@ -18,4 +18,5 @@ category: flash
 categoryname: Flash
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

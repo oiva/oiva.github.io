@@ -12,10 +12,11 @@ old_tags:
 <picture>
   <img
     src="/images/2015/croatia-1.jpg"
-    srcset="images/2015/croatia-1.5.jpg 1.5x,
-            images/2015/croatia.jpg 2x"
+    srcset="/images/2015/croatia-1.5.jpg 1.5x,
+            /images/2015/croatia.jpg 2x"
     alt="Road in Croatia"
     width="686"
+    style="margin-bottom: 1.5rem"
   />
 </picture>
 

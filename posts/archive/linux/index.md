@@ -18,4 +18,5 @@ category: linux
 categoryname: Linux
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

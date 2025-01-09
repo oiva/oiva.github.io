@@ -17,4 +17,5 @@ tags: []
 category: infotoggle
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

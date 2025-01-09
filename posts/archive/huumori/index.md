@@ -17,4 +17,5 @@ tags: []
 category: huumori
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

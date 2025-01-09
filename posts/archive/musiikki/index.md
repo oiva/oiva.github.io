@@ -17,4 +17,5 @@ tags: []
 category: musiikki
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

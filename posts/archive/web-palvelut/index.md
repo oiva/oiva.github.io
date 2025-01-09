@@ -17,4 +17,5 @@ tags: []
 category: web-palvelut
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

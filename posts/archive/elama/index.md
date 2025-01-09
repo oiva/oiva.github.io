@@ -18,4 +18,5 @@ category: elämä
 old_tags: []
 comments: []
 language: fi
+eleventyExcludeFromCollections: true
 ---

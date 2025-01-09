@@ -17,4 +17,5 @@ tags: []
 category: käytettävyys
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

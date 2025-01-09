@@ -18,4 +18,5 @@ category: ipod
 categoryname: iPod
 old_tags: []
 comments: []
+eleventyExcludeFromCollections: true
 ---

@@ -10,8 +10,7 @@ author:
   url: ''
 author_login: oiva
 author_email: oiva.eskola@gmail.com
-excerpt: Miten päästä eroon paperien arkistoimisesta kotona? Vähentämällä kotiin tulevan
-  paperin määrää ja digitoimalla loput.
+excerpt: Miten päästä eroon paperien arkistoimisesta kotona? Vähentämällä kotiin tulevan paperin määrää ja digitoimalla loput.
 wordpress_id: 727
 wordpress_url: http://www.bobs.fi/oiva/?p=727
 date: 2011-05-28 11:05:42 +03:00
@@ -32,10 +31,7 @@ comments: []
 <p>Vaikka paperiarkistoni on suhteellisen selkeästi kategorisoitu, on oikean laskun tai takuukuitin löytäminen silti vaikeaa. Lisäksi papereita alkaa olla siinä määrin paljon, että ne pitäisi käydä läpi ja heittää vanhimmat pois, jotta uusille olisi tilaa. Mitä asialle voi tehdä?</p>
 <h2>Netposti</h2>
 <p>Ensimmäinen vaihe on kotiin tulevan paperin vähentäminen. <a href="http://www.netposti.fi" target="_blank">Netpostiin</a>
-<script type="text/javascript">// < ![CDATA[
-var uri = 'https://impfi.tradedoubler.com/imp?type(inv)g(18304888)a(1897618)' + new String (Math.random()).substring (2, 11);
-document.write('<img src="'+uri +'"/>');
-// ]]></script>voi kääntää osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) lähettämät kirjeet.</p>
+voi kääntää osan paperisaasteesta, esimerkiksi palkkakuitit, luottokorttilaskut ja Espoon kaupungin (ja usean muun kunnan) lähettämät kirjeet.</p>
 <p>Netpostissa on lista lähettäjistä, joista voi valita keiden postit haluaa saada sähköisesti. Kirjeet eivät tule sähköpostiin, mutta niistä saa halutessaan sähköposti-ilmoituksen. Kirjeet voi ladata Netpostista PDF:inä omalle koneelleen.</p>
 <p>Kirjeiden luokittelu Netpostissa on valitettavasti melko kankeaa. Valmiita luokkia kirjeille on kuusi, ja jotkut kirjeet on valmiiksi luokiteltu niihin (esimerkiksi Luottokunnalta tulevat kirjeet on merkitty laskuiksi.). Luokittelua ei voi tietääkseni automatisoida lähettäjän mukaan, vaan uudet palkkalaskelmat pitää joka kerta merkitä palkkalaskelmiksi jos haluaa käyttää luokittelua kirjeiden etsimiseen myöhemmin.</p>
 <p>Netpostiin voi myös tehdä omia kansioita, mutta en löytänyt tapaa jolla saapuvat kirjeet voisi suoraan siirtää tiettyihin kansioihin.</p>
