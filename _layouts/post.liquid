@@ -39,16 +39,16 @@ regenerate: true
     {% if tags.size > 0 %}
       {% assign tagSize = tags.size | minus: 1 %}
       {% assign tagIndex = 0 %}
-      {% capture tags %}
+      {% capture pageTags %}
         {% for tag in tags %}
           <a href="/archive/{{ tag | replace: 'ä','a' | replace: 'ö','o' }}">{{tag}}</a>{% if tagIndex < tagSize %}, {% endif %}
           {% assign tagIndex = tagIndex | plus: 1 %}
         {% endfor %}
       {% endcapture %}
       {% if language == 'fi' or pagetime < cutoff %}
-      <p class="categories">Kategoria{% if tags.size != 1 %}t{% endif %}: {{ tags }}</p>
+      <p class="categories">Kategoria{% if tags.size != 1 %}t{% endif %}: {{ pageTags }}</p>
       {% else %}
-      <p class="categories">Categor{% if tags.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
+      <p class="categories">Categor{% if tags.size != 1 %}ies{% else %}y{% endif %}: {{ pageTags }}</p>
       {% endif %}
     {% endif %}
   </article>
