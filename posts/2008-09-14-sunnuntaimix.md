@@ -31,4 +31,4 @@ comments:
     with the RIAA.\"\r\n\r\nOk..."
 ---
 <p>Julkaisin täpärästi sunnuntain puolella lähes oikean miksauksen. Tajusin että <a title="Wikipedia: Muxtape" href="http://en.wikipedia.org/wiki/Muxtape">Muxtape</a> olisi ollut tälle idealle huomattavasti helpompi vaihtoehto, mutta heitin kappaleet nyt yhteen mp3:een Ableton Livellä.</p>
-<p>Sunnuntaimix on musiikkia sunnuntaille ja miksei muillekin päiville. Mukana on mm. Regina, Trentem&oslash;ller ja SIG ;) . Katso lisää ja lataa mp3: <a title="oiva - sunnuntaimix" href="http://www.bobs.fi/oiva/sunnuntaimix/">oiva - sunnuntaimix</a>.</p>
+<p>Sunnuntaimix on musiikkia sunnuntaille ja miksei muillekin päiville. Mukana on mm. Regina, Trentem&oslash;ller ja SIG ;) . Katso lisää ja lataa mp3: <a title="oiva - sunnuntaimix" href="/sunnuntaimix/">oiva - sunnuntaimix</a>.</p>
