@@ -21,7 +21,7 @@
     "build:eleventy": "npx @11ty/eleventy",
     "watch:eleventy": "npx @11ty/eleventy --serve",
     "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:*",
+    "build": "env NODE_ENV=production npm-run-all build:*",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve"
   },
   "keywords": [],
