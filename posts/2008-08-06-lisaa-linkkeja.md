@@ -14,9 +14,9 @@ wordpress_id: 129
 wordpress_url: http://www.bobs.fi/oiva/?p=129
 date: 2008-08-06 17:49:07 +03:00
 date_gmt: 2008-08-06 14:49:07 +03:00
-categories:
-- linkit
 tags:
+- linkit
+old_tags:
 - css
 - käytettävyys
 - delicious

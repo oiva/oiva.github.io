@@ -23,9 +23,9 @@ wordpress_id: 85
 wordpress_url: http://www.bobs.fi/oiva/?p=85
 date: 2008-05-09 18:40:44 +03:00
 date_gmt: 2008-05-09 15:40:44 +03:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - R-kioski
 - Otto-automaatti
 - käteisautomaatti

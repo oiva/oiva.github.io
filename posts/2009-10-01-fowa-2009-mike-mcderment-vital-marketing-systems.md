@@ -14,9 +14,9 @@ wordpress_id: 704
 wordpress_url: http://www.bobs.fi/oiva/?p=704
 date: 2009-10-01 20:48:05 +03:00
 date_gmt: 2009-10-01 18:48:05 +03:00
-categories:
+tags:
 - web-palvelut
-tags: []
+old_tags: []
 comments: []
 excerpt: Mike McDermentin esitys siitä, miten verkkopalvelua voi markkinoida ja miten seurata markkinoinnin tehoa.
 ---

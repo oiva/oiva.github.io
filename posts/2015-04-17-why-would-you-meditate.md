@@ -5,8 +5,8 @@ published: true
 title: Does Meditation Suppress Bad Memories?
 date: 2015-04-17 23:04:00 +03:00
 date_gmt: 2015-04-17 23:04:00 +03:00
-categories: []
-tags:
+tags: []
+old_tags:
 - meditation
 ---
 The other day I stumbled upon a Facebook argument about meditation: is it

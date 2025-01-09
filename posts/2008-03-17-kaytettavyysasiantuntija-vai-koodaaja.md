@@ -16,10 +16,10 @@ wordpress_id: 33
 wordpress_url: http://www.bobs.fi/oiva/2008/03/17/kaytettavyysasiantuntija-vai-koodaaja/
 date: 2008-03-17 22:21:34 +02:00
 date_gmt: 2008-03-17 20:21:34 +02:00
-categories:
+tags:
 - web-kehitys
 - käytettävyys
-tags:
+old_tags:
 - käytettävyys
 - ohjelmointi
 - koodari

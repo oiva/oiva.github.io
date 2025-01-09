@@ -5,9 +5,9 @@ published: true
 title: This is Water
 date: 2015-01-16 15:53:00 +02:00
 date_gmt: 2015-01-16 13:53:00 +02:00
-categories:
-- life 
 tags:
+- life 
+old_tags:
 - david foster wallace
 ---
 <figure>

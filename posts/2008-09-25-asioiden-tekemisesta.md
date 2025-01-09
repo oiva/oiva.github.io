@@ -15,11 +15,11 @@ wordpress_id: 219
 wordpress_url: http://www.bobs.fi/oiva/?p=219
 date: 2008-09-25 23:49:00 +03:00
 date_gmt: 2008-09-25 20:49:00 +03:00
-categories:
+tags:
 - elämä
 - koulu
 - työ
-tags:
+old_tags:
 - tkk
 - tuottavuus
 - 43 Folders

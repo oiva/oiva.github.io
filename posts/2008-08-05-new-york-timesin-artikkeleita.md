@@ -14,10 +14,10 @@ wordpress_id: 127
 wordpress_url: http://www.bobs.fi/oiva/?p=127
 date: 2008-08-05 00:16:49 +03:00
 date_gmt: 2008-08-04 21:16:49 +03:00
-categories:
+tags:
 - elämä
 - linkit
-tags:
+old_tags:
 - ipod touch
 - new york times
 - internet

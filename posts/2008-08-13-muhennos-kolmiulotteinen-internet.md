@@ -14,10 +14,10 @@ wordpress_id: 138
 wordpress_url: http://www.bobs.fi/oiva/?p=138
 date: 2008-08-13 13:17:06 +03:00
 date_gmt: 2008-08-13 10:17:06 +03:00
-categories:
+tags:
 - web-kehitys
 - flash
-tags:
+old_tags:
 - flash
 - 3d
 - 2.5d

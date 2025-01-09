@@ -15,9 +15,9 @@ wordpress_id: 584
 wordpress_url: http://www.bobs.fi/oiva/?p=584
 date: 2009-04-23 00:21:44 +03:00
 date_gmt: 2009-04-22 22:21:44 +03:00
-categories:
-- kamera
 tags:
+- kamera
+old_tags:
 - nikon
 - sigma
 - linssi

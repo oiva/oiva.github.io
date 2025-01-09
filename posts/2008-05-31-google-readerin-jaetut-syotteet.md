@@ -14,9 +14,9 @@ wordpress_id: 102
 wordpress_url: http://www.bobs.fi/oiva/?p=102
 date: 2008-05-31 14:19:48 +03:00
 date_gmt: 2008-05-31 11:19:48 +03:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - google reader
 - rss
 - syöte

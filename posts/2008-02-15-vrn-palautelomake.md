@@ -16,11 +16,11 @@ wordpress_id: 25
 wordpress_url: http://www.bobs.fi/oiva/2008/02/15/vrn-palautelomake/
 date: 2008-02-15 21:18:33 +02:00
 date_gmt: 2008-02-15 19:18:33 +02:00
-categories:
+tags:
 - web-kehitys
 - käytettävyys
 - mobiili
-tags:
+old_tags:
 - käytettävyys
 - VR
 - mobiili

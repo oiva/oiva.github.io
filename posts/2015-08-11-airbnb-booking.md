@@ -5,8 +5,8 @@ published: true
 title: Airbnb is a reservation tool
 date: 2015-08-11 15:26:00 +03:00
 date_gmt: 2015-08-11 15:26:00 +03:00
-categories: [] 
-tags:
+tags: [] 
+old_tags:
 - airbnb
 ---
 <picture>

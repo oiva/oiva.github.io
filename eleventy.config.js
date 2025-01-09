@@ -106,7 +106,7 @@ function urlTransform({ url }) {
   // any collection pages for year or month.
   if (url.match(/^\/\d{4}-\d{2}-\d{2}-.*/i)) {
     const newUrl = '/' + url.substring(1, 5) + '/' + url.substring(6, 8) + '/' + url.substring(9, 11) + '/' + url.substring(12);
-    console.log(url + ' -> ' + newUrl);
+    //console.log(url + ' -> ' + newUrl);
     return newUrl;
   }
 

@@ -15,9 +15,9 @@ wordpress_id: 8
 wordpress_url: http://www.bobs.fi/oiva/2007/12/18/yahoo-ui-grids-css-sommittelutyokalu/
 date: 2007-12-18 23:47:28 +02:00
 date_gmt: 2007-12-18 21:47:28 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - css
 - yahoo
 - layout

@@ -16,9 +16,9 @@ wordpress_id: 29
 wordpress_url: http://www.bobs.fi/oiva/2008/03/04/ie8-kayttamaan-oletusarvoisesti-standardia-renderointia/
 date: 2008-03-04 19:47:17 +02:00
 date_gmt: 2008-03-04 17:47:17 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - css
 - IE7
 - IE8

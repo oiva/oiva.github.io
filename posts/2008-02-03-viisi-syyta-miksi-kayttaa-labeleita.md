@@ -16,9 +16,9 @@ wordpress_id: 20
 wordpress_url: http://www.bobs.fi/oiva/2008/02/03/viisi-syyta-miksi-kayttaa-labeleita/
 date: 2008-02-03 00:51:37 +02:00
 date_gmt: 2008-02-02 22:51:37 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - HTML
 - label
 - saavutettavuus

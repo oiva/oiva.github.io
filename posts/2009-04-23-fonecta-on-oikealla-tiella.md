@@ -14,10 +14,10 @@ wordpress_id: 592
 wordpress_url: http://www.bobs.fi/oiva/?p=592
 date: 2009-04-23 23:36:35 +03:00
 date_gmt: 2009-04-23 21:36:35 +03:00
-categories:
+tags:
 - elämä
 - markkinointi
-tags:
+old_tags:
 - eniro
 - puhelinluettelot
 - fonecta

@@ -15,9 +15,9 @@ wordpress_id: 14
 wordpress_url: http://www.bobs.fi/oiva/2008/01/08/wlan-hotspotteja/
 date: 2008-01-08 20:34:23 +02:00
 date_gmt: 2008-01-08 18:34:23 +02:00
-categories:
-- wlan
 tags:
+- wlan
+old_tags:
 - wlan
 - helsinki
 - hotspot

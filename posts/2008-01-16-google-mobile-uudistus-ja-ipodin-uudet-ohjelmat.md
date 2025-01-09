@@ -15,10 +15,10 @@ wordpress_id: 15
 wordpress_url: http://www.bobs.fi/oiva/2008/01/16/google-mobile-uudistus-ja-ipodin-uudet-ohjelmat/
 date: 2008-01-16 23:55:22 +02:00
 date_gmt: 2008-01-16 21:55:22 +02:00
-categories:
+tags:
 - web-kehitys
 - ipod
-tags:
+old_tags:
 - ipod touch
 - google
 - apple

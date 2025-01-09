@@ -14,9 +14,9 @@ wordpress_id: 543
 wordpress_url: http://www.bobs.fi/oiva/?p=543
 date: 2009-03-06 21:46:27 +02:00
 date_gmt: 2009-03-06 19:46:27 +02:00
-categories:
-- markkinointi
 tags:
+- markkinointi
+old_tags:
 - ytv
 - nivea
 - gillette

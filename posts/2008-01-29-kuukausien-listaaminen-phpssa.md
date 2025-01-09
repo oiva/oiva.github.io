@@ -14,9 +14,9 @@ wordpress_id: 19
 wordpress_url: http://www.bobs.fi/oiva/2008/01/29/kuukausien-listaaminen-phpssa/
 date: 2008-01-29 11:07:18 +02:00
 date_gmt: 2008-01-29 09:07:18 +02:00
-categories:
-- PHP
 tags:
+- PHP
+old_tags:
 - PHP
 comments: []
 ---

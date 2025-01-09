@@ -16,9 +16,9 @@ wordpress_id: 607
 wordpress_url: http://www.bobs.fi/oiva/?p=607
 date: 2009-05-07 00:38:42 +03:00
 date_gmt: 2009-05-06 22:38:42 +03:00
-categories:
-- internet
 tags:
+- internet
+old_tags:
 - blogit
 - twitter
 - tietotekniikka

@@ -9,13 +9,13 @@ author:
   email: oiva.eskola@gmail.com
 date: 2019-10-21 19:20:00 +02:00
 date_gmt: 2019-10-21 17:20:00 +0000
-categories: 
+tags: 
 - infotoggle
 - web-kehitys
 - web-palvelut
 - työ
 - internet
-tags: []
+old_tags: []
 excerpt: "I'm creating a SaaS called InfoToggle"
 ---
 

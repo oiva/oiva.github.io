@@ -19,9 +19,9 @@ wordpress_id: 307
 wordpress_url: http://www.bobs.fi/oiva/?p=307
 date: 2008-10-28 22:58:35 +02:00
 date_gmt: 2008-10-28 19:58:35 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - tietoenator
 - effi
 - tuija brax

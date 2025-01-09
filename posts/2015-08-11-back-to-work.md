@@ -5,8 +5,8 @@ published: true
 title: Back to Work Reading List
 date: 2015-08-11 12:04:00 +03:00
 date_gmt: 2015-08-11 12:04:00 +03:00
-categories: [] 
-tags:
+tags: [] 
+old_tags:
 - podcast
 - books
 ---

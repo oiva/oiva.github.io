@@ -14,10 +14,10 @@ wordpress_id: 236
 wordpress_url: http://www.bobs.fi/oiva/?p=236
 date: 2008-10-09 22:50:46 +03:00
 date_gmt: 2008-10-09 19:50:46 +03:00
-categories:
+tags:
 - elämä
 - linkit
-tags:
+old_tags:
 - lama
 - nytimes
 - talous

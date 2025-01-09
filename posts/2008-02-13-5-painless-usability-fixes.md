@@ -15,9 +15,9 @@ wordpress_id: 22
 wordpress_url: http://www.bobs.fi/oiva/2008/02/13/5-painless-usability-fixes/
 date: 2008-02-13 21:27:48 +02:00
 date_gmt: 2008-02-13 19:27:48 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - käytettävyys
 - it-iltapäivä
 - diplomityö

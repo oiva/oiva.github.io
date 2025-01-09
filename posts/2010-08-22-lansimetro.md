@@ -14,10 +14,10 @@ wordpress_id: 718
 wordpress_url: http://www.bobs.fi/oiva/?p=718
 date: 2010-08-22 21:36:16 +03:00
 date_gmt: 2010-08-22 19:36:16 +03:00
-categories:
+tags:
 - elämä
 - huumori
-tags:
+old_tags:
 - länsimetro
 comments: []
 excerpt: Länsimetro ei ole vielä valmis. Paitsi jos luet tätä tulevaisuudessa.

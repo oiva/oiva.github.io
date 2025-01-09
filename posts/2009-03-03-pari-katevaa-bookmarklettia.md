@@ -17,11 +17,11 @@ wordpress_id: 551
 wordpress_url: http://www.bobs.fi/oiva/?p=551
 date: 2009-03-03 23:33:30 +02:00
 date_gmt: 2009-03-03 20:33:30 +02:00
-categories:
+tags:
 - ipod
 - web-palvelut
 - internet
-tags:
+old_tags:
 - JavaScript
 - ipod
 - bookmarklet

@@ -15,10 +15,10 @@ wordpress_id: 26
 wordpress_url: http://www.bobs.fi/oiva/2008/02/19/top-10-application-design-mistakes/
 date: 2008-02-19 23:30:34 +02:00
 date_gmt: 2008-02-19 21:30:34 +02:00
-categories:
+tags:
 - web-kehitys
 - käytettävyys
-tags:
+old_tags:
 - käytettävyys
 - nielsen
 - käyttäjätestaus

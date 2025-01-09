@@ -14,9 +14,9 @@ wordpress_id: 683
 wordpress_url: http://www.bobs.fi/oiva/?p=683
 date: 2009-08-16 23:20:22 +03:00
 date_gmt: 2009-08-16 21:20:22 +03:00
-categories:
-- osx
 tags:
+- osx
+old_tags:
 - OS X
 comments: []
 excerpt: OS X:ssä home ja end -näppäimet toimivat oletusarvoisesti väärin. Näin korjaat tilanteen.

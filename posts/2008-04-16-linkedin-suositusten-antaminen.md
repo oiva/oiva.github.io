@@ -15,10 +15,10 @@ wordpress_id: 47
 wordpress_url: http://www.bobs.fi/oiva/?p=47
 date: 2008-04-16 21:08:22 +03:00
 date_gmt: 2008-04-16 18:08:22 +03:00
-categories:
+tags:
 - elämä
 - web-palvelut
-tags:
+old_tags:
 - linkedin
 comments: []
 ---

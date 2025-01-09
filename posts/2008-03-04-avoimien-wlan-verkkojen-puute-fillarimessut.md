@@ -16,11 +16,11 @@ wordpress_id: 30
 wordpress_url: http://www.bobs.fi/oiva/2008/03/04/avoimien-wlan-verkkojen-puute-fillarimessut/
 date: 2008-03-04 21:47:11 +02:00
 date_gmt: 2008-03-04 19:47:11 +02:00
-categories:
+tags:
 - ipod
 - mobiili
 - wlan
-tags:
+old_tags:
 - wlan
 - messukeskus
 - nokia

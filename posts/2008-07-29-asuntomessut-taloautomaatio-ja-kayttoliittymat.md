@@ -17,10 +17,10 @@ wordpress_id: 125
 wordpress_url: http://www.bobs.fi/oiva/?p=125
 date: 2008-07-29 23:59:07 +03:00
 date_gmt: 2008-07-29 20:59:07 +03:00
-categories:
+tags:
 - käytettävyys
 - elämä
-tags:
+old_tags:
 - rfid
 - asuntomessut
 - käyttöliittymä

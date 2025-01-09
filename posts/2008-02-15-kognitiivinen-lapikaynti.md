@@ -15,10 +15,10 @@ wordpress_id: 23
 wordpress_url: http://www.bobs.fi/oiva/2008/02/15/kognitiivinen-lapikaynti/
 date: 2008-02-15 00:40:52 +02:00
 date_gmt: 2008-02-14 22:40:52 +02:00
-categories:
+tags:
 - käytettävyys
 - koulu
-tags:
+old_tags:
 - käytettävyys
 - kognitiivinen läpikäynti
 comments: []

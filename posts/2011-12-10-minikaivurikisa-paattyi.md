@@ -14,9 +14,9 @@ wordpress_id: 798
 wordpress_url: http://www.bobs.fi/oiva/?p=798
 date: 2011-12-10 14:07:32 +02:00
 date_gmt: 2011-12-10 12:07:32 +02:00
-categories:
+tags:
 - elämä
-tags: []
+old_tags: []
 comments: []
 excerpt: Kaivurissaistumiskilpailu päättyi kisan järjestäjän päätöksellä kun kisaa oli kestänyt puoli vuotta.
 ---

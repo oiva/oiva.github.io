@@ -15,9 +15,9 @@ wordpress_id: 28
 wordpress_url: http://www.bobs.fi/oiva/2008/02/27/pikapaivaunet/
 date: 2008-02-27 20:02:44 +02:00
 date_gmt: 2008-02-27 18:02:44 +02:00
-categories:
-- elämä
 tags:
+- elämä
+old_tags:
 - power nap
 - päiväunet
 - nukkuminen

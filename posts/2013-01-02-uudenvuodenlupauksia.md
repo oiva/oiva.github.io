@@ -14,10 +14,10 @@ wordpress_id: 949
 wordpress_url: http://www.bobs.fi/oiva/?p=949
 date: 2013-01-02 19:50:51 +02:00
 date_gmt: 2013-01-02 17:50:51 +02:00
-categories:
+tags:
 - elämä
 - podcastit
-tags: []
+old_tags: []
 comments: []
 excerpt: Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea.
 ---

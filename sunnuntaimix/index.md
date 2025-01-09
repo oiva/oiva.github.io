@@ -15,8 +15,8 @@ wordpress_id: 196
 wordpress_url: http://www.bobs.fi/oiva/?page_id=196
 date: 2008-09-14 23:49:13 +03:00
 date_gmt: 2008-09-14 20:49:13 +03:00
-categories: []
 tags: []
+old_tags: []
 comments:
 - id: 99
   author: Sunnuntaimix &#8212; Oivallisia juttuja

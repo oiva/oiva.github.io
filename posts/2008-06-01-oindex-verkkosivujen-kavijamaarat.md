@@ -14,9 +14,9 @@ wordpress_id: 103
 wordpress_url: http://www.bobs.fi/oiva/?p=103
 date: 2008-06-01 12:00:02 +03:00
 date_gmt: 2008-06-01 09:00:02 +03:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - oindex
 - google analytics
 - tilastot

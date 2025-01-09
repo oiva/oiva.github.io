@@ -16,9 +16,9 @@ wordpress_id: 36
 wordpress_url: http://www.bobs.fi/oiva/2008/03/28/mika-linssi-digijarkkarille-osa-2/
 date: 2008-03-28 17:18:34 +02:00
 date_gmt: 2008-03-28 15:18:34 +02:00
-categories:
-- kamera
 tags:
+- kamera
+old_tags:
 - kamera
 - nikon
 - sigma

@@ -16,10 +16,10 @@ wordpress_id: 40
 wordpress_url: http://www.bobs.fi/oiva/?p=40
 date: 2008-04-06 18:01:47 +03:00
 date_gmt: 2008-04-06 15:01:47 +03:00
-categories:
+tags:
 - web-kehitys
 - PHP
-tags:
+old_tags:
 - PHP
 - HTML
 - wordpress

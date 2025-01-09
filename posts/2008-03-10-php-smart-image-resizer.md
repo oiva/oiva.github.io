@@ -15,9 +15,9 @@ wordpress_id: 32
 wordpress_url: http://www.bobs.fi/oiva/2008/03/10/php-smart-image-resizer/
 date: 2008-03-10 01:04:30 +02:00
 date_gmt: 2008-03-09 23:04:30 +02:00
-categories:
-- PHP
 tags:
+- PHP
+old_tags:
 - PHP
 - smart image resizer
 - kuvat

@@ -5,9 +5,9 @@ published: true
 title: "Next camera: Nikon vs. Fujifilm"
 date: 2016-01-20 00:44:00 +02:00
 date_gmt: 2016-01-19 22:44:00 +0000
-categories: 
-- kamera
 tags:
+- kamera
+old_tags:
 - camera
 - Nikon
 - Fujifilm

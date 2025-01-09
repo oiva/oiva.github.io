@@ -13,9 +13,9 @@ author_login: oiva
 author_email: oiva.eskola@gmail.com
 date: 2013-05-29 23:23:35 +03:00
 date_gmt: 2013-05-29 21:23:35 +03:00
-categories: []
+tags: []
 category: linux
 categoryname: Linux
-tags: []
+old_tags: []
 comments: []
 ---

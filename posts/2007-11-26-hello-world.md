@@ -14,9 +14,9 @@ wordpress_id: 3
 wordpress_url: http://www.bobs.fi/oiva/2007/11/26/hello-world/
 date: 2007-11-26 01:43:08 +02:00
 date_gmt: 2007-11-25 23:43:08 +02:00
-categories:
-- elämä
 tags:
+- elämä
+old_tags:
 - meta
 comments: []
 ---

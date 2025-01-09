@@ -14,9 +14,9 @@ wordpress_id: 106
 wordpress_url: http://www.bobs.fi/oiva/?p=106
 date: 2008-06-03 19:34:07 +03:00
 date_gmt: 2008-06-03 16:34:07 +03:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - google
 - lastgraph
 - last.fm

@@ -16,10 +16,10 @@ wordpress_id: 46
 wordpress_url: http://www.bobs.fi/oiva/?p=46
 date: 2008-04-13 23:36:04 +03:00
 date_gmt: 2008-04-13 20:36:04 +03:00
-categories:
+tags:
 - taide
 - web-palvelut
-tags:
+old_tags:
 - flickr
 - video
 - cyclocross

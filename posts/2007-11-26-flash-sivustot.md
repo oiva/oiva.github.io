@@ -21,10 +21,10 @@ wordpress_id: 4
 wordpress_url: http://www.bobs.fi/oiva/2007/11/26/flash-sivustot/
 date: 2007-11-26 04:31:51 +02:00
 date_gmt: 2007-11-26 02:31:51 +02:00
-categories:
+tags:
 - web-kehitys
 - flash
-tags:
+old_tags:
 - flash
 - web-design
 comments: []

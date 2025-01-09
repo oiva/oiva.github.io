@@ -14,11 +14,11 @@ wordpress_id: 702
 wordpress_url: http://www.bobs.fi/oiva/?p=702
 date: 2009-09-06 20:43:03 +03:00
 date_gmt: 2009-09-06 18:43:03 +03:00
-categories:
+tags:
 - web-kehitys
 - internet
 - linux
-tags: []
+old_tags: []
 comments: []
 excerpt: Blogi siirtyi virtuaaliselle palvelimelle pilveen.
 ---

@@ -14,9 +14,9 @@ wordpress_id: 369
 wordpress_url: http://www.bobs.fi/oiva/?p=369
 date: 2008-11-11 23:59:55 +02:00
 date_gmt: 2008-11-11 20:59:55 +02:00
-categories:
-- ipod
 tags:
+- ipod
+old_tags:
 - ipod touch
 - podcast
 - ipod

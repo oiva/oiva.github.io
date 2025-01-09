@@ -16,10 +16,10 @@ wordpress_id: 303
 wordpress_url: http://www.bobs.fi/oiva/?p=303
 date: 2008-10-23 18:56:33 +03:00
 date_gmt: 2008-10-23 15:56:33 +03:00
-categories:
+tags:
 - huumori
 - web-palvelut
-tags:
+old_tags:
 - flickr
 - viivi avellan
 comments: []

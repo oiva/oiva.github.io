@@ -15,9 +15,9 @@ wordpress_id: 524
 wordpress_url: http://www.bobs.fi/oiva/?p=524
 date: 2009-02-01 15:03:13 +02:00
 date_gmt: 2009-02-01 12:03:13 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - google
 - kartta
 - google maps

@@ -14,10 +14,10 @@ wordpress_id: 205
 wordpress_url: http://www.bobs.fi/oiva/?p=205
 date: 2008-09-14 23:57:06 +03:00
 date_gmt: 2008-09-14 20:57:06 +03:00
-categories:
+tags:
 - taide
 - musiikki
-tags:
+old_tags:
 - musiikki
 - muxtape
 comments:

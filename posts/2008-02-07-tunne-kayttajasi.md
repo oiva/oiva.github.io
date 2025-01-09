@@ -15,9 +15,9 @@ wordpress_id: 21
 wordpress_url: http://www.bobs.fi/oiva/2008/02/07/tunne-kayttajasi/
 date: 2008-02-07 11:48:27 +02:00
 date_gmt: 2008-02-07 09:48:27 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - käytettävyys
 - koulu
 comments: []

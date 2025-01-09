@@ -14,9 +14,9 @@ wordpress_id: 632
 wordpress_url: http://www.bobs.fi/oiva/?p=632
 date: 2009-08-13 23:25:20 +03:00
 date_gmt: 2009-08-13 21:25:20 +03:00
-categories:
-- osx
 tags:
+- osx
+old_tags:
 - apple
 - samsung
 - OS X

@@ -14,10 +14,10 @@ wordpress_id: 411
 wordpress_url: http://www.bobs.fi/oiva/?p=411
 date: 2008-11-22 15:00:40 +02:00
 date_gmt: 2008-11-22 12:00:40 +02:00
-categories:
+tags:
 - elämä
 - työ
-tags:
+old_tags:
 - youtube
 - merlin mann
 - inbox zero

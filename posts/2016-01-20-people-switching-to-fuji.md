@@ -5,9 +5,9 @@ published: true
 title: "Stories about switching to Fuji"
 date: 2016-01-21 00:05:00 +02:00
 date_gmt: 2016-01-20 22:05:00 +0000
-categories: 
+tags: 
 - kamera
-tags:
+old_tags:
 - camera
 - Nikon
 - Fujifilm

@@ -14,9 +14,9 @@ wordpress_id: 132
 wordpress_url: http://www.bobs.fi/oiva/?p=132
 date: 2008-08-12 22:26:09 +03:00
 date_gmt: 2008-08-12 19:26:09 +03:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - rss
 - ficora
 - redirect

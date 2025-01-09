@@ -5,8 +5,8 @@ published: true
 title: Most Popular Black Ops II Multiplayer Maps
 date: 2015-08-18 15:53:00 +03:00
 date_gmt: 2015-08-18 13:53:00 +03:00
-categories: [] 
-tags:
+tags: [] 
+old_tags:
 - games
 - multiplayer
 - Black Ops II

@@ -28,9 +28,9 @@ wordpress_id: 163
 wordpress_url: http://www.bobs.fi/oiva/?p=163
 date: 2008-09-03 00:47:15 +03:00
 date_gmt: 2008-09-02 21:47:15 +03:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - google
 - IE8
 - firefox

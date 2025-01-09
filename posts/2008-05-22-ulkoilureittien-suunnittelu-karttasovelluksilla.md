@@ -15,10 +15,10 @@ wordpress_id: 92
 wordpress_url: http://www.bobs.fi/oiva/?p=92
 date: 2008-05-22 12:57:02 +03:00
 date_gmt: 2008-05-22 09:57:02 +03:00
-categories:
+tags:
 - elämä
 - web-palvelut
-tags:
+old_tags:
 - kartta
 - google maps
 - ytv

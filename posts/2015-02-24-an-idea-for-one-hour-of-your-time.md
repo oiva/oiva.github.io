@@ -5,10 +5,10 @@ published: true
 title: Trade one hour of your time for one solid idea
 date: 2015-03-17 23:40:00 +02:00
 date_gmt: 2015-03-17 23:40:00 +02:00
-categories: []
+tags: []
 background: "/images/forest.jpg"
 background_small: "/images/forest-small.jpg"
-tags:
+old_tags:
 - blog
 - jekyll
 - GitHub

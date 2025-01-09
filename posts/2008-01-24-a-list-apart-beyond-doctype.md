@@ -16,9 +16,9 @@ wordpress_id: 17
 wordpress_url: http://www.bobs.fi/oiva/2008/01/24/a-list-apart-beyond-doctype/
 date: 2008-01-24 10:21:46 +02:00
 date_gmt: 2008-01-24 08:21:46 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - IE7
 - IE8
 - Microsoft

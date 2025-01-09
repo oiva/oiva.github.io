@@ -14,9 +14,9 @@ wordpress_id: 80
 wordpress_url: http://www.bobs.fi/oiva/?p=80
 date: 2008-05-05 18:19:24 +03:00
 date_gmt: 2008-05-05 15:19:24 +03:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - html css ohjeet
 comments:
 - id: 183

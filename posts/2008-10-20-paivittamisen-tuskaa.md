@@ -17,10 +17,10 @@ wordpress_id: 286
 wordpress_url: http://www.bobs.fi/oiva/?p=286
 date: 2008-10-20 20:45:14 +03:00
 date_gmt: 2008-10-20 17:45:14 +03:00
-categories:
+tags:
 - käytettävyys
 - linux
-tags:
+old_tags:
 - ubuntu
 - nvidia
 - linux

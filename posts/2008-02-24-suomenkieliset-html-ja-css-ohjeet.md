@@ -15,9 +15,9 @@ wordpress_id: 27
 wordpress_url: http://www.bobs.fi/oiva/2008/02/24/suomenkieliset-html-ja-css-ohjeet/
 date: 2008-02-24 22:34:44 +02:00
 date_gmt: 2008-02-24 20:34:44 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - css
 - HTML
 - ohjeet

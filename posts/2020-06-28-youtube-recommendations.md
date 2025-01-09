@@ -9,10 +9,10 @@ author:
   email: oiva.eskola@gmail.com
 date: 2020-06-28 17:00:00 +02:00
 date_gmt: 2020-06-28 15:00:00 +00:00
-categories:
-- youtube
-- internet
-tags: []
+tags:
+  - youtube
+  - internet
+old_tags: []
 excerpt: "Some youtube videos I've like recently"
 ---
 

@@ -14,9 +14,9 @@ wordpress_id: 626
 wordpress_url: http://www.bobs.fi/oiva/?p=626
 date: 2009-07-13 13:35:26 +03:00
 date_gmt: 2009-07-13 11:35:26 +03:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - finnkino
 comments: []
 ---

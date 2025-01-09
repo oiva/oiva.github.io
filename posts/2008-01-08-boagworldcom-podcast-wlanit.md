@@ -16,11 +16,11 @@ wordpress_id: 13
 wordpress_url: http://www.bobs.fi/oiva/2008/01/08/boagworldcom-podcast-wlanit/
 date: 2008-01-08 00:39:00 +02:00
 date_gmt: 2008-01-07 22:39:00 +02:00
-categories:
+tags:
 - web-kehitys
 - ipod
 - wlan
-tags:
+old_tags:
 - wlan
 - ipod touch
 - podcast

@@ -14,9 +14,9 @@ wordpress_id: 376
 wordpress_url: http://www.bobs.fi/oiva/?p=376
 date: 2008-11-13 00:08:26 +02:00
 date_gmt: 2008-11-12 21:08:26 +02:00
-categories:
-- musiikki
 tags:
+- musiikki
+old_tags:
 - dune
 - pendulum
 comments: []

@@ -14,10 +14,10 @@ wordpress_id: 716
 wordpress_url: http://www.bobs.fi/oiva/?p=716
 date: 2010-04-19 21:27:04 +03:00
 date_gmt: 2010-04-19 19:27:04 +03:00
-categories:
+tags:
 - koulu
 - työ
-tags:
+old_tags:
 - diplomityö
 - sosiaalinen media
 comments: []

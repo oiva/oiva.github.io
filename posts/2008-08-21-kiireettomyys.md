@@ -14,9 +14,9 @@ wordpress_id: 144
 wordpress_url: http://www.bobs.fi/oiva/?p=144
 date: 2008-08-21 22:02:15 +03:00
 date_gmt: 2008-08-21 19:02:15 +03:00
-categories:
-- työ
 tags:
+- työ
+old_tags:
 - tuottavuus
 - kiire
 comments:

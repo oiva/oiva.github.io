@@ -14,11 +14,11 @@ wordpress_id: 91
 wordpress_url: http://www.bobs.fi/oiva/?p=91
 date: 2008-05-21 13:12:03 +03:00
 date_gmt: 2008-05-21 10:12:03 +03:00
-categories:
+tags:
 - kamera
 - käytettävyys
 - mobiili
-tags:
+old_tags:
 - kamera
 - nokia
 - yksityisyys

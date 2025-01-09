@@ -5,8 +5,8 @@ published: false
 title: Viisi välittäjämokaa
 date: 2015-06-25 15:53:00 +02:00
 date_gmt: 2015-06-25 13:53:00 +02:00
-categories: []
-tags:
+tags: []
+old_tags:
 - välittäjä
 ---
 

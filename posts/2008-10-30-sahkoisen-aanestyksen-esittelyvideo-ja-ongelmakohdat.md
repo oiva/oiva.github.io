@@ -16,9 +16,9 @@ wordpress_id: 345
 wordpress_url: http://www.bobs.fi/oiva/?p=345
 date: 2008-10-30 00:28:22 +02:00
 date_gmt: 2008-10-29 21:28:22 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - käytettävyys
 - tietoenator
 - sähköinen äänestys

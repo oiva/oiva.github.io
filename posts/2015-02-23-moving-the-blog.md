@@ -5,8 +5,8 @@ published: true
 title: What to do with my blog
 date: 2015-02-23 15:53:00 +02:00
 date_gmt: 2015-02-23 13:53:00 +02:00
-categories: [] 
-tags:
+tags: [] 
+old_tags:
 - blog
 - jekyll
 - GitHub

@@ -14,10 +14,10 @@ wordpress_id: 763
 wordpress_url: http://www.bobs.fi/oiva/?p=763
 date: 2011-10-07 19:43:41 +03:00
 date_gmt: 2011-10-07 17:43:41 +03:00
-categories:
+tags:
 - elämä
 - huumori
-tags: []
+old_tags: []
 excerpt: "Kauppakeskus sellossa on käynnissä kisa, jossa nuoren miehen pitää istua
   minikaivurissa kauemmin kuin muut nuoret muissa kauppakeskuksissa"
 comments:

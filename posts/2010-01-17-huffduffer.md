@@ -14,10 +14,10 @@ wordpress_id: 714
 wordpress_url: http://www.bobs.fi/oiva/?p=714
 date: 2010-01-17 21:22:36 +02:00
 date_gmt: 2010-01-17 19:22:36 +02:00
-categories:
+tags:
 - ipod
 - web-palvelut
-tags: []
+old_tags: []
 comments: []
 excerpt: HuffDuffer on muutaman vuoden ikäinen verkkopalvelu, jonka avulla voit löytää uusia podcasteja, sekä kerätä itsellesi oman podcastin.
 ---

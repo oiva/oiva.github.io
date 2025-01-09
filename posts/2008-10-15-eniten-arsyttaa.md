@@ -16,11 +16,11 @@ wordpress_id: 270
 wordpress_url: http://www.bobs.fi/oiva/?p=270
 date: 2008-10-15 09:13:23 +03:00
 date_gmt: 2008-10-15 06:13:23 +03:00
-categories:
+tags:
 - käytettävyys
 - markkinointi
 - web-palvelut
-tags:
+old_tags:
 - google
 - markkinointi
 - blogit

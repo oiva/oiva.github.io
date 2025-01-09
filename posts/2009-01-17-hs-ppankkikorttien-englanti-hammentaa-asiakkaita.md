@@ -16,9 +16,9 @@ wordpress_id: 506
 wordpress_url: http://www.bobs.fi/oiva/?p=506
 date: 2009-01-17 14:44:29 +02:00
 date_gmt: 2009-01-17 11:44:29 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - mastercard
 - credit
 - pankkikortti

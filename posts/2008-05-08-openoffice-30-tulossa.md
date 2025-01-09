@@ -26,10 +26,10 @@ wordpress_id: 84
 wordpress_url: http://www.bobs.fi/oiva/?p=84
 date: 2008-05-08 20:00:44 +03:00
 date_gmt: 2008-05-08 17:00:44 +03:00
-categories:
+tags:
 - käytettävyys
 - linux
-tags:
+old_tags:
 - ribbon
 - openoffice
 - word

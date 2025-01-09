@@ -14,9 +14,9 @@ wordpress_id: 41
 wordpress_url: http://www.bobs.fi/oiva/?p=41
 date: 2008-04-09 12:43:16 +03:00
 date_gmt: 2008-04-09 09:43:16 +03:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - css
 - standardit
 - HTML

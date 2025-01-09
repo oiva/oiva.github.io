@@ -14,10 +14,10 @@ wordpress_id: 710
 wordpress_url: http://www.bobs.fi/oiva/?p=710
 date: 2009-10-19 21:17:17 +03:00
 date_gmt: 2009-10-19 19:17:17 +03:00
-categories:
+tags:
 - käytettävyys
 - elämä
-tags: []
+old_tags: []
 comments: []
 excerpt: Kuluttajaviranomainen ei voi eikä halua puuttua siihen, että suomalaiset joutuvat totuttelemaan "debit- ja credit-kortteihin".
 ---

@@ -15,9 +15,9 @@ wordpress_id: 42
 wordpress_url: http://www.bobs.fi/oiva/?p=42
 date: 2008-04-09 20:19:08 +03:00
 date_gmt: 2008-04-09 17:19:08 +03:00
-categories:
-- PHP
 tags:
+- PHP
+old_tags:
 - wordpress
 - locale
 - suomennos

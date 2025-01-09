@@ -36,19 +36,19 @@ regenerate: true
 
   <article class="post-content">
     {{ content }}
-    {% if categories.size > 0 %}
-      {% assign categorySize = categories.size | minus: 1 %}
-      {% assign categoryIndex = 0 %}
-      {% capture categories %}
-        {% for category in categories %}
-          <a href="/archive/{{ category | replace: 'ä','a' | replace: 'ö','o' }}">{{category}}</a>{% if categoryIndex < categorySize %}, {% endif %}
-          {% assign categoryIndex = categoryIndex | plus: 1 %}
+    {% if tags.size > 0 %}
+      {% assign tagSize = tags.size | minus: 1 %}
+      {% assign tagIndex = 0 %}
+      {% capture tags %}
+        {% for tag in tags %}
+          <a href="/archive/{{ tag | replace: 'ä','a' | replace: 'ö','o' }}">{{tag}}</a>{% if tagIndex < tagSize %}, {% endif %}
+          {% assign tagIndex = tagIndex | plus: 1 %}
         {% endfor %}
       {% endcapture %}
       {% if language == 'fi' or pagetime < cutoff %}
-      <p class="categories">Kategoria{% if categories.size != 1 %}t{% endif %}: {{ categories }}</p>
+      <p class="categories">Kategoria{% if tags.size != 1 %}t{% endif %}: {{ tags }}</p>
       {% else %}
-      <p class="categories">Categor{% if categories.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
+      <p class="categories">Categor{% if tags.size != 1 %}ies{% else %}y{% endif %}: {{ categories }}</p>
       {% endif %}
     {% endif %}
   </article>

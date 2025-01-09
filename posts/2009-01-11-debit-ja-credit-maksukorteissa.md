@@ -17,9 +17,9 @@ wordpress_id: 493
 wordpress_url: http://www.bobs.fi/oiva/?p=493
 date: 2009-01-11 02:34:31 +02:00
 date_gmt: 2009-01-10 23:34:31 +02:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - käytettävyys
 - nielsen
 - mastercard

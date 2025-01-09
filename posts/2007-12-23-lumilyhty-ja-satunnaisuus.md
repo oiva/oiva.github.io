@@ -17,9 +17,9 @@ wordpress_id: 11
 wordpress_url: http://www.bobs.fi/oiva/2007/12/23/lumilyhty-ja-satunnaisuus/
 date: 2007-12-23 14:21:20 +02:00
 date_gmt: 2007-12-23 12:21:20 +02:00
-categories:
-- elämä
 tags:
+- elämä
+old_tags:
 - lumilyhty
 - satunnaisuus
 - todennäköisyys

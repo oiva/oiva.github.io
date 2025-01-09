@@ -16,8 +16,8 @@ wordpress_id: 152
 wordpress_url: http://www.bobs.fi/oiva/?p=152
 date: 2008-08-28 22:59:21 +03:00
 date_gmt: 2008-08-28 19:59:21 +03:00
-categories: []
-tags:
+tags: []
+old_tags:
 - jaiku
 comments: []
 ---

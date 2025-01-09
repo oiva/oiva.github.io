@@ -14,9 +14,9 @@ wordpress_id: 465
 wordpress_url: http://www.bobs.fi/oiva/?p=465
 date: 2009-01-09 01:30:27 +02:00
 date_gmt: 2009-01-08 22:30:27 +02:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - palaute
 - uservoice
 - get satisfaction

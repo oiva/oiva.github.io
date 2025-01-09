@@ -14,9 +14,9 @@ wordpress_id: 695
 wordpress_url: http://www.bobs.fi/oiva/?p=695
 date: 2010-09-19 18:40:18 +03:00
 date_gmt: 2010-09-19 16:40:18 +03:00
-categories:
-- linux
 tags:
+- linux
+old_tags:
 - vps
 - Linode
 - varmuuskopiot

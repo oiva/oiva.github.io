@@ -14,14 +14,14 @@ wordpress_id: 130
 wordpress_url: http://www.bobs.fi/oiva/2008/08/07/links-for-2008-08-06-deliciouscom/
 date: 2008-08-07 03:33:36 +03:00
 date_gmt: 2008-08-07 00:33:36 +03:00
-categories:
+tags:
 - linkit
-tags: []
+old_tags: []
 comments: []
 ---
 <ul class="delicious">
 <li>
 <div class="delicious-link"><a href="http://lcdtech.no-ip.info/en/data/lcd.panels.in.monitors.htm">LCD Panels in Monitors</a></div></p>
 <div class="delicious-extended">Kätevä lähde monitorien tietojen tarkistamiseen. Esimerkiksi verkkokauppa.com ei kerro paneelin tyyppiä, joka kuitenkin vaikuttaa kuvanlaatuun paljon.</div></p>
-<div class="delicious-tags">(tags: <a href="http://delicious.com/oiva/monitor">monitor</a>)</div><br />
+<div class="delicious-tags">(old_tags: <a href="http://delicious.com/oiva/monitor">monitor</a>)</div><br />
             </li></ul>

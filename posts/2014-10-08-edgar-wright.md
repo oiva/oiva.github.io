@@ -5,9 +5,9 @@ published: true
 title: Edgar Wright - How to Do Visual Comedy
 date: 2014-10-08 16:23:00 +02:00
 date_gmt: 2014-10-08 14:23:00 +02:00
-categories:
-- movies
 tags:
+- movies
+old_tags:
 - edgar wright
 - comedy
 ---

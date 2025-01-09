@@ -14,10 +14,10 @@ wordpress_id: 712
 wordpress_url: http://www.bobs.fi/oiva/?p=712
 date: 2009-10-19 21:19:40 +03:00
 date_gmt: 2009-10-19 19:19:40 +03:00
-categories:
+tags:
 - koulu
 - web-palvelut
-tags:
+old_tags:
 - diplomityö
 - Dropbox
 - latex

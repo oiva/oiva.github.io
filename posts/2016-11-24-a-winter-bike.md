@@ -5,9 +5,9 @@ published: true
 title: "A Winter Mountain Bike"
 date: 2016-11-24 22:00:00 +02:00
 date_gmt: 2016-11-24 20:00:00 +0000
-categories:
-- bikes
 tags:
+- bikes
+old_tags:
 - bikes
 - winter
 - mountain bike

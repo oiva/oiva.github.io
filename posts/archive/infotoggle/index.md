@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Blog Archive: musiikki"
+title: "Blog Archive: Infotoggle"
 status: publish
 includeheader: false
 published: true
@@ -14,7 +14,7 @@ author_email: oiva.eskola@gmail.com
 date: 2013-05-29 23:23:35 +03:00
 date_gmt: 2013-05-29 21:23:35 +03:00
 tags: []
-category: musiikki
+category: infotoggle
 old_tags: []
 comments: []
 ---

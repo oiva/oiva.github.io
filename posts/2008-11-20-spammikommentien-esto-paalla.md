@@ -14,9 +14,9 @@ wordpress_id: 404
 wordpress_url: http://www.bobs.fi/oiva/?p=404
 date: 2008-11-20 21:36:56 +02:00
 date_gmt: 2008-11-20 18:36:56 +02:00
-categories:
-- web-kehitys
 tags:
+- web-kehitys
+old_tags:
 - wordpress
 - spam
 comments: []

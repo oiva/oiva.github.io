@@ -14,9 +14,9 @@ wordpress_id: 18
 wordpress_url: http://www.bobs.fi/oiva/2008/01/25/mista-tietaa-etta-lama-uhkaa/
 date: 2008-01-25 19:49:19 +02:00
 date_gmt: 2008-01-25 17:49:19 +02:00
-categories:
-- elämä
 tags:
+- elämä
+old_tags:
 - lama
 - lifehacker
 comments: []

@@ -15,11 +15,11 @@ wordpress_id: 809
 wordpress_url: http://www.bobs.fi/oiva/?p=809
 date: 2012-02-18 09:46:36 +02:00
 date_gmt: 2012-02-18 07:46:36 +02:00
-categories:
+tags:
 - elämä
 - linkit
 - internet
-tags:
+old_tags:
 - podcast
 - ohjelmointi
 - 5by5

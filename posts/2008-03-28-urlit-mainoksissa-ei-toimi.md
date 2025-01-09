@@ -16,9 +16,9 @@ wordpress_id: 37
 wordpress_url: http://www.bobs.fi/oiva/2008/03/28/urlit-mainoksissa-ei-toimi/
 date: 2008-03-28 18:28:59 +02:00
 date_gmt: 2008-03-28 16:28:59 +02:00
-categories:
-- markkinointi
 tags:
+- markkinointi
+old_tags:
 - url
 - mainos
 - ravintokoodi

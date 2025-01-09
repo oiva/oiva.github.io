@@ -14,9 +14,9 @@ wordpress_id: 96
 wordpress_url: http://www.bobs.fi/oiva/?p=96
 date: 2008-05-23 12:58:12 +03:00
 date_gmt: 2008-05-23 09:58:12 +03:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - flickr
 - fixed gear
 - single speed

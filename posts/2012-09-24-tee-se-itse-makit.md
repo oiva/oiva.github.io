@@ -14,11 +14,11 @@ wordpress_id: 867
 wordpress_url: http://www.bobs.fi/oiva/?p=867
 date: 2012-09-24 22:22:51 +03:00
 date_gmt: 2012-09-24 20:22:51 +03:00
-categories:
+tags:
 - web-kehitys
 - työ
 - osx
-tags:
+old_tags:
 - apple
 - OS X
 - hackintosh

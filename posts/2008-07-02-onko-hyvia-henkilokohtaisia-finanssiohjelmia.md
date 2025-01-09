@@ -14,10 +14,10 @@ wordpress_id: 119
 wordpress_url: http://www.bobs.fi/oiva/?p=119
 date: 2008-07-02 19:24:28 +03:00
 date_gmt: 2008-07-02 16:24:28 +03:00
-categories:
+tags:
 - elämä
 - web-palvelut
-tags:
+old_tags:
 - lifehacker
 - finanssiohjelmat
 - mint

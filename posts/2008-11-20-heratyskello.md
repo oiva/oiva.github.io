@@ -23,10 +23,10 @@ wordpress_id: 384
 wordpress_url: http://www.bobs.fi/oiva/?p=384
 date: 2008-11-20 21:27:06 +02:00
 date_gmt: 2008-11-20 18:27:06 +02:00
-categories:
+tags:
 - käytettävyys
 - elämä
-tags:
+old_tags:
 - nokia
 - herätyskello
 - axbo

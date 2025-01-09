@@ -14,10 +14,10 @@ wordpress_id: 111
 wordpress_url: http://www.bobs.fi/oiva/?p=111
 date: 2008-06-09 23:45:58 +03:00
 date_gmt: 2008-06-09 20:45:58 +03:00
-categories:
+tags:
 - elämä
 - työ
-tags:
+old_tags:
 - diplomityö
 - työ
 - valve

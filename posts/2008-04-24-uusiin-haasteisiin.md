@@ -14,9 +14,9 @@ wordpress_id: 63
 wordpress_url: http://www.bobs.fi/oiva/?p=63
 date: 2008-04-24 14:09:23 +03:00
 date_gmt: 2008-04-24 11:09:23 +03:00
-categories:
-- elämä
 tags:
+- elämä
+old_tags:
 - työ
 comments: []
 ---

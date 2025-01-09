@@ -14,10 +14,10 @@ wordpress_id: 16
 wordpress_url: http://www.bobs.fi/oiva/2008/01/17/steve-jobsin-macworld-puhe-60-sekunnissa/
 date: 2008-01-17 22:22:19 +02:00
 date_gmt: 2008-01-17 20:22:19 +02:00
-categories:
+tags:
 - ipod
 - huumori
-tags:
+old_tags:
 - apple
 - Macworld
 comments: []

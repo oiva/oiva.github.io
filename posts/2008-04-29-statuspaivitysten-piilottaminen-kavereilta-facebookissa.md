@@ -16,9 +16,9 @@ wordpress_id: 67
 wordpress_url: http://www.bobs.fi/oiva/?p=67
 date: 2008-04-29 12:49:55 +03:00
 date_gmt: 2008-04-29 09:49:55 +03:00
-categories:
-- web-palvelut
 tags:
+- web-palvelut
+old_tags:
 - facebook
 - yksityisyys
 - statuspäivitykset

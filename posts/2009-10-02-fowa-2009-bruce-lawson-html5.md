@@ -14,11 +14,11 @@ wordpress_id: 708
 wordpress_url: http://www.bobs.fi/oiva/?p=708
 date: 2009-10-02 21:14:55 +03:00
 date_gmt: 2009-10-02 19:14:55 +03:00
-categories:
+tags:
 - web-kehitys
 - työ
 - internet
-tags: []
+old_tags: []
 comments: []
 excerpt: Miten HTML5 vastaa nykypäivän web applikaatioiden asettamiin vaatimuksiin?
 ---

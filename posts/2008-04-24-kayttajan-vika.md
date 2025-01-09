@@ -14,9 +14,9 @@ wordpress_id: 64
 wordpress_url: http://www.bobs.fi/oiva/?p=64
 date: 2008-04-24 19:31:10 +03:00
 date_gmt: 2008-04-24 16:31:10 +03:00
-categories:
-- käytettävyys
 tags:
+- käytettävyys
+old_tags:
 - käytettävyys
 comments:
 - id: 334

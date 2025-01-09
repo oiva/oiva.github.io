@@ -16,9 +16,9 @@ wordpress_id: 39
 wordpress_url: http://www.bobs.fi/oiva/2008/04/03/filosofia-ja-systeemiajattelu/
 date: 2008-04-03 22:51:57 +03:00
 date_gmt: 2008-04-03 20:51:57 +03:00
-categories:
-- koulu
 tags:
+- koulu
+old_tags:
 - filosofia
 - systeemiajattelu
 - tkk

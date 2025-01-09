@@ -16,10 +16,10 @@ wordpress_id: 727
 wordpress_url: http://www.bobs.fi/oiva/?p=727
 date: 2011-05-28 11:05:42 +03:00
 date_gmt: 2011-05-28 09:05:42 +03:00
-categories:
+tags:
 - elämä
 - internet
-tags:
+old_tags:
 - Dropbox
 - netposti
 - skanneri

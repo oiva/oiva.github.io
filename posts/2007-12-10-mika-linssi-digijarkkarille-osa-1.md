@@ -15,9 +15,9 @@ wordpress_id: 7
 wordpress_url: http://www.bobs.fi/oiva/2007/12/10/mika-linssi-digijarkkarille-osa-1/
 date: 2007-12-10 02:05:28 +02:00
 date_gmt: 2007-12-10 00:05:28 +02:00
-categories:
-- kamera
 tags:
+- kamera
+old_tags:
 - kamera
 - polttoväli
 - linssit
