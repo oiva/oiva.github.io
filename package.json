@@ -9,6 +9,7 @@
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
     "csstype": "^3.1.1",
     "sass-migrator": "^2.3.0",
     "striptags": "^3.2.0"

@@ -1,5 +1,6 @@
 import striptags from 'striptags';
 
+
 export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("css");
@@ -37,6 +38,32 @@ export default async function (eleventyConfig) {
       return post;
     });
   });
+
+  eleventyConfig.addFilter("limit", function (array, limit) {
+    return array.slice(0, limit);
+  });
+  eleventyConfig.addFilter("head", function (array, limit) {
+    return array.length > 0 ? array[0] : undefined;
+  });
+
+  // RSS Feed
+  // eleventyConfig.addPlugin(feedPlugin, {
+  //   type: "rss", // or "rss", "json"
+  //   collection: {
+  //     name: "posts", // iterate over `collections.posts`
+  //     limit: 0,     // 0 means no limit
+  //   },
+  //   metadata: {
+  //     language: "en",
+  //     title: "Oiva Eskola",
+  //     subtitle: "Full stack web developer",
+  //     base: "https://oivaeskola.fi/",
+  //     author: {
+  //       name: "Oiva Eskola",
+  //       email: "", // Optional
+  //     }
+  //   }
+  // });
 }
 
 /**

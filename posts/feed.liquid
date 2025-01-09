@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  {% assign latest_posts = collections.posts | reverse | limit: 23 %}
+  {% assign latest_post = latest_posts | head %}
+  {% assign current_date = "now" | date: "%a, %d %b %Y %H:%M:%S %z" %}
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ current_date | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ current_date | date_to_rfc822 }}</lastBuildDate>
+    <generator>Eleventy</generator>
+    {% for post in latest_posts %}
+      <item>
+        <title>{{ post.data.title | xml_escape }}</title>
+        <description>{{ post.content | strip_html | strip_newlines | truncate: 450 | xml_escape }}</description>
+        <content>{{ post.content | xml_escape }}</content>
+        <pubDate>{{ post.data.date_gmt | date_to_rfc822 }}</pubDate>
+        <dc:creator>{{ post.data.author.display_name }}</dc:creator>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="false">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.data.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.data.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+        <slash:comments>{{ post.data.comments.size }}</slash:comments>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
