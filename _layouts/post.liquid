@@ -90,18 +90,12 @@ regenerate: true
   <section class="feedback">
     {% if language == 'fi' or pagetime < cutoff %}
     <h2>Kysymyksiä tai kommentoitavaa?</h2>
-    <p>Lähetä viesti <a href="http://twitter.com/oiva">Twitterissä</a> tai
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
       <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
     {% else %}
     <h2>Questions or feedback?</h2>
-    <p>Send a message on <a href="http://twitter.com/oiva">Twitter</a> or 
+    <p>Send a message on <a href="https://toot.community/@oivaeskola">Mastodon</a> or 
       <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
-    {% endif %}
-
-    {% if language == 'fi' or pagetime < cutoff %}
-    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{title | cgi_escape}}&url={{url | prepend: site.baseurl | prepend: site.url}}">Jaa tämä sivu Twitterissä</a>
-    {% else %}
-    <a class="twitter-share" href="https://twitter.com/intent/tweet?text={{title | cgi_escape}}&url={{url | prepend: site.baseurl | prepend: site.url}}">Share this post on Twitter</a>
     {% endif %}
   </section>
 </div>
