@@ -1,3 +1,8 @@
+@use "variables";
+@use "mixins";
+@use "sass:math";
+@use "sass:color";
+
 /**
  * Reset some basic elements
  */
@@ -16,12 +21,12 @@ h1, h2, h3, h4, h5, h6 {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
+    font-family: variables.$base-font-family;
+    font-size: variables.$base-font-size;
+    line-height: variables.$base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    color: variables.$text-color;
+    background-color: variables.$background-color;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -38,15 +43,15 @@ body {
 h1, h2, h3, h4, h5, h6, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: variables.$spacing-unit * 0.5;
 }
 p {
-    margin-bottom: $spacing-unit / 1.25;   
+    margin-bottom: math.div(variables.$spacing-unit, 1.25);
 }
 
 h1 {
-    font-family: $title-font-family;
-    font-size: $title-font-size;
+    font-family: variables.$title-font-family;
+    font-size: variables.$title-font-size;
 }
 
 /**
@@ -71,7 +76,7 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: variables.$small-font-size;
 }
 
 
@@ -80,7 +85,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: variables.$spacing-unit;
 }
 
 li {
@@ -109,15 +114,15 @@ h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: variables.$brand-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 20%);
+        color: color.adjust(variables.$brand-color, $lightness: -20%);
     }
 
     &:hover {
-        color: darken($brand-color, 30%);
+        color: color.adjust(variables.$brand-color, $lightness: -30%);
         text-decoration: underline;
     }
 }
@@ -128,11 +133,11 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: variables.$grey-color;
+    border-left: 4px solid variables.$grey-color-light;
     padding: .5rem 3rem .5rem 1.25rem;
-    padding-left: $spacing-unit / 2;
-    font-size: $base-font-size;
+    padding-left: variables.$spacing-unit * 0.5;
+    font-size: variables.$base-font-size;
     letter-spacing: -0.01em;
 
     > :last-child {
@@ -173,19 +178,17 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{variables.$content-width} - (#{variables.$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: variables.$spacing-unit;
+    padding-left: variables.$spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+    @include mixins.media-query(variables.$on-laptop) {
+        max-width:         calc(#{variables.$content-width} - (#{variables.$spacing-unit}));
+        padding-right: variables.$spacing-unit * 0.5;
+        padding-left: variables.$spacing-unit * 0.5;
     }
 }
 
@@ -217,7 +220,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: variables.$grey-color;
         }
     }
 }

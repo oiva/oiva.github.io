@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
+{% assign cutoff = cutoff | plus: 0 %}
+{% assign pagedate = page.date | date: '%s' %}
+{% assign pagedate = pagedate | plus: 0 %}
+<html lang="{% if page.language %}{{ page.language }}{% elsif page.date and pagedate < cutoff %}fi{% else %}en{% endif %}">
+  {% include 'head' %}
+  <body>
+    {% include 'header' %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+    {% if page.title != 'About' %}
+    {% include 'footer' %}
+    {% endif %}
+  </body>
+</html>
