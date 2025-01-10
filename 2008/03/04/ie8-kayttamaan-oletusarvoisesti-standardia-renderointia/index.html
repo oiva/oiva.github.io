@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="fi">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>IE8 käyttämään oletusarvoisesti standardia renderöintiä</title>
+  <meta name="description" content="Internet Explorer 8 renderöi nettisivut oletusarvoisesti uudella moottorilla, eikä vanhalla IE7:n moottorilla. Mikä on hyvä.">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="web-kehitys" />
+  <meta name="dc.date" content="2008-03-04">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2008/03/04/ie8-kayttamaan-oletusarvoisesti-standardia-renderointia/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">IE8 käyttämään oletusarvoisesti standardia renderöintiä</h1>
+      
+      
+        <p class="post-meta">4.3.2008</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p>Internet Explorer 8:n yhteydessä <a href="http://oivaeskola.fi/2008/01/24/a-list-apart-beyond-doctype/">on puhuttu</a> erityisistä meta-tageista, joilla nettisivu voisi pyytää selainta käyttämään tiettyä renderöintimoottorin versiota. Nettisivu voisi esimerkiksi sanoa näyttävänsä parhaalta IE7:lla näytettynä, ja mikä tahansa uudempi IE:n versio näyttää sivun niin kuin se olisi näytetty IE7:llä.</p>
+<p>Tämän ehdotuksen ideana oli estää sivuja näkymästä väärin kun uusi selainversio julkaistaan. IE:n uudet versiot yrittävät noudattaa yhä paremmin alan standardeja, eli HTML ja CSS -spesifikaatioita. Tämän takia vanhoille IE:n versioille suunnattuja viritelmiä sisältävät sivut voivat käyttäjän näkökulmasta mennä rikki.</p>
+<p>Alkuperäisen ehdotuksen suurin ongelma oli kuitenkin se, että jos sivulta ei olisi löytynyt kyseistä meta-tagia, olisi IE8 käyttänyt oletusarvona IE7:n moottoria. Sivun piirtäminen uudella IE8:n moottorilla olisi siis vaatinut sivun ylläpitäjältä erillisiä toimenpiteitä. Näin myös täydellisesti HTML-standardin mukaiset sivut olisivat olleet tuomittuja piirtymään IE7:n osittain epästandardilla moottorilla.</p>
+<p>Nyt Microsoft on kuitenkin kuunnellut kehittäjiä ja <a href="http://arstechnica.com/news.ars/post/20080303-sanity-prevails-ie8-will-default-to-standard-compliant-mode.html">pyörtänyt päätöksensä</a> (<a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx">Microsoft</a>). Tulevaisuudessa IE8 käyttää oletusarvoisesti uudempaa, paremmin standardin mukaista moottoria. Sivuston ylläpitäjä voi kuitenkin meta-tagin avulla pyytää selainta käyttämään vanhempaa moottoria jos pelkää sivuston menevän rikki uudella selaimella.</p>
+<p>Hyviä uutisia siis. IE8:n tuleva julkistus pienentää selainten välisiä eroja ja helpottanee web-kehittäjien elämää.</p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Kategoria: 
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>

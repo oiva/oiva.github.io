@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="fi">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>Pysäkit</title>
+  <meta name="description" content="Pysäkit on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni Phonegap-applikaatio ja ensimmäinen App Storessa julkaisemani a...">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="web-kehitys, web-palvelut, työ" />
+  <meta name="dc.date" content="2013-03-22">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2013/03/22/pysakit/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">Pysäkit</h1>
+      
+      
+        <p class="post-meta">22.3.2013</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit</a> on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni <a href="http://phonegap.com/">Phonegap</a>-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.</p>
+<p>"Pysäkkien" tärkeimmät ominaisuudet ovat:</p>
+<ul>
+<li>Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeille</li>
+<li>Pysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella</li>
+<li>... tai voit hakea suoraan lähimmät pysäkit</li>
+</ul>
+<p>Projekti lähti alunperin liikkeelle siitä, että minun piti opetella käyttämään <a href="http://backbonejs.org/">Backbone.js</a>-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.</p>
+<p>Halusin tehdä itselleni ohjelman, millä näkee pysäkkiaikataulut yhdellä silmäyksellä, ilman että tarvitsee erikseen navigoida ohjelmassa.</p>
+<p>Oma ongelmani pysäkkiaikataulujen kanssa juontuu siitä, että ryömin töihin joskus klo 7-10 välisenä aikana. Lisäksi töihin pääsee joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei välttämättä olisi, mutta olen laiska.</p>
+<p>Ongelma on aika tarkkaan rajattu, mutta mielestäni hyvä applikaatio ratkaisee mieluummin yhden ongelman hyvin kuin monta huonosti. App Storessa on jo lukuisia reittiopas-applikaatioita - en yritä kilpailla niitten kanssa.</p>
+<p>HSL tarjoaa kelvollisen <a href="http://developer.reittiopas.fi/pages/fi/reittiopas-api.php">API:n</a>, mitä kautta saa haettua pysäkkien tiedot ja aikataulut. APIn päälle oli helppo lähteä rakentamaan ja tiedoista saa myös kätevän XML-dumpin.</p>
+<h2>Teknologiat</h2>
+<p>Itse applikaatio on HTML5-tekniikoilla toteutettu <a href="http://en.wikipedia.org/wiki/Single-page_application">Single Page App</a>. Käytössä on sekä <a href="http://backbonejs.org/">Backbone.js</a>, että <a href="http://jquerymobile.com/">jQuery Mobile</a> -kirjastot.</p>
+<p>Näiden kahden kirjaston yhteensovittaminen oli hieman hankalaa. Molemmat haluaisivat esimerkiksi hoitaa navigaation eri sivujen välillä, ja eri sivujen uudelleenpiirtäminen sisällön muuttuessa aiheutti harmaita hiuksia. Muut ovat kirjoittaneet aiheesta pitemmin ja paremmin, esimerkiksi <a href="https://supportbee.com/devblog/2013/02/12/jquery-mobile-backbone-backbone/">täällä</a>.</p>
+<p>Projektin aikana innostus jQuery Mobilea kohtaan hiipui aika lailla. JQuery Mobilen <a href="https://github.com/jquery/jquery-mobile/issues?state=open">bugilista</a> tuli nopeasti hyvin tutuksi. Esimerkiksi monia transitioihin ja kiinteisiin navigaatiopalkkeihin liittyviä bugeja ei ole saatu korjattua, ja varsinkin Phonegapin ja jQuery Mobilen kanssa on hankalia ongelmia.</p>
+<p>Koodaaminen satunnaisten blogien <a href="http://outof.me/fixing-flickers-jumps-of-jquery-mobile-transitions-in-phonegap-apps/">ohjeiden</a> ja <a href="http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/">work-aroundien</a> varassa ei herätä luottamusta.</p>
+<p>Työ-chatissä tiivistyi lopulta ajatus: jos aloittaisin saman projektin nyt, en ottaisi jQuery Mobilea mukaan. Muutamat jQM:n tarjoamat transitiot olisi helppo tehdä itse (tai irrottaa jQM:stä), ja ne vois optimoida paremmin pelkästään iOS:lle.</p>
+<p>Lisäksi kirjaston tarjoamat tyylit eivät nykyään ole kovinkaan käyttökelpoisia. Mobiiliapplikaatio, joka "näyttää jQuery Mobilelta" aiheuttaa samanlaisia hylkiviä reaktioita kuin nettisivu, joka näyttää <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrapin</a> perustyyleiltä. <a href="http://jquerymobile.com/themeroller/">Theme Rollerilla</a> saa vaihdettua värejä ja nappien pyöristyksiä, mutta muuten tyylejä joutuu joka tapauksessa tekemään paljon itse.</p>
+<p>Backbone (ja <a href="http://marionettejs.com/">Marionette.js</a>) tulevat sen sijaan pysymään <em>stäkissäni</em>.</p>
+<p>Lopuksi applikaatio on wrapatty Phonegapilla natiiviksi paketiksi, jonka saa App Storeen myyntiin. Periaatteessa Phonegapin avulla saisi tehtyä myös Android-version jos siltä tuntuu. Toki ennen sitä ohjelmasta pitäisi poistaa takaisin-nuolet ja graffoista tehdä vähemmän iOS:n näköiset :)</p>
+<p>Kaiken kaikkiaan projekti oli hyvä tapa oppia asioita Backbonesta, Xcodesta, App Storen julkaisuprosessista ja testaamisesta. Kehityslistalle jäi vielä läjä ominaisuuksia ja bugikorjauksia, joiden parissa menee vielä tovi.</p>
+<p><a href="https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;ls=1&amp;mt=8">Pysäkit App Storessa</a></p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Kategoriat: 
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>, 
+          
+        
+          <a href="/archive/web-palvelut">web-palvelut</a>, 
+          
+        
+          <a href="/archive/tyo">työ</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>

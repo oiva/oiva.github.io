@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="fi">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>Blogi siirtyi virtuaalipalvelimelle</title>
+  <meta name="description" content="Blogi siirtyi virtuaaliselle palvelimelle pilveen.">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="web-kehitys, internet, linux" />
+  <meta name="dc.date" content="2009-09-06">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2009/09/06/blogi-siirtyi-virtuaalipalvelimelle/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">Blogi siirtyi virtuaalipalvelimelle</h1>
+      
+      
+        <p class="post-meta">6.9.2009</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p><strong>Päivitys 20.9.2010:</strong> <a href="http://oivaeskola.fi/2010/09/19/halvalla-ei-saa-hyvaa/">älä hanki VPS:ää iFuse Hostingilta</a>.</p>
+<p>Muutto pakotti ajattelemaan koti-linuxilla pyörivien nettisivujen kohtaloa. Serverin ylläpito on välillä ollut työlästä, eikä luotettavuuskaan ole ollut liian hyvä. Ja muutossa kone on viikon verran pois netistä, joten jokin vaihtoehto oli keksittävä.</p>
+<p>Päädyin hankkimaan virtuaalipalvelimen <a href="http://www.ifusehosting.com/home">iFuse hosting</a> -firmalta briteistä. Käytännössä omistan siis virtuaalisen tietokoneen, jossa on 256 megaa muistia, ja joka pyörittää Ubuntua.</p>
+<p>VPS, eli virtual private server on täysin itse ylläpidettävä. Palvelimella ei ole valmiina mitään, ja kaikista asennuksista ja konfiguraatioista on vastuussa itse. Käyttöjärjestelmän voi tarvittaessa jyrätä jos mokailee tarpeeksi.</p>
+<p>Palvelin maksaa 10 puntaa kuussa, mikä on siedettävissä. En tiedä vielä miten pitkälle 256 megaa muistia riittää, ainakin Apachen konfiguraatioita oli viilattava toimimaan paremmin pienemmällä muistimäärällä.</p>
+<p>Virtuaalipalvelimia on nykyään kohtuullisen hyvin saatavilla, mutta niiden vertailu on hankalaa. <a href="http://www.webhostingtalk.com/forumdisplay.php?f=103">Web Hosting Talk</a> -foorumilta löytyy käyttäjien arvioita ja ohjeita.</p>
+<p>Suomessa hinnat tuntuivat lähtevän 30&euro;:sta ylöspäin. Kansainvälisille markkinoilla hyvä vaihtoehto näyttäisi olevan <a href="http://www.slicehost.com/">SliceHost</a>, jolla on kaikista hostausfirmoista selkeimmät sivut. Firman kaikki palvelimet vain ovat jenkeissä, jolloin pingi Suomeen kasvaa vähän liian suureksi.</p>
+<p>IFuse Hostingilla on kätevä help desk netissä, jossa tuntuu olevan aina joku päivystämässä. Valitettavasti apua on joutunut myös kysymään pari kertaa, esimerkiksi aluksi palvelimelle ei saanut ollenkaan SSH-yhteyttä. Muuten homma on pelannut hyvin.</p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Kategoriat: 
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>, 
+          
+        
+          <a href="/archive/internet">internet</a>, 
+          
+        
+          <a href="/archive/linux">linux</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>

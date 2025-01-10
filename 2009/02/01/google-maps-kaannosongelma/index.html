@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="fi">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>Google Maps käännösongelma</title>
+  <meta name="description" content="Google Mapsin liitetyissä kartoissa on käännösongelma">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="web-kehitys" />
+  <meta name="dc.date" content="2009-02-01">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2009/02/01/google-maps-kaannosongelma/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">Google Maps käännösongelma</h1>
+      
+      
+        <p class="post-meta">1.2.2009</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p><img class="alignleft size-full wp-image-525" title="google1" src="/images/2009/02/google1.png" alt="google1" width="286" height="104" /></p>
+<p>Google pääsi otsikoihin kun hakutuloksissa väitettiin jokaisen sivun olevan haitallinen käyttäjän tietokoneelle, eikä hakutulokseen tarjottu suoraa linkkiä. <a title="Google Blog: This site may harm your computer on every search result?!?!" href="http://googleblog.blogspot.com/2009/01/this-site-may-harm-your-computer-on.html">Vika saatiin korjattua nopeasti</a>, ja lopputuloksena lähinnä havaittiin miten vaikeaa on käyttää nettiä ilman Googlea.</p>
+<p><a title="Google Maps" href="http://maps.google.fi/">Google Mapsissa</a> on sen sijaan ollut ongelma, jota ei ole korjattu yhtä nopeasti. Karttoja voi liittää omille sivuillensa (eng. embed), jolloin kartta toimii samaan tapaan kuin se toimisi Google Maps-palvelussa. Tämä on esimerkiksi yrityksille kätevä tapa näyttää missä firma sijaitsee.<img class="alignnone size-full wp-image-531" title="Google maps: liitä kartta" src="/images/2009/02/google5.png" alt="Google maps: " width="445" height="187" /></p>
+<p>Kartan ominaisuuksiin kuuluu, että kartan tyypin voi valita normaalin kartan, satelliittikuvan tai maastokartan väliltä:</p>
+<p><img class="alignnone size-full wp-image-533" title="Google Maps: Kartta - Satelliitti - Maasto" src="/images/2009/02/google31.png" alt="Google Maps: Kartta - Satelliitti - Maasto" width="446" height="100" /></p>
+<p>Ulkopuolisille sivuille liitetyssä kartassa karttatyypin valintanapit ovat kuitenkin lyhennetty muotoon "Kartta - la - Maas". Wtf?</p>
+<p><img class="size-full wp-image-526 alignnone" title="Suomenkielinen kartta: Kartta - la - maas" src="/images/2009/02/google2.png" alt="google2" width="425" height="106" /></p>
+<p>Pohdin useamman päivän miten sana "satelliitti" on saatu lyhennettyä muotoon "la". Maasto -> Maas on vielä jotenkin ymmärrettävissä, mutta la:sta ei voi mitenkään johtaa satelliittia. Asia selvisi lopulta kun näin englanninkielisen kartan lyhennökset:</p>
+<p><img class="alignnone size-full wp-image-528" title="Englanninkielinen kartta: Map - Sat - Ter" src="/images/2009/02/google4.png" alt="google4" width="425" height="133" /></p>
+<p>Englanninkielisessä kartassa Satellite on lyhennetty "Sat". Suomenkielinen lyhennös on saatu kääntämällä englannin lyhennös. Sanan merkitys vain on kadonnut matkalla ja käännös on ilmeisesti tehty Sat (Saturday) -> la (lauantai).</p>
+<p>Tällä hetkellä ainoa tapa kiertää käännösongelma on käyttää<a title="Google Maps API" href="http://code.google.com/apis/maps/"> Google Maps APIa</a> ja liittää kartta javascriptillä.</p>
+<p>(Sitä en tiedä miksi Helsinki on englanninkielisessä kartassa kirjoitettu <em>portugaliksi</em> Hels&iacute;nquia.)</p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Kategoria: 
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>Technical learnings from InfoToggle</title>
+  <meta name="description" content="Technical aspects of InfoToggle">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="infotoggle, web-kehitys, web-palvelut, työ, internet" />
+  <meta name="dc.date" content="2019-10-31">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2019/10/31/infotoggle-technical-side/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">Technical learnings from InfoToggle</h1>
+      
+      
+        <p class="post-meta">Oct 31, 2019</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p>I've been building a SaaS product called InfoToggle as a side project. My
+<a href="/2019/10/21/infotoggle/">previous post</a> has details on what it is and what it
+does.</p>
+<p>As a programmer having a side project is a good way to learn new technologies
+that you might not come across in your regular job. Having a <em>project</em> means
+there's a clear problem you want to solve and you get to choose the most
+suitable tools to solve it.</p>
+<p>In the context of <a href="https://infotoggle.com">InfoToggle</a> I had a chance to learn
+multiple new tools, including Laravel, Docker, React Hooks, Stripe, and some
+AWS features like CloudFront.</p>
+<h2>Laravel: thumbs up</h2>
+<p>A big initial impetus for this whole project was to test out <a href="https://laravel.com">Laravel
+framework</a>. I had heard many good things about it and
+wanted to see what a <em>modern</em> PHP framework would look like. I'e used Zend
+Framework in my jobby job and it works there but it's no fun to use really.</p>
+<p>Laravel's tagline &quot;freeing you to create without sweating the small things&quot;
+is pretty spot on. The framework has a lot of built-in functionality and
+sensible defaults for creating basic web apps. Creating new routes,
+controllers, database migrations, and events is all very streamlined.</p>
+<p>Occasionally some of the inner workings of Laravel might feel a bit too magical
+which might become a problem in a bigger web app. The call stacks for some of
+the errors are *wild* but mostly <em>it just works</em> and it's fast enough for a
+basic web app. Laravel's documentation is also pretty good, at least compared to
+Zend.</p>
+<h2>Technical Challenges with Stripe</h2>
+<p>One of the biggest hurdles was building the subscription system. Billing happens
+through <a href="https://stripe.com">Stripe</a> and integrating with their subscription
+flow took a month and a half (not full time, but working hours here and there.)
+That's a pretty big chunk of time where little progress was made.</p>
+<p>Don't get me wrong, Stripe is probably the best payment processor there is and
+others would probably have taken far longer. The problem with Stripe was mostly
+that there are quite many different ways to create a sign up / subscription flow
+and there is no clear path to choose the correct one.</p>
+<p>On top of that their documentation occasionally had PSD2-related warnings &quot;Are
+you in Europe? Then you probably shouldn't be using this method but this other
+one here which is in beta and doesn't have the same features.&quot;</p>
+<h3>Stripe webhook matching</h3>
+<p>Most of Stripe's flows work by sending requests to a
+<a href="https://stripe.com/docs/webhooks">webhook</a> you set up. One of the biggest
+source of my confusion was that there was no single way of matching an incoming
+webhook event to a customer.</p>
+<p>You can tie a &quot;client reference ID&quot; to Stripe's customer objects (usually the
+customer's ID in your own system) but only some of the events sent back to you
+include the reference. Other times you are left trying to match a subscription
+ID to a ID you know or in worst case an email address.</p>
+<p>Some of Stripe's events include a Customer ID (in Stripe's system) and once you
+can match that to a known ID you are mostly set. But for example the &quot;customer
+created&quot;, &quot;subscription created&quot;, and &quot;invoice created&quot; events can arrive in any
+order and each has a different set of identifiers that you must keep track of
+and try to match to later requests. I still have a hundred line function whose
+only job is to match an incoming Stripe event to a customer in my database.</p>
+<h2>Docker</h2>
+<p>I've avoided Docker for a very long time, mostly because in my job I have worked
+on just a single project where I had the development and production environments
+set up. But at this point Docker seems to be required knowledge pretty much
+everywhere so why not try it?</p>
+<p>It seems that waiting with Docker was partly a good thing. Researching how to
+configure Docker (and Docker Compose) revealed that the configuration options
+and syntaxes haves changed at least a couple times. This made following
+tutorials quite difficult as most of the examples didn't work anymore when run
+against a recent version of Docker.</p>
+<p>What's positive about docker is that it makes deployments easy. Replicating the
+production environment is also easy although I haven't needed that apart from
+adding a separate testing environment.</p>
+<p>Docker was also the biggest source of WTFs along with Stripe. Most of this stems
+from all Docker tutorials and examples being about building a <em>development</em>
+environment with Docker.</p>
+<p>Very little of that is applicable when deploying to production which was what I
+tried to achieve. For example Docker volumes work completely different locally
+and on a server. In the end I needed to have two separate configurations for
+building the development environment and the production environment which feels
+a bit silly.</p>
+<p>Another small disadvantage with Docker is that deployments on the go over a cell
+phone connection take a long time. Apparently there's quite a lot of data
+transfer happening?</p>
+<h2>React Hooks</h2>
+<p>Quick shout out to <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>:
+they work, and make developing basic components that much nicer. Use them.</p>
+<p>That's it for now! Everything sort of works and I'm pretty happy with the stack
+as it is. There are also many parts that didn't get a mention, maybe more on
+those next time.</p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Categories: 
+        
+          <a href="/archive/infotoggle">infotoggle</a>, 
+          
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>, 
+          
+        
+          <a href="/archive/web-palvelut">web-palvelut</a>, 
+          
+        
+          <a href="/archive/tyo">työ</a>, 
+          
+        
+          <a href="/archive/internet">internet</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Questions or feedback?</h2>
+    <p>Send a message on <a href="https://toot.community/@oivaeskola">Mastodon</a> or 
+      <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>

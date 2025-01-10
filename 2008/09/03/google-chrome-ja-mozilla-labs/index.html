@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="fi">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
+
+  <title>Google Chrome ja Mozilla Labs</title>
+  <meta name="description" content="Nettiselaimia on tottunut pitämään melko muuttumattomina ohjelmina, niin tekniikaltaan kuin käyttöliittymiltään. Ero esimerkiksi Netscapen ja Firefoxin käytt...">
+  <meta name="author" content="Oiva Eskola" />
+  <meta name="keywords" content="web-kehitys" />
+  <meta name="dc.date" content="2008-09-02">
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
+  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="https://oivaeskola.fi/2008/09/03/google-chrome-ja-mozilla-labs/">
+  <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
+  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
+</head>
+
+  <body>
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Oiva Eskola</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon" style="display: none">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          
+          
+            <a class="page-link " href="/about/">
+              About
+            </a>
+          
+          
+          
+          
+          
+            <a class="page-link " href="/archive/">
+              Blog Archive
+            </a>
+          
+          
+        </div>
+    </nav>
+  </div>
+</header>
+    <div class="page-content">
+      <div class="wrapper">
+        
+
+
+
+<div class="post">
+  
+    <header class="post-header">
+      <h1 class="post-title">Google Chrome ja Mozilla Labs</h1>
+      
+      
+        <p class="post-meta">2.9.2008</p>
+      
+    </header>
+  
+
+  <article class="post-content">
+    <p>Nettiselaimia on tottunut pitämään melko muuttumattomina ohjelmina, niin tekniikaltaan kuin käyttöliittymiltään. Ero esimerkiksi <a title="Screenshot of Netscape 4.61" href="http://en.wikipedia.org/wiki/Image:OS2_Netscape_Communicator_4.61.png">Netscapen</a> ja <a title="Screenshot of Firefox 3.0.1" href="http://en.wikipedia.org/wiki/Image:Mozilla_Firefox_3.0.1_Fedora_enwiki.png">Firefoxin</a> käyttöliittymien välillä ei ole <em>niin</em> suuri.</p>
+<p>(Firefoxin käyttöliittymän muuttumattomuuteen on voinut osaltaan vaikuttaa se, että sen on pitänyt olla vaihtoehto, johon IE:n käyttäjät uskaltavat vaihtaa.)</p>
+<p>Teknistä kehitystä on tapahtunut selainten <a title="Wikipedia: Layout engine (eng.)" href="http://en.wikipedia.org/wiki/Layout_engine">renderöijissä</a>, jotka ovat hiljalleen lähestyneet standardeja. Nykyään eri selainten uusimmat versiot jopa piirtävät HTML-sivuja lähes samalla tavalla.</p>
+<p>Viime aikoina on kuitenkin näkynyt paljon pohdintaa nettiselaimen perimmäisestä olemuksesta ja selaimen käyttämisestä. Varsinkin Google ja Mozilla Labs ovat kunnostautuneet tulevaisuuden selainkokemuksen suunnittelussa.</p>
+<p><a id="more"></a><a id="more-163"></a></p>
+<p><strong>Molemmat ovat todenneet, ettei nykyinen nettiselain ole kiveen hakattu, ja että käyttäjien tarpeet ovat muuttuneet muutaman viime vuoden aikana huomattavasti.</strong></p>
+<p>Google on lähestynyt ongelmaa suunnittelemalla oman selaimensa, Google Chromen. Mozilla Labsilla taas on käynnissä pieniä projekteja Firefoxin parantamiseksi, mutta myös kauas tulevaisuuteen ulottuvia suunnitelmia.</p>
+<h3>Google Chrome</h3>
+<p><img class="size-medium wp-image-178 alignleft" style="margin-right: 10px;" title="google chrome logo" src="/images/2008/09/googlechromelogo.png" alt="" width="196" height="187" />Chrome on <a title="Wikipedia: WebKit (eng.)" href="http://en.wikipedia.org/wiki/Webkit">WebKitin</a> päälle rakennettu avoimen lähdekoodin selain, jonka suunnittelu on aloitettu tyhjältä pöydältä. Suunnittelussa on otettu huomioon mm. se, että yhä useampi palvelu on JavaScript-applikaatio.</p>
+<p>Nopeuden lisäksi selaimessa on panostettu vakauteen ja turvallisuuteen. Käyttöliittymä on kuitenkin pyritty pitämään mahdollisimman selkeänä.</p>
+<ul>
+<li><a href="http://www.google.com/chrome/intl/en/features.html">Google: Google Chrome</a>: beta-versio ladattavissa</li>
+<li>Google Blog: <a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html">A fresh take on the browser</a>: Miksi Google suunnitteli uuden selaimen?</li>
+<li><a href="http://blogoscoped.com/google-chrome/">Google on Google Chrome - comic book</a>: sarjakuva, joka selittää Chromen teknisiä toimintaperiaatteita.</li>
+</ul>
+<h3>Mozilla Labs</h3>
+<p><a title="Mozilla Labs blog" href="http://labs.mozilla.com/blog/">Mozilla Labs</a> on tehnyt urakalla hienoja prototyyppejä, esimerkiksi:</p>
+<ul>
+<li><a title="Mozilla Labs: Introducing Ubiquity" href="http://labs.mozilla.com/2008/08/introducing-ubiquity/">Ubiquity</a>: selaimen käskyttäminen luonnollisella kielellä ja yleisten tehtävien helpottaminen (esim. kartan liittäminen sähköpostiin)</li>
+<li><a title="Mozilla Labs: New Tab Concepts" href="http://labs.mozilla.com/2008/08/new-tab-concepts/">New tab concepts</a>: miten uuden tabin avaamista voisi hyödyntää?</li>
+<li><a title="Mozilla Labs: Introducing Snowl" href="http://labs.mozilla.com/2008/08/introducing-snowl/">Snowl</a>: erilaisten syötteiden ja keskustelujen kerääminen samaan paikkaan</li>
+<li><a title="Adaptive Path: Aurora concept video" href="http://adaptivepath.com/aurora/">Aurora</a>: hienoja konseptivideoita siitä, miten tulevaisuuden selain voisi toimia</li>
+<li><a title="Mozilla Labs: Weave" href="http://labs.mozilla.com/projects/weave/">Weave</a>: tavoitteena saman selainkokemuksen tarjoaminen paikasta riippumatta. Julkaistulla prototyypillä voi jo synkata selaimia, myös oman palvelimen kautta. Ajattelin kirjoittaa ohjeen palvelimen pystyttämisestä jossain vaiheessa, mutta Weave-clientissa on vielä paljon bugeja.</li>
+</ul>
+<p>Sekä Google että Mozilla ovat lähteneet liikenteeseen "julkaise nopeasti ja iteroi"-asenteella, josta ei voi olla tykkäämättä. Lopullisia tuotteita joutuu vielä odottelemaan pitkään, mutta kaikki edellä mainitut projektit ovat onnistuneet luomaan positiivista säpinää. Selainuutiset eivät enää rajoitu enää IE8:n odottamiseen (ja IE6:n kuoleman odottamiseen :) ).</p>
+
+    
+      
+      
+      
+      
+      <p class="categories">Kategoria: 
+        
+          <a href="/archive/web-kehitys">web-kehitys</a>
+          
+        
+      </p>
+      
+    
+  </article>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+    
+  </section>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <p>Subscribe <a href="/feed.xml">via RSS</a><br/>
+          <a href="/about">Contact me</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+    
+  </body>
+</html>
