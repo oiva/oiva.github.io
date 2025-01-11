@@ -7,6 +7,7 @@ pagination:
   alias: posts
   reverse: true
 eleventyExcludeFromCollections: true
+permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plus: 1 }}{% endif %}/index.html"
 ---
 {% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
 {% assign cutoff = cutoff | plus: 0 %}
