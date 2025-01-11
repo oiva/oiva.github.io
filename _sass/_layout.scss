@@ -5,7 +5,7 @@
  * Site header
  */
 .site-header {
-    background-color: #fbfbfb;
+    background-color: variables.$background-color;
     border-bottom: 1px solid variables.$grey-color-light;
     min-height: 56px;
 
@@ -211,6 +211,10 @@
         }
         img {
             margin-top: 1em;
+        }
+        .post-meta img {
+            margin-top: 0;
+            margin-right: 0.6em;
         }
     }
     li.full-post:last-child {
