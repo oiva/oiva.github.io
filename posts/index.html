@@ -36,7 +36,13 @@ eleventyExcludeFromCollections: true
       <ul class="post-list">
       {% endif %}
       <li{% if pagination.pageNumber == 0 and forloop.index <= 5 %} class="full-post"{% elsif pagination.pageNumber == 0 %} class="has-excerpt"{% endif %}>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">
+          {% if post.language == 'fi' or posttime < cutoff %}
+            {{ post.date | date: "%-d.%-m.%Y" }}
+          {% else %}
+            {{ post.date | date: "%b %-d, %Y" }}
+          {% endif %}
+        </span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.data.title }}</a>
         </h2>
