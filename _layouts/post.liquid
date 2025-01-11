@@ -6,33 +6,29 @@ regenerate: true
 {% assign cutoff = cutoff | plus: 0 %}
 {% capture pagetime %}{{ date | date: '%s' }}{% endcapture %}
 {% assign pagetime = pagetime | plus: 0 %}
+
 <div class="post">
   {% if background %}
     <div class="hero" style="background-image: url('{{ background }}')"></div>
     <header class="post-header with-hero">
-      <h1 class="post-title">{{ title }}</h1>
-      {% if subheading %}
-        <p class="sub-heading">{{ subheading }}</p>
-      {% endif %}
-    </header>
-    {% if language == 'fi' or pagetime < cutoff %}
-      <p class="post-meta">{{ date | date: "%-d.%-m.%Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
-    {% else %}
-      <p class="post-meta">{{ date | date: "%b %-d, %Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
-    {% endif %}
   {% else %}
     <header class="post-header">
+  {% endif %}
+
       <h1 class="post-title">{{ title }}</h1>
       {% if subheading %}
         <p class="sub-heading">{{ subheading }}</p>
       {% endif %}
-      {% if language == 'fi' or pagetime < cutoff %}
-        <p class="post-meta">{{ date | date: "%-d.%-m.%Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
-      {% else %}
-        <p class="post-meta">{{ date | date: "%b %-d, %Y" }}{% if meta %} • {{ meta }}{% endif %}</p>
-      {% endif %}
+        <p class="post-meta">
+          <time itemprop="startDate" datetime="{{ date | date_to_xmlschema }}">
+            {% if language == 'fi' or pagetime < cutoff %}
+              {{ date | date: "%-d.%-m.%Y" }}
+            {% else %}
+              {{ date | date: "%b %-d, %Y" }}
+            {% endif %}
+          </time>{% if meta %} • {{ meta }}{% endif %}
+        </p>
     </header>
-  {% endif %}
 
   <article class="post-content">
     {{ content }}
@@ -79,11 +75,6 @@ regenerate: true
         </p>
       </article>
     {% endfor %}
-    {% if language == 'fi' or pagetime < cutoff %}
-    <p class="comments-closed">Kommentit on suljettu.</p>
-    {% else %}
-    <p class="comments-closed">Comments are now closed.</p>
-    {% endif %}
   </section>
   {% endif %}
 
