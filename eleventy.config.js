@@ -30,6 +30,22 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addShortcode("excerpt", (article) => extractExcerpt(article));
 
+  eleventyConfig.addShortcode("categoryName", (category) => {
+    switch (category) {
+      case "elama": return "Elämä";
+      case "flash": return "Flash";
+      case "html": return "HTML";
+      case "infotoggle": return "InfoToggle";
+      case "internet": return "Internet";
+      case "ipod": return "iPod";
+      case "kaytettavyys": return "käytettävyys";
+      case "linux": return "Linux";
+      case "php": return "PHP";
+      case "wlan": return "WLAN";
+      default: return category;
+    }
+  });
+
   eleventyConfig.addUrlTransform(urlTransform);
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/*.md").map(post => {
