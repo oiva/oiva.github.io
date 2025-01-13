@@ -5,7 +5,7 @@ layout: default
   {% if category %}
     <h3 id="{{ category }}">
       {% if language == 'en' %}Category:{% else %}Kategoria:{% endif %}
-    {% if categoryname %}{{categoryname}}{% else %}{{ category }}{% endif %}
+      {% categoryName category %}
     </h3>
     <ul>
 
