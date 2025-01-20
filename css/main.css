@@ -46,6 +46,10 @@ h1 {
   font-size: 32px;
 }
 
+strong {
+  font-weight: bold;
+}
+
 /**
  * Images
  */
@@ -359,8 +363,12 @@ pre > code {
   margin-bottom: 32px;
 }
 .post-list li h2 {
-  line-height: 1em;
+  font-size: 24px;
+  line-height: 1.5em;
   margin-bottom: 0.25em;
+}
+.post-list li h3 {
+  font-size: 20px;
 }
 .post-list li.full-post h2 a, .post-list li.full-post h2 a:visited {
   color: #222;
