@@ -36,9 +36,20 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
       </div>
       <ul class="post-list">
       {% endif %}
-      <li{% if pagination.pageNumber == 0 and forloop.index <= 5 %} class="full-post"{% elsif pagination.pageNumber == 0 %} class="has-excerpt"{% endif %}>
+      <li
+        {% if pagination.pageNumber == 0 and forloop.index <= 5 %} class="full-post"
+        {% elsif pagination.pageNumber == 0 %} class="has-excerpt"
+        {% endif %}
+        {%if post.data.language %}
+        lang="{{post.data.language}}"
+        {% elsif posttime < cutoff %}
+        lang="fi"
+        {% else %}
+        lang="en"
+        {% endif %}
+        >
         <span class="post-meta">
-          {% if post.language == 'fi' or posttime < cutoff %}
+          {% if post.data.language == 'fi' or posttime < cutoff %}
             {{ post.date | date: "%-d.%-m.%Y" }}
           {% else %}
             {{ post.date | date: "%b %-d, %Y" }}
