@@ -62,6 +62,9 @@ export default async function (eleventyConfig) {
     return array.length > 0 ? array[0] : undefined;
   });
 
+  // Copy CNAME file to output to fix GitHub Pages custom domain
+  eleventyConfig.addPassthroughCopy("CNAME");
+
   // RSS Feed
   // eleventyConfig.addPlugin(feedPlugin, {
   //   type: "rss", // or "rss", "json"
