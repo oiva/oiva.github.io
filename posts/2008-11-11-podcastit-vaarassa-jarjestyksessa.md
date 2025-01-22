@@ -16,6 +16,7 @@ date: 2008-11-11 23:59:55 +02:00
 date_gmt: 2008-11-11 20:59:55 +02:00
 tags:
 - ipod
+- podcastit
 old_tags:
 - ipod touch
 - podcast

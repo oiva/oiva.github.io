@@ -20,6 +20,7 @@ tags:
 - web-kehitys
 - ipod
 - wlan
+- podcastit
 old_tags:
 - wlan
 - ipod touch

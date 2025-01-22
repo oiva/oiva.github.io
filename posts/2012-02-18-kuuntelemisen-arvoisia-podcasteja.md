@@ -19,6 +19,7 @@ tags:
 - elämä
 - linkit
 - internet
+- podcastit
 old_tags:
 - podcast
 - ohjelmointi
