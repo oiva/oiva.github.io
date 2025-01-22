@@ -8,9 +8,37 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jan 2025 20:42:44 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2025 20:42:44 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2025 10:39:22 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2025 10:39:22 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Mastodon vs. Threads vs. Bluesky</title>
+        <description>Mainiossa Vikasietotila-podcastissa oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: Apple Podcast / Spotify). Mukana oli myös mementomori.social Mastodon-instanssia pyörittävä Rolle.Siirryin itse Twitteristä Mastodoniin 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitt...</description>
+        <content>&lt;p&gt;Mainiossa &lt;a href=&#34;https://vikasietoti.la/&#34;&gt;Vikasietotila-podcastissa&lt;/a&gt; oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/post-twitter-osa-2-threads-mastodon-ja-bluesky/id1603294439?i=1000654605144&#34;&gt;Apple Podcast&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/episode/2jL345uQyuhdGjM4OPKa93&#34;&gt;Spotify&lt;/a&gt;). Mukana oli myös &lt;a href=&#34;https://mementomori.social&#34;&gt;mementomori.social&lt;/a&gt; Mastodon-instanssia pyörittävä &lt;a href=&#34;https://mementomori.social/@rolle&#34;&gt;Rolle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Siirryin itse Twitteristä &lt;a href=&#34;https://toot.community/@oivaeskola&#34;&gt;Mastodoniin&lt;/a&gt; 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitterissä seuraamistani &lt;em&gt;aktiivisista&lt;/em&gt; tileistä oli muuttanut Mastodoniin, mutta en muista enää mistä sain numerot. En ole vielä kokenut tarpeelliseksi kokeilla Threadsiä tai Blueskyta.&lt;/p&gt;
+&lt;p&gt;Threadsistä muualle jaetut linkit ovat kokemukseni perusteella olleet &amp;quot;hauska juttu mitä lapseni sanoi&amp;quot; yms. kevyempää hupsuttelua. Hyvä toki, että näille on paikka LinkedInin lisäksi.&lt;/p&gt;
+&lt;p&gt;Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.&lt;/p&gt;
+&lt;p&gt;Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 30px 30px;&#34;&gt;
+&lt;img src=&#34;/images/IMG_1679.webp&#34; alt=&#34;Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272&#34; width=&#34;163&#34; height=&#34;160&#34; /&gt;
+&lt;div&gt;
+&lt;p&gt;P.S.  Suosittelen melkein vuoden takaista podcastia, koska kuunnteltavia podcasteja on jonossa tällä hetkellä 270 jaksoa 🙈&lt;/p&gt;
+&lt;p&gt;Etätöihin siirtyminen ja pikkulapsiarki teki sen, että päivässä ei ole oikein mitään hetkeä kuunnella podcasteja, paitsi 15 minuuttia päiväkotiin kävellessä. Onneksi vanhempainvapaalla saa jonoa vähän kirittyä kiinni.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+        <pubDate>Wed, 22 Jan 2025 10:38:00 +0000</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</guid>
+        
+        <category>podcastit</category>
+        
+        <category>internet</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Youtube recommendations</title>
@@ -685,6 +713,8 @@ it useful!&lt;/p&gt;
         <link>https://oivaeskola.fi/2015/08/11/back-to-work/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2015/08/11/back-to-work/</guid>
         
+        <category>podcastit</category>
+        
         
         <slash:comments></slash:comments>
       </item>
@@ -1194,25 +1224,10 @@ out all the tricks they use.&lt;/p&gt;
         
         <category>internet</category>
         
+        <category>podcastit</category>
+        
         
         <slash:comments>2</slash:comments>
-      </item>
-    
-      <item>
-        <title>Minikaivurikisa päättyi</title>
-        <description>Kaivuriskaba päättyi kisan järjestäjän päätöksellä kun kisaa oli kestänyt puoli vuotta. Onnea Kimmolle ja Hannulle, jotka saavat molemmat oman minikaivurin ja iPadin.Kisan lopettaminen oli luultavasti ihan järkevä päätös. Kumpikaan jäljellä olevista kilpailijoista tuskin olisi luovuttanut helpolla, ja puolen vuoden istuminen ei voi olla terveellistä.</description>
-        <content>&lt;p&gt;&lt;a href=&#34;http://kaivuriskaba.fi/index.php?page=1041&amp;amp;lang=1&#34;&gt;Kaivuriskaba päättyi&lt;/a&gt; kisan järjestäjän päätöksellä kun kisaa oli kestänyt puoli vuotta. Onnea Kimmolle ja Hannulle, jotka saavat molemmat oman minikaivurin ja iPadin.&lt;/p&gt;
-&lt;p&gt;Kisan lopettaminen oli luultavasti ihan järkevä päätös. Kumpikaan jäljellä olevista kilpailijoista tuskin olisi luovuttanut helpolla, ja puolen vuoden istuminen ei voi olla terveellistä.&lt;/p&gt;
-</content>
-        <pubDate>Sat, 10 Dec 2011 10:07:32 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2011/12/10/minikaivurikisa-paattyi/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2011/12/10/minikaivurikisa-paattyi/</guid>
-        
-        <category>elämä</category>
-        
-        
-        <slash:comments>0</slash:comments>
       </item>
     
   </channel>
