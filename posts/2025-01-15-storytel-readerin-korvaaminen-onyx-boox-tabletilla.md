@@ -1,5 +1,7 @@
 ---
 layout: post
+status: publish
+published: true
 title: "Storytel Readerin korvaaminen Onyx Boox tabletilla"
 language: fi
 author:
