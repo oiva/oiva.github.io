@@ -8,37 +8,9 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jan 2025 10:19:57 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2025 10:19:57 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 10:21:43 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 10:21:43 +0000</lastBuildDate>
     <generator>Eleventy</generator>
-    
-      <item>
-        <title>Mastodon vs. Threads vs. Bluesky</title>
-        <description>Mainiossa Vikasietotila-podcastissa oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: Apple Podcast / Spotify). Mukana oli myös mementomori.social Mastodon-instanssia pyörittävä Rolle.Siirryin itse Twitteristä Mastodoniin 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitt...</description>
-        <content>&lt;p&gt;Mainiossa &lt;a href=&#34;https://vikasietoti.la/&#34;&gt;Vikasietotila-podcastissa&lt;/a&gt; oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/post-twitter-osa-2-threads-mastodon-ja-bluesky/id1603294439?i=1000654605144&#34;&gt;Apple Podcast&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/episode/2jL345uQyuhdGjM4OPKa93&#34;&gt;Spotify&lt;/a&gt;). Mukana oli myös &lt;a href=&#34;https://mementomori.social&#34;&gt;mementomori.social&lt;/a&gt; Mastodon-instanssia pyörittävä &lt;a href=&#34;https://mementomori.social/@rolle&#34;&gt;Rolle&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Siirryin itse Twitteristä &lt;a href=&#34;https://toot.community/@oivaeskola&#34;&gt;Mastodoniin&lt;/a&gt; 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitterissä seuraamistani &lt;em&gt;aktiivisista&lt;/em&gt; tileistä oli muuttanut Mastodoniin, mutta en muista enää mistä sain numerot. En ole vielä kokenut tarpeelliseksi kokeilla Threadsiä tai Blueskyta.&lt;/p&gt;
-&lt;p&gt;Threadsistä muualle jaetut linkit ovat kokemukseni perusteella olleet &amp;quot;hauska juttu mitä lapseni sanoi&amp;quot; yms. kevyempää hupsuttelua. Hyvä toki, että näille on paikka LinkedInin lisäksi.&lt;/p&gt;
-&lt;p&gt;Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.&lt;/p&gt;
-&lt;p&gt;Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.&lt;/p&gt;
-&lt;div style=&#34;display: flex; gap: 30px 30px;&#34;&gt;
-&lt;img src=&#34;/images/IMG_1679.webp&#34; alt=&#34;Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272&#34; width=&#34;163&#34; height=&#34;160&#34; /&gt;
-&lt;div&gt;
-&lt;p&gt;P.S.  Suosittelen melkein vuoden takaista podcastia, koska kuunnteltavia podcasteja on jonossa tällä hetkellä 270 jaksoa 🙈&lt;/p&gt;
-&lt;p&gt;Etätöihin siirtyminen ja pikkulapsiarki teki sen, että päivässä ei ole oikein mitään hetkeä kuunnella podcasteja, paitsi 15 minuuttia päiväkotiin kävellessä. Onneksi vanhempainvapaalla saa jonoa vähän kirittyä kiinni.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content>
-        <pubDate>Wed, 22 Jan 2025 10:38:00 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</guid>
-        
-        <category>podcastit</category>
-        
-        <category>internet</category>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
     
       <item>
         <title>Storytel Readerin korvaaminen Onyx Boox tabletilla</title>
@@ -102,12 +74,40 @@
 &lt;p&gt;Samaten Amazon &lt;s&gt;voi&lt;/s&gt; voisi myydä Kindlejä halvemmalla, koska Amazon saa Kindlellä ostetuista kirjoista rahaa.&lt;/p&gt;
 &lt;p&gt;Onyx taas ei saa Boox-tabletin ostajalta nyhdettyä enempää, minkä vuoksi ostohinta on kalliimpi.&lt;/p&gt;
 </content>
-        <pubDate>Wed, 15 Jan 2025 15:21:00 +0000</pubDate>
+        <pubDate>Mon, 27 Jan 2025 10:21:00 +0000</pubDate>
         <dc:creator>Oiva Eskola</dc:creator>
         <link>https://oivaeskola.fi/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/</guid>
         
         <category>e-kirjat</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Mastodon vs. Threads vs. Bluesky</title>
+        <description>Mainiossa Vikasietotila-podcastissa oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: Apple Podcast / Spotify). Mukana oli myös mementomori.social Mastodon-instanssia pyörittävä Rolle.Siirryin itse Twitteristä Mastodoniin 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitt...</description>
+        <content>&lt;p&gt;Mainiossa &lt;a href=&#34;https://vikasietoti.la/&#34;&gt;Vikasietotila-podcastissa&lt;/a&gt; oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/post-twitter-osa-2-threads-mastodon-ja-bluesky/id1603294439?i=1000654605144&#34;&gt;Apple Podcast&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/episode/2jL345uQyuhdGjM4OPKa93&#34;&gt;Spotify&lt;/a&gt;). Mukana oli myös &lt;a href=&#34;https://mementomori.social&#34;&gt;mementomori.social&lt;/a&gt; Mastodon-instanssia pyörittävä &lt;a href=&#34;https://mementomori.social/@rolle&#34;&gt;Rolle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Siirryin itse Twitteristä &lt;a href=&#34;https://toot.community/@oivaeskola&#34;&gt;Mastodoniin&lt;/a&gt; 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitterissä seuraamistani &lt;em&gt;aktiivisista&lt;/em&gt; tileistä oli muuttanut Mastodoniin, mutta en muista enää mistä sain numerot. En ole vielä kokenut tarpeelliseksi kokeilla Threadsiä tai Blueskyta.&lt;/p&gt;
+&lt;p&gt;Threadsistä muualle jaetut linkit ovat kokemukseni perusteella olleet &amp;quot;hauska juttu mitä lapseni sanoi&amp;quot; yms. kevyempää hupsuttelua. Hyvä toki, että näille on paikka LinkedInin lisäksi.&lt;/p&gt;
+&lt;p&gt;Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.&lt;/p&gt;
+&lt;p&gt;Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 30px 30px;&#34;&gt;
+&lt;img src=&#34;/images/IMG_1679.webp&#34; alt=&#34;Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272&#34; width=&#34;163&#34; height=&#34;160&#34; /&gt;
+&lt;div&gt;
+&lt;p&gt;P.S.  Suosittelen melkein vuoden takaista podcastia, koska kuunnteltavia podcasteja on jonossa tällä hetkellä 270 jaksoa 🙈&lt;/p&gt;
+&lt;p&gt;Etätöihin siirtyminen ja pikkulapsiarki teki sen, että päivässä ei ole oikein mitään hetkeä kuunnella podcasteja, paitsi 15 minuuttia päiväkotiin kävellessä. Onneksi vanhempainvapaalla saa jonoa vähän kirittyä kiinni.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+        <pubDate>Wed, 22 Jan 2025 10:38:00 +0000</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/</guid>
+        
+        <category>podcastit</category>
+        
+        <category>internet</category>
         
         
         <slash:comments></slash:comments>
