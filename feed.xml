@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jan 2025 10:39:22 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jan 2025 10:39:22 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 10:18:26 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 10:18:26 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -35,6 +35,79 @@
         <category>podcastit</category>
         
         <category>internet</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Storytel Readerin korvaaminen Onyx Boox tabletilla</title>
+        <description>Perheessämme oli Storytelin lukulaite (Storytel Reader), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.&#39;Reader&#39; oli kelpo E ink -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo laitteen valmistuksen lopettamisesta:Strategisesta näkökulmasta katsoen ol...</description>
+        <content>&lt;img src=&#34;/images/2025/IMG_1677.webp&#34; alt=&#34;Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite&#34; width=&#34;686&#34; /&gt;
+&lt;p&gt;Perheessämme oli Storytelin lukulaite (&lt;a href=&#34;https://www.storytel.com/fi/c/reader&#34;&gt;Storytel Reader&lt;/a&gt;), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.&lt;/p&gt;
+&lt;p&gt;&#39;Reader&#39; oli kelpo &lt;abbr title=&#39;&#34;sähköpaperinäyttö&#34;&#39;&gt;E ink&lt;/abbr&gt; -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.&lt;/p&gt;
+&lt;p&gt;Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo &lt;a href=&#34;https://support.storytel.com/hc/fi/articles/13875414424732-Miksi-Storytel-Readerin-valmistus-lopetetaan&#34;&gt;laitteen valmistuksen lopettamisesta&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Strategisesta näkökulmasta katsoen olemme ohjelmistoyhtiö. Näin ollen emme jatka laitevalmistajana.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tämä kuulostaa vähän kehnolta selitykseltä, koska Storytel ei (tietenkään) itse valmistanut lukulaitettaan.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ntherning/StorytelReaderMods?tab=readme-ov-file#versions&#34;&gt;Reader oli luultavasti&lt;/a&gt; E ink -laitevalmistaja Onyxin ns. &lt;em&gt;whitelabel&lt;/em&gt;-malli, Android-laite, jossa ajettiin pelkästään Storytelin omaa applikaatiota.&lt;/p&gt;
+&lt;p&gt;Uskon kyllä, että laitteen myymisestä kuluttajille ja takuuvaihdoista yms. aiheutuu yritykselle vaivaa. Ehkä ohjelmiston kehittäminen vanhaan Android-laitteeseen oli myös hankalaa. Mutta toisaalta Reader toimi sellaisenaan riittävän hyvin.&lt;/p&gt;
+&lt;p&gt;Readerille on myös edelleen kysyntää: tori.fi:ssä on koko ajan useita ilmoituksia, joissa halutaan ostaa Storytel Reader. Myynti-ilmoituksia ei tällä hetkellä ole yhtään.&lt;/p&gt;
+&lt;h2&gt;Storytelin käyttäminen Onyx Go -lukulaitteella&lt;/h2&gt;
+&lt;p&gt;Tutkimme olisiko markkinoilla muita lukulaitteita, joilla voisi lukea Storytelin e-kirjoja.&lt;/p&gt;
+&lt;p&gt;Storytel itse &lt;a href=&#34;https://support.storytel.com/hc/fi/articles/13875414424732-Miksi-Storytel-Readerin-valmistus-lopetetaan&#34;&gt;väittää&lt;/a&gt;, että Storytel (applikaatio) ei toimi muilla lukulaitteilla:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Voinko käyttää jotain muita lukulaitteita Storytel e-kirjojen lukemiseen? (Kindle, Onyx jne.)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Et, mutta voit lukea e-kirjoja lataamalla Storytel-sovelluksen älylaitteisiin, kuten älypuhelimiin ja tabletteihin, joissa on vähintään Android 5- tai iOS 15 -käyttöjärjestelmä.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ilmeni, että tämä on tavallaan virheellistä tietoa. Nyt mennään määritelmäkysymyksiin, mutta esimerkiksi hankkimamme &lt;a href=&#34;https://shop.boox.com/products/gocolor7&#34;&gt;Onyx Boox Go Color&lt;/a&gt; on &amp;quot;Android-tabletti&amp;quot;, mutta se on &lt;em&gt;myös&lt;/em&gt; &amp;quot;lukulaite&amp;quot;, koska siinä on E ink -näyttö.&lt;/p&gt;
+&lt;p&gt;Boox Go -tabletissa on Google Play -sovelluskauppa ja &lt;a href=&#34;https://play.google.com/store/apps/details?id=grit.storytel.app&amp;amp;hl=fi&amp;amp;pli=1&#34;&gt;Storytelin applikaatio on tarjolla Play -kaupassa&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Storytelin asentaminen ei siis vaadi muuta kikkailua tai hakkerointia kuin kirjautumisen Google-tunnuksilla ja sovelluksen lataamisen kaupasta lukulaitteeseen.&lt;/p&gt;
+&lt;p&gt;Saman pitäisi onnistua myös Onyx Boox Page -tabletilla&lt;a class=&#34;Footnotes__ref&#34; href=&#34;#android-versions-note&#34; id=&#34;android-versions-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;&lt;/a&gt;, mutta tätä en ole kokeillut.&lt;/p&gt;
+&lt;h2&gt;Mikä toimii hyvin?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tärkein ensin: Boox Go Coloriin asennettu Storytel -applikaatio pystyy samaan kuin Storytel Reader: lukemaan e-kirjoja ja kuuntelemaan äänikirjoja (tosin vain langattomilla bt-kuulokkeilla.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Play-kaupasta saa asennettua muitakin sovelluksia, esimerkiksi Amazon Kindlen, Nextoryn, tai Bookbeatin. Boox-tabletti toimii siis edelleen lukulaitteena vaikka Storytel-tilauksen lopettaisi.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Taustavalon kirkkautta ja väriä pystyy säätämään helposti&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boox Go Colorissa on nimensä mukaisesti värinäyttö, mistä voi olla iloa kuvien kanssa. Värit ovat kyllä hieman hailakat.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Mikä ei toimi hyvin?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Boox-tabletissa on sivunvaihto­napit, mutta nämä eivät toimi Storytel-applikaatiossa. Toisissa applikaatioissa (esim. Kindle) sama ongelma on kierretty niin, että sivunvaihto­napit voi vaihtaa toimimaan äänen­voimakkuuden säätiminä. Applikaatio osaa sitten tulkita äänenvoimakkuuden muuttumisen sivunvaihdoksi. Storytelin applikaatioon ei ole toteutettu samaa ominaisuutta.&lt;/p&gt;
+&lt;p&gt;En ole tutkinut saisiko ongelman nappien kanssa kierrettyä jotenkin muuten, mutta sivun vaihtaminen toimii myös näytöstä tökkäämällä.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Play-kaupan Storytel-sovellus ei ole ihan yksi yhteen sama kuin Readerissä ollut sovellus. Sovellus ei ole varsinaisesti suunniteltu E ink -näytöille, vaan &amp;quot;tavallisille&amp;quot; tableteille. Esimerkiksi Storytelin etusivulla pyörii animaatioita, jotka eivät oikein toimi E ink -näytöllä.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Näyttö on tarkka, mutta oletusasetuksilla Storytel-sovelluksen teksti näyttää minun silmään hieman suttuiselta. Tähän vaikuttaa useampi eri asetus tabletin &amp;quot;E-ink Centerissä&amp;quot;, muun muassa applikaatiokohtainen näytön tarkkuus, jolla saa skaalattua koko applikaatiota isommaksi tai pienemmäksi.&lt;/p&gt;
+&lt;p&gt;Parhaan lopputuloksen saa vain kokeilemalla eri asetuksia. Meillä on käytössä ainakin &amp;quot;High Contrast&amp;quot; ja &amp;quot;DPI Setting 350&amp;quot;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miksi Onyx Boox Go on niin kallis?&lt;/h2&gt;
+&lt;p&gt;Maksoimme joulukuussa &lt;a href=&#34;https://www.proshop.fi/E-kirjan-lukulaite/Onyx-Boox-Go-Color-7-Black/3284873&#34;&gt;Onyx Boox Go Color 7&amp;quot;&lt;/a&gt;:sta 249 € mikä tuntui paljolta. Tällä hetkellä (1/2025) &lt;a href=&#34;https://hinta.fi/4940152/onyx-boox-go-color-7&#34;&gt;hinta&lt;/a&gt; näyttää olevan jo 349 € 😵. En olisi välttämättä maksanut laitteesta ihan näin paljon.&lt;/p&gt;
+&lt;p&gt;Mustavalkoista Boox Page -mallia saa &lt;a href=&#34;https://hinta.fi/4312543/onyx-boox-page&#34;&gt;noin 280 €:lla&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Storytelin Readeriä taas myytiin aikoinaan 120 €:lla, välillä alennuksessa 59 €.&lt;/p&gt;
+&lt;p&gt;Vanhan Readerin valmistuskustannukset olivat luultavasti halvemmat, mutta Storytel pystyi myös myymään laitetta halvemmalla, koska laitetta ei voinut käyttää ilman tilausta, josta Storytel sai joka kuukausi rahaa.&lt;/p&gt;
+&lt;p&gt;Samaten Amazon &lt;s&gt;voi&lt;/s&gt; voisi myydä Kindlejä halvemmalla, koska Amazon saa Kindlellä ostetuista kirjoista rahaa.&lt;/p&gt;
+&lt;p&gt;Onyx taas ei saa Boox-tabletin ostajalta nyhdettyä enempää, minkä vuoksi ostohinta on kalliimpi.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 15 Jan 2025 15:21:00 +0000</pubDate>
+        <dc:creator>Oiva Eskola</dc:creator>
+        <link>https://oivaeskola.fi/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/</guid>
+        
+        <category>e-kirjat</category>
         
         
         <slash:comments></slash:comments>
@@ -1182,52 +1255,6 @@ out all the tricks they use.&lt;/p&gt;
         
         
         <slash:comments>1</slash:comments>
-      </item>
-    
-      <item>
-        <title>Kuuntelemisen arvoisia podcasteja</title>
-        <description>En varmaan pystyisi kulkemaan bussilla Espoosta Helsinkiin jos podcasteja ei olisi olemassa. Nyt tuon ajan pystyy käyttämään, jos ei sivistävästi, niin ainakin viihdyttävästi.Uskoakseni kaikki muutkin kuuntelevat jo näitä, mutta kaiken varalta tässä on lista podcasteista, joita kuuntelen tällä hetkellä. Kaikki listan podcastit ovat englanniksi, mutta kerro toki kommenteissa jos tiedät hyviä suomenkielisiä podcasteja. Tai muuten vaan hyviä podc...</description>
-        <content>&lt;p&gt;En varmaan pystyisi kulkemaan bussilla Espoosta Helsinkiin jos podcasteja ei olisi olemassa. Nyt tuon ajan pystyy käyttämään, jos ei sivistävästi, niin ainakin viihdyttävästi.&lt;/p&gt;
-&lt;p&gt;Uskoakseni &lt;em&gt;kaikki muutkin&lt;/em&gt; kuuntelevat jo näitä, mutta kaiken varalta tässä on lista podcasteista, joita kuuntelen tällä hetkellä. Kaikki listan podcastit ovat englanniksi, mutta kerro toki kommenteissa jos tiedät hyviä suomenkielisiä podcasteja. Tai muuten vaan hyviä podcasteja. Mutta asiaan:&lt;/p&gt;
-&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
-&lt;h3&gt;Tietotyöläisille&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a title=&#34;Back to Work&#34; href=&#34;http://5by5.tv/b2w/54&#34;&gt;Back to work&lt;/a&gt;&lt;/strong&gt;. &lt;a href=&#34;http://www.merlinmann.com/&#34;&gt;Merlin Mann&lt;/a&gt; ja &lt;a href=&#34;http://benjamin.org/dan/&#34;&gt;Dan Benjamin&lt;/a&gt; keskustelevat viikoittain siitä, miten tehdä hyvää työtä nykypäivän työelämässä, miten omaan työnkuvaan voi vaikuttaa, ja miten tietää mitä haluaa oikeasti tehdä. Ja yleensä höpöttävät aiheen vierestä, mutta viihdyttävästi.&lt;/p&gt;
-&lt;p&gt;Merlin tykkää heittää kuulijoille vaikeita kysymyksiä, joihin ei tarjoa helppoja vastauksia. Esimerkiksi &#34;pitäisitkö siitä, jos nykyinen työsi olisi kymmenen kertaa enemmän &lt;em&gt;sitä,&lt;/em&gt; mitä se on nyt? (Koska sitä se tulee luultavasti olemaan.)&#34; Vanhoista jaksoista erityisen hyviä ovat &lt;a title=&#34;Back to Work #7: Vocational Wheel&#34; href=&#34;http://5by5.tv/b2w/7&#34;&gt;7&lt;/a&gt;, &lt;a title=&#34;Back to Work #10: At Last the &#39;Inspiration&#39; Show&#34; href=&#34;http://5by5.tv/b2w/10&#34;&gt;10&lt;/a&gt;, &lt;a title=&#34;Back to Work #12: Chewie&#39;s Medal is Not Canonical&#34; href=&#34;http://5by5.tv/b2w/12&#34;&gt;12&lt;/a&gt;, &lt;a title=&#34;Back to Work #17: Brick Building Full of Lies&#34; href=&#34;http://5by5.tv/b2w/17&#34;&gt;17&lt;/a&gt;, &lt;a title=&#34;Back to Work #33: The Hypocrite You Can Live With&#34; href=&#34;http://5by5.tv/b2w/33&#34;&gt;33&lt;/a&gt;, &lt;a title=&#34;Back to Work #39: A Source of Rice with Velocity&#34; href=&#34;http://5by5.tv/b2w/39&#34;&gt;39&lt;/a&gt;, &lt;a title=&#34;Back to Work #41: Carpal Tunnel Diem&#34; href=&#34;http://5by5.tv/b2w/41&#34;&gt;41&lt;/a&gt;, &lt;a title=&#34;Back to Work #47: Utter Failure &amp;amp; Hotel Steak&#34; href=&#34;http://5by5.tv/b2w/47&#34;&gt;47&lt;/a&gt;, &lt;a title=&#34;Back to Work #50: The Pork Soup Paradox&#34; href=&#34;http://5by5.tv/b2w/50&#34;&gt;50&lt;/a&gt;... oikeastaan kannattaa kuunnella kaikki jos vain jaksaa. Jos kuuntelisin vain yhtä podcastia, kuuntelisin tätä.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a title=&#34;Mac Power Users&#34; href=&#34;http://5by5.tv/mpu&#34;&gt;Mac Power Users&lt;/a&gt;.&lt;/strong&gt; &lt;a href=&#34;http://www.macsparky.com/&#34;&gt;David Sparks&lt;/a&gt; ja &lt;a href=&#34;http://katiefloyd.me/&#34;&gt;Katie Floyd&lt;/a&gt; kertovat miten saat enemmän irti Applen tuotteista, ja haastattelevat eri alojen ihmisiä heidän työskentelytavoistaan. &lt;a title=&#34;Mac Power Users #70: Using Automator with Ben Waldie&#34; href=&#34;http://5by5.tv/mpu/70&#34;&gt;Automator-jakso&lt;/a&gt; oli ainakin minulle uutta asiaa.&lt;/p&gt;
-&lt;h3&gt;Ohjelmoijille&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://javascriptjabber.com/&#34;&gt;Javascript Jabber&lt;/a&gt;&lt;/strong&gt;: huono äänenlaatu, mutta hyvää asiaa JS-maailman viimeisimmistä käänteistä. Mukana mm. &lt;a href=&#34;http://yehudakatz.com/&#34;&gt;Yehuda Katz&lt;/a&gt;. Kuuntele tätä jos haluat tietää mitä MVC-frameworkkia käytät puolen vuoden päästä ;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://5by5.tv/buildanalyze&#34;&gt;Build and Analyze&lt;/a&gt;&lt;/strong&gt;. Yksittäisen iOS-ohjelmoijan (&lt;a href=&#34;http://www.instapaper.com/&#34;&gt;InstaPaperin&lt;/a&gt; &lt;a href=&#34;http://www.marco.org/&#34;&gt;Marco Armentin&lt;/a&gt;) näkemyksiä tuotteen rakentamisesta, iOS-kehityksestä, mobiiliskenestä ja kahvista. Alkupään jaksoissa keskityttiin ehkä hieman enemmän käytännön devaamiseen, nyt painopiste on siirtynyt yleiseen käsienheilutteluun Applesta.&lt;/p&gt;
-&lt;h3&gt;Web Designereille&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://5by5.tv/webahead&#34;&gt;The Web Ahead&lt;/a&gt;&lt;/strong&gt;: &lt;a href=&#34;http://5by5.tv/person/jen-simmons&#34;&gt;Jen Simmons&lt;/a&gt; ja vieraat vastaavat kysymyksiin mihin internet on menossa, miten ihmiset käyttävät sitä, ja miten verkkopalveluita pitäisi suunnitella. Hyviä pointteja esimerkiksi &lt;a title=&#34;The Web Ahead #16: Mobile Capabilities with Jason Grigsby&#34; href=&#34;http://5by5.tv/webahead/16&#34;&gt;mobiililaitteille suunnittelusta&lt;/a&gt;, mutta muihin podcasteihin verrattuna hyötysuhde on tähän mennessä ollut vähän heikompi.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://5by5.tv/bigwebshow&#34;&gt;The Big Webshow&lt;/a&gt;&lt;/strong&gt;: &lt;a href=&#34;http://www.zeldman.com/&#34;&gt;Jeffrey Zeldman&lt;/a&gt; ja vieraat keskustelevat satunnaisista web designiin liittyvistä asioista. Tämä on rehellisesti sanottuna eniten vaarassa tippua listaltani, koska äänenlaatu on usein heikko, ja aiheiden kirjo on liian suuri makuuni.&lt;/p&gt;
-&lt;h3&gt;Sekalaiset&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://5by5.tv/hypercritical&#34;&gt;Hypercritical&lt;/a&gt;: &lt;/strong&gt;&lt;a href=&#34;http://5by5.tv/person/john-siracusa&#34;&gt;John Siracusa&lt;/a&gt; pystyy viihdyttävästi kritisoimaan asiaa kuin asiaa, oli se sitten Pixar, Apple (&lt;em&gt;varsinkin&lt;/em&gt; Apple) tai voileipägrillit. Siracusa analysoi aiheitaan joka kantilta muodostaen aukottomia päättelyketjuja.&lt;/p&gt;
-&lt;p&gt;Ehdottomasti parhaimpia jaksoja ovat olleet &lt;a title=&#34;Hypercritical #42: The Wrong Guy&#34; href=&#34;http://5by5.tv/hypercritical/42&#34;&gt;42&lt;/a&gt;&amp;nbsp;ja&amp;nbsp;&lt;a title=&#34;Hypercritical #43: The Scorpion and the Frog&#34; href=&#34;http://5by5.tv/hypercritical/43&#34;&gt;43&lt;/a&gt;, joissa pureudutaan siihen, mikä kaikki on pielessä Walter Isaacsonin kirjoittamassa Steve Jobs -elämänkerrassa, ja miksi Isaacson oli ylipäätään väärä ihminen kirjoittamaan kyseistä kirjaa.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://itunes.apple.com/us/podcast//id489250422&#34;&gt;Man vs. Debt&lt;/a&gt;&lt;/strong&gt; on samannimisen &lt;a href=&#34;http://manvsdebt.com/&#34;&gt;blogin&lt;/a&gt; vielä suhteellisen tuore podcast, mikä on vaikuttanut lupaavalta. Hyvää inspiraatiokamaa veloista irti pääsemiseen.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://5by5.tv/criticalpath&#34;&gt;&lt;strong&gt;Critical Path&lt;/strong&gt;&lt;/a&gt;: Suomessa asuva, ex-nokialainen &lt;a href=&#34;http://www.asymco.com/&#34;&gt;Horace Dediu&lt;/a&gt; on yhtään vähättelemättä luultavasti paras mobiilialan analyytikko. Suositeltavaa kuunneltavaa jos kiinnosta esimerkiksi &lt;a title=&#34;The Critical Path #10: The Means of Production&#34; href=&#34;http://5by5.tv/criticalpath/10&#34;&gt;miksi Apple oikeasti menestyy&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.freakonomics.com/radio/&#34;&gt;Freakonomics Radio&lt;/a&gt;&lt;/strong&gt;: Freakonomics-kirjojen kirjoittajat Steven D. Levitt ja Stephen J. Dubner kertovat hauskasti yllättävistä talouteen liittyvistä asioista.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.radiolab.org/&#34;&gt;Radiolab&lt;/a&gt;&lt;/strong&gt;: todella hyvin tuotettuja radio-ohjelmia milloin mistäkin. Hyviä esimerkkejä laadusta ovat esimerkiksi &lt;a href=&#34;http://www.radiolab.org/blogs/radiolab-blog/2011/jul/26/4-track-mind/&#34;&gt;A 4-Track Mind&lt;/a&gt;, &lt;a href=&#34;http://www.radiolab.org/blogs/radiolab-blog/2011/oct/18/slow/&#34;&gt;Slow&lt;/a&gt;, &lt;a href=&#34;http://www.radiolab.org/2011/nov/14/&#34;&gt;Patient Zero&lt;/a&gt; ja &lt;a href=&#34;http://www.radiolab.org/2010/oct/08/&#34;&gt;Cities&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Downcast&lt;/h3&gt;
-&lt;p&gt;Podcastien kuuntelemiseen kannattaa hankkia sitä varten suunniteltu applikaatio. Iphonelle on esimerkiksi &lt;a href=&#34;http://downcastapp.com/&#34;&gt;Downcast&lt;/a&gt;, joka osaa ladata podcastit suoraan puhelimeen, tehdä älykkäitä soittolistoja, striimata podcasteja ja paljon muuta. Tämän applikaation ansiosta en enää synkronoi iPhonea iTunesiin. Vaihtoehtoja iOS ja Android-laitteille löytyy &lt;a href=&#34;http://lifehacker.com/5811101/five-best-mobile-podcast-catchers&#34;&gt;täältä&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;5by5&lt;/h3&gt;
-&lt;p&gt;Tarkkasilmäisimmät ehkä huomasivatkin jo, että suurin osa podcasteista on &lt;a href=&#34;http://5by5.tv/&#34;&gt;5by5&lt;/a&gt;:n julkaisemia. 5by5 ja sen perustaja Dan Benjamin tuntuvat löytävän mielenkiintoisia ihmisiä ja aiheita jatkuvalla syötöllä.&lt;/p&gt;
-&lt;p&gt;Dan myös kanssajuontaa itse useaa mainituista podcasteista, mikä on ilo, sillä hän osaa antaa vierailleen tilaa, mutta saa heistä heidän parhaimpansa esiin. Dan on podcastien perusteella myös varsin &lt;em&gt;hyvä&lt;/em&gt; ihminen, mikä tekee niistä inspiroivaa kuunneltavaa. Kannattaa siis katsoa, josko 5by5:n julkaisemien &lt;a href=&#34;http://5by5.tv/broadcasts&#34;&gt;podcastien listalta&lt;/a&gt; löytyisi jotain sinua kiinnostavaa.&lt;/p&gt;
-</content>
-        <pubDate>Sat, 18 Feb 2012 05:46:36 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2012/02/18/kuuntelemisen-arvoisia-podcasteja/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2012/02/18/kuuntelemisen-arvoisia-podcasteja/</guid>
-        
-        <category>elämä</category>
-        
-        <category>linkit</category>
-        
-        <category>internet</category>
-        
-        <category>podcastit</category>
-        
-        
-        <slash:comments>2</slash:comments>
       </item>
     
   </channel>
