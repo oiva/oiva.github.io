@@ -8,8 +8,8 @@ author:
   display_name: Oiva Eskola
   login: oiva
   email: oiva.eskola@gmail.com
-date: 2025-01-15 17:21:00 +02:00
-date_gmt: 2025-01-15 15:21:00 +00:00
+date: 2025-01-27 12:21:00 +02:00
+date_gmt: 2025-01-27 10:21:00 +00:00
 tags:
   - e-kirjat
 excerpt: "Storytel-lukulaitteen valmistus on lopetettu, mutta sen voi korvata Onyx Boox-tabletilla"
