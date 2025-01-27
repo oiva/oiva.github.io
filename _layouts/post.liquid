@@ -49,6 +49,8 @@ regenerate: true
     {% endif %}
   </article>
 
+  <footer>{% footnotes %}</footer>
+
   {% if comments.size > 0 %}
   <section class="comments">
     {% if language == 'fi' or pagetime < cutoff %}

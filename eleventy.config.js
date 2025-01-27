@@ -1,5 +1,5 @@
+import footnotes from 'eleventy-plugin-footnotes';
 import striptags from 'striptags';
-
 
 export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
@@ -61,6 +61,8 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter("head", function (array, limit) {
     return array.length > 0 ? array[0] : undefined;
   });
+
+  eleventyConfig.addPlugin(footnotes, { /* … */ })
 
   // Copy CNAME file to output to fix GitHub Pages custom domain
   eleventyConfig.addPassthroughCopy("CNAME");
