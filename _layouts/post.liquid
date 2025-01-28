@@ -84,11 +84,11 @@ regenerate: true
     {% if language == 'fi' or pagetime < cutoff %}
     <h2>Kysymyksiä tai kommentoitavaa?</h2>
     <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
-      <a href="mailto:oiva.eskola@gmail.com">sähköpostilla</a>.</p>
+      <a href="mailto:oiva.eskola@gmail.com?subject={{title}}">sähköpostilla</a>.</p>
     {% else %}
     <h2>Questions or feedback?</h2>
-    <p>Send a message on <a href="https://toot.community/@oivaeskola">Mastodon</a> or 
-      <a href="mailto:oiva.eskola@gmail.com">email me</a>.</p>
+    <p>Send a message on <a href="https://toot.community/@oivaeskola">Mastodon</a> or
+      <a href="mailto:oiva.eskola@gmail.com?subject={{title}}">email me</a>.</p>
     {% endif %}
   </section>
 </div>
