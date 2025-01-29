@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2025 11:29:44 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2025 11:29:44 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2025 19:41:07 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2025 19:41:07 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -119,15 +119,15 @@
         <content>&lt;p&gt;I&#39;ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it&#39;s that there&#39;s been little else to do lately.&lt;/p&gt;
 &lt;p&gt;Youtube is finding more videos in random categories I didn&#39;t know were a thing but I find intereseting. I thought I&#39;d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today&#39;s recommendation:&lt;/p&gt;
 &lt;h2&gt;Daniel Duskin&#39;s mixing videos:&lt;/h2&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Em9EwVQy-6s&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Em9EwVQy-6s&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Daniel is a mixing engineer (selling sound mixing services) and he demonstrates his skills on Youtube by strapping a GoPro to his head and fliming himself mixing classic songs on an analog mixing console. Like Queen&#39;s &amp;quot;Don&#39;t Stop Me Now&amp;quot; above.&lt;/p&gt;
 &lt;p&gt;Daniel doesn&#39;t try to replicate the original songs but does a quick, maybe even better, mix from individual instrument tracks (sourced where???). It&#39;s wild to see and hear how a song comes together with each new instrument.&lt;/p&gt;
 &lt;p&gt;Another video of mixing The Doobie Brothers&#39; &amp;quot;Long Train Running&amp;quot; has explanations of what he&#39;s doing although heavy with mixing lingo:&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_QkyzM0xLLk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_QkyzM0xLLk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Daniel makes mixing look so easy and effortless. Of course one thing to note is that the source material on these videos is super good.&lt;/p&gt;
 &lt;p&gt;A lot of effort went into composing and recording these songs and planning how all the instruments play together even before mixing. &amp;quot;Long Train Running&amp;quot; is already groovy as hell with only the drums and guitar. You wouldn&#39;t be able to quickly mix ten garbage tracks and make the song &lt;em&gt;sing&lt;/em&gt; the same way.&lt;/p&gt;
 &lt;h2&gt;Bonus round: Nile Rodgers Tells The Story of &amp;quot;Let&#39;s Dance&amp;quot;&lt;/h2&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/NlDCPCwVNUw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/NlDCPCwVNUw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie&#39;s simple guitar riff and turned it into &amp;quot;&lt;a href=&#34;https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_song)&#34;&gt;Let&#39;s Dance&lt;/a&gt;&amp;quot;, a massive hit in 1982. Pure magic.&lt;/p&gt;
 </content>
         <pubDate>Sun, 28 Jun 2020 15:00:00 +0000</pubDate>
