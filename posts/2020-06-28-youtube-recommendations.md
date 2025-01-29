@@ -22,7 +22,7 @@ Youtube is finding more videos in random categories I didn't know were a thing b
 
 ## Daniel Duskin's mixing videos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Em9EwVQy-6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Em9EwVQy-6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 Daniel is a mixing engineer (selling sound mixing services) and he demonstrates his skills on Youtube by strapping a GoPro to his head and fliming himself mixing classic songs on an analog mixing console. Like Queen's "Don't Stop Me Now" above.
 
@@ -30,7 +30,7 @@ Daniel doesn't try to replicate the original songs but does a quick, maybe even 
 
 Another video of mixing The Doobie Brothers' "Long Train Running" has explanations of what he's doing although heavy with mixing lingo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_QkyzM0xLLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QkyzM0xLLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 Daniel makes mixing look so easy and effortless. Of course one thing to note is that the source material on these videos is super good.
 
@@ -38,6 +38,6 @@ A lot of effort went into composing and recording these songs and planning how a
 
 ## Bonus round: Nile Rodgers Tells The Story of "Let's Dance" 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NlDCPCwVNUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NlDCPCwVNUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie's simple guitar riff and turned it into "[Let's Dance](https://en.wikipedia.org/wiki/Let%27s_Dance_\(David_Bowie_song\))", a massive hit in 1982. Pure magic.
