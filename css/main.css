@@ -1,3 +1,7 @@
+:root {
+  --vb: 1em;
+}
+
 /**
  * Reset some basic elements
  */
@@ -523,7 +527,30 @@ pre > code {
   margin-top: 32px;
 }
 .post-content img {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.5rem;
+}
+.post-content figure img {
+  margin-bottom: 0;
+}
+.post-content figure {
+  margin-bottom: 2rem;
+}
+.post-content figcaption {
+  color: #7a7a7a;
+  font-size: 80%;
+  margin-top: 0.5rem;
+}
+.post-content iframe {
+  margin-bottom: 1.5rem;
+}
+.post-content li {
+  margin-bottom: 1rem;
+}
+.post-content li > p:last-child {
+  margin-bottom: 0;
+}
+.post-content li > ul {
+  margin-top: 0.5rem;
 }
 
 section.comments {
@@ -858,6 +885,15 @@ pre.highlight {
 
 .Footnotes__ref[role=doc-noteref]:focus::after {
   background-size: inherit;
+}
+
+body {
+  counter-reset: footnotes;
+}
+
+[role=doc-noteref]::after {
+  counter-increment: footnotes;
+  content: "[" counter(footnotes) "]";
 }
 
 /*# sourceMappingURL=main.css.map */
