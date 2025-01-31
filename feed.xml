@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2025 19:47:31 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2025 19:47:31 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 19:52:51 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2025 19:52:51 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -51,7 +51,7 @@
 &lt;/ul&gt;
 &lt;figure&gt;
   &lt;a href=&#34;/images/2025/black-ship-train.webp&#34;&gt;
-    &lt;img src=&#34;/images/2025/black-ship-train.webp&#34; width=&#34;686&#34; height=&#34;379&#34; alt=&#34;Black Ship Train, Japan&#39;s &#39;most luxurious local train&#39;.&#34; loading=&#34;lazy&#34; &gt;
+    &lt;img src=&#34;/images/2025/black-ship-train.webp&#34; width=&#34;686&#34; alt=&#34;Black Ship Train, Japan&#39;s &#39;most luxurious local train&#39;.&#34; loading=&#34;lazy&#34; &gt;
   &lt;/a&gt;
   &lt;figcaption&gt;&#39;Black Ship Train&#39;, Japan&#39;s &#34;most luxurious local train.&#34; From &lt;a href=&#34;https://www.youtube.com/watch?v=2ujPzcFmfic&#34;&gt;Driver&#39;s View of IZUKYU Resort21, from Izukyu Shimoda to Izukogen&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -72,19 +72,19 @@
 &lt;p&gt;What is visible on screen? The driver? Parts of the engine? If you are showcasing a beautiful route, then probably nothing else should be on the screen.&lt;/p&gt;
 &lt;figure&gt;
   &lt;a href=&#34;/images/2025/cabview-1.webp&#34;&gt;
-    &lt;img src=&#34;/images/2025/cabview-1.webp&#34; width=&#34;654&#34; height=&#34;354&#34; alt=&#34;Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake.&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;/images/2025/cabview-1.webp&#34; width=&#34;654&#34; alt=&#34;Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake.&#34; loading=&#34;lazy&#34; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;Example 1: The focus is in the view. Screenshot from &lt;a href=&#34;https://www.youtube.com/watch?v=zCoCOHOYd28&#34;&gt;St-Triphon - Lausanne - Basel cab ride&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
   &lt;a href=&#34;/images/2025/cabview-2.webp&#34;&gt;
-    &lt;img src=&#34;/images/2025/cabview-2.webp&#34; width=&#34;654&#34; height=&#34;355&#34; alt=&#34;Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon.&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;/images/2025/cabview-2.webp&#34; width=&#34;654&#34; alt=&#34;Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon.&#34; loading=&#34;lazy&#34; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;Example 2: parts of the engine are visible. Screenshot from &lt;a href=&#34;https://www.youtube.com/watch?v=_u-l31NeNjo&amp;t=9069s&#34;&gt;Takayama Line Wide View Express Train &#34;Hida&#34; No.3 Nagoya to Toyama, Japan&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
   &lt;a href=&#34;/images/2025/cabview-3.webp&#34;&gt;
-    &lt;img src=&#34;/images/2025/cabview-3.webp&#34; width=&#34;654&#34; height=&#34;356&#34; alt=&#34;Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train&#39;s controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side.&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;/images/2025/cabview-3.webp&#34; width=&#34;654&#34; alt=&#34;Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train&#39;s controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side.&#34; loading=&#34;lazy&#34; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;Example 3: The train&#39;s driver is doing their job. Screenshot from &lt;a href=&#34;https://www.youtube.com/watch?v=ADKJb12Oxbg&#34;&gt;Let&#39;s Ride The Yamanote Line In Tokyo&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -115,7 +115,7 @@
 &lt;li&gt;What labels do you add to the video? Names of stations probably should be there, but what about other noteworthy places?
 &lt;ul&gt;
 &lt;li&gt;Should you label the tunnels or bridges and their lengths? Could be interesting, or at least set the expectation how long the tunnel will take.&lt;figure&gt;
-  &lt;img src=&#34;/images/2025/tunnel.webp&#34; width=&#34;622&#34; height=&#34;312&#34; alt=&#34;Screenshot from train video  showing a tunnel. A label on screen says &#39;Fürten II Tunnel, 609 m (1913)&#39;&#34; /&gt;
+  &lt;img src=&#34;/images/2025/tunnel.webp&#34; width=&#34;622&#34; alt=&#34;Screenshot from train video  showing a tunnel. A label on screen says &#39;Fürten II Tunnel, 609 m (1913)&#39;&#34; /&gt;
   &lt;figcaption&gt;
     &lt;a href=&#34;https://www.youtube.com/watch?v=x8ez4XNT080&amp;t=8584s&#34;&gt;Basel - Kandersteg - Brig Re 6/6 cab ride&lt;/a&gt;
   &lt;/figcaption&gt;
