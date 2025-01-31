@@ -55,3 +55,10 @@
 .Footnotes__ref[role='doc-noteref']:focus::after {
   background-size: inherit;
 }
+
+body { counter-reset: footnotes }
+
+[role="doc-noteref"]::after {
+  counter-increment: footnotes;
+  content: '[' counter(footnotes) ']'
+}

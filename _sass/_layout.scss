@@ -363,7 +363,30 @@
     }
 
     img {
-        margin-bottom: 1.5em;
+        margin-bottom: 1.5rem;
+    }
+    figure img {
+        margin-bottom: 0;
+    }
+    figure {
+        margin-bottom: 2rem;
+    }
+    figcaption {
+        color: variables.$grey-color;
+        font-size: 80%;
+        margin-top: 0.5rem;
+    }
+    iframe {
+        margin-bottom: 1.5rem;
+    }
+    li {
+        margin-bottom: 1rem;
+    }
+    li > p:last-child {
+        margin-bottom: 0;
+    }
+    li > ul {
+        margin-top: 0.5rem;
     }
 }
 
