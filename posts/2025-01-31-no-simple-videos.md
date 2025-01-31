@@ -110,7 +110,7 @@ Alright, you have all the footage in the can, but we are not done!
         <a href="https://www.youtube.com/watch?v=x8ez4XNT080&t=8584s">Basel - Kandersteg - Brig Re 6/6 cab ride</a>
       </figcaption>
     </figure>
-  - Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these but it's a ton of work.
+  - Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these, but it's a ton of work.
 
 ## Some sort of conclusion
 
