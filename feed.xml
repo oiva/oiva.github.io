@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2025 19:52:51 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2025 19:52:51 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 19:53:26 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2025 19:53:26 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -121,7 +121,7 @@
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
-&lt;li&gt;Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these but it&#39;s a ton of work.&lt;/li&gt;
+&lt;li&gt;Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these, but it&#39;s a ton of work.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
