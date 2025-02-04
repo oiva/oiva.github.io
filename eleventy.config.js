@@ -61,6 +61,9 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter("head", function (array, limit) {
     return array.length > 0 ? array[0] : undefined;
   });
+  eleventyConfig.addFilter("removeFootnotes", function (content) {
+    return content.replaceAll(/<a class="Footnotes__ref".*>(.*)<\/a>/g, '$1');
+  });
 
   eleventyConfig.addPlugin(footnotes, { /* … */ })
 
