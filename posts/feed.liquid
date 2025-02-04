@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
       <item>
         <title>{{ post.data.title | xml_escape }}</title>
         <description>{{ post.content | strip_html | strip_newlines | truncate: 450 | xml_escape }}</description>
-        <content>{{ post.content | xml_escape }}</content>
+        <content>{{ post.content | removeFootnotes | xml_escape }}</content>
         <pubDate>{{ post.data.date_gmt | date_to_rfc822 }}</pubDate>
         <dc:creator>{{ post.data.author.display_name }}</dc:creator>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>

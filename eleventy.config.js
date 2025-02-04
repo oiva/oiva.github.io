@@ -61,6 +61,16 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter("head", function (array, limit) {
     return array.length > 0 ? array[0] : undefined;
   });
+  eleventyConfig.addFilter("removeFootnotes", function (content) {
+    return content.replaceAll(/<a class="Footnotes__ref".*>(.*)<\/a>/g, '$1');
+  });
+  eleventyConfig.addFilter("dropTitleLevel", function (content) {
+    return content.replaceAll(/<h5>(.*)<\/h5>/g, '<h6>$1</h6>')
+      .replaceAll(/<h4>(.*)<\/h4>/g, '<h5>$1</h5>')
+      .replaceAll(/<h3>(.*)<\/h3>/g, '<h4>$1</h4>')
+      .replaceAll(/<h2>(.*)<\/h2>/g, '<h3>$1</h3>')
+      .replaceAll(/<h1>(.*)<\/h1>/g, '<h2>$1</h2>');
+  });
 
   eleventyConfig.addPlugin(footnotes, { /* … */ })
 
