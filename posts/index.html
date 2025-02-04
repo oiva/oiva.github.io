@@ -69,7 +69,7 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
               />
             </picture>
           {% endif %}
-          <div class="post-excerpt">{{ post.content | removeFootnotes }}</div>
+          <div class="post-excerpt">{{ post.content | dropTitleLevel | removeFootnotes }}</div>
           <hr />
         {% elsif pagination.pageNumber == 0 %}
           <p class="post-excerpt">
