@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Feb 2025 20:55:01 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Feb 2025 20:55:01 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2025 12:22:32 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2025 12:22:32 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -17,8 +17,8 @@
         <description>Huomasin viime vuonna Instagramissa Simulento-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä ...</description>
         <content>&lt;img src=&#34;/images/2025/simulaattori.webp&#34; width=&#34;686&#34; alt=&#34;Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen&#34; /&gt;
 &lt;p&gt;Huomasin viime vuonna Instagramissa &lt;a href=&#34;https://www.instagram.com/simulento&#34;&gt;Simulento&lt;/a&gt;-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.&lt;/p&gt;
-&lt;p&gt;Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#A320-note&#34; id=&#34;A320-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;Airbusin A320&lt;/a&gt; -koneella lentämiseen.&lt;/p&gt;
-&lt;p&gt;Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#airbus-laskeutuminen-note&#34; id=&#34;airbus-laskeutuminen-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;yleensä ehjänä takaisin&lt;/a&gt;, autopilotilla tai ilman.&lt;/p&gt;
+&lt;p&gt;Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.&lt;/p&gt;
+&lt;p&gt;Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   yleensä ehjänä takaisin, autopilotilla tai ilman.&lt;/p&gt;
 &lt;p&gt;Lentosimulaattorit on kuitenkin aihe, missä riittää ihan loputtomasti opeteltavaa ja Oikeat Harrastajat ovat opiskelleet lentämistä ja ilmailun sääntöjä niin paljon, että olisivat, tai ovat oikeasti päteviä lentämään.&lt;/p&gt;
 &lt;p&gt;En itse jaksa enkä pysty panostamaan aiheeseen yhtä paljon, mutta tykkään kasuaalista liikennelentokoneella lentämisestä. Siinä on samaa hauskaa haastetta kuin kokkaamisessa: pitää hallita useampia aikakriittisiä tehtäviä ja samalla yrittää havainnoida mitä lentokoneelle tai lihapullille tapahtuu. Mutta en muista kenttien &lt;a href=&#34;https://www.youtube.com/watch?v=jfOUVYQnuhw&#34;&gt;ICAO-koodeja&lt;/a&gt; tai lennonjohtotornien radiotaajuuksia ulkoa.&lt;/p&gt;
 &lt;h2&gt;Tutustumislento&lt;/h2&gt;
@@ -30,7 +30,7 @@
 &lt;p&gt;Simulennon simulaattori on rakennettu toisen tunnetun simulaattoripelin, &lt;a href=&#34;https://www.x-plane.com/pro/&#34;&gt;X‑Plane Pro&lt;/a&gt;:n päälle. Jos ymmärsin oikein, niin itse rakennetun ohjaamon liittäminen peliin on toteutettu paremmin X‑Plane:ssa kuin MSFS:ssa.&lt;/p&gt;
 &lt;p&gt;MSFS:n etu taas on omaan silmään paremmat grafiikat. Ympäristö on mallinnettu luomalla satunnaisia taloja &lt;a href=&#34;/2013/05/29/openstreetmap/&#34;&gt;OpenStreetMapin&lt;/a&gt; karttadatan perusteella, eli talot ovat oikealla paikalla ja usein oikean kokoisia, mutta eivät oikean näköisiä. Lisäksi MSFS:ssa on käsin mallinnettu kuuluisia taloja ja nähtävyyksiä.&lt;/p&gt;
 &lt;p&gt;Grafiikoilla ei toki kauheasti ole väliä kun lennetään korkealla, mutta loppulähestymiseen olisin kaivannut enemmän tuttuja maamerkkejä.&lt;/p&gt;
-&lt;p&gt;Kaiken kaikkiaan simulaattorilla lentäminen oli tosi mukava kokemus. Kotona PC:llä virtuaaliohjaamon nupikoiden kääntäminen hiirellä on aina vähän kankeaa. Oikeiden vipujen ja rullien käyttäminen simulaattorissa on paitsi selkeää, myös tuntuu hyvältä. &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#laskusiivekkeet-note&#34; id=&#34;laskusiivekkeet-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;Laskusiivekkeiden laskeminen&lt;/a&gt; oikealla vivulla *thonk* on vain hauskempaa kuin joystickin &amp;quot;flaps down&amp;quot; -napin painaminen.&lt;/p&gt;
+&lt;p&gt;Kaiken kaikkiaan simulaattorilla lentäminen oli tosi mukava kokemus. Kotona PC:llä virtuaaliohjaamon nupikoiden kääntäminen hiirellä on aina vähän kankeaa. Oikeiden vipujen ja rullien käyttäminen simulaattorissa on paitsi selkeää, myös tuntuu hyvältä. Laskusiivekkeiden laskeminen oikealla vivulla *thonk* on vain hauskempaa kuin joystickin &amp;quot;flaps down&amp;quot; -napin painaminen.&lt;/p&gt;
 &lt;h2&gt;Hinta&lt;/h2&gt;
 &lt;p&gt;Tutustumislennolla oli hintaa 60 €, mistä olen vähän kahta mieltä. Oletan, että lentosimulaattorien käyttäjäkunta on paljolti kaltaisiani keski-ikäisiä miehiä, ja varsinkin lahjaksi annettavasta lennosta voisi mielestäni pyytää helposti enemmänkin.&lt;/p&gt;
 &lt;p&gt;Mikko perusteli halpaa hintaa sillä, että haluaa tarjota isommalle joukolle mahdollisuuden päästä kokeilemaan lentämistä ja varsinkin nuorilla hinta voi nopeasti tulla esteeksi. Tämä on kieltämättä hieno tavoite. Taviksille suunnatuilla kilpailijoilla vastaavat lennot ovat 100–200 € ja Finnairin simut &lt;a href=&#34;https://www.take-off.fi/palvelutjahinnastot/full-flight--simulaattorit&#34;&gt;noin 500 € / h&lt;/a&gt;.&lt;/p&gt;
@@ -53,7 +53,7 @@
         <description>I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:There are tons of these &amp;quot;cab view&amp;quot; videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see places from around the world. There are also walking videos and driving videos if those are more your thing.Having seen a few of these, I noticed I kind of disl...</description>
         <content>&lt;p&gt;I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;There are tons of these &amp;quot;cab view&amp;quot; videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#details-note&#34; id=&#34;details-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;places from around the world&lt;/a&gt;. There are also &lt;a href=&#34;https://www.youtube.com/results?search_query=walking+tour&#34;&gt;walking videos&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/results?search_query=4k+scenic+drive&#34;&gt;driving videos&lt;/a&gt; if those are more your thing.&lt;/p&gt;
+&lt;p&gt;There are tons of these &amp;quot;cab view&amp;quot; videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see driving videos if those are more your thing.&lt;/p&gt;
 &lt;p&gt;Having seen a few of these, I noticed I kind of disliked some of them. Even when the concept is so simple (train + camera + time), there are still ways to make them &amp;quot;good&amp;quot; or &amp;quot;bad.&amp;quot;&lt;/p&gt;
 &lt;p&gt;This got me thinking about how many creative decisions you can and &lt;em&gt;need&lt;/em&gt; to make, even in a seemingly simple project like a &amp;quot;train video.&amp;quot;&lt;/p&gt;
 &lt;p&gt;So just for fun, I started to enumerate these decisions. This might not be a very useful thing to do, but I need to stop thinking about this :)&lt;/p&gt;
@@ -79,7 +79,7 @@
 &lt;p&gt;What route do you choose? The most beautiful, interesting, or &lt;a href=&#34;https://www.youtube.com/watch?v=3rDjPLvOShM&#34;&gt;longest&lt;/a&gt;? Or the one you happen to have access to? Are you slowly documenting every piece of track that exists?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What happens if it&#39;s raining? Do you try again later or go with it? There are some Finnish videos where &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#rain-note&#34; id=&#34;rain-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;rain makes the video worse&lt;/a&gt; because you are either looking at water droplets on the window or a windshield wiper swishing around.&lt;/p&gt;
+&lt;p&gt;What happens if it&#39;s raining? Do you try again later or go with it? There are some Finnish videos where rain makes the video worse because you are either looking at water droplets on the window or a windshield wiper swishing around.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Do you shoot introductory footage of the actual train beforehand? It can be nice to know what kind of train we are riding. Especially if it&#39;s some special attraction train.&lt;/p&gt;
@@ -94,7 +94,7 @@
 &lt;h2&gt;Picture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;Footnotes__ref&#34; href=&#34;#where-do-you-put-the-camera-note&#34; id=&#34;where-do-you-put-the-camera-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;Where do you put the camera&lt;/a&gt;? Do you have access to the engine and can place the camera on the windshield? Or are you filming through a transparent wall behind the driver? You&#39;ll see the driver, but don&#39;t see the track as well.&lt;/p&gt;
+&lt;p&gt;Where do you put the camera? Do you have access to the engine and can place the camera on the windshield? Or are you filming through a transparent wall behind the driver? You&#39;ll see the driver, but don&#39;t see the track as well.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Do you attach the camera outside? Do you also record sound outside? That can be of low quality.&lt;/p&gt;
@@ -163,7 +163,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Some sort of conclusion&lt;/h2&gt;
 &lt;p&gt;The list of decisions here is not an exhaustive list, but what came to mind watching these videos. A more free-form video would have a ton more decisions to make, including editing multiple shots together, pacing, and sound design.&lt;/p&gt;
-&lt;p&gt;I guess the point I&#39;m making here is that any creative endeavor that tries to be good comes with tons of creative decisions to make. Thinking about them is easier if you have some sort of idea of the purpose of the work, or in this case who is the viewer and how to serve them. I&#39;ve seen too many &lt;a class=&#34;Footnotes__ref&#34; href=&#34;#time-lapse-note&#34; id=&#34;time-lapse-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;time-lapse&lt;/a&gt; and drone videos that suffer from not having an idea and just dumping all footage they have on hand. Be a bit more mindful!&lt;/p&gt;
+&lt;p&gt;I guess the point I&#39;m making here is that any creative endeavor that tries to be good comes with tons of creative decisions to make. Thinking about them is easier if you have some sort of idea of the purpose of the work, or in this case who is the viewer and how to serve them. I&#39;ve seen too many time-lapse and drone videos that suffer from not having an idea and just dumping all footage they have on hand. Be a bit more mindful!&lt;/p&gt;
 </content>
         <pubDate>Fri, 31 Jan 2025 19:46:00 +0000</pubDate>
         <dc:creator>Oiva Eskola</dc:creator>
@@ -204,7 +204,7 @@
 &lt;p&gt;Ilmeni, että tämä on tavallaan virheellistä tietoa. Nyt mennään määritelmäkysymyksiin, mutta esimerkiksi hankkimamme &lt;a href=&#34;https://shop.boox.com/products/gocolor7&#34;&gt;Onyx Boox Go Color&lt;/a&gt; on &amp;quot;Android-tabletti&amp;quot;, mutta se on &lt;em&gt;myös&lt;/em&gt; &amp;quot;lukulaite&amp;quot;, koska siinä on E ink -näyttö.&lt;/p&gt;
 &lt;p&gt;Boox Go -tabletissa on Google Play -sovelluskauppa ja &lt;a href=&#34;https://play.google.com/store/apps/details?id=grit.storytel.app&amp;amp;hl=fi&amp;amp;pli=1&#34;&gt;Storytelin applikaatio on tarjolla Play -kaupassa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Storytelin asentaminen ei siis vaadi muuta kikkailua tai hakkerointia kuin kirjautumisen Google-tunnuksilla ja sovelluksen lataamisen kaupasta lukulaitteeseen.&lt;/p&gt;
-&lt;p&gt;Saman pitäisi onnistua myös Onyx Boox Page -tabletilla&lt;a class=&#34;Footnotes__ref&#34; href=&#34;#android-versions-note&#34; id=&#34;android-versions-ref&#34; aria-describedby=&#34;footnotes-label&#34; role=&#34;doc-noteref&#34;&gt;&lt;/a&gt;, mutta tätä en ole kokeillut.&lt;/p&gt;
+&lt;p&gt;Saman pitäisi onnistua myös Onyx Boox Page -tabletilla, mutta tätä en ole kokeillut.&lt;/p&gt;
 &lt;h2&gt;Mikä toimii hyvin?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
