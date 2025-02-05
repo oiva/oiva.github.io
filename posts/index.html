@@ -49,16 +49,26 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
         {% endif %}
         >
         <span class="post-meta">
+          {% if post.data.link_to %}
+          <a href="{{post.url | prepend: site.baseurl }}">
+          {% endif %}
           {% if post.data.language == 'fi' or posttime < cutoff %}
             {{ post.date | date: "%-d.%-m.%Y" }}
           {% else %}
             {{ post.date | date: "%b %-d, %Y" }}
           {% endif %}
+          {% if post.data.link_to %}
+          </a>
+          {% endif %}
         </span>
         <h2>
+          {% if post.data.link_to %}
+          <a class="post-link" href="{{ post.data.link_to | prepend: site.baseurl }}">{{ post.data.title }}</a>
+          {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.data.title }}</a>
+          {% endif %}
         </h2>
-        {% if pagination.pageNumber == 0 and forloop.index <= 5 %}
+        {% if pagination.pageNumber == 0 and forloop.index <= 5 or post.data.link_to %}
           {% if post.data.background %}
             <picture>
               <img
