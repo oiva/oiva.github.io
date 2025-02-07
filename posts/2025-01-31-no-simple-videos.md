@@ -18,7 +18,17 @@ tags:
 
 I sometimes watch train videos on YouTube. They seem simple: strap a&nbsp;camera in front of a train and shoot the train running its route. For example:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&autoplay=1><img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt='St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train'><span>▶</span></a>"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  loading="lazy"></iframe>
 
 There are tons of these "cab view" videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see {% footnoteref "details", "I'm not looking for just some beautiful vistas, although they are great too – I like seeing some totally random places in great detail.<br/><br/>Hard to explain, but being able to see a random house in rural Japan just tickles my brain. It's a recurring thought, especially when traveling: I could just pick any road, follow it, and there would be something complex someone built. It doesn't disprove that we are living in a simulation, but it feels real." %}places from around the&nbsp;world{% endfootnoteref %}. There are also [walking videos](https://www.youtube.com/results?search_query=walking+tour) and [driving videos](https://www.youtube.com/results?search_query=4k+scenic+drive) if those are more your thing.
 
