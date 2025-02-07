@@ -15,7 +15,7 @@ tags:
 excerpt: ""
 ---
 
-<img src="/images/2025/simulaattori.webp" width="686" alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen" />
+<img src="/images/2025/simulaattori.webp" width="686" alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen" loading="lazy" />
 
 Huomasin viime vuonna Instagramissa [Simulento](https://www.instagram.com/simulento)-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.
 
