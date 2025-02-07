@@ -553,6 +553,18 @@ pre > code {
   margin-top: 0.5rem;
 }
 
+.float-image img {
+  float: left;
+  margin: 0 1em 0.5em 0;
+}
+@media screen and (max-width: 500px) {
+  .float-image.min-300 img {
+    float: none;
+    margin: 0;
+    width: 100%;
+  }
+}
+
 section.comments {
   margin-top: 64px;
 }
