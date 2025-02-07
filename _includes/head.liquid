@@ -3,7 +3,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
 
   <title>{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -19,9 +18,23 @@
     }
   </script>
 
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    rel="preload"
+    href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+  >
+  <noscript>
+    <link
+        href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+        rel="stylesheet"
+        type="text/css"
+    />
+  </noscript>
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
 </head>
