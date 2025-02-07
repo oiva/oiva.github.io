@@ -15,7 +15,7 @@ tags:
 excerpt: "Storytel-lukulaitteen valmistus on lopetettu, mutta sen voi korvata Onyx Boox-tabletilla"
 ---
 
-<img src="/images/2025/IMG_1677.webp" alt="Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite" width="686" loading="lazy" />
+<img src="/images/2025/IMG_1677.webp" alt="Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite" width="686" height="477" loading="lazy" />
 
 Perheessämme oli Storytelin lukulaite ([Storytel Reader](https://www.storytel.com/fi/c/reader)), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.
 
