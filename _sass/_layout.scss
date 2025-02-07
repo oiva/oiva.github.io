@@ -390,6 +390,23 @@
     }
 }
 
+.float-image {
+    img {
+        float: left;
+        margin: 0 1em 0.5em 0;
+    }
+
+    &.min-300 {
+        @media screen and (max-width: 500px) {
+            img {
+                float: none;
+                margin: 0;
+                width: 100%;
+            }
+        }
+    }
+}
+
 section.comments {
     margin-top: 2*variables.$spacing-unit;
     h2 {
