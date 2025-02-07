@@ -9,7 +9,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
 
   <title>Oiva Eskola</title>
@@ -25,11 +24,25 @@
     }
   </script>
 
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    rel="preload"
+    href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+  >
+  <noscript>
+    <link
+        href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+        rel="stylesheet"
+        type="text/css"
+    />
+  </noscript>
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="https://oivaeskola.fi/">
   <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
-  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
 </head>
 
   <body>
@@ -142,7 +155,7 @@
         </h2>
         
           
-          <div class="post-excerpt"><img src="/images/2025/simulaattori.webp" width="686" alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen" />
+          <div class="post-excerpt"><img src="/images/2025/simulaattori.webp" width="686" height="386" alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen" loading="lazy" />
 <p>Huomasin viime vuonna Instagramissa <a href="https://www.instagram.com/simulento">Simulento</a>-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.</p>
 <p>Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.</p>
 <p>Lentosimulaattorit on yksi aihe, missä pelkään sanoa &quot;harrastavani&quot; jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   yleensä ehjänä takaisin, autopilotilla tai ilman.</p>
@@ -193,7 +206,17 @@
         
           
           <div class="post-excerpt"><p>I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&autoplay=1><img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt='St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train'><span>▶</span></a>"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  loading="lazy"></iframe>
 <p>There are tons of these &quot;cab view&quot; videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see driving videos if those are more your thing.</p>
 <p>Having seen a few of these, I noticed I kind of disliked some of them. Even when the concept is so simple (train + camera + time), there are still ways to make them &quot;good&quot; or &quot;bad.&quot;</p>
 <p>This got me thinking about how many creative decisions you can and <em>need</em> to make, even in a seemingly simple project like a &quot;train video.&quot;</p>
@@ -228,7 +251,7 @@
 </ul>
 <figure>
   <a href="/images/2025/black-ship-train.webp">
-    <img src="/images/2025/black-ship-train.webp" width="686" alt="Black Ship Train, Japan's 'most luxurious local train'." loading="lazy" >
+    <img src="/images/2025/black-ship-train.webp" width="686" height="379" alt="Black Ship Train, Japan's 'most luxurious local train'." loading="lazy" >
   </a>
   <figcaption>'Black Ship Train', Japan's "most luxurious local train." From <a href="https://www.youtube.com/watch?v=2ujPzcFmfic">Driver's View of IZUKYU Resort21, from Izukyu Shimoda to Izukogen</a>.</figcaption>
 </figure>
@@ -249,19 +272,19 @@
 <p>What is visible on screen? The driver? Parts of the engine? If you are showcasing a beautiful route, then probably nothing else should be on the screen.</p>
 <figure>
   <a href="/images/2025/cabview-1.webp">
-    <img src="/images/2025/cabview-1.webp" width="654" alt="Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake." loading="lazy" />
+    <img src="/images/2025/cabview-1.webp" width="654" height="354" alt="Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake." loading="lazy" />
   </a>
   <figcaption>Example 1: The focus is in the view. Screenshot from <a href="https://www.youtube.com/watch?v=zCoCOHOYd28">St-Triphon - Lausanne - Basel cab ride</a></figcaption>
 </figure>
 <figure>
   <a href="/images/2025/cabview-2.webp">
-    <img src="/images/2025/cabview-2.webp" width="654" alt="Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon." loading="lazy" />
+    <img src="/images/2025/cabview-2.webp" width="654" height="355" alt="Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon." loading="lazy" />
   </a>
   <figcaption>Example 2: parts of the engine are visible. Screenshot from <a href="https://www.youtube.com/watch?v=_u-l31NeNjo&t=9069s">Takayama Line Wide View Express Train "Hida" No.3 Nagoya to Toyama, Japan</a></figcaption>
 </figure>
 <figure>
   <a href="/images/2025/cabview-3.webp">
-    <img src="/images/2025/cabview-3.webp" width="654" alt="Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train's controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side." loading="lazy" />
+    <img src="/images/2025/cabview-3.webp" width="654" height="356" alt="Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train's controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side." loading="lazy" />
   </a>
   <figcaption>Example 3: The train's driver is doing their job. Screenshot from <a href="https://www.youtube.com/watch?v=ADKJb12Oxbg">Let's Ride The Yamanote Line In Tokyo</a></figcaption>
 </figure>
@@ -292,7 +315,7 @@
 <li>What labels do you add to the video? Names of stations probably should be there, but what about other noteworthy places?
 <ul>
 <li>Should you label the tunnels or bridges and their lengths? Could be interesting, or at least set the expectation how long the tunnel will take.<figure>
-  <img src="/images/2025/tunnel.webp" width="622" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" />
+  <img src="/images/2025/tunnel.webp" width="622" height="311" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" loading="lazy" />
   <figcaption>
     <a href="https://www.youtube.com/watch?v=x8ez4XNT080&t=8584s">Basel - Kandersteg - Brig Re 6/6 cab ride</a>
   </figcaption>
@@ -334,7 +357,7 @@
         </h2>
         
           
-          <div class="post-excerpt"><img src="/images/2025/IMG_1677.webp" alt="Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite" width="686" />
+          <div class="post-excerpt"><img src="/images/2025/IMG_1677.webp" alt="Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite" width="686" height="477" loading="lazy" />
 <p>Perheessämme oli Storytelin lukulaite (<a href="https://www.storytel.com/fi/c/reader">Storytel Reader</a>), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.</p>
 <p>'Reader' oli kelpo <abbr title='"sähköpaperinäyttö"'>E ink</abbr> -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.</p>
 <p>Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo <a href="https://support.storytel.com/hc/fi/articles/13875414424732-Miksi-Storytel-Readerin-valmistus-lopetetaan">laitteen valmistuksen lopettamisesta</a>:</p>
@@ -427,7 +450,7 @@
 <p>Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.</p>
 <p>Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.</p>
 <div style="display: flex; gap: 30px 30px;">
-<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" />
+<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" loading="lazy" style="max-height: 160px" />
 <div>
 <p>P.S.  Suosittelen melkein vuoden takaista podcastia, koska kuunnteltavia podcasteja on jonossa tällä hetkellä 270 jaksoa 🙈</p>
 <p>Etätöihin siirtyminen ja pikkulapsiarki teki sen, että päivässä ei ole oikein mitään hetkeä kuunnella podcasteja, paitsi 15 minuuttia päiväkotiin kävellessä. Onneksi vanhempainvapaalla saa jonoa vähän kirittyä kiinni.</p>

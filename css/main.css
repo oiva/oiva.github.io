@@ -58,8 +58,8 @@ strong {
  * Images
  */
 img {
+  height: auto;
   max-width: 100%;
-  vertical-align: middle;
 }
 
 img.alignleft {
@@ -109,14 +109,13 @@ h5, h6 {
  * Links
  */
 a {
-  color: #2789E1;
-  text-decoration: none;
+  color: #0171D6;
 }
 a:visited {
-  color: rgb(19.756097561, 84.2926829268, 142.243902439);
+  color: rgb(0.5255813953, 59.3906976744, 112.4744186047);
 }
 a:hover {
-  color: rgb(13.5365853659, 57.756097561, 97.4634146341);
+  color: rgb(0.288372093, 32.5860465116, 61.711627907);
   text-decoration: underline;
 }
 
@@ -427,6 +426,10 @@ pre > code {
 .post-link {
   font-family: "PT Serif", serif;
   font-size: 24px;
+}
+
+a.post-link {
+  text-decoration: none;
 }
 
 @media screen and (max-width: 480px) {

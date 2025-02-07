@@ -9,7 +9,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
 
   <title>Mastodon vs. Threads vs. Bluesky</title>
@@ -25,11 +24,25 @@
     }
   </script>
 
-  <link href='https://fonts.googleapis.com/css?family=PT+Serif:700' rel='stylesheet' type='text/css'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    rel="preload"
+    href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+    as="style"
+    onload="this.onload=null;this.rel='stylesheet'"
+  >
+  <noscript>
+    <link
+        href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
+        rel="stylesheet"
+        type="text/css"
+    />
+  </noscript>
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="https://oivaeskola.fi/2025/01/21/mastodon-threads-bluesky/">
   <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml" />
-  <link rel="author" href="https://plus.google.com/107009261645586212751/posts"/>
 </head>
 
   <body>
@@ -96,7 +109,7 @@
 <p>Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.</p>
 <p>Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.</p>
 <div style="display: flex; gap: 30px 30px;">
-<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" />
+<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" loading="lazy" style="max-height: 160px" />
 <div>
 <p>P.S.  Suosittelen melkein vuoden takaista podcastia, koska kuunnteltavia podcasteja on jonossa tällä hetkellä 270 jaksoa 🙈</p>
 <p>Etätöihin siirtyminen ja pikkulapsiarki teki sen, että päivässä ei ole oikein mitään hetkeä kuunnella podcasteja, paitsi 15 minuuttia päiväkotiin kävellessä. Onneksi vanhempainvapaalla saa jonoa vähän kirittyä kiinni.</p>
