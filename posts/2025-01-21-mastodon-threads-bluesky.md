@@ -25,7 +25,7 @@ Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin p�
 Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.
 
 <div style="display: flex; gap: 30px 30px;">
-<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" />
+<img src="/images/IMG_1679.webp" alt="Overcast podcast-soittimen ikoni, jossa on punainen notifikaatiopallo: 272" width="163" height="160" loading="lazy" style="max-height: 160px" />
 
 <div>
 

@@ -18,7 +18,17 @@ tags:
 
 I sometimes watch train videos on YouTube. They seem simple: strap a&nbsp;camera in front of a train and shoot the train running its route. For example:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&autoplay=1><img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt='St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train'><span>▶</span></a>"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  loading="lazy"></iframe>
 
 There are tons of these "cab view" videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see {% footnoteref "details", "I'm not looking for just some beautiful vistas, although they are great too – I like seeing some totally random places in great detail.<br/><br/>Hard to explain, but being able to see a random house in rural Japan just tickles my brain. It's a recurring thought, especially when traveling: I could just pick any road, follow it, and there would be something complex someone built. It doesn't disprove that we are living in a simulation, but it feels real." %}places from around the&nbsp;world{% endfootnoteref %}. There are also [walking videos](https://www.youtube.com/results?search_query=walking+tour) and [driving videos](https://www.youtube.com/results?search_query=4k+scenic+drive) if those are more your thing.
 
@@ -50,7 +60,7 @@ Many of the following creative decisions come down to the purpose of the video. 
 
 <figure>
   <a href="/images/2025/black-ship-train.webp">
-    <img src="/images/2025/black-ship-train.webp" width="686" alt="Black Ship Train, Japan's 'most luxurious local train'." loading="lazy" >
+    <img src="/images/2025/black-ship-train.webp" width="686" height="379" alt="Black Ship Train, Japan's 'most luxurious local train'." loading="lazy" >
   </a>
   <figcaption>'Black Ship Train', Japan's "most luxurious local train." From <a href="https://www.youtube.com/watch?v=2ujPzcFmfic">Driver's View of IZUKYU Resort21, from Izukyu Shimoda to Izukogen</a>.</figcaption>
 </figure>
@@ -66,21 +76,21 @@ Many of the following creative decisions come down to the purpose of the video. 
 
   <figure>
     <a href="/images/2025/cabview-1.webp">
-      <img src="/images/2025/cabview-1.webp" width="654" alt="Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake." loading="lazy" />
+      <img src="/images/2025/cabview-1.webp" width="654" height="354" alt="Screenshot from a Swiss train video. The image is framed so that the train is not visible. The view is beautiful with the railroad tracks laid in the banks of a lake." loading="lazy" />
     </a>
     <figcaption>Example 1: The focus is in the view. Screenshot from <a href="https://www.youtube.com/watch?v=zCoCOHOYd28">St-Triphon - Lausanne - Basel cab ride</a></figcaption>
   </figure>
 
   <figure>
     <a href="/images/2025/cabview-2.webp">
-      <img src="/images/2025/cabview-2.webp" width="654" alt="Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon." loading="lazy" />
+      <img src="/images/2025/cabview-2.webp" width="654" height="355" alt="Screenshot from a Japanese train video. Parts of the engine or cabin are visible framing the tracks, and a windshield wiper is resting on the window. The track goes through a snowy Japanese city with two-storey houses and what looks like a mountain ridge in the horizon." loading="lazy" />
     </a>
     <figcaption>Example 2: parts of the engine are visible. Screenshot from <a href="https://www.youtube.com/watch?v=_u-l31NeNjo&t=9069s">Takayama Line Wide View Express Train "Hida" No.3 Nagoya to Toyama, Japan</a></figcaption>
   </figure>
 
   <figure>
     <a href="/images/2025/cabview-3.webp">
-      <img src="/images/2025/cabview-3.webp" width="654" alt="Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train's controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side." loading="lazy" />
+      <img src="/images/2025/cabview-3.webp" width="654" height="356" alt="Screenshot from a Japanese train video. The train driver in a round hat is visible in the left part of the image and parts of the train's controls in front of him. The train is going through a big Japanese city with at least five tracks going side by side." loading="lazy" />
     </a>
     <figcaption>Example 3: The train's driver is doing their job. Screenshot from <a href="https://www.youtube.com/watch?v=ADKJb12Oxbg">Let's Ride The Yamanote Line In Tokyo</a></figcaption>
   </figure>
@@ -105,7 +115,7 @@ Alright, you have all the footage in the can, but we are not done!
 - What labels do you add to the video? Names of stations probably should be there, but what about other noteworthy places?
   - Should you label the tunnels or bridges and their lengths? Could be interesting, or at least set the expectation how long the tunnel will take.
     <figure>
-      <img src="/images/2025/tunnel.webp" width="622" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" />
+      <img src="/images/2025/tunnel.webp" width="622" height="311" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" loading="lazy" />
       <figcaption>
         <a href="https://www.youtube.com/watch?v=x8ez4XNT080&t=8584s">Basel - Kandersteg - Brig Re 6/6 cab ride</a>
       </figcaption>

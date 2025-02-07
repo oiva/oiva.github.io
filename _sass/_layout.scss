@@ -256,6 +256,9 @@
     font-family: variables.$title-font-family;
     font-size: 24px;
 }
+a.post-link {
+    text-decoration: none;
+}
 
 @media screen and (max-width: 480px) {
     .post-link {
