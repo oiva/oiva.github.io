@@ -22,7 +22,7 @@ I sometimes watch train videos on YouTube. They seem simple: strap a&nbsp;camera
   width="560"
   height="315"
   src="https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK"
-  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&autoplay=1><img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt='St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train'><span>▶</span></a>"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&autoplay=1><img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt='St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train' loading='lazy'><span>▶</span></a>"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

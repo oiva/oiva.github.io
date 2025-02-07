@@ -26,7 +26,7 @@ Youtube is finding more videos in random categories I didn't know were a thing b
 width="560"
 height="315"
 src="https://www.youtube.com/embed/Em9EwVQy-6s"
-srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Em9EwVQy-6s?autoplay=1><img src=https://img.youtube.com/vi/Em9EwVQy-6s/hqdefault.jpg alt='Mixing Queen's Don't Stop Me Now on an Analog SSL Console - GoPro POV'><span>▶</span></a>"
+srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Em9EwVQy-6s?autoplay=1><img src=https://img.youtube.com/vi/Em9EwVQy-6s/hqdefault.jpg alt='Mixing Queen's Don't Stop Me Now on an Analog SSL Console - GoPro POV' loading='lazy'><span>▶</span></a>"
 frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen
@@ -42,7 +42,7 @@ Another video of mixing The Doobie Brothers' "Long Train Running" has explanatio
 width="560"
 height="315"
 src="https://www.youtube.com/embed/_QkyzM0xLLk"
-srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/_QkyzM0xLLk?autoplay=1><img src=https://img.youtube.com/vi/_QkyzM0xLLk/hqdefault.jpg alt='Mixing The Doobie Brothers - Long Train Running on an Analog SSL Console'><span>▶</span></a>"
+srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/_QkyzM0xLLk?autoplay=1><img src=https://img.youtube.com/vi/_QkyzM0xLLk/hqdefault.jpg alt='Mixing The Doobie Brothers - Long Train Running on an Analog SSL Console' loading='lazy'><span>▶</span></a>"
 frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen
@@ -59,7 +59,7 @@ A lot of effort went into composing and recording these songs and planning how a
 width="560"
 height="315"
 src="https://www.youtube.com/embed/NlDCPCwVNUw"
-srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/NlDCPCwVNUw?autoplay=1><img src=https://img.youtube.com/vi/NlDCPCwVNUw/hqdefault.jpg alt='Nile Rodgers Tells The Story of Let's Dance'><span>▶</span></a>"
+srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/NlDCPCwVNUw?autoplay=1><img src=https://img.youtube.com/vi/NlDCPCwVNUw/hqdefault.jpg alt='Nile Rodgers Tells The Story of Let's Dance' loading='lazy'><span>▶</span></a>"
 frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen
