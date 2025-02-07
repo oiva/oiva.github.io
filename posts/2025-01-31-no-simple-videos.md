@@ -115,7 +115,7 @@ Alright, you have all the footage in the can, but we are not done!
 - What labels do you add to the video? Names of stations probably should be there, but what about other noteworthy places?
   - Should you label the tunnels or bridges and their lengths? Could be interesting, or at least set the expectation how long the tunnel will take.
     <figure>
-      <img src="/images/2025/tunnel.webp" width="622" height="311" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" />
+      <img src="/images/2025/tunnel.webp" width="622" height="311" alt="Screenshot from train video  showing a tunnel. A label on screen says 'Fürten II Tunnel, 609 m (1913)'" loading="lazy" />
       <figcaption>
         <a href="https://www.youtube.com/watch?v=x8ez4XNT080&t=8584s">Basel - Kandersteg - Brig Re 6/6 cab ride</a>
       </figcaption>
