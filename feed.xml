@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2025 20:31:28 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2025 20:31:28 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2025 20:44:39 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2025 20:44:39 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -71,7 +71,7 @@
   width=&#34;560&#34;
   height=&#34;315&#34;
   src=&#34;https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&#34;
-  srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&amp;autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt=&#39;St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
+  srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&amp;autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/zCoCOHOYd28/hqdefault.jpg alt=&#39;St-Triphon - Lausanne - Basel cab ride [10.2021] Führerstandsmitfahrt Swiss train&#39; loading=&#39;lazy&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
   title=&#34;YouTube video player&#34;
   frameborder=&#34;0&#34;
   allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
@@ -316,7 +316,7 @@
 width=&#34;560&#34;
 height=&#34;315&#34;
 src=&#34;https://www.youtube.com/embed/Em9EwVQy-6s&#34;
-srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/Em9EwVQy-6s?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/Em9EwVQy-6s/hqdefault.jpg alt=&#39;Mixing Queen&#39;s Don&#39;t Stop Me Now on an Analog SSL Console - GoPro POV&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
+srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/Em9EwVQy-6s?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/Em9EwVQy-6s/hqdefault.jpg alt=&#39;Mixing Queen&#39;s Don&#39;t Stop Me Now on an Analog SSL Console - GoPro POV&#39; loading=&#39;lazy&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
 frameborder=&#34;0&#34;
 allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; 
 allowfullscreen
@@ -328,7 +328,7 @@ loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 width=&#34;560&#34;
 height=&#34;315&#34;
 src=&#34;https://www.youtube.com/embed/_QkyzM0xLLk&#34;
-srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/_QkyzM0xLLk?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/_QkyzM0xLLk/hqdefault.jpg alt=&#39;Mixing The Doobie Brothers - Long Train Running on an Analog SSL Console&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
+srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/_QkyzM0xLLk?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/_QkyzM0xLLk/hqdefault.jpg alt=&#39;Mixing The Doobie Brothers - Long Train Running on an Analog SSL Console&#39; loading=&#39;lazy&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
 frameborder=&#34;0&#34;
 allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; 
 allowfullscreen
@@ -341,7 +341,7 @@ loading=&#34;lazy&#34;
 width=&#34;560&#34;
 height=&#34;315&#34;
 src=&#34;https://www.youtube.com/embed/NlDCPCwVNUw&#34;
-srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/NlDCPCwVNUw?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/NlDCPCwVNUw/hqdefault.jpg alt=&#39;Nile Rodgers Tells The Story of Let&#39;s Dance&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
+srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube.com/embed/NlDCPCwVNUw?autoplay=1&gt;&lt;img src=https://img.youtube.com/vi/NlDCPCwVNUw/hqdefault.jpg alt=&#39;Nile Rodgers Tells The Story of Let&#39;s Dance&#39; loading=&#39;lazy&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
 frameborder=&#34;0&#34;
 allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;
 allowfullscreen

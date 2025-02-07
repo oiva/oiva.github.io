@@ -109,13 +109,13 @@ h5, h6 {
  * Links
  */
 a {
-  color: #0171D6;
+  color: #006ed2;
 }
 a:visited {
-  color: rgb(0.5255813953, 59.3906976744, 112.4744186047);
+  color: rgb(0, 56.5714285714, 108);
 }
 a:hover {
-  color: rgb(0.288372093, 32.5860465116, 61.711627907);
+  color: rgb(0, 29.8571428571, 57);
   text-decoration: underline;
 }
 
@@ -123,8 +123,8 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #7a7a7a;
-  border-left: 4px solid #e0e0e0;
+  color: #727272;
+  border-left: 4px solid #d8d8d8;
   padding: 0.5rem 3rem 0.5rem 1.25rem;
   padding-left: 16px;
   font-size: 20px;
@@ -139,8 +139,8 @@ blockquote > :last-child {
  */
 pre,
 code {
-  background-color: #f2f2f2;
-  font-size: 15px;
+  background-color: #ddd;
+  font-size: 16px;
   border-radius: 3px;
 }
 
@@ -195,7 +195,7 @@ pre > code {
   vertical-align: middle;
 }
 .icon > svg path {
-  fill: #7a7a7a;
+  fill: #727272;
 }
 
 /**
@@ -203,7 +203,7 @@ pre > code {
  */
 .site-header {
   background-color: #f8f8f8;
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid #d8d8d8;
   min-height: 56px;
   position: relative;
 }
@@ -228,7 +228,7 @@ pre > code {
   flex-basis: 50%;
 }
 .site-title, .site-title:visited {
-  color: rgb(58.25, 58.25, 58.25);
+  color: rgb(50.25, 50.25, 50.25);
 }
 
 .site-nav {
@@ -254,7 +254,7 @@ pre > code {
     top: 9px;
     right: 30px;
     background-color: #f8f8f8;
-    border: 1px solid #e0e0e0;
+    border: 1px solid #d8d8d8;
     border-radius: 5px;
     text-align: right;
   }
@@ -271,7 +271,7 @@ pre > code {
     height: 15px;
   }
   .site-nav .menu-icon > svg path {
-    fill: rgb(58.25, 58.25, 58.25);
+    fill: rgb(50.25, 50.25, 50.25);
   }
   .site-nav .trigger {
     clear: both;
@@ -291,7 +291,7 @@ pre > code {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #d8d8d8;
   padding: 32px 0;
 }
 
@@ -312,7 +312,7 @@ pre > code {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #7a7a7a;
+  color: #727272;
   margin-left: -16px;
 }
 
@@ -377,7 +377,7 @@ pre > code {
   color: #222;
 }
 .post-list li.full-post hr {
-  background-color: #7a7a7a;
+  background-color: #727272;
   border: 0;
   height: 1px;
   margin: 32px auto 0;
@@ -407,7 +407,7 @@ pre > code {
   text-align: center;
 }
 .language-barrier h3 {
-  border-bottom: 3px dashed #7a7a7a;
+  border-bottom: 3px dashed #727272;
   margin-bottom: 0;
 }
 .language-barrier p {
@@ -418,7 +418,7 @@ pre > code {
 }
 
 .post-meta {
-  color: #7a7a7a;
+  color: #727272;
   font-size: 15px;
   margin-bottom: 16px;
 }
@@ -518,14 +518,14 @@ a.post-link {
   }
 }
 .post-content hr {
-  background-color: #e0e0e0;
+  background-color: #d8d8d8;
   border: 0;
   height: 1px;
   margin: 0 auto;
   width: 80%;
 }
 .post-content .categories {
-  color: #7a7a7a;
+  color: #727272;
   font-size: 80%;
   margin-top: 32px;
 }
@@ -539,7 +539,7 @@ a.post-link {
   margin-bottom: 2rem;
 }
 .post-content figcaption {
-  color: #7a7a7a;
+  color: #727272;
   font-size: 80%;
   margin-top: 0.5rem;
 }
@@ -572,18 +572,18 @@ section.comments {
   margin-top: 64px;
 }
 section.comments h2 {
-  border-bottom: 1px solid #7a7a7a;
+  border-bottom: 1px solid #727272;
 }
 section.comments article.comment {
   font-size: 18px;
   width: 85%;
 }
 section.comments time {
-  color: #7a7a7a;
+  color: #727272;
 }
 
 .comments-closed {
-  color: #7a7a7a;
+  color: #727272;
   font-style: italic;
 }
 
@@ -603,11 +603,11 @@ section.feedback h2 {
   margin-bottom: 0;
 }
 .archive time {
-  color: #7a7a7a;
+  color: #727272;
 }
 
 .page_number {
-  color: #7a7a7a;
+  color: #727272;
 }
 
 .twitter-share {
@@ -632,7 +632,7 @@ ul.contact li {
 }
 
 .footnotes {
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #d8d8d8;
   margin-top: 2em;
 }
 
