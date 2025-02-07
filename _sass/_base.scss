@@ -118,7 +118,7 @@ h5, h6 {
  */
 a {
     color: variables.$brand-color;
-    text-decoration: none;
+    //text-decoration: none;
 
     &:visited {
         color: color.adjust(variables.$brand-color, $lightness: -20%);
