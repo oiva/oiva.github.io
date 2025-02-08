@@ -31,6 +31,13 @@ regenerate: true
     </header>
 
   <article class="post-content">
+    {% if hero %}
+    <img src="{{ hero.src_small }}"
+      srcset="{{ hero.src }} 2x"
+      alt="{{ hero.alt }}"
+      width="{{hero.width}}"
+      height="{{hero.height}}" />
+    {% endif %}
     {{ content }}
     {% if tags.size > 0 %}
       {% assign tagSize = tags.size | minus: 1 %}
