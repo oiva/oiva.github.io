@@ -6,8 +6,10 @@ title: Trade one hour of your time for one solid idea
 date: 2015-03-17 23:40:00 +02:00
 date_gmt: 2015-03-17 23:40:00 +02:00
 tags: []
-background: "/images/forest.jpg"
-background_small: "/images/forest-small.jpg"
+background:
+  src: "/images/forest.jpg"
+  src_small: "/images/forest-small.jpg"
+  alt: A forest
 old_tags:
 - blog
 - jekyll

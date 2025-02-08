@@ -13,9 +13,13 @@ date_gmt: 2025-02-03 20:53:00 +00:00
 tags:
   - lentäminen
 excerpt: ""
+hero:
+  src: /images/2025/simulaattori.webp
+  src_small: /images/2025/simulaattori-small.webp
+  width: 686
+  height: 386
+  alt: Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen
 ---
-
-<img src="/images/2025/simulaattori.webp" width="686" height="386" alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen" loading="lazy" />
 
 Huomasin viime vuonna Instagramissa [Simulento](https://www.instagram.com/simulento)-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.
 
