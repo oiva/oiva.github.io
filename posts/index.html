@@ -76,7 +76,7 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
                 srcset="{{ post.data.background.src }} 2x"
                 alt="{{ post.data.background.alt }}"
                 class="post-background"
-                {% if forloop.index != 1 %}loading="lazy"{% endif %}
+                {% if forloop.index >= 3 %}loading="lazy"{% endif %}
               />
             </picture>
           {% endif %}
@@ -89,7 +89,7 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
                 width="{{ post.data.hero.width }}"
                 height="{{ post.data.hero.height }}"
                 class="post-hero"
-                {% if forloop.index != 1 %}loading="lazy"{% endif %}
+                {% if forloop.index >= 3 %}loading="lazy"{% endif %}
               />
             </picture>
           {% endif %}
