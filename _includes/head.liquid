@@ -1,25 +1,10 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="dns-prefetch" href="https://farm4.staticflickr.com">
-
-  <title>{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if excerpt %}{{ excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="Oiva Eskola" />
-  {% if tags %}<meta name="keywords" content="{{ tags | join: ', ' }}" />{% endif %}
-  {% if date %}<meta name="dc.date" content="{{ date | date: "%Y-%m-%d" }}">{% endif %}
-
-  <script>
-    var host = "oivaeskola.fi";
-    if (host == window.location.host && window.location.protocol != "https:") {
-      window.location.protocol = "https:";
-    }
-  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link
     rel="preload"
     href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
@@ -34,7 +19,19 @@
     />
   </noscript>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <title>{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if excerpt %}{{ excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Oiva Eskola" />
+  {% if tags %}<meta name="keywords" content="{{ tags | join: ', ' }}" />{% endif %}
+  {% if date %}<meta name="dc.date" content="{{ date | date: "%Y-%m-%d" }}">{% endif %}
+
+  <script>
+    var host = "oivaeskola.fi";
+    if (host == window.location.host && window.location.protocol != "https:") {
+      window.location.protocol = "https:";
+    }
+  </script>
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
