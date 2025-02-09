@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Feb 2025 18:40:07 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2025 18:40:07 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Feb 2025 18:47:02 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2025 18:47:02 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -30,7 +30,13 @@
       <item>
         <title>Simulennon Airbus A321 -simulaattori</title>
         <description>Huomasin viime vuonna Instagramissa Simulento-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä ...</description>
-        <content>&lt;p&gt;Huomasin viime vuonna Instagramissa &lt;a href=&#34;https://www.instagram.com/simulento&#34;&gt;Simulento&lt;/a&gt;-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.&lt;/p&gt;
+        <content>
+          <img src="/images/2025/simulaattori-small.webp"
+            srcset="/images/2025/simulaattori.webp 2x"
+            alt="Oiva näyttämässä peukkua Airbus-simulaattorin kapteenin penkillä onnistuneen laskeutumisen jälkeen"
+            width="686"
+            height="386" />
+        &lt;p&gt;Huomasin viime vuonna Instagramissa &lt;a href=&#34;https://www.instagram.com/simulento&#34;&gt;Simulento&lt;/a&gt;-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.&lt;/p&gt;
 &lt;p&gt;Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.&lt;/p&gt;
 &lt;p&gt;Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   yleensä ehjänä takaisin, autopilotilla tai ilman.&lt;/p&gt;
 &lt;p&gt;Lentosimulaattorit on kuitenkin aihe, missä riittää ihan loputtomasti opeteltavaa ja Oikeat Harrastajat ovat opiskelleet lentämistä ja ilmailun sääntöjä niin paljon, että olisivat, tai ovat oikeasti päteviä lentämään.&lt;/p&gt;
