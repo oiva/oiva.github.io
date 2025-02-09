@@ -16,13 +16,13 @@
         href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap"
         rel="stylesheet"
         type="text/css"
-    />
+    >
   </noscript>
 
   <title>{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if excerpt %}{{ excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="Oiva Eskola" />
-  {% if tags %}<meta name="keywords" content="{{ tags | join: ', ' }}" />{% endif %}
+  <meta name="author" content="Oiva Eskola">
+  {% if tags %}<meta name="keywords" content="{{ tags | join: ', ' }}">{% endif %}
   {% if date %}<meta name="dc.date" content="{{ date | date: "%Y-%m-%d" }}">{% endif %}
 
   <script>
@@ -33,5 +33,5 @@
   </script>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>
