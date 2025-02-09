@@ -20,7 +20,13 @@ eleventyExcludeFromCollections: true
       <item>
         <title>{{ post.data.title | xml_escape }}</title>
         <description>{{ post.content | strip_html | strip_newlines | truncate: 450 | xml_escape }}</description>
-        <content>{{ post.content | removeFootnotes  | xml_escape }}</content>
+        <content>{% if post.data.hero %}
+          <img src="{{ post.data.hero.src_small }}"
+            srcset="{{ post.data.hero.src }} 2x"
+            alt="{{ post.data.hero.alt }}"
+            width="{{post.data.hero.width}}"
+            height="{{post.data.hero.height}}" />
+        {% endif %}{{ post.content | removeFootnotes  | xml_escape }}</content>
         <pubDate>{{ post.data.date_gmt | date_to_rfc822 }}</pubDate>
         <dc:creator>{{ post.data.author.display_name }}</dc:creator>
         <link>{% if post.data.link_to %}{{post.data.link_to | prepend: site.baseurl | prepend: site.url}}{% else %}{{ post.url | prepend: site.baseurl | prepend: site.url }}{% endif %}</link>
