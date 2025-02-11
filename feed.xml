@@ -8,9 +8,22 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Feb 2025 19:19:34 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2025 19:19:34 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 20:49:02 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 20:49:02 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Hacker News Bots</title>
+        <description></description>
+        <content></content>
+        <pubDate>Tue, 11 Feb 2025 20:24:30 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/11/hacker-news-bots/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/11/hacker-news-bots/</guid>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Everyday Carry</title>
@@ -1335,43 +1348,6 @@ out all the tricks they use.&lt;/p&gt;
         <category>web-palvelut</category>
         
         <category>työ</category>
-        
-        
-        <slash:comments>0</slash:comments>
-      </item>
-    
-      <item>
-        <title>Uudenvuodenlupauksia</title>
-        <description>Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta pariin otteeseen, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa hyvä podcast-jakso*.Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta...</description>
-        <content>&lt;p&gt;Näin uudenvuoden jälkeen on hyvä palautella mieleen miksi uudenvuodenlupaukset ovat huono idea. Merlin-setä on onneksi kirjoittanut aiheesta &lt;a href=&#34;http://www.43folders.com/2006/01/30/fresh-modest-wrapup&#34;&gt;pariin&lt;/a&gt; &lt;a href=&#34;http://www.43folders.com/2011/01/07/first-pancake&#34;&gt;otteeseen&lt;/a&gt;, ja jos tykkäät kuunnella asioita, niin samasta aiheesta on olemassa &lt;a href=&#34;http://5by5.tv/b2w/47&#34;&gt;hyvä podcast-jakso&lt;/a&gt;*.&lt;/p&gt;
-&lt;p&gt;Karkeasti tiivistettynä: äkilliset, isot elämäntapamuutokset eivät kovin todennäköisesti johda pysyvään muutokseen. Jos et ole koskaan oikein harrastanut liikuntaa, mutta päätät ryhdistäytyä ja ruveta käymään salilla viidesti viikossa, niin epäonnistuminen on aika todennäköistä.&lt;/p&gt;
-&lt;p&gt;Uudenvuodenlupauksiin liittyy usein myös tietty on/off -ajattelu: &lt;em&gt;&#34;en polta enää ikinä&#34;&lt;/em&gt; on hyvä tavoite, mutta koko lupaus saattaa unohtua jos siinä epäonnistuu kerrankin.&lt;/p&gt;
-&lt;p&gt;Pienet, realistiset muutokset, sekä lupa epäonnistua ovat parempia tapoja aikaansaada pysyviä muutoksia.&lt;/p&gt;
-&lt;p&gt;Ja jos oikeasti haluat muuttaa jotain elämässäsi, ja olet valmis tekemään töitä sen eteen, niin mikä esti aloittamasta vaikka syyskuussa? Vuodenvaihde on toki luonnollinen hetki katsoa taaksepäin ja eteenpäin, ja pohtia mitkä asiat ovat onnistuneet ja mitkä voisivat olla paremmin. Eri vuosiluku ei kuitenkaan maagisesti helpota aloittamiseen liittyviä ongelmia tai lisää tahdonvoimaa.&lt;/p&gt;
-&lt;p&gt;Näillä alkupuheilla juhlallisesti lupaan pohtia seuraavia asioita aina välillä vuonna 2013.&lt;/p&gt;
-&lt;h2&gt;1. Tylsien asioiden automatisointi&lt;/h2&gt;
-&lt;p&gt;Miksi tehdä mitään toistuvia asioita jos ne pystyy automatisoimaan?&lt;/p&gt;
-&lt;p&gt;Laskut voi muuttaa e-laskuiksi ja säätää lähtemään tililtä automaattisesti, matkakortin saa suoraveloituksella (on jo hoidossa, ja on superkätevä).&lt;/p&gt;
-&lt;p&gt;Toistuvat ruokaostokset voisi ehkä tilata netistä jos kuljetuskulut ovat ok. Joka viikko tulee kuitenkin ostettua maitoa, leipää ja jogurttia. Vaateostokset voisi tiettyyn rajaan asti hoitaa netistä, varsinkin jos löytää jonkun Steve Jobs -tyylisen univormun.&lt;/p&gt;
-&lt;p&gt;Siivoojan palkkaamisesta voisi myös ottaa selvää, mutta pelkään, että tästä tulee sanomista. Olen laiska, minkäs sille mahtaa? :)&lt;/p&gt;
-&lt;h2&gt;2. Paperittomampi koti&lt;/h2&gt;
-&lt;p&gt;E-laskujen lisäksi paperin määrää voisi vähentää digitoimalla kaikki kuitit ja kirjeet ym. &lt;a title=&#34;Paperiton koti&#34; href=&#34;http://oivaeskola.fi/2011/05/28/paperiton-koti/&#34;&gt;Prosessi on jo tiedossa&lt;/a&gt;, mutta ensimmäinen pieni askel asian toteuttamiseksi voisi olla sopivan skannerin hommaaminen. Paperittomuuteen voi totutella pikku hiljaa aloittamalla postissa saapuvien lappujen skannaamisesta - koko paperiarkistoa ei tarvitse skannata heti.&lt;/p&gt;
-&lt;h2&gt;3. Unirytmi kuntoon&lt;/h2&gt;
-&lt;p&gt;Tämä on vaikeaa, hyvin vaikeaa. Nykyisellään yhdeksäksi töihin pääseminen tuottaa suuria vaikeuksia. Koko unirytmin kääntäminen pari tuntia varhaisemmaksi kuulostaisi hyvältä, mutta ei ole kovin realistista. Tämä tavoite tarvitsee paljon pienempiä välitavotteita, esimerkiksi kahvinjuonnin vähentämistä, aikaisemmin nukkumaan menemistä, rutiineja...&lt;/p&gt;
-&lt;h2&gt;Muut&lt;/h2&gt;
-&lt;p&gt;Kirjoja voisi yrittää lukea enemmän. Ehkä. Nyt noin 50% ostamistani ja saamistani kirjoista jää lukematta, mutta en ole vielä keksinyt onko se hyvä vai huono asia. Liikuntaakin voisi harrastaa enemmän(!)&lt;/p&gt;
-&lt;p&gt;Ja yksi konkreettinen lupaus: lupaan päästä vähintään 1000 Stack Overflow -pisteeseen vuoden loppuun mennessä (nyt n. 480).&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;*) Huomaan suosittelevani paljon podcasteja eri aiheista (esimerkiksi patenteista! &lt;a href=&#34;http://5by5.tv/hypercritical/67&#34;&gt;A Pill That Helps with Whatever [77:00]&lt;/a&gt;&amp;nbsp;&amp;amp;&amp;nbsp;&lt;a href=&#34;http://5by5.tv/hypercritical/68&#34;&gt;Patent Hands [11:00]&lt;/a&gt;). Podcasteja tekevät ihmiset osaavat usein selittää asioita paremmin kuin minä, mutta niiden kuunteleminen vaatii aika paljon enemmän aikaa verrattuna vaikka blogipostin lukemiseen. Mutta koen itse monet podcastit hyödyllisiksi tai vähintään hyväksi viihteeksi, joten ehkä joku muukin saa niistä jotain irti.&lt;/p&gt;
-</content>
-        <pubDate>Wed, 02 Jan 2013 15:50:51 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2013/01/02/uudenvuodenlupauksia/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2013/01/02/uudenvuodenlupauksia/</guid>
-        
-        <category>elämä</category>
-        
-        <category>podcastit</category>
         
         
         <slash:comments>0</slash:comments>
