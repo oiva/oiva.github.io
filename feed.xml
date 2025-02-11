@@ -8,14 +8,36 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Feb 2025 20:49:02 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2025 20:49:02 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 20:54:46 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 20:54:46 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
         <title>Hacker News Bots</title>
-        <description></description>
-        <content></content>
+        <description>In 2011 I created a few Twitter bots that would find posts from Hacker News and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points.Once Twitter imploded I moved these bots to Mastodon. Recently a person contacted me and requested the bots would also be on Bluesky, which I now managed to do.Mastodon@newsyc200@toot.community@newsyc250@toot.community@newsyc300@toot.community@newsyc500@toot.community@newsyc7...</description>
+        <content>&lt;p&gt;In 2011 I created a few Twitter bots that would find posts from &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker News&lt;/a&gt; and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points.&lt;/p&gt;
+&lt;p&gt;Once Twitter imploded I moved these bots to Mastodon. Recently a person contacted me and requested the bots would also be on Bluesky, which I now managed to do.&lt;/p&gt;
+&lt;h2&gt;Mastodon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc200&#34;&gt;@newsyc200@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc250&#34;&gt;@newsyc250@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc300&#34;&gt;@newsyc300@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc500&#34;&gt;@newsyc500@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc750&#34;&gt;@newsyc750@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toot.community/@newsyc1000&#34;&gt;@newsyc1000@toot.community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bluesky&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc200.bsky.social&#34;&gt;newsyc200.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc250.bsky.social&#34;&gt;newsyc250.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc500.bsky.social&#34;&gt;newsyc500.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc750.bsky.social&#34;&gt;newsyc750.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc1000.bsky.social&#34;&gt;newsyc1000.bsky.social&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are multiple bots to let people balance the amount of links they see. Personally I like to 250 points level which posts around 10 links a day.&lt;/p&gt;
+&lt;p&gt;The 750 and 1000 point accounts didn&#39;t exist before, but I added those now. I&#39;m not sure, but I feel there&#39;s been some inflation in Hacker News, and more posts go over 500 points. Some data scientist somewhere has probably crunched the numbers.&lt;/p&gt;
+&lt;p&gt;P.S. I&#39;m a bit worried about the Bluesky accounts, as there doesn&#39;t seem to be a way to mark the profiles as being bots. Mastodon has a clear checkbox &amp;quot;this is an automated account&amp;quot; and I checked with Toot.community admins that it&#39;s OK to create these bots. We&#39;ll see how it goes with Bluesky.&lt;/p&gt;
+</content>
         <pubDate>Tue, 11 Feb 2025 20:24:30 +0000</pubDate>
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2025/02/11/hacker-news-bots/</link>
