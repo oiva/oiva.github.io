@@ -10,7 +10,7 @@ date_gmt: 2025-02-11 20:24:30
 
 In 2011 I created a few Twitter bots that would find posts from [Hacker News](https://news.ycombinator.com) and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points.
 
-Once Twitter imploded I moved these bots to Mastodon. Recently a person contacted me and requested the bots would also be on Bluesky, which I now managed to do.
+I recreated the bots in Mastodon after the great Twitter exodus in 2022. After that Twitter ended their API access and the bots ceased working there. Recently a person contacted me and requested to bring the bots also to Bluesky, which I now managed to do.
 
 ## Mastodon
 
