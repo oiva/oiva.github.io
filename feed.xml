@@ -8,14 +8,14 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Feb 2025 06:38:25 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2025 06:38:25 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 06:50:55 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 06:50:55 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
         <title>Hacker News Bots</title>
-        <description>In 2011 I created a few Twitter bots that would find posts from Hacker News and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points.I recreated the bots in Mastodon after the great Twitter exodus in 2022. After that Twitter ended their API access and the bots ceased working there. Recently a person contacted me and requested to bring the bots also to Bluesky, which I now managed to do.Mastodon@newsyc200@t...</description>
-        <content>&lt;p&gt;In 2011 I created a few Twitter bots that would find posts from &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker News&lt;/a&gt; and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points.&lt;/p&gt;
+        <description>In 2011 I created a few Twitter bots that would find posts from Hacker News and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points, so that you could follow the bot and only see the good  (most upvoted) stuff on Hacker News.I recreated the bots in Mastodon after the great Twitter exodus in 2022. After that Twitter ended their API access and the bots ceased working there. Recently a person contacted me an...</description>
+        <content>&lt;p&gt;In 2011 I created a few Twitter bots that would find posts from &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker News&lt;/a&gt; and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points, so that you could follow the bot and only see the good  (most upvoted) stuff on Hacker News.&lt;/p&gt;
 &lt;p&gt;I recreated the bots in Mastodon after the great Twitter exodus in 2022. After that Twitter ended their API access and the bots ceased working there. Recently a person contacted me and requested to bring the bots also to Bluesky, which I now managed to do.&lt;/p&gt;
 &lt;h2&gt;Mastodon&lt;/h2&gt;
 &lt;ul&gt;
