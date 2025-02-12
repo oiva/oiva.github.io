@@ -8,9 +8,34 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Feb 2025 06:53:06 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2025 06:53:06 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 20:10:49 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 20:10:49 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>TV Series Costs Are Bananas</title>
+        <description>This tidbit about Apple TV+&#39;s &#39;Severance&#39; caught my eye: From Hollywood Reporter (via MacRumors):Puck reported that this season of Severance approached the price tag of $20 million per episode. Stiller declines to state a budget for the show, saying: “Both seasons have been interrupted by these force majeure things that threw everything upside down, so it’s never had a regular season where you could just say, ‘Yeah, this is what it is.’It&#39;s no...</description>
+        <content>&lt;p&gt;This tidbit about Apple TV+&#39;s &#39;Severance&#39; caught my eye: From &lt;a href=&#34;https://www.hollywoodreporter.com/tv/tv-features/ben-stiller-severance-apple-filmmaking-parents-documentary-1236126909/&#34;&gt;Hollywood Reporter&lt;/a&gt; (via &lt;a href=&#34;https://www.macrumors.com/2025/02/07/severance-season-3-work-now-underway/&#34;&gt;MacRumors&lt;/a&gt;):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Puck&lt;/em&gt; reported that &lt;strong&gt;this season of Severance approached the price tag of $20 million per episode&lt;/strong&gt;. Stiller declines to state a budget for the show, saying: “Both seasons have been interrupted by these force majeure things that threw everything upside down, so it’s never had a regular season where you could just say, ‘Yeah, this is what it is.’&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It&#39;s not anything new, but I always forget just how much money is poured into making these &amp;quot;prestige TV&amp;quot; shows. $20 million &lt;em&gt;per episode&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;And apparently &#39;Severance&#39; is not even the worst. The Marvel Cinematic Universe shows are said to have cost up to $25 million per episode:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Disney is sparing no expense on programming, projecting a 2020 original content budget short of $1 billion. The Mandalorian is said to cost $15 million an episode, for instance, and a source pegs Marvel entries The Falcon and the Winter Soldier, WandaVision and Hawkeye at as much as $25 million per episode. [&lt;a href=&#34;https://www.hollywoodreporter.com/movies/movie-features/bob-iger-bets-company-hollywood-s-future-streaming-1247663/&#34;&gt;Hollywood Reporter&lt;/a&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wikipedia naturally has a &#39;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_most_expensive_television_series&#34;&gt;List of most expensive television series&lt;/a&gt;&#39;.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Big&amp;quot; Finnish movies typically have budgets around 1–3 million euros, so with $20 million you could make like ten movies here!&lt;/p&gt;
+&lt;p&gt;That&#39;s a very apples to oranges comparison for sure, but it&#39;s fun to think about what &amp;quot;more&amp;quot; you get production-wise for the $20M. Bigger stars, more expensive directors, lots of CGI... I bet the catering is better too.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 12 Feb 2025 20:09:34 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/12/tv-series-costs-are-bananas/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/12/tv-series-costs-are-bananas/</guid>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Hacker News Bots</title>
@@ -1328,48 +1353,6 @@ out all the tricks they use.&lt;/p&gt;
         <category>elämä</category>
         
         <category>internet</category>
-        
-        
-        <slash:comments>0</slash:comments>
-      </item>
-    
-      <item>
-        <title>Pysäkit</title>
-        <description>Pysäkit on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni Phonegap-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.&#34;Pysäkkien&#34; tärkeimmät ominaisuudet ovat:Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeillePysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella... tai voit hakea suoraan lähimmät pysäkitProjekti lähti alunperin liikkeelle siitä, että minun piti ope...</description>
-        <content>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;Pysäkit&lt;/a&gt; on iOS-applikaatio, joka näyttää HSL:n pysäkkiaikatauluja. Se on ensimmäinen tekemäni &lt;a href=&#34;http://phonegap.com/&#34;&gt;Phonegap&lt;/a&gt;-applikaatio ja ensimmäinen App Storessa julkaisemani applikaatio.&lt;/p&gt;
-&lt;p&gt;&#34;Pysäkkien&#34; tärkeimmät ominaisuudet ovat:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Etusivulta näkee heti kaksi seuraavaa lähtöä valitsemilleen pysäkeille&lt;/li&gt;
-&lt;li&gt;Pysäkkejä voi hakea nimen, pysäkkikoodin tai linjan perusteella&lt;/li&gt;
-&lt;li&gt;... tai voit hakea suoraan lähimmät pysäkit&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Projekti lähti alunperin liikkeelle siitä, että minun piti opetella käyttämään &lt;a href=&#34;http://backbonejs.org/&#34;&gt;Backbone.js&lt;/a&gt;-kirjastoa. Pieni mobiiliapplikaatio tuntui sopivalta harjoituskohteelta.&lt;/p&gt;
-&lt;p&gt;Halusin tehdä itselleni ohjelman, millä näkee pysäkkiaikataulut yhdellä silmäyksellä, ilman että tarvitsee erikseen navigoida ohjelmassa.&lt;/p&gt;
-&lt;p&gt;Oma ongelmani pysäkkiaikataulujen kanssa juontuu siitä, että ryömin töihin joskus klo 7-10 välisenä aikana. Lisäksi töihin pääsee joko bussilla tai junalla, joten erilaisia vuoroja on liikaa opeteltavaksi. Tai ei välttämättä olisi, mutta olen laiska.&lt;/p&gt;
-&lt;p&gt;Ongelma on aika tarkkaan rajattu, mutta mielestäni hyvä applikaatio ratkaisee mieluummin yhden ongelman hyvin kuin monta huonosti. App Storessa on jo lukuisia reittiopas-applikaatioita - en yritä kilpailla niitten kanssa.&lt;/p&gt;
-&lt;p&gt;HSL tarjoaa kelvollisen &lt;a href=&#34;http://developer.reittiopas.fi/pages/fi/reittiopas-api.php&#34;&gt;API:n&lt;/a&gt;, mitä kautta saa haettua pysäkkien tiedot ja aikataulut. APIn päälle oli helppo lähteä rakentamaan ja tiedoista saa myös kätevän XML-dumpin.&lt;/p&gt;
-&lt;h2&gt;Teknologiat&lt;/h2&gt;
-&lt;p&gt;Itse applikaatio on HTML5-tekniikoilla toteutettu &lt;a href=&#34;http://en.wikipedia.org/wiki/Single-page_application&#34;&gt;Single Page App&lt;/a&gt;. Käytössä on sekä &lt;a href=&#34;http://backbonejs.org/&#34;&gt;Backbone.js&lt;/a&gt;, että &lt;a href=&#34;http://jquerymobile.com/&#34;&gt;jQuery Mobile&lt;/a&gt; -kirjastot.&lt;/p&gt;
-&lt;p&gt;Näiden kahden kirjaston yhteensovittaminen oli hieman hankalaa. Molemmat haluaisivat esimerkiksi hoitaa navigaation eri sivujen välillä, ja eri sivujen uudelleenpiirtäminen sisällön muuttuessa aiheutti harmaita hiuksia. Muut ovat kirjoittaneet aiheesta pitemmin ja paremmin, esimerkiksi &lt;a href=&#34;https://supportbee.com/devblog/2013/02/12/jquery-mobile-backbone-backbone/&#34;&gt;täällä&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Projektin aikana innostus jQuery Mobilea kohtaan hiipui aika lailla. JQuery Mobilen &lt;a href=&#34;https://github.com/jquery/jquery-mobile/issues?state=open&#34;&gt;bugilista&lt;/a&gt; tuli nopeasti hyvin tutuksi. Esimerkiksi monia transitioihin ja kiinteisiin navigaatiopalkkeihin liittyviä bugeja ei ole saatu korjattua, ja varsinkin Phonegapin ja jQuery Mobilen kanssa on hankalia ongelmia.&lt;/p&gt;
-&lt;p&gt;Koodaaminen satunnaisten blogien &lt;a href=&#34;http://outof.me/fixing-flickers-jumps-of-jquery-mobile-transitions-in-phonegap-apps/&#34;&gt;ohjeiden&lt;/a&gt; ja &lt;a href=&#34;http://outof.me/native-scrolling-in-jquery-mobilephonegap-applications/&#34;&gt;work-aroundien&lt;/a&gt; varassa ei herätä luottamusta.&lt;/p&gt;
-&lt;p&gt;Työ-chatissä tiivistyi lopulta ajatus: jos aloittaisin saman projektin nyt, en ottaisi jQuery Mobilea mukaan. Muutamat jQM:n tarjoamat transitiot olisi helppo tehdä itse (tai irrottaa jQM:stä), ja ne vois optimoida paremmin pelkästään iOS:lle.&lt;/p&gt;
-&lt;p&gt;Lisäksi kirjaston tarjoamat tyylit eivät nykyään ole kovinkaan käyttökelpoisia. Mobiiliapplikaatio, joka &#34;näyttää jQuery Mobilelta&#34; aiheuttaa samanlaisia hylkiviä reaktioita kuin nettisivu, joka näyttää &lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Twitter Bootstrapin&lt;/a&gt; perustyyleiltä. &lt;a href=&#34;http://jquerymobile.com/themeroller/&#34;&gt;Theme Rollerilla&lt;/a&gt; saa vaihdettua värejä ja nappien pyöristyksiä, mutta muuten tyylejä joutuu joka tapauksessa tekemään paljon itse.&lt;/p&gt;
-&lt;p&gt;Backbone (ja &lt;a href=&#34;http://marionettejs.com/&#34;&gt;Marionette.js&lt;/a&gt;) tulevat sen sijaan pysymään &lt;em&gt;stäkissäni&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Lopuksi applikaatio on wrapatty Phonegapilla natiiviksi paketiksi, jonka saa App Storeen myyntiin. Periaatteessa Phonegapin avulla saisi tehtyä myös Android-version jos siltä tuntuu. Toki ennen sitä ohjelmasta pitäisi poistaa takaisin-nuolet ja graffoista tehdä vähemmän iOS:n näköiset :)&lt;/p&gt;
-&lt;p&gt;Kaiken kaikkiaan projekti oli hyvä tapa oppia asioita Backbonesta, Xcodesta, App Storen julkaisuprosessista ja testaamisesta. Kehityslistalle jäi vielä läjä ominaisuuksia ja bugikorjauksia, joiden parissa menee vielä tovi.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/pysakit/id620100246?l=fi&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;Pysäkit App Storessa&lt;/a&gt;&lt;/p&gt;
-</content>
-        <pubDate>Fri, 22 Mar 2013 05:56:10 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2013/03/22/pysakit/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2013/03/22/pysakit/</guid>
-        
-        <category>web-kehitys</category>
-        
-        <category>web-palvelut</category>
-        
-        <category>työ</category>
         
         
         <slash:comments>0</slash:comments>
