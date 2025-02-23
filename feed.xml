@@ -8,9 +8,47 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Feb 2025 20:10:49 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2025 20:10:49 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 19:58:12 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 19:58:12 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Projekti-ideoita</title>
+        <description>Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.Aivot ei osaa ottaa huomioon, että päivässä on oikeasti korkeintaan tunti aikaa tehdä mitään, ja sekin menee yleensä väsyneenä doom scrollatessa. Mutta sivuutetaan tämä.Muutamia projekteja mitä haluaisin tehdä:KarttavisaHesarissa oli jouluna hausk...</description>
+        <content>&lt;p&gt;Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.&lt;/p&gt;
+&lt;p&gt;Aivot ei osaa ottaa huomioon, että päivässä on oikeasti korkeintaan tunti aikaa tehdä mitään, ja sekin menee yleensä väsyneenä &lt;em&gt;doom scrollatessa&lt;/em&gt;. Mutta sivuutetaan tämä.&lt;/p&gt;
+&lt;p&gt;Muutamia projekteja mitä haluaisin tehdä:&lt;/p&gt;
+&lt;h2&gt;Karttavisa&lt;/h2&gt;
+&lt;p&gt;Hesarissa oli jouluna &lt;a href=&#34;https://www.hs.fi/suomi/art-2000010825900.html&#34; title=&#34;Testaa, tunnetko suomalaiset kaupungit pelkän kartan avulla&#34;&gt;hauska kaupunkivisa&lt;/a&gt;, missä piti tunnistaa kaupunki kartan perusteella. Karttakuvissa näkyi pelkästään vesistöt, tiet ja rautatiet. Tämä oli minusta tosi hauska, koska käymällä eri paikoissa oppii puolivahingossa minkä muotoisia eri kaupungit on, ja nyt siitä oli jotain hyötyä.&lt;/p&gt;
+&lt;p&gt;Mutta haluaisin tehdä tästä version, missä olisi enemmän kaupunkeja. Pienemmät kaupungit voivat kyllä olla aika vaikeita.&lt;/p&gt;
+&lt;p&gt;Tässä on ohjelmointia sen verran, että pitäisi skriptillä luoda OpenStreetMapin kartta-aineiston perusteella kartta kustakin kaupungista. (Kokeilin tätä, ja AI:n avulla pääsin melko pitkälle.) Kuvien ympärille pitäisi lisäksi rakentaa joku visailumoottori. Näitäkin saattaa löytyä valmiina.&lt;/p&gt;
+&lt;h2&gt;Kotiseudun dokumentointi ja kartat&lt;/h2&gt;
+&lt;p&gt;Arvostan miten esimerkiksi Tony Hagerlund on koonnut &lt;a href=&#34;https://www.hagerlund.net/fi/espoon-historia&#34;&gt;Espoon historiaa&lt;/a&gt; ja &lt;a href=&#34;https://www.hagerlund.net/fi/kuvia&#34;&gt;kuvannut itse vuosien ajan Espoota&lt;/a&gt;. Törmään näihin silloin tällöin kun etsin tietoa Espoosta. Äitini taas on inventoinnut Vantaan rakennusperintöä laajasti ja kirjoittanut aiheesta &lt;a href=&#34;https://www.vantaansanomat.fi/paikalliset/5591267&#34;&gt;kirjankin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tämä on vielä näistä hähmäisin idea, mutta haluaisin tehdä jotain samassa aihepiirissä, joskin &lt;strong&gt;paljon&lt;/strong&gt; rajatummin. Esimerkiksi digitaalinen julkaisu omasta kotikadusta tai joistain yksittäisistä lähiseudun paikoista. En jaksa kaivautua historiaan yhtä paljon, mutta paikkojen jatkuvasti muuttuessa tilannekuva vuodelta 2025 voisi jossain kohtaa olla arvokas.&lt;/p&gt;
+&lt;p&gt;Toisaalta voisin vain fiilistellä karttoja. Tietokone osaa tehdä &lt;a href=&#34;https://maps.stamen.com/watercolor/#15/60.2367/24.7311&#34;&gt;vesivärimaalauksen näköisiä karttoja&lt;/a&gt;, mutta voisi olla hauskalla tavalla tyhmää maalata itse vesiväreillä joku kartta.&lt;/p&gt;
+&lt;h2&gt;Podcast-listojen julkaisu&lt;/h2&gt;
+&lt;p&gt;Voisin vannoa, että tällainen palvelu oli jo joskus, mutta en löydä mitenkään: ideana olisi  tehdä  nettisivu, jolle voi ladata listam kuuntelemistaan podcasteista (listan saa usein podcast-soittimesta &lt;a href=&#34;https://en.wikipedia.org/wiki/OPML&#34; title=&#34;Outline Processor Markup Language&#34;&gt;OPML&lt;/a&gt;-muodossa). Nettisivu loisi tästä henkilökohtaisen sivun, mikä listaa podcastit nätisti. Sivua voisi jakaa muille tai upottaa listan kotisivuilleen jonain upotuksena.&lt;/p&gt;
+&lt;h2&gt;Swift&lt;/h2&gt;
+&lt;p&gt;Applen alustoille koodaaminen on siirtymässä Swift-kielelle ja tekisi mieli kokeilla sitä jossain käytännön projektissa. Nämä ovat prioriteettilistan hännillä, mutta ehkä joskus:&lt;/p&gt;
+&lt;h3&gt;Paasto-appis&lt;/h3&gt;
+&lt;p&gt;Käytin taannoin pätkäpaastojen seurantaan &lt;a href=&#34;https://apps.apple.com/us/app/zero-fasting-health-tracker/id1168348542&#34;&gt;Zero&lt;/a&gt;-nimistä appia, mutta siinä on nykyään &lt;strong&gt;todella raskaasti&lt;/strong&gt; lisämyyntiä, ja uutuutena kirjautumispakko. Olisi kiva tehdä vaikka vain omaan käyttöön oma, riisuttu versio tästä. Itse appi ei ole kovin monimutkainen: käynnistä ajastin ja hälytä kun se on valmis. Lisäksi jotain kevyttä statistiikkaa aikaisemmista paastoista.&lt;/p&gt;
+&lt;h3&gt;Checklist-applikaatio&lt;/h3&gt;
+&lt;p&gt;Kotoa lähtiessä jää melkein aina joku asia kotiin: avaimet, puhelin, lompakko, kello... Samoja haasteita on muissakin usein toistuvissa tehtävissä. Yksi apuväline voisi olla tarkistuslista, mistä voisi nopeasti tarkistaa onko kaikki tarvittavat asiat tehty. Listojen pitäisi olla helposti uudelleen­käytettäviä, minkä takia esim. todo-applikaatiot eivät yleensä oikein toimi tähän. Listat voisivat myös olla widgettejä puhelimessa, jolloin ei tarvitsisi avata applikaatiota – iOS:n widgetit sallivat nykyään jotain interaktiotakin.&lt;/p&gt;
+&lt;p&gt;Tällaisia saattaa olla jo, mutta en nopeasti hakemalla löytänyt sopivaa.&lt;/p&gt;
+&lt;h2&gt;Lastenlelun laulujen tunnistaminen&lt;/h2&gt;
+&lt;div class=&#34;float-image min-300&#34;&gt;
+&lt;img src=&#34;/images/2025/tinylove.webp&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Tiny Love -lelun mukana tullut musiikkia soittava lintu&#34; /&gt;
+&lt;p&gt;Molemmat vauvat ovat leikkineet lelukaarella, jossa on mukana musiikkia soittava lintu. Lintu osaa 20 erilaista kappaletta, jotka ovat noin minuutin mittaisia, klassisen musiikin ja ragtime-musiikin MIDI-versioita.&lt;/p&gt;
+&lt;p&gt;Nämä ensinnäkin soi päässä jatkuvasti, mutta se myös häiritse kun en tiedä mitä kappaleet ovat, vaikka lista on suurin piirtein klassisen musiikin TOP-20. Projektina olisi etsiä kaikki kappaleet ja koota näistä joku lista nettiin. Tämä on hyvin tärkeää.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <pubDate>Sun, 23 Feb 2025 18:59:33 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/23/projekti-ideoita/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/23/projekti-ideoita/</guid>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>TV Series Costs Are Bananas</title>
@@ -1317,45 +1355,6 @@ out all the tricks they use.&lt;/p&gt;
         
         
         <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>OpenStreetMap</title>
-        <description>OpenStreetMap on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille. Kuka tahansa pääsee lisäämään yhteiselle kartalle asioita, ja karttadatasta voi muodostaa erilaisia karttoja tai käyttää sitä navigointiin, tai mitä nyt ikinä keksiikin.Koko maailman kartoitus on yllättävän iso homma, eikä OSM ole kattavuudeltaan ihan kaupallisten karttapalveluiden ...</description>
-        <content>&lt;p&gt;&lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; on projekti, jonka tarkoituksena on kerätä yhteisöllisesti karttatietoa ja jakaa sitä vapaasti eteenpäin. Vähän niin kuin Wikipedia, mutta kartoille. Kuka tahansa pääsee lisäämään yhteiselle kartalle asioita, ja karttadatasta voi muodostaa erilaisia karttoja tai käyttää sitä navigointiin, tai mitä nyt ikinä keksiikin.&lt;/p&gt;
-&lt;p&gt;Koko maailman kartoitus on yllättävän iso homma, eikä OSM ole kattavuudeltaan ihan kaupallisten karttapalveluiden tasoa, mutta avoimuus tarjoaa sellaista ketteryyttä, mihin isommat toimijat eivät pysty. OSM-piireissä tykätään kertoa tarinaa siitä, miten Haitin maanjäristyksen jälkeen &lt;a href=&#34;http://www.newyorker.com/online/blogs/closeread/2010/02/a-map-of-thousands.html&#34;&gt;tuhannet OSM-käyttäjät kartoittivat saaren viikossa&lt;/a&gt;, kun olemassa olevat kartat alueelta olivat epätarkkoja ja vuosikymmeniä vanhoja. Uudet kartat auttoivat pelastustyöntekijöitä toimittamaan apua tehokkaammin perille.&lt;/p&gt;
-&lt;p&gt;Vaikka OpenStreetMappia verrataan usein Wikipediaan, niin niillä on myös selkeä ero: OpenStreetMappiin kannustetaan tekemään muutoksia riippumatta siitä, miten merkittäviä tai merkityksettömiä ne ovat. Mikään taho ei tunnu määräävän millaista tietoa kartalle kerätään. Jos joku haluaa merkitä kartalle &lt;a title=&#34;Liikennemerkkien kartoitus - OpenStreetMap forum&#34; href=&#34;http://forum.openstreetmap.org/viewtopic.php?id=20822&#34;&gt;kaikki Suomen liikennemerkit&lt;/a&gt;, niin riittää, että keksii liikennemerkeille sopivat tagit ja rupeaa lisäämään niitä kartalle. Jos idea saa kannatusta, niin muutkin rupeavat keräämään liikennemerkkejä.&lt;/p&gt;
-&lt;p&gt;Kartalle kerätyillä asioilla ei ole oikeastaan väliä, koska niitten merkitys määräytyy vasta siinä vaiheessa kun joku muodostaa datasta kartan. &lt;a href=&#34;http://www.openwhatevermap.org/&#34;&gt;OpenWhateverMap&lt;/a&gt; näyttää esimerkkejä siitä, miten erilaisia karttoja samasta datasta voidaan muodostaa.&lt;/p&gt;
-&lt;p&gt;Jos ontuvaa vertausta Wikipediaan haluttaisiin jatkaa, niin Wikipediaan voitaisiin periaatteessa kerätä kaikki tieto, mistä joku taho voisi halutessaan julkaista koosteen &#34;Wikipedia - järkevät artikkelit&#34;. OSM:n datan on toki tarkoitus kuvata todellisuutta mahdollisimman hyvin, mutta asioiden luokittelu ja tägäys on ainakin aloittelijan näkökulmasta yllättävän vapaata.&lt;/p&gt;
-&lt;h3&gt;iD-editor&lt;/h3&gt;
-&lt;p&gt;Yhteisöllisissä projekteissa kunnon työkaluilla on yllättävän suuri merkitys. Avoimen lähdekoodin ohjelmien kehitys lähti kunnolla nousuun kun &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; teki projekteihin osallistumisesta helppoa. Veikkaisin, että OpenStreetMapin tietojen keruu tehostuu samaan tapaan uuden &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/ID&#34;&gt;iD-editorin&lt;/a&gt; myötä.&lt;/p&gt;
-&lt;p&gt;ID on javascriptillä tehty editori, joka toimii selaimessa. Editoria pääsee kokeilemaan kun klikkaa &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OpenStreetMapissa&lt;/a&gt; &#34;muokkaa&#34;. &amp;nbsp;Editori on tarkoituksella kevyt, eikä se edes yritä tarjota samoja ominaisuuksia mitä vanhemmissa OSM-applikaatioissa on. Se on myös sen merkittävin etu, jos kohderyhmänä ovat uudet käyttäjät. Kumpaa alla olevista ohjelmista kokeilisit mieluummin?&lt;/p&gt;
-&lt;h4&gt;JOSM (Java OpenStreetMap Editor)&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;/images/2013/05/osm1.png&#34;&gt;&lt;img class=&#34;size-full wp-image-1163 alignnone&#34; alt=&#34;JOSM&#34; src=&#34;/images/2013/05/osm1.png&#34; width=&#34;426&#34; height=&#34;527&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;iD-editor&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;/images/2013/05/osm2.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-1164&#34; alt=&#34;iD-editor&#34; src=&#34;/images/2013/05/osm2.jpg&#34; width=&#34;425&#34; height=&#34;345&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Voin kyllä melkein lyödä vetoa, että vanhojen partojen mielestä iD on liian kevyt, ei tarjoa ollenkaan tarvittavia ominaisuuksia, ja on tehty vaarallisen helpoksi :D. Väittäisin silti, että tämänkaltaisessa projektissa kontribuutioiden määrä korvaa laadun. Jotkut ovat varmasti eri mieltä.&lt;/p&gt;
-&lt;h3&gt;Mitä kartalta puuttuu?&lt;/h3&gt;
-&lt;p&gt;OpenStreetMap on joiltain osin hämäävän valmiin oloinen. Olen katsonut karttaa pari kertaa ylimalkaisesti ja todennut sen olevan oman asuinalueeni kohdalta &#34;valmis&#34;. Näkemykseni muuttui pari viikkoa sitten &lt;a href=&#34;https://www.facebook.com/HSLdevcom&#34;&gt;HSL:n kehittäjätapaamisessa&lt;/a&gt;, missä &lt;a href=&#34;http://paikkatieto.com/&#34;&gt;Pekka Sarkola&lt;/a&gt; oli kertomassa OpenStreetMapista ja sen haasteista. Pekka pystyi heti osoittamaan Espoosta muutamia asuinalueita, joilta puuttuvat talot kokonaan. Esimerkiksi &lt;a href=&#34;http://www.openstreetmap.org/?lat=60.17662&amp;amp;lon=24.68426&amp;amp;zoom=15&#34;&gt;Kukkumäki&lt;/a&gt; ja &lt;a href=&#34;http://www.openstreetmap.org/?lat=60.15839&amp;amp;lon=24.66967&amp;amp;zoom=15&#34;&gt;Nöykkiö&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Vaikka talot olisivatkin paikoillaan, niin kartoitettavaa riittää silti. Voit merkitä &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Key:parking:lane&#34;&gt;tienvarsipysäköintejä&lt;/a&gt;, &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Key:button_operated&#34;&gt;painonapilla toimivia liikennevaloja&lt;/a&gt;, &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Key:lit&#34;&gt;valaistuja tienpätkiä&lt;/a&gt;, &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_parking&#34;&gt;polkupyöräparkkeja&lt;/a&gt;, &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Tag:highway%3Dpath&#34;&gt;polkuja&lt;/a&gt;, &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Map_Features#Aerialway&#34;&gt;köysiratoja&lt;/a&gt;... &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Fi:Map_Features&#34;&gt;Tagien syvyys&lt;/a&gt; on aika tajuton.&lt;/p&gt;
-&lt;p&gt;Monesta paikasta puuttuvat myös talojen osoitteet. Puuttuvia tietoja on helppo lisätä kevyellä paikallistuntemuksella, tai niitä voi käydä tarkistamassa paikan päällä.&lt;/p&gt;
-&lt;p&gt;Itse olen kartoittanut tuntemiani paikkoja lähistöltä. ID-editorin taustalla näkyvät oletusarvoisesti &lt;a title=&#34;Bing Maps&#34; href=&#34;http://www.bing.com/maps/&#34;&gt;Bingin&lt;/a&gt; ilmakuvat, joiden perusteella voi jossain määrin piirtää taloja ja teitä. Nykyään parempi lähde on &lt;a href=&#34;http://kartat.kapsi.fi&#34;&gt;MML:n ilmakuvat&lt;/a&gt;, jotka saa iD:n taustaksi asettamalla osoitteeksi &lt;code&gt;http://tiles.kartat.kapsi.fi/ortokuva/{z}/{x}/{y}.jpg&lt;/code&gt;. Ilmakuvien avulla näkee jo melko tarkasti miten talot ja tiet menevät, ja jopa montako autopaikkaa parkkipaikalla on. Aineistot ovat kuitenkin välillä muutaman vuoden ikäisiä, joten ihan uusimpia tietoja ei aina löydy.&lt;/p&gt;
-&lt;p&gt;Kartan muokkaaminen on yllättävän koukuttavaa puuhaa. Tein ensimmäisenä päivänä noin 100 muokkausta pelkästään lisäämällä lähistön asukaspysäköintejä ja uusia taloja. Muokkaamista on nyt hieman rauhoittanut ymmärrys siitä, miten &lt;em&gt;paljon&lt;/em&gt; tietoja vielä puuttuu. Vaikka oman korttelinsa saisikin täydelliseksi, niin jo naapurista puuttuu taloja, teitä ja metatietoja.&lt;/p&gt;
-&lt;p&gt;Suosittelen kuitenkin kokeilemaan kartan muokkaamista. Käy lisäämässä vaikka oikopolut, joita käytät joka päivä. Niitä tuskin löytyy Google Mapsista.&lt;/p&gt;
-</content>
-        <pubDate>Wed, 29 May 2013 18:23:35 +0000</pubDate>
-        <dc:creator>Oiva Eskola</dc:creator>
-        <link>https://oivaeskola.fi/2013/05/29/openstreetmap/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2013/05/29/openstreetmap/</guid>
-        
-        <category>käytettävyys</category>
-        
-        <category>elämä</category>
-        
-        <category>internet</category>
-        
-        
-        <slash:comments>0</slash:comments>
       </item>
     
   </channel>
