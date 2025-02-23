@@ -19,8 +19,9 @@ echo "touch posts/".$filename."\n";
 
 // create the file
 $fin = fopen ("./posts/".$filename, "w") or die('Permission error');
-
+date_default_timezone_set("Europe/Helsinki");
 $localTime = date("Y-m-d H:i:s");
+date_default_timezone_set("UTC");
 $gmtTime = gmdate("Y-m-d H:i:s");
 
 $frontMatter = "---
@@ -31,6 +32,7 @@ title: \"".$title."\"
 language: ".$language."
 date: ".$localTime."
 date_gmt: ".$gmtTime."
+excerpt:
 ---\n\n";
 
 fwrite($fin, $frontMatter);
