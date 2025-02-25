@@ -2,7 +2,7 @@
 published: true
 status: publish
 layout: post
-title: "RIP Back to Work"
+title: "R.I.P. Back to Work"
 language: en
 date: 2025-02-25 21:43:20
 date_gmt: 2025-02-25 19:43:20
