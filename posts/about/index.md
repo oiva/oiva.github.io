@@ -24,8 +24,9 @@ comments: []
 in <a href="https://www.flickr.com/photos/oiva/">photo&shy;graphy</a> and cycling (never failing to mention that I was a
 messenger back in the day.)</p>
 
-<p>I work for a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a> and do a bunch of 
-hobby projects on the side.
+<p>I work for a Finnish insurance company <a href="https://www.popvakuutus.fi">POP Vakuutus</a> and do a bunch of hobby projects on the side.</p>
+
+<p>Here's what I'm up to <a href="/now">Now</a>.</p>
 
 <h3>Contact me</h3>
 <div class="vcard">
@@ -36,6 +37,7 @@ hobby projects on the side.
 
 <h3>Elsewhere</h3>
 <ul>
+<li><a href="https://toot.community/@oivaeskola">Mastodon</a></li>
 <li><a href="http://fi.linkedin.com/in/oivaeskola">LinkedIn profile</a></li>
 <li><a href="https://github.com/oiva/">GitHub profile</a></li>
 <li><a href="https://www.flickr.com/photos/oiva">Flickr</a></li>

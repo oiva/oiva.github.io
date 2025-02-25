@@ -1,52 +1,27 @@
 ---
 layout: default
 regenerate: true
+title: Now - Oiva Eskola
 pagination:
-  data: collections.all
+  data: collections.now
   size: 20
   alias: posts
   reverse: true
 eleventyExcludeFromCollections: true
-permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plus: 1 }}{% endif %}/index.html"
+permalink: "/now{% if pagination.pageNumber > 0%}{{ pagination.pageNumber | plus: 1 }}{% endif %}/index.html"
 ---
-{% capture cutoff %}{{ '2013-05-30' | date: '%s'}}{% endcapture %}
-{% assign cutoff = cutoff | plus: 0 %}
-{% assign previousposttime = 0 %}
 <div class="home">
-  {% if pagination.pageNumber == 0 %}
-  <p class="intro">
-    Hello there. I'm <a href="{{ '/about' | prepend: site.baseurl }}">this guy</a>
-    and this is my home page. Below are all blog posts I have written since 2007.
-    Some of them are silly, but self-censorship would be worse I guess. 
-  </p>
-  {% endif %}
-  <h1 class="page-heading">Blog Posts</h1>
-
+  <h1 class="page-heading">Now</h1>
+  <p>What I'm up to currently. (<a href="https://nownownow.com/about">What is a "now page"?</a>)</p>
+  <p>These posts are also available as a <a href="/now.xml">separate feed</a>.</p>
   <ul class="post-list">
     {% for post in posts %}
-      {% if post.data.eleventyExcludeFromCollections contains 'posts' %}
-        {% continue %}
-      {% endif %}
-      {% capture posttime %}
-        {{post.date | date: '%s'}}
-      {% endcapture %}
-      {% assign posttime = posttime | plus: 0 %}
-      {% if posttime < cutoff and previousposttime > cutoff %}
-      </ul>
-      <div class="language-barrier">
-        <h3>Language Barrier</h3>
-        <p>Beware: the posts below are all in Finnish.</p>
-      </div>
-      <ul class="post-list">
-      {% endif %}
       <li
         {% if pagination.pageNumber == 0 and forloop.index <= 5 %} class="full-post"
         {% elsif pagination.pageNumber == 0 %} class="has-excerpt"
         {% endif %}
         {%if post.data.language %}
         lang="{{post.data.language}}"
-        {% elsif posttime < cutoff %}
-        lang="fi"
         {% else %}
         lang="en"
         {% endif %}
@@ -55,7 +30,7 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
           {% if post.data.link_to %}
           <a href="{{post.url | prepend: site.baseurl }}">
           {% endif %}
-          {% if post.data.language == 'fi' or posttime < cutoff %}
+          {% if post.data.language == 'fi' %}
             {{ post.date | date: "%-d.%-m.%Y" }}
           {% else %}
             {{ post.date | date: "%b %-d, %Y" }}
@@ -71,7 +46,6 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.data.title }}</a>
           {% endif %}
         </h2>
-        {% if pagination.pageNumber == 0 and forloop.index <= 5 or post.data.link_to %}
           {% if post.data.background %}
             <picture>
               <img
@@ -98,21 +72,11 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
           {% endif %}
           <div class="post-excerpt">{{ post.content | dropTitleLevel | removeFootnotes }}</div>
           <hr>
-        {% elsif pagination.pageNumber == 0 %}
-          <p class="post-excerpt">
-            {% excerpt post %}
-            {% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 250}}{% endif %}
-            {% if post.language == 'fi' or posttime < cutoff %}
-            <a class="read-more" href="{{post.url | prepend: site.baseurl }}" title="Lue lisää">&#8594;</a>
-            {% else %}
-            <a class="read-more" href="{{post.url | prepend: site.baseurl }}" title="Read more">&#8594;</a>
-            {% endif %}
-          </p>
-        {% endif %}
       </li>
-{% assign previousposttime = posttime %}{% endfor %}
+{% endfor %}
   </ul>
 
+  {% if pagination.pages.length > 1 %}
   <!-- Pagination links -->
   <div class="pagination">
     <span class="page_number">Page {{ pagination.pageNumber | plus: 1 }} / {{ pagination.pages.length }}:</span>
@@ -122,5 +86,6 @@ permalink: "/{% if pagination.pageNumber > 0%}page{{ pagination.pageNumber | plu
       <a href="{{ pagination.href.next }}" class="next">next page</a>
     {% endif %}
   </div>
+  {% endif %}
 
 </div>

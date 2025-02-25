@@ -9,6 +9,7 @@ date_gmt: 2025-02-23 18:59:33
 excerpt: Muutamia projekti-ideoita mitä pyörii päässä
 tags:
 - elämä
+- now
 ---
 
 Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.
