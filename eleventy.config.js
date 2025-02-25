@@ -72,6 +72,10 @@ export default async function (eleventyConfig) {
       .replaceAll(/<h1>(.*)<\/h1>/g, '<h2>$1</h2>');
   });
 
+  eleventyConfig.amendLibrary("md", function (md) {
+    md.set({ typographer: true });
+  });
+
   eleventyConfig.addPlugin(footnotes, { /* … */ })
 
   // Copy CNAME file to output to fix GitHub Pages custom domain
