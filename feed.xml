@@ -8,9 +8,27 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Feb 2025 21:20:58 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2025 21:20:58 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 20:13:59 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 20:13:59 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>RIP Back to Work</title>
+        <description>Being so far behind my podcast queue means I completely missed Back to Work podcast ending in April 2024.This was one of those podcasts where the hosts felt like your friends because I listened to them speak for 13 years. I have very specific memories of the show tied to certain locations. It also did help me do better work.So I’m sad it’s not there anymore, but nothing really is permanent. I’m also very thankful this “pound sign productivity”...</description>
+        <content>&lt;p&gt;Being so far Back to Work podcast ending in April 2024.&lt;/p&gt;
+&lt;p&gt;This was one of those podcasts where the hosts felt like your friends because I listened to them speak for 13 years. I have very specific memories of the show tied to certain locations. It also did help me do better work.&lt;/p&gt;
+&lt;p&gt;So I’m sad it’s not there anymore, but nothing really is permanent. I’m also very thankful this “pound sign productivity” podcast existed.&lt;/p&gt;
+</content>
+        <pubDate>Tue, 25 Feb 2025 19:43:20 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/25/rip-back-to-work/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/25/rip-back-to-work/</guid>
+        
+        <category>podcastit</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Projekti-ideoita</title>
@@ -33,7 +51,7 @@
 &lt;h3&gt;Paasto-appis&lt;/h3&gt;
 &lt;p&gt;Käytin taannoin pätkäpaastojen seurantaan &lt;a href=&#34;https://apps.apple.com/us/app/zero-fasting-health-tracker/id1168348542&#34;&gt;Zero&lt;/a&gt;-nimistä appia, mutta siinä on nykyään &lt;strong&gt;todella raskaasti&lt;/strong&gt; lisämyyntiä, ja uutuutena kirjautumispakko. Olisi kiva tehdä vaikka vain omaan käyttöön oma, riisuttu versio tästä. Itse appi ei ole kovin monimutkainen: käynnistä ajastin ja hälytä kun se on valmis. Lisäksi jotain kevyttä statistiikkaa aikaisemmista paastoista.&lt;/p&gt;
 &lt;h3&gt;Checklist-applikaatio&lt;/h3&gt;
-&lt;p&gt;Kotoa lähtiessä jää melkein aina joku asia kotiin: avaimet, puhelin, lompakko, kello... Samoja haasteita on muissakin usein toistuvissa tehtävissä. Yksi apuväline voisi olla tarkistuslista, mistä voisi nopeasti tarkistaa onko kaikki tarvittavat asiat tehty. Listojen pitäisi olla helposti uudelleen­käytettäviä, minkä takia esim. todo-applikaatiot eivät yleensä oikein toimi tähän. Listat voisivat myös olla widgettejä puhelimessa, jolloin ei tarvitsisi avata applikaatiota – iOS:n widgetit sallivat nykyään jotain interaktiotakin.&lt;/p&gt;
+&lt;p&gt;Kotoa lähtiessä jää melkein aina joku asia kotiin: avaimet, puhelin, lompakko, kello… Samoja haasteita on muissakin usein toistuvissa tehtävissä. Yksi apuväline voisi olla tarkistuslista, mistä voisi nopeasti tarkistaa onko kaikki tarvittavat asiat tehty. Listojen pitäisi olla helposti uudelleen­käytettäviä, minkä takia esim. todo-applikaatiot eivät yleensä oikein toimi tähän. Listat voisivat myös olla widgettejä puhelimessa, jolloin ei tarvitsisi avata applikaatiota – iOS:n widgetit sallivat nykyään jotain interaktiotakin.&lt;/p&gt;
 &lt;p&gt;Tällaisia saattaa olla jo, mutta en nopeasti hakemalla löytänyt sopivaa.&lt;/p&gt;
 &lt;h2&gt;Lastenlelun laulujen tunnistaminen&lt;/h2&gt;
 &lt;div class=&#34;float-image min-300&#34;&gt;
@@ -52,19 +70,19 @@
     
       <item>
         <title>TV Series Costs Are Bananas</title>
-        <description>This tidbit about Apple TV+&#39;s &#39;Severance&#39; caught my eye: From Hollywood Reporter (via MacRumors):Puck reported that this season of Severance approached the price tag of $20 million per episode. Stiller declines to state a budget for the show, saying: “Both seasons have been interrupted by these force majeure things that threw everything upside down, so it’s never had a regular season where you could just say, ‘Yeah, this is what it is.’It&#39;s no...</description>
-        <content>&lt;p&gt;This tidbit about Apple TV+&#39;s &#39;Severance&#39; caught my eye: From &lt;a href=&#34;https://www.hollywoodreporter.com/tv/tv-features/ben-stiller-severance-apple-filmmaking-parents-documentary-1236126909/&#34;&gt;Hollywood Reporter&lt;/a&gt; (via &lt;a href=&#34;https://www.macrumors.com/2025/02/07/severance-season-3-work-now-underway/&#34;&gt;MacRumors&lt;/a&gt;):&lt;/p&gt;
+        <description>This tidbit about Apple TV+&#39;s ‘Severance’ caught my eye: From Hollywood Reporter (via MacRumors):Puck reported that this season of Severance approached the price tag of $20 million per episode. Stiller declines to state a budget for the show, saying: “Both seasons have been interrupted by these force majeure things that threw everything upside down, so it’s never had a regular season where you could just say, ‘Yeah, this is what it is.’It’s no...</description>
+        <content>&lt;p&gt;This tidbit about Apple TV+&#39;s ‘Severance’ caught my eye: From &lt;a href=&#34;https://www.hollywoodreporter.com/tv/tv-features/ben-stiller-severance-apple-filmmaking-parents-documentary-1236126909/&#34;&gt;Hollywood Reporter&lt;/a&gt; (via &lt;a href=&#34;https://www.macrumors.com/2025/02/07/severance-season-3-work-now-underway/&#34;&gt;MacRumors&lt;/a&gt;):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Puck&lt;/em&gt; reported that &lt;strong&gt;this season of Severance approached the price tag of $20 million per episode&lt;/strong&gt;. Stiller declines to state a budget for the show, saying: “Both seasons have been interrupted by these force majeure things that threw everything upside down, so it’s never had a regular season where you could just say, ‘Yeah, this is what it is.’&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It&#39;s not anything new, but I always forget just how much money is poured into making these &amp;quot;prestige TV&amp;quot; shows. $20 million &lt;em&gt;per episode&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;And apparently &#39;Severance&#39; is not even the worst. The Marvel Cinematic Universe shows are said to have cost up to $25 million per episode:&lt;/p&gt;
+&lt;p&gt;It’s not anything new, but I always forget just how much money is poured into making these “prestige TV” shows. $20 million &lt;em&gt;per episode&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;And apparently ‘Severance’ is not even the worst. The Marvel Cinematic Universe shows are said to have cost up to $25 million per episode:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Disney is sparing no expense on programming, projecting a 2020 original content budget short of $1 billion. The Mandalorian is said to cost $15 million an episode, for instance, and a source pegs Marvel entries The Falcon and the Winter Soldier, WandaVision and Hawkeye at as much as $25 million per episode. [&lt;a href=&#34;https://www.hollywoodreporter.com/movies/movie-features/bob-iger-bets-company-hollywood-s-future-streaming-1247663/&#34;&gt;Hollywood Reporter&lt;/a&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Wikipedia naturally has a &#39;&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_most_expensive_television_series&#34;&gt;List of most expensive television series&lt;/a&gt;&#39;.&lt;/p&gt;
-&lt;p&gt;&amp;quot;Big&amp;quot; Finnish movies typically have budgets around 1–3 million euros, so with $20 million you could make like ten movies here!&lt;/p&gt;
-&lt;p&gt;That&#39;s a very apples to oranges comparison for sure, but it&#39;s fun to think about what &amp;quot;more&amp;quot; you get production-wise for the $20M. Bigger stars, more expensive directors, lots of CGI... I bet the catering is better too.&lt;/p&gt;
+&lt;p&gt;Wikipedia naturally has a ‘&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_most_expensive_television_series&#34;&gt;List of most expensive television series&lt;/a&gt;’.&lt;/p&gt;
+&lt;p&gt;“Big” Finnish movies typically have budgets around 1–3 million euros, so with $20 million you could make like ten movies here!&lt;/p&gt;
+&lt;p&gt;That’s a very apples to oranges comparison for sure, but it’s fun to think about what “more” you get production-wise for the $20M. Bigger stars, more expensive directors, lots of CGI… I bet the catering is better too.&lt;/p&gt;
 </content>
         <pubDate>Wed, 12 Feb 2025 20:09:34 +0000</pubDate>
         <dc:creator></dc:creator>
@@ -98,8 +116,8 @@
 &lt;li&gt;&lt;a href=&#34;https://bsky.app/profile/newsyc1000.bsky.social&#34;&gt;newsyc1000.bsky.social&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There are multiple bots to let people balance the amount of links they see. Personally I like to 250 points level which posts around 10 links a day.&lt;/p&gt;
-&lt;p&gt;The 750 and 1000 point accounts didn&#39;t exist before, but I added those now. I&#39;m not sure, but I feel there&#39;s been some inflation in Hacker News, and more posts go over 500 points. Some data scientist somewhere has probably crunched the numbers.&lt;/p&gt;
-&lt;p&gt;P.S. I&#39;m a bit worried about the Bluesky accounts, as there doesn&#39;t seem to be a way to mark the profiles as being bots. Mastodon has a clear checkbox &amp;quot;this is an automated account&amp;quot; and I checked with Toot.community admins that it&#39;s OK to create these bots. We&#39;ll see how it goes with Bluesky.&lt;/p&gt;
+&lt;p&gt;The 750 and 1000 point accounts didn’t exist before, but I added those now. I’m not sure, but I feel there’s been some inflation in Hacker News, and more posts go over 500 points. Some data scientist somewhere has probably crunched the numbers.&lt;/p&gt;
+&lt;p&gt;P.S. I’m a bit worried about the Bluesky accounts, as there doesn’t seem to be a way to mark the profiles as being bots. Mastodon has a clear checkbox “this is an automated account” and I checked with Toot.community admins that it’s OK to create these bots. We’ll see how it goes with Bluesky.&lt;/p&gt;
 </content>
         <pubDate>Tue, 11 Feb 2025 20:24:30 +0000</pubDate>
         <dc:creator></dc:creator>
@@ -112,8 +130,8 @@
     
       <item>
         <title>Everyday Carry</title>
-        <description>I discovered &amp;quot;Slash Pages&amp;quot; somewhere and while I don&#39;t think these are very discoverable, some of them are good writing prompts.I started by documenting what I /carry everyday.</description>
-        <content>&lt;p&gt;I discovered &amp;quot;&lt;a href=&#34;https://slashpages.net&#34;&gt;Slash Pages&lt;/a&gt;&amp;quot; somewhere and while I don&#39;t think these are very discoverable, some of them are good writing prompts.&lt;/p&gt;
+        <description>I discovered “Slash Pages” somewhere and while I don’t think these are very discoverable, some of them are good writing prompts.I started by documenting what I /carry everyday.</description>
+        <content>&lt;p&gt;I discovered “&lt;a href=&#34;https://slashpages.net&#34;&gt;Slash Pages&lt;/a&gt;” somewhere and while I don’t think these are very discoverable, some of them are good writing prompts.&lt;/p&gt;
 &lt;p&gt;I started by documenting &lt;a href=&#34;/carry&#34;&gt;what I &lt;code&gt;/carry&lt;/code&gt; everyday&lt;/a&gt;.&lt;/p&gt;
 </content>
         <pubDate>Fri, 07 Feb 2025 12:13:00 +0000</pubDate>
@@ -127,7 +145,7 @@
     
       <item>
         <title>Simulennon Airbus A321 -simulaattori</title>
-        <description>Huomasin viime vuonna Instagramissa Simulento-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä ...</description>
+        <description>Huomasin viime vuonna Instagramissa Simulento-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.Lentosimulaattorit on yksi aihe, missä pelkään sanoa “harrastavani” jotain. Olen pelannut MSFS:a ehkä 80 tuntia ...</description>
         <content>
           <img src="/images/2025/simulaattori-small.webp"
             srcset="/images/2025/simulaattori.webp 2x"
@@ -136,19 +154,19 @@
             height="386" />
         &lt;p&gt;Huomasin viime vuonna Instagramissa &lt;a href=&#34;https://www.instagram.com/simulento&#34;&gt;Simulento&lt;/a&gt;-nimisen yrityksen päivityksen: Joku oli rakentanut Helsingissä Airbus A321 -lentokoneen ohjaamon missä pääsi kokeilemaan Airbusilla lentämistä.&lt;/p&gt;
 &lt;p&gt;Kiinnostuin, koska olen pelannut kotona Microsoft Flight Simulatorilla (MSFS) ja keskittynyt siinä nimenomaan Airbusin A320 -koneella lentämiseen.&lt;/p&gt;
-&lt;p&gt;Lentosimulaattorit on yksi aihe, missä pelkään sanoa &amp;quot;harrastavani&amp;quot; jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   yleensä ehjänä takaisin, autopilotilla tai ilman.&lt;/p&gt;
+&lt;p&gt;Lentosimulaattorit on yksi aihe, missä pelkään sanoa “harrastavani” jotain. Olen pelannut MSFS:a ehkä 80 tuntia ja osaan siinä lentää sen verran, että saan Airbusin   yleensä ehjänä takaisin, autopilotilla tai ilman.&lt;/p&gt;
 &lt;p&gt;Lentosimulaattorit on kuitenkin aihe, missä riittää ihan loputtomasti opeteltavaa ja Oikeat Harrastajat ovat opiskelleet lentämistä ja ilmailun sääntöjä niin paljon, että olisivat, tai ovat oikeasti päteviä lentämään.&lt;/p&gt;
 &lt;p&gt;En itse jaksa enkä pysty panostamaan aiheeseen yhtä paljon, mutta tykkään kasuaalista liikennelentokoneella lentämisestä. Siinä on samaa hauskaa haastetta kuin kokkaamisessa: pitää hallita useampia aikakriittisiä tehtäviä ja samalla yrittää havainnoida mitä lentokoneelle tai lihapullille tapahtuu. Mutta en muista kenttien &lt;a href=&#34;https://www.youtube.com/watch?v=jfOUVYQnuhw&#34;&gt;ICAO-koodeja&lt;/a&gt; tai lennonjohtotornien radiotaajuuksia ulkoa.&lt;/p&gt;
 &lt;h2&gt;Tutustumislento&lt;/h2&gt;
-&lt;p&gt;Halusin joka tapauksessa päästä kokeilemaan miltä lentäminen tuntuisi oikeassa ohjaamossa. Kotona pelaan joystickillä, näppäimistöllä, ja hiirellä. Sainkin &amp;quot;sattumalta&amp;quot; joululahjaksi lahjakortin Simulennon tutustumis­lennolle.&lt;/p&gt;
+&lt;p&gt;Halusin joka tapauksessa päästä kokeilemaan miltä lentäminen tuntuisi oikeassa ohjaamossa. Kotona pelaan joystickillä, näppäimistöllä, ja hiirellä. Sainkin “sattumalta” joululahjaksi lahjakortin Simulennon tutustumis­lennolle.&lt;/p&gt;
 &lt;p&gt;Noin tunnin mittaisella tutustumislennolla käynnistetään lentokone, tehdään lentosuunnitelma, ja lennetään pieni lenkki Helsinki-Vantaan lentokentältä. Asiakas saa toimia koneen kapteenina, eli käytännössä nousta ja laskeutua. Simulennon pyörittäjä Mikko Saarvola toimii perämiehenä ja opastaa koneen lentämisessä.&lt;/p&gt;
 &lt;h2&gt;Simulaattori&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.simulento.fi&#34;&gt;Simulennon simulaattori&lt;/a&gt; sijaitsee Helsingin Alppilassa. Mikko on &lt;a href=&#34;https://www.simulento.fi/2024/02/29/airbus-a321-simulaattori-projekti/&#34;&gt;rakentanut A321:n ohjaamoa vuodesta 2020&lt;/a&gt;. Minulla ei ole kokemusta kuin MSFS:ta, mutta ohjaamo vaikutti omaan silmään hyvin aidolta. Mitään hydrauliikkoja ei ole, eli ohjaamo ei heilu, mutta en tiedä miten paljon se toisi lisää tavanomaisessa lentelyssä.&lt;/p&gt;
-&lt;p&gt;Äänet on vakuuttavat, ja esimerkiksi maassa rullatessa kentän epätasaisuudet huomaa hyvin – penkkeihin asennetut &amp;quot;bass shakerit&amp;quot; auttaa tässä.&lt;/p&gt;
+&lt;p&gt;Äänet on vakuuttavat, ja esimerkiksi maassa rullatessa kentän epätasaisuudet huomaa hyvin – penkkeihin asennetut “bass shakerit” auttaa tässä.&lt;/p&gt;
 &lt;p&gt;Simulennon simulaattori on rakennettu toisen tunnetun simulaattoripelin, &lt;a href=&#34;https://www.x-plane.com/pro/&#34;&gt;X‑Plane Pro&lt;/a&gt;:n päälle. Jos ymmärsin oikein, niin itse rakennetun ohjaamon liittäminen peliin on toteutettu paremmin X‑Plane:ssa kuin MSFS:ssa.&lt;/p&gt;
 &lt;p&gt;MSFS:n etu taas on omaan silmään paremmat grafiikat. Ympäristö on mallinnettu luomalla satunnaisia taloja &lt;a href=&#34;/2013/05/29/openstreetmap/&#34;&gt;OpenStreetMapin&lt;/a&gt; karttadatan perusteella, eli talot ovat oikealla paikalla ja usein oikean kokoisia, mutta eivät oikean näköisiä. Lisäksi MSFS:ssa on käsin mallinnettu kuuluisia taloja ja nähtävyyksiä.&lt;/p&gt;
 &lt;p&gt;Grafiikoilla ei toki kauheasti ole väliä kun lennetään korkealla, mutta loppulähestymiseen olisin kaivannut enemmän tuttuja maamerkkejä.&lt;/p&gt;
-&lt;p&gt;Kaiken kaikkiaan simulaattorilla lentäminen oli tosi mukava kokemus. Kotona PC:llä virtuaaliohjaamon nupikoiden kääntäminen hiirellä on aina vähän kankeaa. Oikeiden vipujen ja rullien käyttäminen simulaattorissa on paitsi selkeää, myös tuntuu hyvältä. Laskusiivekkeiden laskeminen oikealla vivulla *thonk* on vain hauskempaa kuin joystickin &amp;quot;flaps down&amp;quot; -napin painaminen.&lt;/p&gt;
+&lt;p&gt;Kaiken kaikkiaan simulaattorilla lentäminen oli tosi mukava kokemus. Kotona PC:llä virtuaaliohjaamon nupikoiden kääntäminen hiirellä on aina vähän kankeaa. Oikeiden vipujen ja rullien käyttäminen simulaattorissa on paitsi selkeää, myös tuntuu hyvältä. Laskusiivekkeiden laskeminen oikealla vivulla *thonk* on vain hauskempaa kuin joystickin “flaps down” -napin painaminen.&lt;/p&gt;
 &lt;h2&gt;Hinta&lt;/h2&gt;
 &lt;p&gt;Tutustumislennolla oli hintaa 60 €, mistä olen vähän kahta mieltä. Oletan, että lentosimulaattorien käyttäjäkunta on paljolti kaltaisiani keski-ikäisiä miehiä, ja varsinkin lahjaksi annettavasta lennosta voisi mielestäni pyytää helposti enemmänkin.&lt;/p&gt;
 &lt;p&gt;Mikko perusteli halpaa hintaa sillä, että haluaa tarjota isommalle joukolle mahdollisuuden päästä kokeilemaan lentämistä ja varsinkin nuorilla hinta voi nopeasti tulla esteeksi. Tämä on kieltämättä hieno tavoite. Taviksille suunnatuilla kilpailijoilla vastaavat lennot ovat 100–200 € ja Finnairin simut &lt;a href=&#34;https://www.take-off.fi/palvelutjahinnastot/full-flight--simulaattorit&#34;&gt;noin 500 € / h&lt;/a&gt;.&lt;/p&gt;
@@ -181,24 +199,24 @@
   referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
   allowfullscreen
   loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;There are tons of these &amp;quot;cab view&amp;quot; videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see driving videos if those are more your thing.&lt;/p&gt;
-&lt;p&gt;Having seen a few of these, I noticed I kind of disliked some of them. Even when the concept is so simple (train + camera + time), there are still ways to make them &amp;quot;good&amp;quot; or &amp;quot;bad.&amp;quot;&lt;/p&gt;
-&lt;p&gt;This got me thinking about how many creative decisions you can and &lt;em&gt;need&lt;/em&gt; to make, even in a seemingly simple project like a &amp;quot;train video.&amp;quot;&lt;/p&gt;
+&lt;p&gt;There are tons of these “cab view” videos on YouTube. I quite like them because I like trains (choo-choo!) and I also like to see driving videos if those are more your thing.&lt;/p&gt;
+&lt;p&gt;Having seen a few of these, I noticed I kind of disliked some of them. Even when the concept is so simple (train + camera + time), there are still ways to make them “good” or “bad.”&lt;/p&gt;
+&lt;p&gt;This got me thinking about how many creative decisions you can and &lt;em&gt;need&lt;/em&gt; to make, even in a seemingly simple project like a “train video.”&lt;/p&gt;
 &lt;p&gt;So just for fun, I started to enumerate these decisions. This might not be a very useful thing to do, but I need to stop thinking about this :)&lt;/p&gt;
-&lt;h2&gt;What&#39;s the purpose of the video?&lt;/h2&gt;
+&lt;h2&gt;What’s the purpose of the video?&lt;/h2&gt;
 &lt;p&gt;Many of the following creative decisions come down to the purpose of the video. Who is the video for, and what does it try to achieve? The purpose could be one of:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;You want to showcase your beautiful country and the vistas along the route. The train is the &#39;camera&#39; that films these incredible places.&lt;/p&gt;
+&lt;p&gt;You want to showcase your beautiful country and the vistas along the route. The train is the ‘camera’ that films these incredible places.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Same but different; maybe you want to show what it would be like to travel on this route as a passenger. Take the viewer on a journey they wouldn&#39;t otherwise be able to take.&lt;/p&gt;
+&lt;p&gt;Same but different; maybe you want to show what it would be like to travel on this route as a passenger. Take the viewer on a journey they wouldn’t otherwise be able to take.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;You want to show how exciting (or dull) it&#39;s like to drive a train along a certain route, for example, a busy local line in Tokyo. Maybe the driver is visible on screen.&lt;/p&gt;
+&lt;p&gt;You want to show how exciting (or dull) it’s like to drive a train along a certain route, for example, a busy local line in Tokyo. Maybe the driver is visible on screen.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;...or you have a train and a camera and just want to document the track without thinking the viewer too much.&lt;/p&gt;
+&lt;p&gt;…or you have a train and a camera and just want to document the track without thinking the viewer too much.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Before filming&lt;/h2&gt;
@@ -207,10 +225,10 @@
 &lt;p&gt;What route do you choose? The most beautiful, interesting, or &lt;a href=&#34;https://www.youtube.com/watch?v=3rDjPLvOShM&#34;&gt;longest&lt;/a&gt;? Or the one you happen to have access to? Are you slowly documenting every piece of track that exists?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What happens if it&#39;s raining? Do you try again later or go with it? There are some Finnish videos where rain makes the video worse because you are either looking at water droplets on the window or a windshield wiper swishing around.&lt;/p&gt;
+&lt;p&gt;What happens if it’s raining? Do you try again later or go with it? There are some Finnish videos where rain makes the video worse because you are either looking at water droplets on the window or a windshield wiper swishing around.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Do you shoot introductory footage of the actual train beforehand? It can be nice to know what kind of train we are riding. Especially if it&#39;s some special attraction train.&lt;/p&gt;
+&lt;p&gt;Do you shoot introductory footage of the actual train beforehand? It can be nice to know what kind of train we are riding. Especially if it’s some special attraction train.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;
@@ -222,13 +240,13 @@
 &lt;h2&gt;Picture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Where do you put the camera? Do you have access to the engine and can place the camera on the windshield? Or are you filming through a transparent wall behind the driver? You&#39;ll see the driver, but don&#39;t see the track as well.&lt;/p&gt;
+&lt;p&gt;Where do you put the camera? Do you have access to the engine and can place the camera on the windshield? Or are you filming through a transparent wall behind the driver? You’ll see the driver, but don’t see the track as well.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Do you attach the camera outside? Do you also record sound outside? That can be of low quality.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;How do you attach the camera? Can you dampen shaking from the train or do this in post? (I don&#39;t know if that&#39;s possible or not.)&lt;/p&gt;
+&lt;p&gt;How do you attach the camera? Can you dampen shaking from the train or do this in post? (I don’t know if that’s possible or not.)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -254,7 +272,7 @@
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Of course all the normal decisions for capturing images apply here too: a sensible exposure, and you&#39;ll probably want a deep depth of field.&lt;/p&gt;
+&lt;p&gt;Of course all the normal decisions for capturing images apply here too: a sensible exposure, and you’ll probably want a deep depth of field.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Frame rate? 60 fps is probably good for smooth motion.&lt;/li&gt;
 &lt;/ul&gt;
@@ -262,15 +280,15 @@
 &lt;/ul&gt;
 &lt;h2&gt;Sound&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Are you allowed or able to record sound in the engine? The signal sounds can be meaningful if you want to depict the driver&#39;s role.&lt;/li&gt;
-&lt;li&gt;If you are filming a passenger train, do you want ambient sound from the passenger side as well? The conductor&#39;s announcements are one key part from a passenger&#39;s point of view.&lt;/li&gt;
-&lt;li&gt;Do you add music to your video? (Don&#39;t.)&lt;/li&gt;
+&lt;li&gt;Are you allowed or able to record sound in the engine? The signal sounds can be meaningful if you want to depict the driver’s role.&lt;/li&gt;
+&lt;li&gt;If you are filming a passenger train, do you want ambient sound from the passenger side as well? The conductor’s announcements are one key part from a passenger’s point of view.&lt;/li&gt;
+&lt;li&gt;Do you add music to your video? (Don’t.)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Editing&lt;/h2&gt;
 &lt;p&gt;Alright, you have all the footage in the can, but we are not done!&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Maybe the video should have an introduction of the route or the train? These can be valuable to place the viewer.&lt;/li&gt;
-&lt;li&gt;During the trip, the train stops at a station. Do you include the whole time the train is standing still, cut it away, or fast-forward? Sure, it&#39;s very boring to just wait there for a few minutes, but it&#39;s also not &amp;quot;realistic&amp;quot; to skip it. You could also add a countdown timer telling when the train is about to depart and let the viewer skip the wait if they choose so.
+&lt;li&gt;During the trip, the train stops at a station. Do you include the whole time the train is standing still, cut it away, or fast-forward? Sure, it’s very boring to just wait there for a few minutes, but it’s also not “realistic” to skip it. You could also add a countdown timer telling when the train is about to depart and let the viewer skip the wait if they choose so.
 &lt;ul&gt;
 &lt;li&gt;A very long tunnel appears. Cameras have trouble adapting to darkness, and the following two minutes are just darkness? Do you cut that?&lt;/li&gt;
 &lt;li&gt;The train has to make an unscheduled stop in the middle of nowhere. Do you fast-forward or cut that?&lt;/li&gt;
@@ -285,13 +303,13 @@
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
-&lt;li&gt;Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these, but it&#39;s a ton of work.&lt;/li&gt;
+&lt;li&gt;Are you educating the viewer about things the driver needs to observe? Speed limits, signals, etc. You could label all these, but it’s a ton of work.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Some sort of conclusion&lt;/h2&gt;
 &lt;p&gt;The list of decisions here is not an exhaustive list, but what came to mind watching these videos. A more free-form video would have a ton more decisions to make, including editing multiple shots together, pacing, and sound design.&lt;/p&gt;
-&lt;p&gt;I guess the point I&#39;m making here is that any creative endeavor that tries to be good comes with tons of creative decisions to make. Thinking about them is easier if you have some sort of idea of the purpose of the work, or in this case who is the viewer and how to serve them. I&#39;ve seen too many time-lapse and drone videos that suffer from not having an idea and just dumping all footage they have on hand. Be a bit more mindful!&lt;/p&gt;
+&lt;p&gt;I guess the point I’m making here is that any creative endeavor that tries to be good comes with tons of creative decisions to make. Thinking about them is easier if you have some sort of idea of the purpose of the work, or in this case who is the viewer and how to serve them. I’ve seen too many time-lapse and drone videos that suffer from not having an idea and just dumping all footage they have on hand. Be a bit more mindful!&lt;/p&gt;
 </content>
         <pubDate>Fri, 31 Jan 2025 19:46:00 +0000</pubDate>
         <dc:creator>Oiva Eskola</dc:creator>
@@ -310,10 +328,10 @@
     
       <item>
         <title>Storytel Readerin korvaaminen Onyx Boox tabletilla</title>
-        <description>Perheessämme oli Storytelin lukulaite (Storytel Reader), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.&#39;Reader&#39; oli kelpo E ink -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo laitteen valmistuksen lopettamisesta:Strategisesta näkökulmasta katsoen ol...</description>
+        <description>Perheessämme oli Storytelin lukulaite (Storytel Reader), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.‘Reader’ oli kelpo E ink -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo laitteen valmistuksen lopettamisesta:Strategisesta näkökulmasta katsoen ol...</description>
         <content>&lt;img src=&#34;/images/2025/IMG_1677.webp&#34; alt=&#34;Vasemmalla rikkinäinen Storytel Reader, oikealla Onyx Boox Go -lukulaite&#34; width=&#34;686&#34; height=&#34;477&#34; loading=&#34;lazy&#34; /&gt;
 &lt;p&gt;Perheessämme oli Storytelin lukulaite (&lt;a href=&#34;https://www.storytel.com/fi/c/reader&#34;&gt;Storytel Reader&lt;/a&gt;), kunnes siitä hajosi näyttö. Lukulaitteiden näytöt ovat aika herkkiä.&lt;/p&gt;
-&lt;p&gt;&#39;Reader&#39; oli kelpo &lt;abbr title=&#39;&#34;sähköpaperinäyttö&#34;&#39;&gt;E ink&lt;/abbr&gt; -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.&lt;/p&gt;
+&lt;p&gt;‘Reader’ oli kelpo &lt;abbr title=&#39;&#34;sähköpaperinäyttö&#34;&#39;&gt;E ink&lt;/abbr&gt; -lukulaite, jolla pystyi lukemaan ja kuuntelemaan Storytelin tilaukseen kuuluvaa kirjavalikoimaa.&lt;/p&gt;
 &lt;p&gt;Valitettavasti Storytel oli sillä välin lopettanut laitteen valmistuksen, joten uutta ei pystynyt hankkimaan. Storytel kertoo &lt;a href=&#34;https://support.storytel.com/hc/fi/articles/13875414424732-Miksi-Storytel-Readerin-valmistus-lopetetaan&#34;&gt;laitteen valmistuksen lopettamisesta&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Strategisesta näkökulmasta katsoen olemme ohjelmistoyhtiö. Näin ollen emme jatka laitevalmistajana.&lt;/p&gt;
@@ -329,7 +347,7 @@
 &lt;p&gt;&lt;strong&gt;Voinko käyttää jotain muita lukulaitteita Storytel e-kirjojen lukemiseen? (Kindle, Onyx jne.)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Et, mutta voit lukea e-kirjoja lataamalla Storytel-sovelluksen älylaitteisiin, kuten älypuhelimiin ja tabletteihin, joissa on vähintään Android 5- tai iOS 15 -käyttöjärjestelmä.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Ilmeni, että tämä on tavallaan virheellistä tietoa. Nyt mennään määritelmäkysymyksiin, mutta esimerkiksi hankkimamme &lt;a href=&#34;https://shop.boox.com/products/gocolor7&#34;&gt;Onyx Boox Go Color&lt;/a&gt; on &amp;quot;Android-tabletti&amp;quot;, mutta se on &lt;em&gt;myös&lt;/em&gt; &amp;quot;lukulaite&amp;quot;, koska siinä on E ink -näyttö.&lt;/p&gt;
+&lt;p&gt;Ilmeni, että tämä on tavallaan virheellistä tietoa. Nyt mennään määritelmäkysymyksiin, mutta esimerkiksi hankkimamme &lt;a href=&#34;https://shop.boox.com/products/gocolor7&#34;&gt;Onyx Boox Go Color&lt;/a&gt; on “Android-tabletti”, mutta se on &lt;em&gt;myös&lt;/em&gt; “lukulaite”, koska siinä on E ink -näyttö.&lt;/p&gt;
 &lt;p&gt;Boox Go -tabletissa on Google Play -sovelluskauppa ja &lt;a href=&#34;https://play.google.com/store/apps/details?id=grit.storytel.app&amp;amp;hl=fi&amp;amp;pli=1&#34;&gt;Storytelin applikaatio on tarjolla Play -kaupassa&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Storytelin asentaminen ei siis vaadi muuta kikkailua tai hakkerointia kuin kirjautumisen Google-tunnuksilla ja sovelluksen lataamisen kaupasta lukulaitteeseen.&lt;/p&gt;
 &lt;p&gt;Saman pitäisi onnistua myös Onyx Boox Page -tabletilla, mutta tätä en ole kokeillut.&lt;/p&gt;
@@ -355,11 +373,11 @@
 &lt;p&gt;En ole tutkinut saisiko ongelman nappien kanssa kierrettyä jotenkin muuten, mutta sivun vaihtaminen toimii myös näytöstä tökkäämällä.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Play-kaupan Storytel-sovellus ei ole ihan yksi yhteen sama kuin Readerissä ollut sovellus. Sovellus ei ole varsinaisesti suunniteltu E ink -näytöille, vaan &amp;quot;tavallisille&amp;quot; tableteille. Esimerkiksi Storytelin etusivulla pyörii animaatioita, jotka eivät oikein toimi E ink -näytöllä.&lt;/p&gt;
+&lt;p&gt;Play-kaupan Storytel-sovellus ei ole ihan yksi yhteen sama kuin Readerissä ollut sovellus. Sovellus ei ole varsinaisesti suunniteltu E ink -näytöille, vaan “tavallisille” tableteille. Esimerkiksi Storytelin etusivulla pyörii animaatioita, jotka eivät oikein toimi E ink -näytöllä.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Näyttö on tarkka, mutta oletusasetuksilla Storytel-sovelluksen teksti näyttää minun silmään hieman suttuiselta. Tähän vaikuttaa useampi eri asetus tabletin &amp;quot;E-ink Centerissä&amp;quot;, muun muassa applikaatiokohtainen näytön tarkkuus, jolla saa skaalattua koko applikaatiota isommaksi tai pienemmäksi.&lt;/p&gt;
-&lt;p&gt;Parhaan lopputuloksen saa vain kokeilemalla eri asetuksia. Meillä on käytössä ainakin &amp;quot;High Contrast&amp;quot; ja &amp;quot;DPI Setting 350&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Näyttö on tarkka, mutta oletusasetuksilla Storytel-sovelluksen teksti näyttää minun silmään hieman suttuiselta. Tähän vaikuttaa useampi eri asetus tabletin “E-ink Centerissä”, muun muassa applikaatiokohtainen näytön tarkkuus, jolla saa skaalattua koko applikaatiota isommaksi tai pienemmäksi.&lt;/p&gt;
+&lt;p&gt;Parhaan lopputuloksen saa vain kokeilemalla eri asetuksia. Meillä on käytössä ainakin “High Contrast” ja “DPI Setting 350”.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Miksi Onyx Boox Go on niin kallis?&lt;/h2&gt;
@@ -383,10 +401,10 @@
     
       <item>
         <title>Mastodon vs. Threads vs. Bluesky</title>
-        <description>Mainiossa Vikasietotila-podcastissa oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: Apple Podcast / Spotify). Mukana oli myös mementomori.social Mastodon-instanssia pyörittävä Rolle.Siirryin itse Twitteristä Mastodoniin 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitt...</description>
-        <content>&lt;p&gt;Mainiossa &lt;a href=&#34;https://vikasietoti.la/&#34;&gt;Vikasietotila-podcastissa&lt;/a&gt; oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (&amp;quot;Post-Twitter, osa 2: Threads, Mastodon ja Bluesky&amp;quot;: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/post-twitter-osa-2-threads-mastodon-ja-bluesky/id1603294439?i=1000654605144&#34;&gt;Apple Podcast&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/episode/2jL345uQyuhdGjM4OPKa93&#34;&gt;Spotify&lt;/a&gt;). Mukana oli myös &lt;a href=&#34;https://mementomori.social&#34;&gt;mementomori.social&lt;/a&gt; Mastodon-instanssia pyörittävä &lt;a href=&#34;https://mementomori.social/@rolle&#34;&gt;Rolle&lt;/a&gt;.&lt;/p&gt;
+        <description>Mainiossa Vikasietotila-podcastissa oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (“Post-Twitter, osa 2: Threads, Mastodon ja Bluesky”: Apple Podcast / Spotify). Mukana oli myös mementomori.social Mastodon-instanssia pyörittävä Rolle.Siirryin itse Twitteristä Mastodoniin 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitterissä seu...</description>
+        <content>&lt;p&gt;Mainiossa &lt;a href=&#34;https://vikasietoti.la/&#34;&gt;Vikasietotila-podcastissa&lt;/a&gt; oli viime keväänä hyvä jakso Twitterin korvaajien, eli Mastodonin, Threadsin, ja Blueskyn eroista (“Post-Twitter, osa 2: Threads, Mastodon ja Bluesky”: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/post-twitter-osa-2-threads-mastodon-ja-bluesky/id1603294439?i=1000654605144&#34;&gt;Apple Podcast&lt;/a&gt; / &lt;a href=&#34;https://open.spotify.com/episode/2jL345uQyuhdGjM4OPKa93&#34;&gt;Spotify&lt;/a&gt;). Mukana oli myös &lt;a href=&#34;https://mementomori.social&#34;&gt;mementomori.social&lt;/a&gt; Mastodon-instanssia pyörittävä &lt;a href=&#34;https://mementomori.social/@rolle&#34;&gt;Rolle&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Siirryin itse Twitteristä &lt;a href=&#34;https://toot.community/@oivaeskola&#34;&gt;Mastodoniin&lt;/a&gt; 2022 lopussa. Twitterissä seuraamistani ihmisistä iso osa teki samoin – arvioin joskus, että noin kolmannes Twitterissä seuraamistani &lt;em&gt;aktiivisista&lt;/em&gt; tileistä oli muuttanut Mastodoniin, mutta en muista enää mistä sain numerot. En ole vielä kokenut tarpeelliseksi kokeilla Threadsiä tai Blueskyta.&lt;/p&gt;
-&lt;p&gt;Threadsistä muualle jaetut linkit ovat kokemukseni perusteella olleet &amp;quot;hauska juttu mitä lapseni sanoi&amp;quot; yms. kevyempää hupsuttelua. Hyvä toki, että näille on paikka LinkedInin lisäksi.&lt;/p&gt;
+&lt;p&gt;Threadsistä muualle jaetut linkit ovat kokemukseni perusteella olleet “hauska juttu mitä lapseni sanoi” yms. kevyempää hupsuttelua. Hyvä toki, että näille on paikka LinkedInin lisäksi.&lt;/p&gt;
 &lt;p&gt;Kyseisen podcast-jakson jälkeen Bluesky on kasvanut suht paljon, tai ainakin pöhinä sen ympärillä vaikuttaa siltä. Monet tekniikan alan ihmiset tuntuvat ottaneet Blueskyn Mastodonin rinnalle.&lt;/p&gt;
 &lt;p&gt;Myös Mastodon ottaa välillä kasvupyrähdyksiä, usein kun joku ihmisryhmä päättää jättää Twitterin.&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 30px 30px;&#34;&gt;
@@ -411,10 +429,10 @@
     
       <item>
         <title>Youtube recommendations</title>
-        <description>I&#39;ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it&#39;s that there&#39;s been little else to do lately.Youtube is finding more videos in random categories I didn&#39;t know were a thing but I find intereseting. I thought I&#39;d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today&#39;s rec...</description>
-        <content>&lt;p&gt;I&#39;ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it&#39;s that there&#39;s been little else to do lately.&lt;/p&gt;
-&lt;p&gt;Youtube is finding more videos in random categories I didn&#39;t know were a thing but I find intereseting. I thought I&#39;d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today&#39;s recommendation:&lt;/p&gt;
-&lt;h2&gt;Daniel Duskin&#39;s mixing videos:&lt;/h2&gt;
+        <description>I’ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it’s that there’s been little else to do lately.Youtube is finding more videos in random categories I didn’t know were a thing but I find intereseting. I thought I’d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today’s rec...</description>
+        <content>&lt;p&gt;I’ve been watching a lot more Youtube lately. Maybe their algorithms have gotten better at recommending interesting videos or maybe it’s that there’s been little else to do lately.&lt;/p&gt;
+&lt;p&gt;Youtube is finding more videos in random categories I didn’t know were a thing but I find intereseting. I thought I’d share a couple of them. Of course as with anything on Youtube, these are wildly popular within their niche and might be old news. Anyway, today’s recommendation:&lt;/p&gt;
+&lt;h2&gt;Daniel Duskin’s mixing videos:&lt;/h2&gt;
 &lt;iframe
 width=&#34;560&#34;
 height=&#34;315&#34;
@@ -424,9 +442,9 @@ frameborder=&#34;0&#34;
 allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; 
 allowfullscreen
 loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Daniel is a mixing engineer (selling sound mixing services) and he demonstrates his skills on Youtube by strapping a GoPro to his head and fliming himself mixing classic songs on an analog mixing console. Like Queen&#39;s &amp;quot;Don&#39;t Stop Me Now&amp;quot; above.&lt;/p&gt;
-&lt;p&gt;Daniel doesn&#39;t try to replicate the original songs but does a quick, maybe even better, mix from individual instrument tracks (sourced where???). It&#39;s wild to see and hear how a song comes together with each new instrument.&lt;/p&gt;
-&lt;p&gt;Another video of mixing The Doobie Brothers&#39; &amp;quot;Long Train Running&amp;quot; has explanations of what he&#39;s doing although heavy with mixing lingo:&lt;/p&gt;
+&lt;p&gt;Daniel is a mixing engineer (selling sound mixing services) and he demonstrates his skills on Youtube by strapping a GoPro to his head and fliming himself mixing classic songs on an analog mixing console. Like Queen’s “Don’t Stop Me Now” above.&lt;/p&gt;
+&lt;p&gt;Daniel doesn’t try to replicate the original songs but does a quick, maybe even better, mix from individual instrument tracks (sourced where???). It’s wild to see and hear how a song comes together with each new instrument.&lt;/p&gt;
+&lt;p&gt;Another video of mixing The Doobie Brothers’ “Long Train Running” has explanations of what he’s doing although heavy with mixing lingo:&lt;/p&gt;
 &lt;iframe
 width=&#34;560&#34;
 height=&#34;315&#34;
@@ -438,8 +456,8 @@ allowfullscreen
 loading=&#34;lazy&#34;
 &gt;&lt;/iframe&gt;
 &lt;p&gt;Daniel makes mixing look so easy and effortless. Of course one thing to note is that the source material on these videos is super good.&lt;/p&gt;
-&lt;p&gt;A lot of effort went into composing and recording these songs and planning how all the instruments play together even before mixing. &amp;quot;Long Train Running&amp;quot; is already groovy as hell with only the drums and guitar. You wouldn&#39;t be able to quickly mix ten garbage tracks and make the song &lt;em&gt;sing&lt;/em&gt; the same way.&lt;/p&gt;
-&lt;h2&gt;Bonus round: Nile Rodgers Tells The Story of &amp;quot;Let&#39;s Dance&amp;quot;&lt;/h2&gt;
+&lt;p&gt;A lot of effort went into composing and recording these songs and planning how all the instruments play together even before mixing. “Long Train Running” is already groovy as hell with only the drums and guitar. You wouldn’t be able to quickly mix ten garbage tracks and make the song &lt;em&gt;sing&lt;/em&gt; the same way.&lt;/p&gt;
+&lt;h2&gt;Bonus round: Nile Rodgers Tells The Story of “Let’s Dance”&lt;/h2&gt;
 &lt;iframe
 width=&#34;560&#34;
 height=&#34;315&#34;
@@ -449,7 +467,7 @@ frameborder=&#34;0&#34;
 allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;
 allowfullscreen
 loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie&#39;s simple guitar riff and turned it into &amp;quot;&lt;a href=&#34;https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_song)&#34;&gt;Let&#39;s Dance&lt;/a&gt;&amp;quot;, a massive hit in 1982. Pure magic.&lt;/p&gt;
+&lt;p&gt;This is a quick, heartwarming story of how Nile Rodgers, one of all-time best guitarists and artists took David Bowie’s simple guitar riff and turned it into “&lt;a href=&#34;https://en.wikipedia.org/wiki/Let%27s_Dance_(David_Bowie_song)&#34;&gt;Let’s Dance&lt;/a&gt;”, a massive hit in 1982. Pure magic.&lt;/p&gt;
 </content>
         <pubDate>Sun, 28 Jun 2020 15:00:00 +0000</pubDate>
         <dc:creator>Oiva Eskola</dc:creator>
@@ -466,13 +484,13 @@ loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
     
       <item>
         <title>Technical learnings from InfoToggle</title>
-        <description>I&#39;ve been building a SaaS product called InfoToggle as a side project. Myprevious post has details on what it is and what itdoes.As a programmer having a side project is a good way to learn new technologiesthat you might not come across in your regular job. Having a project meansthere&#39;s a clear problem you want to solve and you get to choose the mostsuitable tools to solve it.In the context of InfoToggle I had a chance to learnmultiple new too...</description>
-        <content>&lt;p&gt;I&#39;ve been building a SaaS product called InfoToggle as a side project. My
+        <description>I’ve been building a SaaS product called InfoToggle as a side project. Myprevious post has details on what it is and what itdoes.As a programmer having a side project is a good way to learn new technologiesthat you might not come across in your regular job. Having a project meansthere’s a clear problem you want to solve and you get to choose the mostsuitable tools to solve it.In the context of InfoToggle I had a chance to learnmultiple new too...</description>
+        <content>&lt;p&gt;I’ve been building a SaaS product called InfoToggle as a side project. My
 &lt;a href=&#34;/2019/10/21/infotoggle/&#34;&gt;previous post&lt;/a&gt; has details on what it is and what it
 does.&lt;/p&gt;
 &lt;p&gt;As a programmer having a side project is a good way to learn new technologies
 that you might not come across in your regular job. Having a &lt;em&gt;project&lt;/em&gt; means
-there&#39;s a clear problem you want to solve and you get to choose the most
+there’s a clear problem you want to solve and you get to choose the most
 suitable tools to solve it.&lt;/p&gt;
 &lt;p&gt;In the context of &lt;a href=&#34;https://infotoggle.com&#34;&gt;InfoToggle&lt;/a&gt; I had a chance to learn
 multiple new tools, including Laravel, Docker, React Hooks, Stripe, and some
@@ -480,56 +498,56 @@ AWS features like CloudFront.&lt;/p&gt;
 &lt;h2&gt;Laravel: thumbs up&lt;/h2&gt;
 &lt;p&gt;A big initial impetus for this whole project was to test out &lt;a href=&#34;https://laravel.com&#34;&gt;Laravel
 framework&lt;/a&gt;. I had heard many good things about it and
-wanted to see what a &lt;em&gt;modern&lt;/em&gt; PHP framework would look like. I&#39;e used Zend
-Framework in my jobby job and it works there but it&#39;s no fun to use really.&lt;/p&gt;
-&lt;p&gt;Laravel&#39;s tagline &amp;quot;freeing you to create without sweating the small things&amp;quot;
+wanted to see what a &lt;em&gt;modern&lt;/em&gt; PHP framework would look like. I’e used Zend
+Framework in my jobby job and it works there but it’s no fun to use really.&lt;/p&gt;
+&lt;p&gt;Laravel’s tagline “freeing you to create without sweating the small things”
 is pretty spot on. The framework has a lot of built-in functionality and
 sensible defaults for creating basic web apps. Creating new routes,
 controllers, database migrations, and events is all very streamlined.&lt;/p&gt;
 &lt;p&gt;Occasionally some of the inner workings of Laravel might feel a bit too magical
 which might become a problem in a bigger web app. The call stacks for some of
-the errors are *wild* but mostly &lt;em&gt;it just works&lt;/em&gt; and it&#39;s fast enough for a
-basic web app. Laravel&#39;s documentation is also pretty good, at least compared to
+the errors are *wild* but mostly &lt;em&gt;it just works&lt;/em&gt; and it’s fast enough for a
+basic web app. Laravel’s documentation is also pretty good, at least compared to
 Zend.&lt;/p&gt;
 &lt;h2&gt;Technical Challenges with Stripe&lt;/h2&gt;
 &lt;p&gt;One of the biggest hurdles was building the subscription system. Billing happens
 through &lt;a href=&#34;https://stripe.com&#34;&gt;Stripe&lt;/a&gt; and integrating with their subscription
 flow took a month and a half (not full time, but working hours here and there.)
-That&#39;s a pretty big chunk of time where little progress was made.&lt;/p&gt;
-&lt;p&gt;Don&#39;t get me wrong, Stripe is probably the best payment processor there is and
+That’s a pretty big chunk of time where little progress was made.&lt;/p&gt;
+&lt;p&gt;Don’t get me wrong, Stripe is probably the best payment processor there is and
 others would probably have taken far longer. The problem with Stripe was mostly
 that there are quite many different ways to create a sign up / subscription flow
 and there is no clear path to choose the correct one.&lt;/p&gt;
-&lt;p&gt;On top of that their documentation occasionally had PSD2-related warnings &amp;quot;Are
-you in Europe? Then you probably shouldn&#39;t be using this method but this other
-one here which is in beta and doesn&#39;t have the same features.&amp;quot;&lt;/p&gt;
+&lt;p&gt;On top of that their documentation occasionally had PSD2-related warnings “Are
+you in Europe? Then you probably shouldn’t be using this method but this other
+one here which is in beta and doesn’t have the same features.”&lt;/p&gt;
 &lt;h3&gt;Stripe webhook matching&lt;/h3&gt;
-&lt;p&gt;Most of Stripe&#39;s flows work by sending requests to a
+&lt;p&gt;Most of Stripe’s flows work by sending requests to a
 &lt;a href=&#34;https://stripe.com/docs/webhooks&#34;&gt;webhook&lt;/a&gt; you set up. One of the biggest
 source of my confusion was that there was no single way of matching an incoming
 webhook event to a customer.&lt;/p&gt;
-&lt;p&gt;You can tie a &amp;quot;client reference ID&amp;quot; to Stripe&#39;s customer objects (usually the
-customer&#39;s ID in your own system) but only some of the events sent back to you
+&lt;p&gt;You can tie a “client reference ID” to Stripe’s customer objects (usually the
+customer’s ID in your own system) but only some of the events sent back to you
 include the reference. Other times you are left trying to match a subscription
 ID to a ID you know or in worst case an email address.&lt;/p&gt;
-&lt;p&gt;Some of Stripe&#39;s events include a Customer ID (in Stripe&#39;s system) and once you
-can match that to a known ID you are mostly set. But for example the &amp;quot;customer
-created&amp;quot;, &amp;quot;subscription created&amp;quot;, and &amp;quot;invoice created&amp;quot; events can arrive in any
+&lt;p&gt;Some of Stripe’s events include a Customer ID (in Stripe’s system) and once you
+can match that to a known ID you are mostly set. But for example the “customer
+created”, “subscription created”, and “invoice created” events can arrive in any
 order and each has a different set of identifiers that you must keep track of
 and try to match to later requests. I still have a hundred line function whose
 only job is to match an incoming Stripe event to a customer in my database.&lt;/p&gt;
 &lt;h2&gt;Docker&lt;/h2&gt;
-&lt;p&gt;I&#39;ve avoided Docker for a very long time, mostly because in my job I have worked
+&lt;p&gt;I’ve avoided Docker for a very long time, mostly because in my job I have worked
 on just a single project where I had the development and production environments
 set up. But at this point Docker seems to be required knowledge pretty much
 everywhere so why not try it?&lt;/p&gt;
 &lt;p&gt;It seems that waiting with Docker was partly a good thing. Researching how to
 configure Docker (and Docker Compose) revealed that the configuration options
 and syntaxes haves changed at least a couple times. This made following
-tutorials quite difficult as most of the examples didn&#39;t work anymore when run
+tutorials quite difficult as most of the examples didn’t work anymore when run
 against a recent version of Docker.&lt;/p&gt;
-&lt;p&gt;What&#39;s positive about docker is that it makes deployments easy. Replicating the
-production environment is also easy although I haven&#39;t needed that apart from
+&lt;p&gt;What’s positive about docker is that it makes deployments easy. Replicating the
+production environment is also easy although I haven’t needed that apart from
 adding a separate testing environment.&lt;/p&gt;
 &lt;p&gt;Docker was also the biggest source of WTFs along with Stripe. Most of this stems
 from all Docker tutorials and examples being about building a &lt;em&gt;development&lt;/em&gt;
@@ -540,13 +558,13 @@ and on a server. In the end I needed to have two separate configurations for
 building the development environment and the production environment which feels
 a bit silly.&lt;/p&gt;
 &lt;p&gt;Another small disadvantage with Docker is that deployments on the go over a cell
-phone connection take a long time. Apparently there&#39;s quite a lot of data
+phone connection take a long time. Apparently there’s quite a lot of data
 transfer happening?&lt;/p&gt;
 &lt;h2&gt;React Hooks&lt;/h2&gt;
 &lt;p&gt;Quick shout out to &lt;a href=&#34;https://reactjs.org/docs/hooks-intro.html&#34;&gt;React Hooks&lt;/a&gt;:
 they work, and make developing basic components that much nicer. Use them.&lt;/p&gt;
-&lt;p&gt;That&#39;s it for now! Everything sort of works and I&#39;m pretty happy with the stack
-as it is. There are also many parts that didn&#39;t get a mention, maybe more on
+&lt;p&gt;That’s it for now! Everything sort of works and I’m pretty happy with the stack
+as it is. There are also many parts that didn’t get a mention, maybe more on
 those next time.&lt;/p&gt;
 </content>
         <pubDate>Thu, 31 Oct 2019 20:00:00 +0000</pubDate>
@@ -570,8 +588,8 @@ those next time.&lt;/p&gt;
     
       <item>
         <title>InfoToggle</title>
-        <description>I&#39;ve been building a product for displaying announcements and alert messages onecommerce websites, called InfoToggle. It started outas a side project and has now grown to a point where it might actually beuseful to others as well.The problem InfoToggle solves is pretty simple and is something we see in mycurrent work at POP Vakuutus quite often. We sellinsurance but a successful sale depends on multiple external systems, forexample the nationa...</description>
-        <content>&lt;p&gt;I&#39;ve been building a product for displaying announcements and alert messages on
+        <description>I’ve been building a product for displaying announcements and alert messages onecommerce websites, called InfoToggle. It started outas a side project and has now grown to a point where it might actually beuseful to others as well.The problem InfoToggle solves is pretty simple and is something we see in mycurrent work at POP Vakuutus quite often. We sellinsurance but a successful sale depends on multiple external systems, forexample the nationa...</description>
+        <content>&lt;p&gt;I’ve been building a product for displaying announcements and alert messages on
 ecommerce websites, called &lt;a href=&#34;https://infotoggle.com&#34;&gt;InfoToggle&lt;/a&gt;. It started out
 as a side project and has now grown to a point where it might actually be
 useful to others as well.&lt;/p&gt;
@@ -584,24 +602,24 @@ might and do break from time to time. Especially Trafi has a notoriously bad
 uptime record and often does unscheduled service breaks they only announce
 afterwards. During an outage we might not be able to sell a single vehicle
 insurance but such is life.&lt;/p&gt;
-&lt;p&gt;If any of these services breaks there&#39;s not much we can do but wait. One thing
+&lt;p&gt;If any of these services breaks there’s not much we can do but wait. One thing
 we &lt;em&gt;can&lt;/em&gt; do is communicate the disruption and its extent to our customers. Due
-to the ecommerce aspect it has to be done in a way that doesn&#39;t scare away
+to the ecommerce aspect it has to be done in a way that doesn’t scare away
 customers not affected by the disruption. If a disruption prevents customers
-from buying a car insurance, it&#39;s best to only inform customers about to buy
+from buying a car insurance, it’s best to only inform customers about to buy
 car insurance and preferably ask them to try again later.&lt;/p&gt;
-&lt;p&gt;Here&#39;s where InfoToggle comes in: it lets site owners create messages for
+&lt;p&gt;Here’s where InfoToggle comes in: it lets site owners create messages for
 situations like these and easily *toggle* them on. For service
 breaks known in advance a message can be timed to be visible the duration of
 the break.&lt;/p&gt;
 &lt;p&gt;Of course the messages added to your site can be whatever: announcements,
-discount codes... InfoToggle lets you add any HTML, CSS, and JS code you need
-to your site. But I feel it&#39;s useful to frame it around situations where you
+discount codes… InfoToggle lets you add any HTML, CSS, and JS code you need
+to your site. But I feel it’s useful to frame it around situations where you
 quickly need to communicate things to your customers. Once an initial set of
 messages have been defined they can easily be duplicated and modified.&lt;/p&gt;
-&lt;p&gt;Not every site needs a system like this--a good CMS will let you do all of
-this. What I&#39;m willing to bet is that there are a lot of ecommerce sites that
-don&#39;t have a good CMS :)&lt;/p&gt;
+&lt;p&gt;Not every site needs a system like this–a good CMS will let you do all of
+this. What I’m willing to bet is that there are a lot of ecommerce sites that
+don’t have a good CMS :)&lt;/p&gt;
 &lt;h2&gt;Side hustle&lt;/h2&gt;
 &lt;p&gt;InfoToggle started as and still is a side project. One motivator was to try out
 new tech (which I will expand on later) and have fun coding challenges.&lt;/p&gt;
@@ -611,12 +629,12 @@ development and marketing.&lt;/p&gt;
 any progress is a bit slow but the development combined to trying to sell a
 product gives great focus. There are countless things you could do but you have
 to choose the single most important feature (or bug) and get it done.
-I think it&#39;s also great for learning new things.&lt;/p&gt;
+I think it’s also great for learning new things.&lt;/p&gt;
 &lt;h2&gt;Going Forward&lt;/h2&gt;
-&lt;p&gt;InfoToggle is now at a point where technically it works and it&#39;s in production
+&lt;p&gt;InfoToggle is now at a point where technically it works and it’s in production
 use. There are a ton of features and improvements still to do but I also need
-to focus on marketing and selling hard. All in all it&#39;s still super early and
-we&#39;ll see how it goes. I&#39;ll keep you posted :)&lt;/p&gt;
+to focus on marketing and selling hard. All in all it’s still super early and
+we’ll see how it goes. I’ll keep you posted :)&lt;/p&gt;
 </content>
         <pubDate>Mon, 21 Oct 2019 17:20:00 +0000</pubDate>
         <dc:creator>Oiva Eskola</dc:creator>
@@ -639,27 +657,27 @@ we&#39;ll see how it goes. I&#39;ll keep you posted :)&lt;/p&gt;
     
       <item>
         <title>A Winter Mountain Bike</title>
-        <description>After some unfortunate bike-thieving-events half a year ago I was left withonly one bike: a White road bike. It&#39;s a good bike, I even scored a pair ofcarbon wheels for it.Still, one bike is hardly enough. This year I wanted to continue the cyclingseason through the winter so a winter bike was needed. I also wanted a mountainbike even though I&#39;ve spent very little time in the forest lately. But it mighthappen, you know?Could these two bikes be ...</description>
+        <description>After some unfortunate bike-thieving-events half a year ago I was left withonly one bike: a White road bike. It’s a good bike, I even scored a pair ofcarbon wheels for it.Still, one bike is hardly enough. This year I wanted to continue the cyclingseason through the winter so a winter bike was needed. I also wanted a mountainbike even though I’ve spent very little time in the forest lately. But it mighthappen, you know?Could these two bikes be ...</description>
         <content>&lt;img src=&#34;/images/2016/11/rcz-race-ra.jpg&#34; alt=&#34;RCZ Race RA&#34; width=&#34;686&#34; /&gt;
 &lt;p&gt;After some unfortunate bike-thieving-events half a year ago I was left with
-only one bike: a White road bike. It&#39;s a good bike, I even scored a pair of
+only one bike: a White road bike. It’s a good bike, I even scored a pair of
 carbon wheels for it.&lt;/p&gt;
 &lt;p&gt;Still, one bike is hardly enough. This year I wanted to continue the cycling
 season through the winter so a winter bike was needed. I also wanted a mountain
-bike even though I&#39;ve spent very little time in the forest lately. But it might
+bike even though I’ve spent very little time in the forest lately. But it might
 happen, you know?&lt;/p&gt;
-&lt;p&gt;Could these two bikes be combined? Maybe a &lt;em&gt;rigid&lt;/em&gt; mountain bike that&#39;s fast on
+&lt;p&gt;Could these two bikes be combined? Maybe a &lt;em&gt;rigid&lt;/em&gt; mountain bike that’s fast on
 the road but still survives some trails?&lt;/p&gt;
 &lt;p&gt;My last mountain bike had a suspension fork. It was nice. Trying to decide if
 having a rigid mountain bike was sane I came across this &lt;a href=&#34;https://qr.ae/pYNt7a&#34;&gt;perfect answer on Quora&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Anyway, as you might have guessed from the picture, I found a used RCZ mountain
 bike for a fair price. With a belt drive instead of chain, no suspension and no
-gears it&#39;s &lt;em&gt;very&lt;/em&gt; low maintenance and perfect for winter cycling. The tires
+gears it’s &lt;em&gt;very&lt;/em&gt; low maintenance and perfect for winter cycling. The tires
 hold OK in snow and icy asphalt. How it handles in the forest remains to be
 seen but I try not to stress too much about it.&lt;/p&gt;
 &lt;h3&gt;Update&lt;/h3&gt;
 &lt;p&gt;I did take the bike on to some trails and participated in VPCX anniversary
-competition (a local, not so serious cyclocross competition). The bike&#39;s
+competition (a local, not so serious cyclocross competition). The bike’s
 geometry was good but the gearing was really not suitable for off-road. Still a
 lot of fun.&lt;/p&gt;
 </content>
@@ -676,16 +694,16 @@ lot of fun.&lt;/p&gt;
     
       <item>
         <title>Stories about switching to Fuji</title>
-        <description>Some experiences from folks who&#39;ve switched to from Nikon to Fuji systems,something I might be doing as well. Many of these talk about Fuji&#39;s X-T1 whichis the big brother of the X-T10 I&#39;m interested in but also about the reasonsfor switching.What&#39;s funny is that almost all of them seem to be doing the switch afterowning a Nikon D800. That&#39;s one particularly big DSLR which might play a partin why people start looking for something smaller.Bye b...</description>
-        <content>&lt;p&gt;Some experiences from folks who&#39;ve switched to from Nikon to Fuji systems,
-something I might be doing as well. Many of these talk about Fuji&#39;s X-T1 which
-is the big brother of the X-T10 I&#39;m interested in but also about the reasons
+        <description>Some experiences from folks who’ve switched to from Nikon to Fuji systems,something I might be doing as well. Many of these talk about Fuji’s X-T1 whichis the big brother of the X-T10 I’m interested in but also about the reasonsfor switching.What’s funny is that almost all of them seem to be doing the switch afterowning a Nikon D800. That’s one particularly big DSLR which might play a partin why people start looking for something smaller.Bye b...</description>
+        <content>&lt;p&gt;Some experiences from folks who’ve switched to from Nikon to Fuji systems,
+something I might be doing as well. Many of these talk about Fuji’s X-T1 which
+is the big brother of the X-T10 I’m interested in but also about the reasons
 for switching.&lt;/p&gt;
-&lt;p&gt;What&#39;s funny is that almost all of them seem to be doing the switch after
-owning a Nikon D800. That&#39;s one particularly big DSLR which might play a part
+&lt;p&gt;What’s funny is that almost all of them seem to be doing the switch after
+owning a Nikon D800. That’s one particularly big DSLR which might play a part
 in why people start looking for something smaller.&lt;/p&gt;
 &lt;h4&gt;&lt;a href=&#34;http://bjornmoerman.blogspot.fi/2014/07/bye-bye-nikon-hello-fujifilm.html&#34;&gt;Bye bye NIKON, Hello FUJIFILM!&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Bjorn Moerman&#39;s&lt;/strong&gt; experience switching from Nikon D800 to then Fuji family.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bjorn Moerman’s&lt;/strong&gt; experience switching from Nikon D800 to then Fuji family.&lt;/p&gt;
 &lt;blockquote&gt;
 When was the last time Nikon or Canon came out with a brand new
 camera feature on a camera that has been out more than 12 months?
@@ -721,7 +739,7 @@ comfortable pulling it out on the street without attracting a lot of attention.
   snappier autofocus, higher ISO tolerance, the video capabilities.
 &lt;/blockquote&gt;
 &lt;h4&gt;&lt;a href=&#34;http://www.andymumford.co.uk/blog/switching-to-fuji-first-impressions/&#34;&gt;Switching to Fuji - First Impressions&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Andy Mumford&#39;s&lt;/strong&gt; comparison of Nikon D800E and Fuji X-T10. Many side-by-side
+&lt;p&gt;&lt;strong&gt;Andy Mumford’s&lt;/strong&gt; comparison of Nikon D800E and Fuji X-T10. Many side-by-side
 photos from both cameras&lt;/p&gt;
 &lt;blockquote&gt;
 After spending some time playing around with the images from the XT10, I&#39;m
@@ -749,20 +767,20 @@ conditions.
     
       <item>
         <title>Next camera: Nikon vs. Fujifilm</title>
-        <description>Buying a camera in 2016 is hard. What kind of camera should you buy?Should you even buy a camera anymore? Phone cameras are beginning to be verygood and they are the cameras that are literally always on you.The iPhone 6s and Google Nexuses now have 12MP camera sensors andI&#39;m sure other phones have even more ridiculous sensors. Phones still fall shortin shooting in low light where they tend to produce noisier photos. Still,shooting with a phone...</description>
+        <description>Buying a camera in 2016 is hard. What kind of camera should you buy?Should you even buy a camera anymore? Phone cameras are beginning to be verygood and they are the cameras that are literally always on you.The iPhone 6s and Google Nexuses now have 12MP camera sensors andI’m sure other phones have even more ridiculous sensors. Phones still fall shortin shooting in low light where they tend to produce noisier photos. Still,shooting with a phone...</description>
         <content>&lt;img src=&#34;/images/2016/01/nikon-d7200-vs-fuji-xt10.jpg&#34; alt=&#34;Fuji X-T10 vs. Nikon D7200&#34; width=&#34;686&#34; /&gt;
 &lt;p&gt;Buying a camera in 2016 is hard. What kind of camera should you buy?&lt;/p&gt;
 &lt;p&gt;Should you even buy a camera anymore? Phone cameras are beginning to be very
 good and they are the cameras that are literally always on you.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;http://austinmann.com/trek/iphone-6s-camera-review-switzerland&#34; title=&#34;iPhone 6s camera review&#34;&gt;iPhone 6s&lt;/a&gt; and Google Nexuses now have 12MP camera sensors and
-I&#39;m sure other phones have even more ridiculous sensors. Phones still fall short
+I’m sure other phones have even more ridiculous sensors. Phones still fall short
 in shooting in low light where they tend to produce noisier photos. Still,
 shooting with a phone hardly stops you from getting great pictures, just look at
-&lt;a href=&#34;https://www.instagram.com/austinmann/&#34;&gt;Austin Mann&#39;s Instagram feed&lt;/a&gt; for
+&lt;a href=&#34;https://www.instagram.com/austinmann/&#34;&gt;Austin Mann’s Instagram feed&lt;/a&gt; for
 example.&lt;/p&gt;
-&lt;p&gt;But let&#39;s say you want a separate camera. For one, carrying a camera helps put
+&lt;p&gt;But let’s say you want a separate camera. For one, carrying a camera helps put
 you in shooting mode. Holding a camera in my hand makes me look for photo
-opportunities, and having the camera ready means I&#39;m more likely to catch the
+opportunities, and having the camera ready means I’m more likely to catch the
 photo. While phone cameras are technically good, a camera camera usually has
 better usability for taking pictures and adjusting the settings. And shooting
 with a real camera is more &lt;em&gt;fun&lt;/em&gt;.&lt;/p&gt;
@@ -771,7 +789,7 @@ with a real camera is more &lt;em&gt;fun&lt;/em&gt;.&lt;/p&gt;
 (&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_single-slens_reflex_camera&#34; title=&#34;Wikipedia: DSLR&#34;&gt;Digital single-lens reflex camera&lt;/a&gt;
 / &lt;a href=&#34;https://en.wikipedia.org/wiki/Mirrorless_interchangeable-lens_camera&#34; title=&#34;Wikipedia: Mirrorless interchangeable-lens camera&#34;&gt;Mirrorless interchangeable-lens camera&lt;/a&gt;.)&lt;/p&gt;
 &lt;p&gt;To date, about one billion articles and blog posts have been written about
-&amp;quot;&lt;a href=&#34;https://www.google.fi/search?q=dslr+vs+mirrorless&#34; title=&#34;Google&#34;&gt;DSLR vs. mirrorless&lt;/a&gt;&amp;quot;.
+“&lt;a href=&#34;https://www.google.fi/search?q=dslr+vs+mirrorless&#34; title=&#34;Google&#34;&gt;DSLR vs. mirrorless&lt;/a&gt;”.
 To summarize them all quickly:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mirrorless cameras are smaller and lighter to carry&lt;/li&gt;
@@ -784,39 +802,39 @@ To summarize them all quickly:&lt;/p&gt;
 &lt;p&gt;Sure there are other aspects to assess like autofocus and selection of lenses
 but there the gap is getting narrower. And of course people are quick to point
 out that &lt;strong&gt;not all DSLRs&lt;/strong&gt; are big and bulky and not all mirrorless cameras are
-small and light. I get it, but that&#39;s the difference &lt;em&gt;in general&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Anyway, what&#39;s interesting reading those articles is that reasons for having a
-DSLR are moving towards &amp;quot;I&#39;m a war photographer and need the best camera there
-is.&amp;quot; And that&#39;s a valid point. Mirrorless cameras probably aren&#39;t replacing
+small and light. I get it, but that’s the difference &lt;em&gt;in general&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Anyway, what’s interesting reading those articles is that reasons for having a
+DSLR are moving towards “I’m a war photographer and need the best camera there
+is.” And that’s a valid point. Mirrorless cameras probably aren’t replacing
 high-end DSLRs. For example the bigger sensor does help get marginally better
-pictures when there&#39;s less light or you need to do extensive post-processing.
+pictures when there’s less light or you need to do extensive post-processing.
 And a DSLR is probably better if you shoot sports for a living.&lt;/p&gt;
 &lt;p&gt;But for ordinary consumers like me the mirrorless cameras are now starting to be
 just good enough, judging both picture quality and price. They are capable
-of producing high quality images in most situations without the &amp;quot;overhead&amp;quot; of
+of producing high quality images in most situations without the “overhead” of
 carrying a DSLRs with you.&lt;/p&gt;
 &lt;h3&gt;Upgrading from Nikon D90&lt;/h3&gt;
-&lt;p&gt;Most recently I&#39;ve shot with a &lt;a href=&#34;https://en.wikipedia.org/wiki/Nikon_D90&#34;&gt;Nikon
+&lt;p&gt;Most recently I’ve shot with a &lt;a href=&#34;https://en.wikipedia.org/wiki/Nikon_D90&#34;&gt;Nikon
 D90&lt;/a&gt; DSLR which I bought cheap as used.
-It was a good camera but the image quality was not quite up to today&#39;s
+It was a good camera but the image quality was not quite up to today’s
 standards. The camera was released in 2008 and sensor technology has advanced a
-bit since then. Nikon has since release three cameras in the same &amp;quot;prosumer&amp;quot;
+bit since then. Nikon has since release three cameras in the same “prosumer”
 category: &lt;strong&gt;D7000&lt;/strong&gt; (2010), &lt;strong&gt;D7100&lt;/strong&gt; (2013) and &lt;strong&gt;D7200&lt;/strong&gt; (2015).&lt;/p&gt;
 &lt;img src=&#34;/images/2016/01/D7200.jpg&#34; alt=&#34;Nikon D7200&#34; width=&#34;686&#34; /&gt;
 &lt;p&gt;Most logical upgrade path would be to purchase the D7200 or a used D7100. Their
 differences are &lt;a href=&#34;http://snapsort.com/compare/Nikon-D7100-vs-Nikon-D7200/detailed&#34;&gt;minor&lt;/a&gt;
 and both would be much better than the D90 for example in low light.&lt;/p&gt;
-&lt;p&gt;I&#39;m not tempted to upgrade to more high-end Nikon cameras or to switch to full
-frame cameras (= even bigger sensors). Nikon&#39;s prosumer line has the features I
+&lt;p&gt;I’m not tempted to upgrade to more high-end Nikon cameras or to switch to full
+frame cameras (= even bigger sensors). Nikon’s prosumer line has the features I
 imagine needing and the D7200 at 1000€ is near the upper limit for what I would
 ever pay for a camera.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/oiva/15886299454/in/dateposted-public/&#34;&gt;&lt;img src=&#34;/images/2016/01/camel.jpg&#34; alt=&#34;Camel&#34; width=&#34;686&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&#39;m not a professional photographer. I &lt;em&gt;like&lt;/em&gt; taking photos but practically
-speaking I only take some silly photos on vacations and parties and that&#39;s about
+&lt;p&gt;I’m not a professional photographer. I &lt;em&gt;like&lt;/em&gt; taking photos but practically
+speaking I only take some silly photos on vacations and parties and that’s about
 it. There are hardly any situations where the camera would be holding me back.&lt;/p&gt;
 &lt;h3&gt;A Contender Appears&lt;/h3&gt;
 &lt;img src=&#34;/images/2016/01/fuji-xt10.jpg&#34; alt=&#34;Fuji X-T10&#34; width=&#34;686&#34; /&gt;
-&lt;p&gt;I had almost convinced myself I should buy the D7200... until a friend of a
+&lt;p&gt;I had almost convinced myself I should buy the D7200… until a friend of a
 friend posted a long post on Facebook about how they &lt;em&gt;love&lt;/em&gt; their Fuji camera
 and how it totally makes you like photography again. Oh boy.&lt;/p&gt;
 &lt;p&gt;That person had a &lt;a href=&#34;http://www.dpreview.com/reviews/fujifilm-x-t1&#34;&gt;Fuji X-T1&lt;/a&gt;
@@ -825,14 +843,14 @@ Fujifilm cameras I found two other models that had very favorable reviews: the
 &lt;a href=&#34;http://www.dpreview.com/reviews/fujifilm-x-e2&#34;&gt;X-E2&lt;/a&gt; and the
 &lt;a href=&#34;http://www.dpreview.com/reviews/fujifilm-x-t10&#34;&gt;X-T10&lt;/a&gt;. The latter is a
 slightly stripped  down version of the X-T1 (no weather-sealing, smaller buffer)
-but it&#39;s also more affordable: with a 18-55mm kit lens it costs just a bit more
+but it’s also more affordable: with a 18-55mm kit lens it costs just a bit more
 than the D7200.&lt;/p&gt;
 &lt;p&gt;One key feature that makes Fujis &lt;em&gt;fun&lt;/em&gt; is repeated in several reviews: dials on
 top of the camera. The X-T10 has dials for exposure compensation, shutter speed
 and drive mode. This may not seem like a big deal, but on Nikon digital cameras
 those specific functions are handled with two anonymous front and back dials.
-What&#39;s worse, they seem to be weirdly modal: sometimes spinning the real dial
-doesn&#39;t change exposure or the front dial won&#39;t change the shutter speed.
+What’s worse, they seem to be weirdly modal: sometimes spinning the real dial
+doesn’t change exposure or the front dial won’t change the shutter speed.
 Dedicating dials with numbers on them for these functions sounds promising.&lt;/p&gt;
 &lt;p&gt;The top dials also remind me of my first serious camera, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Nikon_FA&#34;&gt;Nikon
 FA&lt;/a&gt; that I inherited from my father. It
@@ -841,7 +859,7 @@ has dials for ISO, exposure compensation, shutter speed and shooting mode:&lt;/p
 &lt;img src=&#34;/images/2016/01/nikon-fa-top.jpg&#34; alt=&#34;Nikon FA&#34; width=&#34;686&#34; /&gt;
 &lt;figcaption align=&#34;bottom&#34;&gt;Photo: &lt;a href=&#34;https://en.wikipedia.org/wiki/Nikon_FA&#34;&gt;Wikipedia&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;That&#39;s one camera I&#39;d like to use if shooting film wasn&#39;t such a hassle.&lt;/p&gt;
+&lt;p&gt;That’s one camera I’d like to use if shooting film wasn’t such a hassle.&lt;/p&gt;
 &lt;p&gt;One downside of Fuji is that their lenses are a bit expensive. There are no 200€
 FUJINON lenses similar to the &lt;a href=&#34;http://www.kenrockwell.com/nikon/35mm-f18.htm&#34;&gt;Nikkor
 35mm/1.8&lt;/a&gt; (which offers great
@@ -852,12 +870,12 @@ range, for example for the 23mm/1.4.&lt;/p&gt;
 ULTRA&lt;/a&gt; which would let
 me use my current Nikkor lenses on the Fuji. The Metabones adapter is
 interesting as it has a focal length ratio of 0.71 which combined with the
-camera&#39;s 1.5x ratio makes an effective 1.07 multiplier. So a 35mm lens with the
+camera’s 1.5x ratio makes an effective 1.07 multiplier. So a 35mm lens with the
 adapter would act as a 37mm lens. It also increases the maximum aperture by 1
 stop.&lt;/p&gt;
 &lt;p&gt;I found some interesting stories from people switching to Fuji including people
-who used to own Nikons. I could link to some of them in another post. I haven&#39;t
-made the jump yet so I&#39;m still speculating while I&#39;m saving the money. But at
+who used to own Nikons. I could link to some of them in another post. I haven’t
+made the jump yet so I’m still speculating while I’m saving the money. But at
 least the options are now interesting and seem fun!&lt;/p&gt;
 </content>
         <pubDate>Tue, 19 Jan 2016 22:44:00 +0000</pubDate>
@@ -901,8 +919,8 @@ of the maps are most popular.&lt;/p&gt;
 &lt;h3&gt;The Data&lt;/h3&gt;
 &lt;p&gt;I collected data by observing map voting until the maps had completed a
 double round-robin tournament: each map faced all other maps twice in a vote.&lt;/p&gt;
-&lt;p&gt;In practice I didn&#39;t get 100% coverage of all the possible map pairs. Some maps
-just don&#39;t come up often enough in voting and waiting for those pairs to play
+&lt;p&gt;In practice I didn’t get 100% coverage of all the possible map pairs. Some maps
+just don’t come up often enough in voting and waiting for those pairs to play
 out would have taken a very long time.&lt;/p&gt;
 &lt;p&gt;In the end I observed 193 map pairs out of the 256 possible (75% coverage).
 This gave enough data to see which maps tend to win, but certain groups of maps
@@ -1021,7 +1039,7 @@ a vote. On the other end of the spectrum &lt;em&gt;Aftermath&lt;/em&gt; was a cl
 winning a vote against any of the other maps.&lt;/p&gt;
 &lt;p&gt;The random line is interesting. If given an option below the random line people
 are more likely to vote for random in order to possibly get one of the four
-&amp;quot;good&amp;quot; maps above it. The maps above the line nearly always beat random in a
+“good” maps above it. The maps above the line nearly always beat random in a
 vote. &lt;strong&gt;If players were given a free choice they would probably just play the
 top-4 maps&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;As mentioned before, some maps were really close and could easily have changed
@@ -1031,9 +1049,9 @@ order given slightly different votes or more data. &lt;em&gt;Carrier&lt;/em&gt; 
 equally as good.&lt;/p&gt;
 &lt;p&gt;Personally I feel the results are OK. &lt;em&gt;Nuketown&lt;/em&gt; &lt;strong&gt;is&lt;/strong&gt; a really fun map with
 many ways to play it and limited sniper action. And I dislike &lt;em&gt;Drone&lt;/em&gt;
-because it&#39;s mostly a sniper map with some anemic close combat action
+because it’s mostly a sniper map with some anemic close combat action
 but apparently it has some fans.&lt;/p&gt;
-&lt;p&gt;I&#39;m sure Treyarch would have a lot more data about this but I haven&#39;t come
+&lt;p&gt;I’m sure Treyarch would have a lot more data about this but I haven’t come
 across any official rankings. If some previous work exists or you have better
 data hit me up on &lt;a href=&#34;https://twitter.com/oiva&#34;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
 </content>
@@ -1048,7 +1066,7 @@ data hit me up on &lt;a href=&#34;https://twitter.com/oiva&#34;&gt;Twitter&lt;/a
     
       <item>
         <title>Airbnb is a reservation tool</title>
-        <description>  &lt;img    src=&#34;/images/2015/croatia-1.jpg&#34;    srcset=&#34;/images/2015/croatia-1.5.jpg 1.5x,            /images/2015/croatia.jpg 2x&#34;    alt=&#34;Road in Croatia&#34;    width=&#34;686&#34;    style=&#34;margin-bottom: 1.5rem&#34;  /&gt;During a recent road trip to Croatia we booked most of our accommodationthrough Airbnb. We hadn&#39;t booked anything inadvance and at the height of the summer season there were no cheap hotels left.Airbnb had much more choice and prices were rea...</description>
+        <description>  &lt;img    src=&#34;/images/2015/croatia-1.jpg&#34;    srcset=&#34;/images/2015/croatia-1.5.jpg 1.5x,            /images/2015/croatia.jpg 2x&#34;    alt=&#34;Road in Croatia&#34;    width=&#34;686&#34;    style=&#34;margin-bottom: 1.5rem&#34;  /&gt;During a recent road trip to Croatia we booked most of our accommodationthrough Airbnb. We hadn’t booked anything inadvance and at the height of the summer season there were no cheap hotels left.Airbnb had much more choice and prices were rea...</description>
         <content>&lt;picture&gt;
   &lt;img
     src=&#34;/images/2015/croatia-1.jpg&#34;
@@ -1060,7 +1078,7 @@ data hit me up on &lt;a href=&#34;https://twitter.com/oiva&#34;&gt;Twitter&lt;/a
   /&gt;
 &lt;/picture&gt;
 &lt;p&gt;During a recent road trip to Croatia we booked most of our accommodation
-through &lt;a href=&#34;https://www.airbnb.com/&#34;&gt;Airbnb&lt;/a&gt;. We hadn&#39;t booked anything in
+through &lt;a href=&#34;https://www.airbnb.com/&#34;&gt;Airbnb&lt;/a&gt;. We hadn’t booked anything in
 advance and at the height of the summer season there were no cheap hotels left.
 Airbnb had much more choice and prices were reasonable if not cheap.&lt;/p&gt;
 &lt;p&gt;This was my first time of really using Airbnb and I was surprised to find out
@@ -1071,13 +1089,13 @@ a hotel minus the breakfast.&lt;/p&gt;
 renting out their flats but it seems these companies just use Airbnb as an
 additional sales channel. The same apartments could have been booked for
 example through booking.com.&lt;/p&gt;
-&lt;p&gt;Not that there&#39;s anything wrong with that. It was just a bit surprising
-considering the image I had of Airbnb. It&#39;s understandable that touristy cities
+&lt;p&gt;Not that there’s anything wrong with that. It was just a bit surprising
+considering the image I had of Airbnb. It’s understandable that touristy cities
 have lots of apartments to rent and they are sold through any channel possible.&lt;/p&gt;
-&lt;p&gt;One downside of this is that many of the places we looked didn&#39;t have reviews
+&lt;p&gt;One downside of this is that many of the places we looked didn’t have reviews
 on Airbnb but they might have had on other booking sites. Airbnb also hides the
 exact location of the apartments prior to booking them which seems a bit
-unnecessary given they are not anyone&#39;s homes. Anyway, one lesson learned
+unnecessary given they are not anyone’s homes. Anyway, one lesson learned
 again.&lt;/p&gt;
 </content>
         <pubDate>Tue, 11 Aug 2015 12:26:00 +0000</pubDate>
@@ -1091,14 +1109,14 @@ again.&lt;/p&gt;
     
       <item>
         <title>Back to Work Reading List</title>
-        <description>Back to Work is a great podcast about productivity,communication and many other things. From time to time the hosts Dan and Merlinrecommend books and comics they&#39;ve read. The books cover a wide range as well,from Buddhism to Unix to cooking.Personally I like book recommendations and reading stuff at least someone hasdeemed worthy. So I created a small script thatscrapes all the book recommendations from Back to Work&#39;s feed andassembles Back to...</description>
+        <description>Back to Work is a great podcast about productivity,communication and many other things. From time to time the hosts Dan and Merlinrecommend books and comics they’ve read. The books cover a wide range as well,from Buddhism to Unix to cooking.Personally I like book recommendations and reading stuff at least someone hasdeemed worthy. So I created a small script thatscrapes all the book recommendations from Back to Work’s feed andassembles Back to...</description>
         <content>&lt;p&gt;&lt;a href=&#34;http://5by5.tv/b2w&#34;&gt;Back to Work&lt;/a&gt; is a great podcast about productivity,
 communication and many other things. From time to time the hosts Dan and Merlin
-recommend books and comics they&#39;ve read. The books cover a wide range as well,
+recommend books and comics they’ve read. The books cover a wide range as well,
 from Buddhism to Unix to cooking.&lt;/p&gt;
 &lt;p&gt;Personally I like book recommendations and reading stuff at least someone has
 deemed worthy. So I created a &lt;a href=&#34;https://github.com/oiva/b2w&#34;&gt;small script&lt;/a&gt; that
-scrapes all the book recommendations from Back to Work&#39;s feed and
+scrapes all the book recommendations from Back to Work’s feed and
 assembles &lt;a href=&#34;http://oivaeskola.fi/b2w/&#34;&gt;Back to Work Reading List&lt;/a&gt;. Hope you find
 it useful!&lt;/p&gt;
 </content>
@@ -1115,33 +1133,33 @@ it useful!&lt;/p&gt;
     
       <item>
         <title>Does Meditation Suppress Bad Memories?</title>
-        <description>The other day I stumbled upon a Facebook argument about meditation: is itabout suppressing bad memories, or processing bad memories? The personthinking meditation suppresses memories naturally considered it harmful, and apossibly dangerous fad.IANAB (I&#39;m not a Buddhist) and my experience in meditation is very limited, butI&#39;d be willing to argue meditation is neither. It&#39;s more about being ready whenthe next bad thing happens. Or a good thing f...</description>
+        <description>The other day I stumbled upon a Facebook argument about meditation: is itabout suppressing bad memories, or processing bad memories? The personthinking meditation suppresses memories naturally considered it harmful, and apossibly dangerous fad.IANAB (I’m not a Buddhist) and my experience in meditation is very limited, butI’d be willing to argue meditation is neither. It’s more about being ready whenthe next bad thing happens. Or a good thing f...</description>
         <content>&lt;p&gt;The other day I stumbled upon a Facebook argument about meditation: is it
 about &lt;em&gt;suppressing&lt;/em&gt; bad memories, or &lt;em&gt;processing&lt;/em&gt; bad memories? The person
 thinking meditation suppresses memories naturally considered it harmful, and a
 possibly dangerous fad.&lt;/p&gt;
-&lt;p&gt;IANAB (I&#39;m not a Buddhist) and my experience in meditation is very limited, but
-I&#39;d be willing to argue meditation is neither. It&#39;s more about being ready when
+&lt;p&gt;IANAB (I’m not a Buddhist) and my experience in meditation is very limited, but
+I’d be willing to argue meditation is neither. It’s more about being ready when
 the next bad thing happens. Or a good thing for that matter.&lt;/p&gt;
 &lt;p&gt;The reward from meditation is to gain clarity and to be ready for whatever life
-throws you. Sometimes life throws you lemons and it pays to realize that it&#39;s
+throws you. Sometimes life throws you lemons and it pays to realize that it’s
 something that does happen from time to time, that it might not even be
 anything to get angry at, and maybe even see the lemonade-making opportunities
 that await you.&lt;/p&gt;
-&lt;p&gt;There are certain aspects of meditation that might give a &#39;thought suppression&#39;
+&lt;p&gt;There are certain aspects of meditation that might give a ‘thought suppression’
 vibe. From
-&lt;a href=&#34;http://en.wikipedia.org/wiki/Meditation&#34;&gt;Wikipedia&#39;s great meditation article&lt;/a&gt;:&lt;/p&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Meditation&#34;&gt;Wikipedia’s great meditation article&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote cite=&#34;http://en.wikipedia.org/wiki/Meditation&#34;&gt;
   &lt;p&gt;Meditation often involves an internal effort to self-regulate the mind in 
      some way. Meditation is often used to clear the mind ...&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;But in this context clearing your mind or self-regulating your thoughts
-does not mean &lt;em&gt;not&lt;/em&gt; thinking certain thoughts you feel are &#39;bad&#39;.&lt;/p&gt;
+does not mean &lt;em&gt;not&lt;/em&gt; thinking certain thoughts you feel are ‘bad’.&lt;/p&gt;
 &lt;p&gt;The point of meditation exercises is to build a transparent layer between your
-thoughts and you. That layer&#39;s job is to detect and acknowledge the thoughts that run
+thoughts and you. That layer’s job is to detect and acknowledge the thoughts that run
 through your mind, to understand how they make you feel and why, and to assess
-if there&#39;s any real reason to get upset about that email you got.&lt;/p&gt;
-&lt;p&gt;All in all, I&#39;m a bit more positive about using meditation to process memories,
+if there’s any real reason to get upset about that email you got.&lt;/p&gt;
+&lt;p&gt;All in all, I’m a bit more positive about using meditation to process memories,
 but way more using it as a tool to better survive everyday life without stress
 and being prepared for any possible future.&lt;/p&gt;
 </content>
@@ -1156,44 +1174,44 @@ and being prepared for any possible future.&lt;/p&gt;
     
       <item>
         <title>Trade one hour of your time for one solid idea</title>
-        <description>You go into the woods and come back with an idea. How does that work?Walking. The answer&#39;s walking. For walking an hour in the woods you are  guaranteed at least one actionable idea.Now, this is my personal experience. It&#39;s not a scientific fact (that I know of). There does exist some walking related research (see links at the end) that could be summarized: walking increases creativity and relieves stress. So.What kind of ideas are we talking ...</description>
+        <description>You go into the woods and come back with an idea. How does that work?Walking. The answer’s walking. For walking an hour in the woods you are  guaranteed at least one actionable idea.Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (see links at the end) that could be summarized: walking increases creativity and relieves stress. So.What kind of ideas are we talking ...</description>
         <content>&lt;p&gt;You go into the woods and come back with an idea. How does that work?&lt;/p&gt;
-&lt;p&gt;Walking. The answer&#39;s walking. For walking &lt;strong&gt;an hour in the woods&lt;/strong&gt; you are  guaranteed at least &lt;strong&gt;one actionable idea&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Now, this is my personal experience. It&#39;s not a scientific fact (that I know of). There does exist some walking related research (&lt;a href=&#34;#bonus-round-research&#34;&gt;see links at the end&lt;/a&gt;) that could be summarized: walking increases creativity and relieves stress. So.&lt;/p&gt;
+&lt;p&gt;Walking. The answer’s walking. For walking &lt;strong&gt;an hour in the woods&lt;/strong&gt; you are  guaranteed at least &lt;strong&gt;one actionable idea&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (&lt;a href=&#34;#bonus-round-research&#34;&gt;see links at the end&lt;/a&gt;) that could be summarized: walking increases creativity and relieves stress. So.&lt;/p&gt;
 &lt;h3&gt;What kind of ideas are we talking about?&lt;/h3&gt;
-&lt;p&gt;Examples of ideas I&#39;ve had while walking:&lt;/p&gt;
+&lt;p&gt;Examples of ideas I’ve had while walking:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A simple solution for that one programming problem at work&lt;/li&gt;
-&lt;li&gt;How to improve our client&#39;s processes. (Really a small thing the computer could do when we push new versions live but it solves one really old problem.)&lt;/li&gt;
+&lt;li&gt;How to improve our client’s processes. (Really a small thing the computer could do when we push new versions live but it solves one really old problem.)&lt;/li&gt;
 &lt;li&gt;What blog posts to write. Sometimes blog posts basically write themselves. The trouble is writing the ideas down.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://oivaeskola.fi/2015/02/23/moving-the-blog/&#34;&gt;What to do with my website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;How to word a presentation&lt;/li&gt;
 &lt;li&gt;Tons of new startup ideas :)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;To generalize, it&#39;s usually stuff you&#39;ve already thought about for a while, sometimes subconsciously. You might know the problem but not the answer.&lt;/p&gt;
+&lt;p&gt;To generalize, it’s usually stuff you’ve already thought about for a while, sometimes subconsciously. You might know the problem but not the answer.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Clarity&lt;/em&gt; is a good word for it. Things become clear. You know what to do, how to do it, and what not to do.&lt;/p&gt;
 &lt;h3&gt;A whole hour though?&lt;/h3&gt;
-&lt;p&gt;I know, one hour is a long time to take out of a day for doing &amp;quot;nothing&amp;quot;.  You could also stay home and spend one hour brute-forcing your way through your life&#39;s little problems. Walking is more fun.&lt;/p&gt;
-&lt;p&gt;Why a one-hour walk works is this: after 30 minutes of walking in one direction your brain goes: &lt;em&gt;&amp;quot;Hmm, we are kinda far away from home. I guess there isn&#39;t much more to do than to just keep walking until we get back home.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This brief moment of your brain turning off is the valuable part.&lt;/strong&gt; It&#39;s a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days.&lt;/p&gt;
+&lt;p&gt;I know, one hour is a long time to take out of a day for doing “nothing”.  You could also stay home and spend one hour brute-forcing your way through your life’s little problems. Walking is more fun.&lt;/p&gt;
+&lt;p&gt;Why a one-hour walk works is this: after 30 minutes of walking in one direction your brain goes: &lt;em&gt;“Hmm, we are kinda far away from home. I guess there isn’t much more to do than to just keep walking until we get back home.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This brief moment of your brain turning off is the valuable part.&lt;/strong&gt; It’s a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days.&lt;/p&gt;
 &lt;p&gt;This pause from actively doing stuff or reading Twitter lets you pick up stuff from your subconscious, think it through, and piece something sensible together.&lt;/p&gt;
 &lt;p&gt;Sure, you could maybe achieve the same in less time. But consider this old Zen proverb:&lt;/p&gt;
 &lt;blockquote cite=&#34;http://buddhism.stackexchange.com/questions/5632/who-said-if-you-are-too-busy-meditate-for-two-hours&#34;&gt;&lt;p&gt;You should sit in meditation for 20 minutes a day. Unless you&#39;re too busy, then you should sit for an hour.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;A busy brain needs more time to unwind. Dont&#39; get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it&#39;s a great way to boost your creativity when you know you need to do something... creative. But often it&#39;s like they say in Inception: &lt;em&gt;&amp;quot;we need to go deeper&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A busy brain needs more time to unwind. Dont’ get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it’s a great way to boost your creativity when you know you need to do something… creative. But often it’s like they say in Inception: &lt;em&gt;“we need to go deeper”&lt;/em&gt;.&lt;/p&gt;
 &lt;h3&gt;Just walking around?&lt;/h3&gt;
 &lt;p&gt;Mostly. However, there are a few implementation details that yield better results:&lt;/p&gt;
 &lt;h4&gt;Make it easy&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Look up a route of roughly 6 to 7 kilometers beforehand. Not having to navigate leaves more time for thinking. Although sometimes getting lost is fun too if you have the time.&lt;/li&gt;
 &lt;li&gt;Technical Sportswear baby! Well, having at least comfortable shoes and warm clothing does help.&lt;/li&gt;
-&lt;li&gt;Don&#39;t run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.&lt;/li&gt;
+&lt;li&gt;Don’t run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Minimize distractions&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn&#39;t work as well. Cars are loud.&lt;/li&gt;
-&lt;li&gt;Leave your headphones home. I&#39;m a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.&lt;/li&gt;
+&lt;li&gt;Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn’t work as well. Cars are loud.&lt;/li&gt;
+&lt;li&gt;Leave your headphones home. I’m a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also &lt;a href=&#34;https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2&#34;&gt;sync your recorded reminders to OmniFocus&lt;/a&gt;. Notes are a bit of an unsolved problem. I&#39;ve sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.&lt;/p&gt;
+&lt;p&gt;You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also &lt;a href=&#34;https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2&#34;&gt;sync your recorded reminders to OmniFocus&lt;/a&gt;. Notes are a bit of an unsolved problem. I’ve sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.&lt;/p&gt;
 &lt;h3&gt;Bonus round: research&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise&#34;&gt;Wikipedia: Neurobiological effects of physical exercise&lt;/a&gt; is a good place to start if you want to know exactly how exercise affects the brain&lt;/li&gt;
@@ -1201,13 +1219,13 @@ and being prepared for any possible future.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.uofmhealth.org/news/archive/201409/walking-depression-and-beating-stress-outdoors-nature-group&#34;&gt;Walking off depression and beating stress outdoors? Nature group walks linked to improved mental health&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.wsj.com/articles/SB10001424053111904199404576538260326965724&#34;&gt;WSJ: Coffee Break? Walk in the Park? Why Unwinding Is Hard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;What&#39;s interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.&lt;/p&gt;
+&lt;p&gt;What’s interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.&lt;/p&gt;
 &lt;figure&gt;
   &lt;a href=&#34;https://www.flickr.com/photos/oiva/2695843572&#34; title=&#34;Puu by Oiva Eskola, on Flickr&#34;&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg&#34; width=&#34;214&#34; height=&#34;320&#34; alt=&#34;Puu&#34;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Here&#39;s a tree.&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;There are some proven benefits, see? But don&#39;t take it as &amp;quot;exercising is important and you should run every day!&amp;quot; All I dare to say is that walking probably isn&#39;t bad for you.&lt;/p&gt;
-&lt;p&gt;I&#39;m very well aware that telling people how awesome any form of exercise is usually does little to convince anyone to try it. (I&#39;ve been at the receiving end many times.) So I&#39;m just going to leave this here, and maybe if you need &lt;em&gt;fresh ideas&lt;/em&gt; you could get some &lt;em&gt;fresh air&lt;/em&gt;. Pow!&lt;/p&gt;
+&lt;p&gt;There are some proven benefits, see? But don’t take it as “exercising is important and you should run every day!” All I dare to say is that walking probably isn’t bad for you.&lt;/p&gt;
+&lt;p&gt;I’m very well aware that telling people how awesome any form of exercise is usually does little to convince anyone to try it. (I’ve been at the receiving end many times.) So I’m just going to leave this here, and maybe if you need &lt;em&gt;fresh ideas&lt;/em&gt; you could get some &lt;em&gt;fresh air&lt;/em&gt;. Pow!&lt;/p&gt;
 </content>
         <pubDate>Tue, 17 Mar 2015 21:40:00 +0000</pubDate>
         <dc:creator></dc:creator>
@@ -1220,10 +1238,10 @@ and being prepared for any possible future.&lt;/p&gt;
     
       <item>
         <title>What to do with my blog</title>
-        <description>It seems that blogs are more or lesson their way out. Onthe other hand people publish more material than ever, but it&#39;s divided into amultitude of services based on content and context. Personal life updates go toFacebook, vacation photos to Instagram, goofy links to Tumblr and professionalstuff to Twitter.My blog is no exception. Its updates have slowed to a steady pace of one ortwo posts a year while I happily tweet on Twitter and code on Gi...</description>
+        <description>It seems that blogs are more or lesson their way out. Onthe other hand people publish more material than ever, but it’s divided into amultitude of services based on content and context. Personal life updates go toFacebook, vacation photos to Instagram, goofy links to Tumblr and professionalstuff to Twitter.My blog is no exception. Its updates have slowed to a steady pace of one ortwo posts a year while I happily tweet on Twitter and code on Gi...</description>
         <content>&lt;p&gt;It seems that blogs are more or less
 &lt;a href=&#34;http://www.marco.org/2015/02/16/google-and-blogs-shit&#34;&gt;on their way out&lt;/a&gt;. On
-the other hand people publish more material than ever, but it&#39;s divided into a
+the other hand people publish more material than ever, but it’s divided into a
 multitude of services based on content and context. Personal life updates go to
 Facebook, vacation photos to Instagram, goofy links to Tumblr and professional
 stuff to Twitter.&lt;/p&gt;
@@ -1234,18 +1252,18 @@ for all the stuff I produce elsewhere on the net. You know, to better build my
 &lt;em&gt;personal braaand&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Of course, if you think about it for a minute, the answer is
 pretty clearly &lt;strong&gt;no&lt;/strong&gt;. Not only would it be a great hassle to set up, but
-it would duplicate content somewhere where people didn&#39;t expect to find it.
+it would duplicate content somewhere where people didn’t expect to find it.
 Audiences on different services have formed there for a reason. People who
-follow me on Twitter probably don&#39;t care about the food shots in my
+follow me on Twitter probably don’t care about the food shots in my
 &lt;a href=&#34;https://instagram.com/bobs/&#34; title=&#34;You should totally follow me.&#34;&gt;Instagram feed&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The kind of websites I&#39;ve enjoyed lately are often personal blogs that just
+&lt;p&gt;The kind of websites I’ve enjoyed lately are often personal blogs that just
 have clear and concise writing, and none of the cruft. The kind of pages that
 almost look like &lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapapered&lt;/a&gt; before
-&lt;span title=&#34;Yes it&#39;s a verb&#34;&gt;instapapering&lt;/span&gt; them. Granted, I don&#39;t
-always know whose blogs I&#39;ve been reading, but those who are particularly good
+&lt;span title=&#34;Yes it&#39;s a verb&#34;&gt;instapapering&lt;/span&gt; them. Granted, I don’t
+always know whose blogs I’ve been reading, but those who are particularly good
 I will follow on Twitter and maybe share their post there too.&lt;/p&gt;
 &lt;p&gt;Subscribing to a blog might be a bit more rare these days, especially after
-Google Reader died. But I&#39;m not sure if it&#39;s all bad. Old-fashioned blog posts
+Google Reader died. But I’m not sure if it’s all bad. Old-fashioned blog posts
 still tend to work on their own because people find them through Google or
 social sharing.&lt;/p&gt;
 &lt;p&gt;Anyway, following this train of thought I ended up with two criteria for my
@@ -1253,7 +1271,7 @@ future website:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;I want to have a place where I can easily put text on the Internet&lt;/li&gt;
 &lt;li&gt;I could have a starting point for people googling me (or more realistically
-just to answer &amp;quot;what is your website?&amp;quot; questions on web forms.)&lt;/li&gt;
+just to answer “what is your website?” questions on web forms.)&lt;/li&gt;
 &lt;li&gt;(I would like to own the content[^1].)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In the end I decided to host my blog content on
@@ -1261,7 +1279,7 @@ just to answer &amp;quot;what is your website?&amp;quot; questions on web forms.
 domain[^2]. Easy, and totally building my brand. It remains to be seen if that
 helps me write any more blog posts. The chances are low, but who knows.&lt;/p&gt;
 &lt;p&gt;[^1]:
-I&#39;ve spent enough time on the Internet to known that you need to host
+I’ve spent enough time on the Internet to known that you need to host
 your blog content yourself (sorry &lt;a href=&#34;https://medium.com/&#34;&gt;Medium&lt;/a&gt;.) I once had
 a blog on &lt;a href=&#34;http://www.posterous.com/&#34;&gt;Posterous&lt;/a&gt; only to see it die a year
 later.&lt;/p&gt;
@@ -1322,34 +1340,6 @@ follow-up post.&lt;/p&gt;
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2014/10/08/edgar-wright/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2014/10/08/edgar-wright/</guid>
-        
-        <category>movies</category>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>David Fincher style</title>
-        <description>    David Fincher - And the Other Way is Wrongfrom Tony Zhou on Vimeo.I like movies and I have studied a tiny bit what goes into making one. Still,at the movies I&#39;m just enjoying the movie, not looking at how it was made.I might notice a clever cut or good lighting, butmost of the that just goes by and helps telling a story.That&#39;s why it&#39;s fun to see studies of different directors where someone pointsout all the tricks they use.Here&#39;s one exam...</description>
-        <content>&lt;figure&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/107779620?color=f0a400&amp;badge=0&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-  &lt;figcaption&gt;&lt;a href=&#34;https://vimeo.com/107779620&#34;&gt;David Fincher - And the Other Way is Wrong&lt;/a&gt;
-from &lt;a href=&#34;https://vimeo.com/tonyzhou&#34;&gt;Tony Zhou&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;I like movies and I have studied a tiny bit what goes into making one. Still,
-at the movies I&#39;m just enjoying the movie, not looking at how it was made.
-I might notice a clever cut or &lt;a href=&#34;http://imgur.com/a/cpLno&#34;&gt;good lighting&lt;/a&gt;, but
-most of the that just goes by and helps telling a story.&lt;/p&gt;
-&lt;p&gt;That&#39;s why it&#39;s fun to see studies of different directors where someone points
-out all the tricks they use.&lt;/p&gt;
-&lt;p&gt;Here&#39;s one example about the stuff David Fincher does, or doesn&#39;t do.
-(Via &lt;a href=&#34;http://kottke.org/14/10/what-david-fincher-doesnt-do&#34;&gt;Kottke&lt;/a&gt;)&lt;/p&gt;
-</content>
-        <pubDate>Wed, 08 Oct 2014 11:49:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2014/10/08/movies/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2014/10/08/movies/</guid>
         
         <category>movies</category>
         

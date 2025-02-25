@@ -104,12 +104,12 @@
 
   <article class="post-content">
     
-    <p>I've been building a SaaS product called InfoToggle as a side project. My
+    <p>I’ve been building a SaaS product called InfoToggle as a side project. My
 <a href="/2019/10/21/infotoggle/">previous post</a> has details on what it is and what it
 does.</p>
 <p>As a programmer having a side project is a good way to learn new technologies
 that you might not come across in your regular job. Having a <em>project</em> means
-there's a clear problem you want to solve and you get to choose the most
+there’s a clear problem you want to solve and you get to choose the most
 suitable tools to solve it.</p>
 <p>In the context of <a href="https://infotoggle.com">InfoToggle</a> I had a chance to learn
 multiple new tools, including Laravel, Docker, React Hooks, Stripe, and some
@@ -117,56 +117,56 @@ AWS features like CloudFront.</p>
 <h2>Laravel: thumbs up</h2>
 <p>A big initial impetus for this whole project was to test out <a href="https://laravel.com">Laravel
 framework</a>. I had heard many good things about it and
-wanted to see what a <em>modern</em> PHP framework would look like. I'e used Zend
-Framework in my jobby job and it works there but it's no fun to use really.</p>
-<p>Laravel's tagline &quot;freeing you to create without sweating the small things&quot;
+wanted to see what a <em>modern</em> PHP framework would look like. I’e used Zend
+Framework in my jobby job and it works there but it’s no fun to use really.</p>
+<p>Laravel’s tagline “freeing you to create without sweating the small things”
 is pretty spot on. The framework has a lot of built-in functionality and
 sensible defaults for creating basic web apps. Creating new routes,
 controllers, database migrations, and events is all very streamlined.</p>
 <p>Occasionally some of the inner workings of Laravel might feel a bit too magical
 which might become a problem in a bigger web app. The call stacks for some of
-the errors are *wild* but mostly <em>it just works</em> and it's fast enough for a
-basic web app. Laravel's documentation is also pretty good, at least compared to
+the errors are *wild* but mostly <em>it just works</em> and it’s fast enough for a
+basic web app. Laravel’s documentation is also pretty good, at least compared to
 Zend.</p>
 <h2>Technical Challenges with Stripe</h2>
 <p>One of the biggest hurdles was building the subscription system. Billing happens
 through <a href="https://stripe.com">Stripe</a> and integrating with their subscription
 flow took a month and a half (not full time, but working hours here and there.)
-That's a pretty big chunk of time where little progress was made.</p>
-<p>Don't get me wrong, Stripe is probably the best payment processor there is and
+That’s a pretty big chunk of time where little progress was made.</p>
+<p>Don’t get me wrong, Stripe is probably the best payment processor there is and
 others would probably have taken far longer. The problem with Stripe was mostly
 that there are quite many different ways to create a sign up / subscription flow
 and there is no clear path to choose the correct one.</p>
-<p>On top of that their documentation occasionally had PSD2-related warnings &quot;Are
-you in Europe? Then you probably shouldn't be using this method but this other
-one here which is in beta and doesn't have the same features.&quot;</p>
+<p>On top of that their documentation occasionally had PSD2-related warnings “Are
+you in Europe? Then you probably shouldn’t be using this method but this other
+one here which is in beta and doesn’t have the same features.”</p>
 <h3>Stripe webhook matching</h3>
-<p>Most of Stripe's flows work by sending requests to a
+<p>Most of Stripe’s flows work by sending requests to a
 <a href="https://stripe.com/docs/webhooks">webhook</a> you set up. One of the biggest
 source of my confusion was that there was no single way of matching an incoming
 webhook event to a customer.</p>
-<p>You can tie a &quot;client reference ID&quot; to Stripe's customer objects (usually the
-customer's ID in your own system) but only some of the events sent back to you
+<p>You can tie a “client reference ID” to Stripe’s customer objects (usually the
+customer’s ID in your own system) but only some of the events sent back to you
 include the reference. Other times you are left trying to match a subscription
 ID to a ID you know or in worst case an email address.</p>
-<p>Some of Stripe's events include a Customer ID (in Stripe's system) and once you
-can match that to a known ID you are mostly set. But for example the &quot;customer
-created&quot;, &quot;subscription created&quot;, and &quot;invoice created&quot; events can arrive in any
+<p>Some of Stripe’s events include a Customer ID (in Stripe’s system) and once you
+can match that to a known ID you are mostly set. But for example the “customer
+created”, “subscription created”, and “invoice created” events can arrive in any
 order and each has a different set of identifiers that you must keep track of
 and try to match to later requests. I still have a hundred line function whose
 only job is to match an incoming Stripe event to a customer in my database.</p>
 <h2>Docker</h2>
-<p>I've avoided Docker for a very long time, mostly because in my job I have worked
+<p>I’ve avoided Docker for a very long time, mostly because in my job I have worked
 on just a single project where I had the development and production environments
 set up. But at this point Docker seems to be required knowledge pretty much
 everywhere so why not try it?</p>
 <p>It seems that waiting with Docker was partly a good thing. Researching how to
 configure Docker (and Docker Compose) revealed that the configuration options
 and syntaxes haves changed at least a couple times. This made following
-tutorials quite difficult as most of the examples didn't work anymore when run
+tutorials quite difficult as most of the examples didn’t work anymore when run
 against a recent version of Docker.</p>
-<p>What's positive about docker is that it makes deployments easy. Replicating the
-production environment is also easy although I haven't needed that apart from
+<p>What’s positive about docker is that it makes deployments easy. Replicating the
+production environment is also easy although I haven’t needed that apart from
 adding a separate testing environment.</p>
 <p>Docker was also the biggest source of WTFs along with Stripe. Most of this stems
 from all Docker tutorials and examples being about building a <em>development</em>
@@ -177,13 +177,13 @@ and on a server. In the end I needed to have two separate configurations for
 building the development environment and the production environment which feels
 a bit silly.</p>
 <p>Another small disadvantage with Docker is that deployments on the go over a cell
-phone connection take a long time. Apparently there's quite a lot of data
+phone connection take a long time. Apparently there’s quite a lot of data
 transfer happening?</p>
 <h2>React Hooks</h2>
 <p>Quick shout out to <a href="https://reactjs.org/docs/hooks-intro.html">React Hooks</a>:
 they work, and make developing basic components that much nicer. Use them.</p>
-<p>That's it for now! Everything sort of works and I'm pretty happy with the stack
-as it is. There are also many parts that didn't get a mention, maybe more on
+<p>That’s it for now! Everything sort of works and I’m pretty happy with the stack
+as it is. There are also many parts that didn’t get a mention, maybe more on
 those next time.</p>
 
     
