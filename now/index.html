@@ -3,7 +3,7 @@
 
 
 
-<html lang="fi">
+<html lang="en">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,11 +25,11 @@
     >
   </noscript>
 
-  <title>Projekti-ideoita</title>
-  <meta name="description" content="Muutamia projekti-ideoita mitä pyörii päässä">
+  <title>Now - Oiva Eskola</title>
+  <meta name="description" content="Full stack web developer">
   <meta name="author" content="Oiva Eskola">
-  <meta name="keywords" content="elämä, now">
-  <meta name="dc.date" content="2025-02-23">
+  
+  
 
   <script>
     var host = "oivaeskola.fi";
@@ -38,7 +38,7 @@
     }
   </script>
 
-  <link rel="canonical" href="https://oivaeskola.fi/2025/02/23/projekti-ideoita/">
+  <link rel="canonical" href="https://oivaeskola.fi/now/">
   <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml">
 
   <link rel="pingback" href="https://webmention.io/oivaeskola.fi/xmlrpc" />
@@ -81,84 +81,99 @@
 </header>
     <div class="page-content">
       <div class="wrapper">
-        
-
-
-
-
-<div class="post">
-  
-    <header class="post-header">
-  
-
-      <h1 class="post-title">Projekti-ideoita</h1>
-      
-        <p class="post-meta">
-          <time itemprop="startDate" datetime="2025-02-23T20:59:33+00:00">
-            
-              23.2.2025
-            
-          </time>
-        </p>
-    </header>
-
-  <article class="post-content">
+        <div class="home">
+  <h1 class="page-heading">Now</h1>
+  <p>What I'm up to currently. (<a href="https://nownownow.com/about">What is a "now page"?</a>)</p>
+  <p>These posts are also available as a <a href="/now.xml">separate feed</a>.</p>
+  <ul class="post-list">
     
-    <p>Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.</p>
+      <li
+         class="full-post"
+        
+        
+        lang="fi"
+        
+        >
+        <span class="post-meta">
+          
+          
+            25.2.2025
+          
+          
+        </span>
+        <h2>
+          
+          <a class="post-link" href="/2025/02/25/nyt-karttoja/">Karttojen generointia</a>
+          
+        </h2>
+          
+          
+          <div class="post-excerpt"><p>Liittyen <a href="/2025/02/23/projekti-ideoita/">karttavisa projekti-ideaan</a>, kokeilin muutaman tunnin ajan tehdä tekoälyavusteisesti koodia, mikä piirtäisi tietyn kaupungin kartan. Pääsinkin aika pitkälle:</p>
+<img src="/images/2025/maps/helsinki.webp" alt="Helsingin kartta" width="600" height="600" loading="lazy" title="Mikä kaupunki?" />
+<img src="/images/2025/maps/turku.webp" alt="Turun kartta" width="600" height="600" loading="lazy" />
+<img src="/images/2025/maps/vaasa.webp" alt="Vaasan kartta" width="600" height="600" loading="lazy" />
+<p>Koodi on Pythonia, noin 200 riviä, ja tällä hetkellä suhteellisen rumaa. Luonnostelin koodia antamalla <a href="https://claude.ai">Claudelle</a> ja <a href="https://chatgpt.com/">ChatGPT</a>:lle kuvauksia haluamastani toiminnallisuudesta.</p>
+<p>Molemmat osasivat melko hyvin ehdottaa koodia, mikä hakee karttadataa OpenStreetMapista tietylle alueelle ja piirtää sen. Mutta ensimmäiset koodit eivät olleet mitenkään käyttökelpoisia, vaan sitä piti promptailla pitkästi paremmaksi. Lopulta pääsin ChatGPT:n avulla paremmin eteenpäin, tosin Claudesta tuli <em>juuri</em> <a href="https://www.anthropic.com/news/claude-3-7-sonnet">uusi versio</a>, minkä pitäisi toimia huomattavasti paremmin ohjelmointitehtävissä.</p>
+<p>Vaikein osuus oli renderöidä meri. Molemmat tekoälyt yrittivät ensin piirtää merta OSM:sta ladatun rantaviivan perusteella, mikä ei näköjään oikein ole mahdollista. Tähän vaadittiin vähän Googlea, ja oikea vastaus oli ladata <a href="https://osmdata.openstreetmap.de/data/water-polygons.html">valmiiksi rendatut merialueet</a> ja piirtää muu aineisto niitten päälle. ChatGPT osasi ottaa tästä koppia ja palastella isosta aineistosta pienemmän ja nopeamman osion.</p>
+<p>Silti tekoälyn ansiosta pääsin tosi ripeästi itse pihviin, eli kartan ulkoasun muokkaamiseen. Koodi ei sinänsä tee mitään mitä en ymmärtäisi, mutta pelkkien kirjastojen dokumentaation avulla itse koodaten tässä olisi mennyt kauemmin.</p>
+</div>
+          <hr>
+      </li>
+
+      <li
+         class="full-post"
+        
+        
+        lang="fi"
+        
+        >
+        <span class="post-meta">
+          
+          
+            23.2.2025
+          
+          
+        </span>
+        <h2>
+          
+          <a class="post-link" href="/2025/02/23/projekti-ideoita/">Projekti-ideoita</a>
+          
+        </h2>
+          
+          
+          <div class="post-excerpt"><p>Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.</p>
 <p>Aivot ei osaa ottaa huomioon, että päivässä on oikeasti korkeintaan tunti aikaa tehdä mitään, ja sekin menee yleensä väsyneenä <em>doom scrollatessa</em>. Mutta sivuutetaan tämä.</p>
 <p>Muutamia projekteja mitä haluaisin tehdä:</p>
-<h2>Karttavisa</h2>
+<h3>Karttavisa</h3>
 <p>Hesarissa oli jouluna <a href="https://www.hs.fi/suomi/art-2000010825900.html" title="Testaa, tunnetko suomalaiset kaupungit pelkän kartan avulla">hauska kaupunkivisa</a>, missä piti tunnistaa kaupunki kartan perusteella. Karttakuvissa näkyi pelkästään vesistöt, tiet ja rautatiet. Tämä oli minusta tosi hauska, koska käymällä eri paikoissa oppii puolivahingossa minkä muotoisia eri kaupungit on, ja nyt siitä oli jotain hyötyä.</p>
 <p>Mutta haluaisin tehdä tästä version, missä olisi enemmän kaupunkeja. Pienemmät kaupungit voivat kyllä olla aika vaikeita.</p>
 <p>Tässä on ohjelmointia sen verran, että pitäisi skriptillä luoda OpenStreetMapin kartta-aineiston perusteella kartta kustakin kaupungista. (Kokeilin tätä, ja AI:n avulla pääsin melko pitkälle.) Kuvien ympärille pitäisi lisäksi rakentaa joku visailumoottori. Näitäkin saattaa löytyä valmiina.</p>
-<h2>Kotiseudun dokumentointi ja kartat</h2>
+<h3>Kotiseudun dokumentointi ja kartat</h3>
 <p>Arvostan miten esimerkiksi Tony Hagerlund on koonnut <a href="https://www.hagerlund.net/fi/espoon-historia">Espoon historiaa</a> ja <a href="https://www.hagerlund.net/fi/kuvia">kuvannut itse vuosien ajan Espoota</a>. Törmään näihin silloin tällöin kun etsin tietoa Espoosta. Äitini taas on inventoinnut Vantaan rakennusperintöä laajasti ja kirjoittanut aiheesta <a href="https://www.vantaansanomat.fi/paikalliset/5591267">kirjankin</a>.</p>
 <p>Tämä on vielä näistä hähmäisin idea, mutta haluaisin tehdä jotain samassa aihepiirissä, joskin <strong>paljon</strong> rajatummin. Esimerkiksi digitaalinen julkaisu omasta kotikadusta tai joistain yksittäisistä lähiseudun paikoista. En jaksa kaivautua historiaan yhtä paljon, mutta paikkojen jatkuvasti muuttuessa tilannekuva vuodelta 2025 voisi jossain kohtaa olla arvokas.</p>
 <p>Toisaalta voisin vain fiilistellä karttoja. Tietokone osaa tehdä <a href="https://maps.stamen.com/watercolor/#15/60.2367/24.7311">vesivärimaalauksen näköisiä karttoja</a>, mutta voisi olla hauskalla tavalla tyhmää maalata itse vesiväreillä joku kartta.</p>
-<h2>Podcast-listojen julkaisu</h2>
+<h3>Podcast-listojen julkaisu</h3>
 <p>Voisin vannoa, että tällainen palvelu oli jo joskus, mutta en löydä mitenkään: ideana olisi  tehdä  nettisivu, jolle voi ladata listam kuuntelemistaan podcasteista (listan saa usein podcast-soittimesta <a href="https://en.wikipedia.org/wiki/OPML" title="Outline Processor Markup Language">OPML</a>-muodossa). Nettisivu loisi tästä henkilökohtaisen sivun, mikä listaa podcastit nätisti. Sivua voisi jakaa muille tai upottaa listan kotisivuilleen jonain upotuksena.</p>
-<h2>Swift</h2>
+<h3>Swift</h3>
 <p>Applen alustoille koodaaminen on siirtymässä Swift-kielelle ja tekisi mieli kokeilla sitä jossain käytännön projektissa. Nämä ovat prioriteettilistan hännillä, mutta ehkä joskus:</p>
-<h3>Paasto-appis</h3>
+<h4>Paasto-appis</h4>
 <p>Käytin taannoin pätkäpaastojen seurantaan <a href="https://apps.apple.com/us/app/zero-fasting-health-tracker/id1168348542">Zero</a>-nimistä appia, mutta siinä on nykyään <strong>todella raskaasti</strong> lisämyyntiä, ja uutuutena kirjautumispakko. Olisi kiva tehdä vaikka vain omaan käyttöön oma, riisuttu versio tästä. Itse appi ei ole kovin monimutkainen: käynnistä ajastin ja hälytä kun se on valmis. Lisäksi jotain kevyttä statistiikkaa aikaisemmista paastoista.</p>
-<h3>Checklist-applikaatio</h3>
+<h4>Checklist-applikaatio</h4>
 <p>Kotoa lähtiessä jää melkein aina joku asia kotiin: avaimet, puhelin, lompakko, kello… Samoja haasteita on muissakin usein toistuvissa tehtävissä. Yksi apuväline voisi olla tarkistuslista, mistä voisi nopeasti tarkistaa onko kaikki tarvittavat asiat tehty. Listojen pitäisi olla helposti uudelleen­käytettäviä, minkä takia esim. todo-applikaatiot eivät yleensä oikein toimi tähän. Listat voisivat myös olla widgettejä puhelimessa, jolloin ei tarvitsisi avata applikaatiota – iOS:n widgetit sallivat nykyään jotain interaktiotakin.</p>
 <p>Tällaisia saattaa olla jo, mutta en nopeasti hakemalla löytänyt sopivaa.</p>
-<h2>Lastenlelun laulujen tunnistaminen</h2>
+<h3>Lastenlelun laulujen tunnistaminen</h3>
 <div class="float-image min-300">
 <img src="/images/2025/tinylove.webp" width="200" height="200" alt="Tiny Love -lelun mukana tullut musiikkia soittava lintu" />
 <p>Molemmat vauvat ovat leikkineet lelukaarella, jossa on mukana musiikkia soittava lintu. Lintu osaa 20 erilaista kappaletta, jotka ovat noin minuutin mittaisia, klassisen musiikin ja ragtime-musiikin MIDI-versioita.</p>
 <p>Nämä ensinnäkin soi päässä jatkuvasti, mutta se myös häiritse kun en tiedä mitä kappaleet ovat, vaikka lista on suurin piirtein klassisen musiikin TOP-20. Projektina olisi etsiä kaikki kappaleet ja koota näistä joku lista nettiin. Tämä on hyvin tärkeää.</p>
-</div>
-    
-      
-      
-      
-      
-      <p class="categories">Kategoriat: 
-        
-          <a href="/archive/elama">elämä</a>, 
-          
-        
-          <a href="/archive/now">now</a>
-          
-        
-      </p>
-      
-    
-  </article>
+</div></div>
+          <hr>
+      </li>
 
-  <footer></footer>
+  </ul>
 
   
 
-  <section class="feedback">
-    
-    <h2>Kysymyksiä tai kommentoitavaa?</h2>
-    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
-      <a href="mailto:oiva.eskola@gmail.com?subject=Projekti-ideoita">sähköpostilla</a>.</p>
-    
-  </section>
 </div>
 
       </div>

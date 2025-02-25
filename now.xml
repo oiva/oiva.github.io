@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  
+  
+  
+  <channel>
+    <title>Oiva Eskola</title>
+    <description>Oiva Eskola's Now Page</description>
+    <link>https://oivaeskola.fi/now</link>
+    <atom:link href="https://oivaeskola.fi/now.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Feb 2025 21:14:49 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 21:14:49 +0000</lastBuildDate>
+    <generator>Eleventy</generator>
+    
+      <item>
+        <title>Karttojen generointia</title>
+        <description>Liittyen karttavisa projekti-ideaan, kokeilin muutaman tunnin ajan tehdä tekoälyavusteisesti koodia, mikä piirtäisi tietyn kaupungin kartan. Pääsinkin aika pitkälle:Koodi on Pythonia, noin 200 riviä, ja tällä hetkellä suhteellisen rumaa. Luonnostelin koodia antamalla Claudelle ja ChatGPT:lle kuvauksia haluamastani toiminnallisuudesta.Molemmat osasivat melko hyvin ehdottaa koodia, mikä hakee karttadataa OpenStreetMapista tietylle alueelle ja pi...</description>
+        <content>&lt;p&gt;Liittyen &lt;a href=&#34;/2025/02/23/projekti-ideoita/&#34;&gt;karttavisa projekti-ideaan&lt;/a&gt;, kokeilin muutaman tunnin ajan tehdä tekoälyavusteisesti koodia, mikä piirtäisi tietyn kaupungin kartan. Pääsinkin aika pitkälle:&lt;/p&gt;
+&lt;img src=&#34;/images/2025/maps/helsinki.webp&#34; alt=&#34;Helsingin kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; title=&#34;Mikä kaupunki?&#34; /&gt;
+&lt;img src=&#34;/images/2025/maps/turku.webp&#34; alt=&#34;Turun kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;/images/2025/maps/vaasa.webp&#34; alt=&#34;Vaasan kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;Koodi on Pythonia, noin 200 riviä, ja tällä hetkellä suhteellisen rumaa. Luonnostelin koodia antamalla &lt;a href=&#34;https://claude.ai&#34;&gt;Claudelle&lt;/a&gt; ja &lt;a href=&#34;https://chatgpt.com/&#34;&gt;ChatGPT&lt;/a&gt;:lle kuvauksia haluamastani toiminnallisuudesta.&lt;/p&gt;
+&lt;p&gt;Molemmat osasivat melko hyvin ehdottaa koodia, mikä hakee karttadataa OpenStreetMapista tietylle alueelle ja piirtää sen. Mutta ensimmäiset koodit eivät olleet mitenkään käyttökelpoisia, vaan sitä piti promptailla pitkästi paremmaksi. Lopulta pääsin ChatGPT:n avulla paremmin eteenpäin, tosin Claudesta tuli &lt;em&gt;juuri&lt;/em&gt; &lt;a href=&#34;https://www.anthropic.com/news/claude-3-7-sonnet&#34;&gt;uusi versio&lt;/a&gt;, minkä pitäisi toimia huomattavasti paremmin ohjelmointitehtävissä.&lt;/p&gt;
+&lt;p&gt;Vaikein osuus oli renderöidä meri. Molemmat tekoälyt yrittivät ensin piirtää merta OSM:sta ladatun rantaviivan perusteella, mikä ei näköjään oikein ole mahdollista. Tähän vaadittiin vähän Googlea, ja oikea vastaus oli ladata &lt;a href=&#34;https://osmdata.openstreetmap.de/data/water-polygons.html&#34;&gt;valmiiksi rendatut merialueet&lt;/a&gt; ja piirtää muu aineisto niitten päälle. ChatGPT osasi ottaa tästä koppia ja palastella isosta aineistosta pienemmän ja nopeamman osion.&lt;/p&gt;
+&lt;p&gt;Silti tekoälyn ansiosta pääsin tosi ripeästi itse pihviin, eli kartan ulkoasun muokkaamiseen. Koodi ei sinänsä tee mitään mitä en ymmärtäisi, mutta pelkkien kirjastojen dokumentaation avulla itse koodaten tässä olisi mennyt kauemmin.&lt;/p&gt;
+</content>
+        <pubDate>Tue, 25 Feb 2025 20:31:20 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/25/nyt-karttoja/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/25/nyt-karttoja/</guid>
+        
+        <category>now</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Projekti-ideoita</title>
+        <description>Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.Aivot ei osaa ottaa huomioon, että päivässä on oikeasti korkeintaan tunti aikaa tehdä mitään, ja sekin menee yleensä väsyneenä doom scrollatessa. Mutta sivuutetaan tämä.Muutamia projekteja mitä haluaisin tehdä:KarttavisaHesarissa oli jouluna hausk...</description>
+        <content>&lt;p&gt;Pitkällä vapaalla aivot rupeavat jossain kohtaa tuottamaan projekti-ideoita. Nyt vanhempainvapaalla olen ilmeisesti päässyt siihen pisteeseen, että aivot sulaa ja rupeavat keksimään kaikkea tekemistä.&lt;/p&gt;
+&lt;p&gt;Aivot ei osaa ottaa huomioon, että päivässä on oikeasti korkeintaan tunti aikaa tehdä mitään, ja sekin menee yleensä väsyneenä &lt;em&gt;doom scrollatessa&lt;/em&gt;. Mutta sivuutetaan tämä.&lt;/p&gt;
+&lt;p&gt;Muutamia projekteja mitä haluaisin tehdä:&lt;/p&gt;
+&lt;h2&gt;Karttavisa&lt;/h2&gt;
+&lt;p&gt;Hesarissa oli jouluna &lt;a href=&#34;https://www.hs.fi/suomi/art-2000010825900.html&#34; title=&#34;Testaa, tunnetko suomalaiset kaupungit pelkän kartan avulla&#34;&gt;hauska kaupunkivisa&lt;/a&gt;, missä piti tunnistaa kaupunki kartan perusteella. Karttakuvissa näkyi pelkästään vesistöt, tiet ja rautatiet. Tämä oli minusta tosi hauska, koska käymällä eri paikoissa oppii puolivahingossa minkä muotoisia eri kaupungit on, ja nyt siitä oli jotain hyötyä.&lt;/p&gt;
+&lt;p&gt;Mutta haluaisin tehdä tästä version, missä olisi enemmän kaupunkeja. Pienemmät kaupungit voivat kyllä olla aika vaikeita.&lt;/p&gt;
+&lt;p&gt;Tässä on ohjelmointia sen verran, että pitäisi skriptillä luoda OpenStreetMapin kartta-aineiston perusteella kartta kustakin kaupungista. (Kokeilin tätä, ja AI:n avulla pääsin melko pitkälle.) Kuvien ympärille pitäisi lisäksi rakentaa joku visailumoottori. Näitäkin saattaa löytyä valmiina.&lt;/p&gt;
+&lt;h2&gt;Kotiseudun dokumentointi ja kartat&lt;/h2&gt;
+&lt;p&gt;Arvostan miten esimerkiksi Tony Hagerlund on koonnut &lt;a href=&#34;https://www.hagerlund.net/fi/espoon-historia&#34;&gt;Espoon historiaa&lt;/a&gt; ja &lt;a href=&#34;https://www.hagerlund.net/fi/kuvia&#34;&gt;kuvannut itse vuosien ajan Espoota&lt;/a&gt;. Törmään näihin silloin tällöin kun etsin tietoa Espoosta. Äitini taas on inventoinnut Vantaan rakennusperintöä laajasti ja kirjoittanut aiheesta &lt;a href=&#34;https://www.vantaansanomat.fi/paikalliset/5591267&#34;&gt;kirjankin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tämä on vielä näistä hähmäisin idea, mutta haluaisin tehdä jotain samassa aihepiirissä, joskin &lt;strong&gt;paljon&lt;/strong&gt; rajatummin. Esimerkiksi digitaalinen julkaisu omasta kotikadusta tai joistain yksittäisistä lähiseudun paikoista. En jaksa kaivautua historiaan yhtä paljon, mutta paikkojen jatkuvasti muuttuessa tilannekuva vuodelta 2025 voisi jossain kohtaa olla arvokas.&lt;/p&gt;
+&lt;p&gt;Toisaalta voisin vain fiilistellä karttoja. Tietokone osaa tehdä &lt;a href=&#34;https://maps.stamen.com/watercolor/#15/60.2367/24.7311&#34;&gt;vesivärimaalauksen näköisiä karttoja&lt;/a&gt;, mutta voisi olla hauskalla tavalla tyhmää maalata itse vesiväreillä joku kartta.&lt;/p&gt;
+&lt;h2&gt;Podcast-listojen julkaisu&lt;/h2&gt;
+&lt;p&gt;Voisin vannoa, että tällainen palvelu oli jo joskus, mutta en löydä mitenkään: ideana olisi  tehdä  nettisivu, jolle voi ladata listam kuuntelemistaan podcasteista (listan saa usein podcast-soittimesta &lt;a href=&#34;https://en.wikipedia.org/wiki/OPML&#34; title=&#34;Outline Processor Markup Language&#34;&gt;OPML&lt;/a&gt;-muodossa). Nettisivu loisi tästä henkilökohtaisen sivun, mikä listaa podcastit nätisti. Sivua voisi jakaa muille tai upottaa listan kotisivuilleen jonain upotuksena.&lt;/p&gt;
+&lt;h2&gt;Swift&lt;/h2&gt;
+&lt;p&gt;Applen alustoille koodaaminen on siirtymässä Swift-kielelle ja tekisi mieli kokeilla sitä jossain käytännön projektissa. Nämä ovat prioriteettilistan hännillä, mutta ehkä joskus:&lt;/p&gt;
+&lt;h3&gt;Paasto-appis&lt;/h3&gt;
+&lt;p&gt;Käytin taannoin pätkäpaastojen seurantaan &lt;a href=&#34;https://apps.apple.com/us/app/zero-fasting-health-tracker/id1168348542&#34;&gt;Zero&lt;/a&gt;-nimistä appia, mutta siinä on nykyään &lt;strong&gt;todella raskaasti&lt;/strong&gt; lisämyyntiä, ja uutuutena kirjautumispakko. Olisi kiva tehdä vaikka vain omaan käyttöön oma, riisuttu versio tästä. Itse appi ei ole kovin monimutkainen: käynnistä ajastin ja hälytä kun se on valmis. Lisäksi jotain kevyttä statistiikkaa aikaisemmista paastoista.&lt;/p&gt;
+&lt;h3&gt;Checklist-applikaatio&lt;/h3&gt;
+&lt;p&gt;Kotoa lähtiessä jää melkein aina joku asia kotiin: avaimet, puhelin, lompakko, kello… Samoja haasteita on muissakin usein toistuvissa tehtävissä. Yksi apuväline voisi olla tarkistuslista, mistä voisi nopeasti tarkistaa onko kaikki tarvittavat asiat tehty. Listojen pitäisi olla helposti uudelleen­käytettäviä, minkä takia esim. todo-applikaatiot eivät yleensä oikein toimi tähän. Listat voisivat myös olla widgettejä puhelimessa, jolloin ei tarvitsisi avata applikaatiota – iOS:n widgetit sallivat nykyään jotain interaktiotakin.&lt;/p&gt;
+&lt;p&gt;Tällaisia saattaa olla jo, mutta en nopeasti hakemalla löytänyt sopivaa.&lt;/p&gt;
+&lt;h2&gt;Lastenlelun laulujen tunnistaminen&lt;/h2&gt;
+&lt;div class=&#34;float-image min-300&#34;&gt;
+&lt;img src=&#34;/images/2025/tinylove.webp&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Tiny Love -lelun mukana tullut musiikkia soittava lintu&#34; /&gt;
+&lt;p&gt;Molemmat vauvat ovat leikkineet lelukaarella, jossa on mukana musiikkia soittava lintu. Lintu osaa 20 erilaista kappaletta, jotka ovat noin minuutin mittaisia, klassisen musiikin ja ragtime-musiikin MIDI-versioita.&lt;/p&gt;
+&lt;p&gt;Nämä ensinnäkin soi päässä jatkuvasti, mutta se myös häiritse kun en tiedä mitä kappaleet ovat, vaikka lista on suurin piirtein klassisen musiikin TOP-20. Projektina olisi etsiä kaikki kappaleet ja koota näistä joku lista nettiin. Tämä on hyvin tärkeää.&lt;/p&gt;
+&lt;/div&gt;</content>
+        <pubDate>Sun, 23 Feb 2025 18:59:33 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/23/projekti-ideoita/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/23/projekti-ideoita/</guid>
+        
+        <category>elämä</category>
+        
+        <category>now</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+  </channel>
+</rss>

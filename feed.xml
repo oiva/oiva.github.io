@@ -8,9 +8,32 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2025 20:17:23 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2025 20:17:23 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 21:14:49 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 21:14:49 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Karttojen generointia</title>
+        <description>Liittyen karttavisa projekti-ideaan, kokeilin muutaman tunnin ajan tehdä tekoälyavusteisesti koodia, mikä piirtäisi tietyn kaupungin kartan. Pääsinkin aika pitkälle:Koodi on Pythonia, noin 200 riviä, ja tällä hetkellä suhteellisen rumaa. Luonnostelin koodia antamalla Claudelle ja ChatGPT:lle kuvauksia haluamastani toiminnallisuudesta.Molemmat osasivat melko hyvin ehdottaa koodia, mikä hakee karttadataa OpenStreetMapista tietylle alueelle ja pi...</description>
+        <content>&lt;p&gt;Liittyen &lt;a href=&#34;/2025/02/23/projekti-ideoita/&#34;&gt;karttavisa projekti-ideaan&lt;/a&gt;, kokeilin muutaman tunnin ajan tehdä tekoälyavusteisesti koodia, mikä piirtäisi tietyn kaupungin kartan. Pääsinkin aika pitkälle:&lt;/p&gt;
+&lt;img src=&#34;/images/2025/maps/helsinki.webp&#34; alt=&#34;Helsingin kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; title=&#34;Mikä kaupunki?&#34; /&gt;
+&lt;img src=&#34;/images/2025/maps/turku.webp&#34; alt=&#34;Turun kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;/images/2025/maps/vaasa.webp&#34; alt=&#34;Vaasan kartta&#34; width=&#34;600&#34; height=&#34;600&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;Koodi on Pythonia, noin 200 riviä, ja tällä hetkellä suhteellisen rumaa. Luonnostelin koodia antamalla &lt;a href=&#34;https://claude.ai&#34;&gt;Claudelle&lt;/a&gt; ja &lt;a href=&#34;https://chatgpt.com/&#34;&gt;ChatGPT&lt;/a&gt;:lle kuvauksia haluamastani toiminnallisuudesta.&lt;/p&gt;
+&lt;p&gt;Molemmat osasivat melko hyvin ehdottaa koodia, mikä hakee karttadataa OpenStreetMapista tietylle alueelle ja piirtää sen. Mutta ensimmäiset koodit eivät olleet mitenkään käyttökelpoisia, vaan sitä piti promptailla pitkästi paremmaksi. Lopulta pääsin ChatGPT:n avulla paremmin eteenpäin, tosin Claudesta tuli &lt;em&gt;juuri&lt;/em&gt; &lt;a href=&#34;https://www.anthropic.com/news/claude-3-7-sonnet&#34;&gt;uusi versio&lt;/a&gt;, minkä pitäisi toimia huomattavasti paremmin ohjelmointitehtävissä.&lt;/p&gt;
+&lt;p&gt;Vaikein osuus oli renderöidä meri. Molemmat tekoälyt yrittivät ensin piirtää merta OSM:sta ladatun rantaviivan perusteella, mikä ei näköjään oikein ole mahdollista. Tähän vaadittiin vähän Googlea, ja oikea vastaus oli ladata &lt;a href=&#34;https://osmdata.openstreetmap.de/data/water-polygons.html&#34;&gt;valmiiksi rendatut merialueet&lt;/a&gt; ja piirtää muu aineisto niitten päälle. ChatGPT osasi ottaa tästä koppia ja palastella isosta aineistosta pienemmän ja nopeamman osion.&lt;/p&gt;
+&lt;p&gt;Silti tekoälyn ansiosta pääsin tosi ripeästi itse pihviin, eli kartan ulkoasun muokkaamiseen. Koodi ei sinänsä tee mitään mitä en ymmärtäisi, mutta pelkkien kirjastojen dokumentaation avulla itse koodaten tässä olisi mennyt kauemmin.&lt;/p&gt;
+</content>
+        <pubDate>Tue, 25 Feb 2025 20:31:20 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/25/nyt-karttoja/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/25/nyt-karttoja/</guid>
+        
+        <category>now</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>RIP Back to Work</title>
@@ -63,6 +86,10 @@
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2025/02/23/projekti-ideoita/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2025/02/23/projekti-ideoita/</guid>
+        
+        <category>elämä</category>
+        
+        <category>now</category>
         
         
         <slash:comments></slash:comments>
@@ -1319,29 +1346,6 @@ follow-up post.&lt;/p&gt;
         <guid isPermaLink="false">https://oivaeskola.fi/2015/01/16/this-is-water/</guid>
         
         <category>life</category>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>Edgar Wright - How to Do Visual Comedy</title>
-        <description>        Edgar Wright - How to Do Visual Comedy from Tony Zhou on Vimeo.    Here’s another example: a video about how Edgar Wright does visual comedy (via Merlin Mann).There’s also a long, long (but good) review about The World’s End which explains how Wright foreshadows future events in his films. Fascinating stuff.</description>
-        <content>&lt;figure&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/96558506?color=f0a400&amp;badge=0&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://vimeo.com/96558506&#34;&gt;Edgar Wright - How to Do Visual Comedy&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/tonyzhou&#34;&gt;Tony Zhou&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.  
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Here’s another example: a video about how Edgar Wright does visual comedy (via &lt;a href=&#34;http://twitter.com/hotdogsladies&#34;&gt;Merlin Mann&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;There’s also a long, long (but good) &lt;a href=&#34;http://www.edgarwrighthere.com/2013/10/11/film-crit-hulk-smash-alcohol-withnail-and-gary-king-lower-caps-bruce-banner-edition/&#34;&gt;review about The World’s End&lt;/a&gt; which explains how Wright foreshadows future events in his films. Fascinating stuff.&lt;/p&gt;
-</content>
-        <pubDate>Wed, 08 Oct 2014 12:23:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2014/10/08/edgar-wright/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2014/10/08/edgar-wright/</guid>
-        
-        <category>movies</category>
         
         
         <slash:comments></slash:comments>
