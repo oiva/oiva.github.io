@@ -8,9 +8,35 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2025 21:17:06 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2025 21:17:06 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2025 20:43:25 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2025 20:43:25 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Useful Git options</title>
+        <description>Here are two articles about useful Git options that most people should probably use:Popular Git options by Julia Evans. This came out already a year ago but I was “too busy” to read it then.How Core Git Developers Configure Git by Scott Chacon.These two lists are largely overlapping but Julia’s has a grab bag of smaller, yet useful options. I like Scott’s categorization of options, including options that “Clearly Makes Git Better”:This first g...</description>
+        <content>&lt;p&gt;Here are two articles about &lt;strong&gt;useful Git options that most people should probably use&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://jvns.ca/blog/2024/02/16/popular-git-config-options/&#34;&gt;Popular Git options&lt;/a&gt; by Julia Evans. This came out already a year ago but I was “too busy” to read it then.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.gitbutler.com/how-git-core-devs-configure-git/&#34;&gt;How Core Git Developers Configure Git&lt;/a&gt; by Scott Chacon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These two lists are largely overlapping but Julia’s has a grab bag of smaller, yet useful options. I like Scott’s categorization of options, including options that “Clearly Makes Git Better”:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This first group of settings &lt;em&gt;clearly&lt;/em&gt; makes Git better by default. There are generally zero downsides to enabling any of them.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <pubDate>Wed, 26 Feb 2025 20:21:05 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/26/useful-git-options/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/26/useful-git-options/</guid>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Karttojen generointia</title>
@@ -1319,33 +1345,6 @@ follow-up post.&lt;/p&gt;
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2015/02/23/moving-the-blog/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2015/02/23/moving-the-blog/</guid>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>This is Water</title>
-        <description>          This is Water from Patrick Buckley on Vimeo.  merlin:  David Foster Wallace - “This is Water”  So happy this video is available again. (I think DFW’s estate DMCA’d the original post a few years ago booooooo)  I can recommend watching this a couple times a year. We all really need to hear it.</description>
-        <content>&lt;figure&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/68855377&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;https://vimeo.com/68855377&#34;&gt;This is Water&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user5039564&#34;&gt;Patrick Buckley&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.kungfugrippe.com/post/108184858974/david-foster-wallace-this-is-water-so-happy&#34;&gt;merlin&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote cite=&#34;http://www.kungfugrippe.com/post/108184858974/david-foster-wallace-this-is-water-so-happy&#34;&gt;
-  &lt;p&gt;David Foster Wallace - “This is Water”&lt;/p&gt;
-  &lt;p&gt;So happy this video is available again. (I think DFW’s estate DMCA’d the original post a few years ago booooooo)&lt;/p&gt;
-  &lt;p&gt;I can recommend watching this a couple times a year. We all really need to hear it.&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-        <pubDate>Fri, 16 Jan 2015 11:53:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2015/01/16/this-is-water/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2015/01/16/this-is-water/</guid>
-        
-        <category>life</category>
         
         
         <slash:comments></slash:comments>
