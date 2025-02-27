@@ -1,0 +1,11 @@
+{% if language == 'en' and translations.fi %}
+<p>
+  <img src="/images/fi.svg" alt="" width="20" height="15" style="margin-right: 0.4em;">
+  Tämä postaus löytyy <a href="{{ translations.fi }}">myös suomeksi</a>.
+</p>
+{% elsif language == 'fi' and translations.en %}
+<p>
+  <img src="/images/gb.svg" alt="" width="20" height="15" style="margin-right: 0.4em;">
+  This post also <a href="{{ translations.en }}">in English</a>.
+</p>
+{% endif %}
