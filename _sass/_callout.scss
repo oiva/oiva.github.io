@@ -1,0 +1,43 @@
+/* Basic callout styling */
+.callout {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border-radius: 4px;
+  display: flex;
+  gap: 0.75rem;
+  line-height: 1.5;
+}
+
+/* Info callout - blue theme */
+.callout-info {
+  background-color: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid rgb(59, 130, 246);
+}
+
+/* Icon container */
+.callout-icon {
+  flex-shrink: 0;
+  color: inherit;
+  display: flex;
+  align-items: flex-start;
+  font-size: 1.25rem;
+}
+
+/* Content styling */
+.callout-content {
+  flex: 1;
+}
+
+.callout-content > *:first-child {
+  margin-top: 0;
+}
+
+.callout-content > *:last-child {
+  margin-bottom: 0;
+}
+
+/* Optional: Title styling */
+.callout-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}

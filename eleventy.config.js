@@ -46,6 +46,14 @@ export default async function (eleventyConfig) {
     }
   });
 
+  eleventyConfig.addPairedShortcode("callout", (content, title) => {
+    return `<aside class="callout callout-info">
+  <div class="callout-content">
+    <strong>${title}:</strong> ${content}
+  </div>
+</aside>`
+  });
+
   eleventyConfig.addUrlTransform(urlTransform);
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/*.md").map(post => {
