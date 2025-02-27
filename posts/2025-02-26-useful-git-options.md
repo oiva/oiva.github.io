@@ -7,6 +7,9 @@ language: en
 date: 2025-02-26 22:21:05
 date_gmt: 2025-02-26 20:21:05
 excerpt: Two articles about Git options that you should probably use
+tags:
+- links
+- programming
 ---
 
 Here are two articles about **useful Git options that most people should probably use**:
