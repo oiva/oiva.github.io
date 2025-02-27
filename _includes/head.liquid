@@ -35,6 +35,12 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  {% if language == 'en' and translations.fi %}
+  <link rel="alternate" hreflang="fi" href="{{ translations.fi | prepend: site.baseurl}}" />
+  {% elsif language == 'fi' and translations.en %}
+  <link rel="alternate" hreflang="en" href="{{ translations.en | prepend: site.baseurl}}" />
+  {% endif %}
+
   <link rel="pingback" href="https://webmention.io/oivaeskola.fi/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/oivaeskola.fi/webmention" />
 </head>
