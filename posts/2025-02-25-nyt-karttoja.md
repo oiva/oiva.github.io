@@ -6,7 +6,7 @@ title: "Karttojen generointia"
 language: fi
 date: 2025-02-25 22:31:20
 date_gmt: 2025-02-25 20:31:20
-excerpt: Testing
+excerpt: Karttojen generointi edistyy
 eleventyExcludeFromCollections: ['posts']
 tags:
 - now
