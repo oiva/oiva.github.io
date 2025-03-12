@@ -18,6 +18,7 @@ date_gmt: 2008-05-22 09:57:02 +03:00
 tags:
 - elämä
 - web-palvelut
+- pyöräily
 old_tags:
 - kartta
 - google maps

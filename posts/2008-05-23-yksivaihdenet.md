@@ -16,6 +16,7 @@ date: 2008-05-23 12:58:12 +03:00
 date_gmt: 2008-05-23 09:58:12 +03:00
 tags:
 - web-palvelut
+- polkupyörä
 old_tags:
 - flickr
 - fixed gear
