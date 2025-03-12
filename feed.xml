@@ -8,9 +8,35 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Feb 2025 19:25:24 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Feb 2025 19:25:24 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 20:47:04 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 20:47:04 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Työsuhdepolkupyörä</title>
+        <description>Meillä töissä on ollut jo pitemmän aikaa työsuhdepyöräetu, missä saa siis valita melkein vapaasti polkupyörän, ja pyörän hinta vähennetään vähitellen palkasta. Koska pyörän osuus maksetaan ennen veroja, säästää pyörän hinnasta jopa 30 %.Pelkästään tämän takia olisi pitänyt tilata joku pyörä jo kauan sitten, mutta olen luonnollisesti vatvonut eri vaihtoehtoja. Toisen lapsen myötä rupesin miettimään pitkäperäpyöriä, joiden tavaratelineelle saa p...</description>
+        <content>
+          <img src="/images/2025/cube-longtail-hybrid-small.webp"
+            srcset="/images/2025/cube-longtail-hybrid.webp 2x"
+            alt="Cube Longtail Hybrid sähköpolkupyörä. Pyörässä on tavanomaista pyörää pitempi tavarateline ja telineen yläpuolella on kaide, mikä helpottaa tavaroiden tai lasten kuljettamista. Renkaat ovat hieman tavallista pienemmät, 26-tuumaiset"
+            width="686"
+            height="386" />
+        &lt;p&gt;Meillä töissä on ollut jo pitemmän aikaa työsuhdepyöräetu, missä saa siis valita melkein vapaasti polkupyörän, ja pyörän hinta vähennetään vähitellen palkasta. Koska pyörän osuus maksetaan ennen veroja, &lt;a href=&#34;https://www.gobybike.fi/tyontekijalle/laskuri/&#34;&gt;säästää pyörän hinnasta jopa 30 %&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pelkästään tämän takia olisi pitänyt tilata &lt;em&gt;joku&lt;/em&gt; pyörä jo kauan sitten, mutta olen luonnollisesti vatvonut eri vaihtoehtoja. Toisen lapsen myötä rupesin miettimään pitkäperäpyöriä, joiden tavaratelineelle saa periaatteessa kaksi lasta joko istuimiin, tai penkille (kuvassa).&lt;/p&gt;
+&lt;p&gt;Päädyin lopulta tilaamaan &lt;a href=&#34;https://www.cube.eu/e-bikes/transport/longtail-hybrid&#34;&gt;Cuben Longtail Hybrid Sport -pitkäperäpyörän&lt;/a&gt;, mikä on siis vielä matkalla. Tästä pyörästä olisi olemassa vielä hienompi malli missä on hihnaveto ja napavaihteisto, mutta sitä ei ollut saatavilla.&lt;/p&gt;
+&lt;p&gt;En ole ihan varma mahtuuko pyörä varastoon! Pitänee joka tapauksessa luopua edellisestä cyclocross-pyörästä, millä ajelin lähinnä töihin ja kuljetin vanhempaa lasta päiväkotiin. Uuden pyörän pitäisi hoitaa molemmat paremmin.&lt;/p&gt;
+&lt;p&gt;Tässäkään pyörässä ei muuten ole etujousitusta. Rupesin miettimään, että en ole ostanut jousitettua pyörää sitten vuoden 2002. Ehkä joskus myöhemmin taas.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 12 Mar 2025 19:56:55 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/03/12/uusi-pyörä/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/03/12/uusi-pyörä/</guid>
+        
+        <category>now</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Useful Git options</title>
@@ -1288,67 +1314,6 @@ and being prepared for any possible future.&lt;/p&gt;
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2015/02/24/an-idea-for-one-hour-of-your-time/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2015/02/24/an-idea-for-one-hour-of-your-time/</guid>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>What to do with my blog</title>
-        <description>It seems that blogs are more or lesson their way out. Onthe other hand people publish more material than ever, but it’s divided into amultitude of services based on content and context. Personal life updates go toFacebook, vacation photos to Instagram, goofy links to Tumblr and professionalstuff to Twitter.My blog is no exception. Its updates have slowed to a steady pace of one ortwo posts a year while I happily tweet on Twitter and code on Gi...</description>
-        <content>&lt;p&gt;It seems that blogs are more or less
-&lt;a href=&#34;http://www.marco.org/2015/02/16/google-and-blogs-shit&#34;&gt;on their way out&lt;/a&gt;. On
-the other hand people publish more material than ever, but it’s divided into a
-multitude of services based on content and context. Personal life updates go to
-Facebook, vacation photos to Instagram, goofy links to Tumblr and professional
-stuff to Twitter.&lt;/p&gt;
-&lt;p&gt;My blog is no exception. Its updates have slowed to a steady pace of one or
-two posts a year while I happily tweet on Twitter and code on GitHub. This
-led me to thinking that I could save my blog and create &lt;strong&gt;one central place&lt;/strong&gt;
-for all the stuff I produce elsewhere on the net. You know, to better build my
-&lt;em&gt;personal braaand&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Of course, if you think about it for a minute, the answer is
-pretty clearly &lt;strong&gt;no&lt;/strong&gt;. Not only would it be a great hassle to set up, but
-it would duplicate content somewhere where people didn’t expect to find it.
-Audiences on different services have formed there for a reason. People who
-follow me on Twitter probably don’t care about the food shots in my
-&lt;a href=&#34;https://instagram.com/bobs/&#34; title=&#34;You should totally follow me.&#34;&gt;Instagram feed&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The kind of websites I’ve enjoyed lately are often personal blogs that just
-have clear and concise writing, and none of the cruft. The kind of pages that
-almost look like &lt;a href=&#34;https://www.instapaper.com&#34;&gt;Instapapered&lt;/a&gt; before
-&lt;span title=&#34;Yes it&#39;s a verb&#34;&gt;instapapering&lt;/span&gt; them. Granted, I don’t
-always know whose blogs I’ve been reading, but those who are particularly good
-I will follow on Twitter and maybe share their post there too.&lt;/p&gt;
-&lt;p&gt;Subscribing to a blog might be a bit more rare these days, especially after
-Google Reader died. But I’m not sure if it’s all bad. Old-fashioned blog posts
-still tend to work on their own because people find them through Google or
-social sharing.&lt;/p&gt;
-&lt;p&gt;Anyway, following this train of thought I ended up with two criteria for my
-future website:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;I want to have a place where I can easily put text on the Internet&lt;/li&gt;
-&lt;li&gt;I could have a starting point for people googling me (or more realistically
-just to answer “what is your website?” questions on web forms.)&lt;/li&gt;
-&lt;li&gt;(I would like to own the content[^1].)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;In the end I decided to host my blog content on
-&lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;, accessible through my own
-domain[^2]. Easy, and totally building my brand. It remains to be seen if that
-helps me write any more blog posts. The chances are low, but who knows.&lt;/p&gt;
-&lt;p&gt;[^1]:
-I’ve spent enough time on the Internet to known that you need to host
-your blog content yourself (sorry &lt;a href=&#34;https://medium.com/&#34;&gt;Medium&lt;/a&gt;.) I once had
-a blog on &lt;a href=&#34;http://www.posterous.com/&#34;&gt;Posterous&lt;/a&gt; only to see it die a year
-later.&lt;/p&gt;
-&lt;p&gt;[^2]:
-The tech stack of the blog (mostly &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; really)
-and all the steps needed for you to read this post might be a topic for a
-follow-up post.&lt;/p&gt;
-</content>
-        <pubDate>Mon, 23 Feb 2015 11:53:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2015/02/23/moving-the-blog/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2015/02/23/moving-the-blog/</guid>
         
         
         <slash:comments></slash:comments>

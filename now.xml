@@ -8,9 +8,35 @@
     <description>Oiva Eskola's Now Page</description>
     <link>https://oivaeskola.fi/now</link>
     <atom:link href="https://oivaeskola.fi/now.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Feb 2025 19:25:24 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Feb 2025 19:25:24 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 20:47:04 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 20:47:04 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Työsuhdepolkupyörä</title>
+        <description>Meillä töissä on ollut jo pitemmän aikaa työsuhdepyöräetu, missä saa siis valita melkein vapaasti polkupyörän, ja pyörän hinta vähennetään vähitellen palkasta. Koska pyörän osuus maksetaan ennen veroja, säästää pyörän hinnasta jopa 30 %.Pelkästään tämän takia olisi pitänyt tilata joku pyörä jo kauan sitten, mutta olen luonnollisesti vatvonut eri vaihtoehtoja. Toisen lapsen myötä rupesin miettimään pitkäperäpyöriä, joiden tavaratelineelle saa p...</description>
+        <content>
+          <img src="/images/2025/cube-longtail-hybrid-small.webp"
+            srcset="/images/2025/cube-longtail-hybrid.webp 2x"
+            alt="Cube Longtail Hybrid sähköpolkupyörä. Pyörässä on tavanomaista pyörää pitempi tavarateline ja telineen yläpuolella on kaide, mikä helpottaa tavaroiden tai lasten kuljettamista. Renkaat ovat hieman tavallista pienemmät, 26-tuumaiset"
+            width="686"
+            height="386" />
+        &lt;p&gt;Meillä töissä on ollut jo pitemmän aikaa työsuhdepyöräetu, missä saa siis valita melkein vapaasti polkupyörän, ja pyörän hinta vähennetään vähitellen palkasta. Koska pyörän osuus maksetaan ennen veroja, &lt;a href=&#34;https://www.gobybike.fi/tyontekijalle/laskuri/&#34;&gt;säästää pyörän hinnasta jopa 30 %&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pelkästään tämän takia olisi pitänyt tilata &lt;em&gt;joku&lt;/em&gt; pyörä jo kauan sitten, mutta olen luonnollisesti vatvonut eri vaihtoehtoja. Toisen lapsen myötä rupesin miettimään pitkäperäpyöriä, joiden tavaratelineelle saa periaatteessa kaksi lasta joko istuimiin, tai penkille (kuvassa).&lt;/p&gt;
+&lt;p&gt;Päädyin lopulta tilaamaan &lt;a href=&#34;https://www.cube.eu/e-bikes/transport/longtail-hybrid&#34;&gt;Cuben Longtail Hybrid Sport -pitkäperäpyörän&lt;/a&gt;, mikä on siis vielä matkalla. Tästä pyörästä olisi olemassa vielä hienompi malli missä on hihnaveto ja napavaihteisto, mutta sitä ei ollut saatavilla.&lt;/p&gt;
+&lt;p&gt;En ole ihan varma mahtuuko pyörä varastoon! Pitänee joka tapauksessa luopua edellisestä cyclocross-pyörästä, millä ajelin lähinnä töihin ja kuljetin vanhempaa lasta päiväkotiin. Uuden pyörän pitäisi hoitaa molemmat paremmin.&lt;/p&gt;
+&lt;p&gt;Tässäkään pyörässä ei muuten ole etujousitusta. Rupesin miettimään, että en ole ostanut jousitettua pyörää sitten vuoden 2002. Ehkä joskus myöhemmin taas.&lt;/p&gt;
+</content>
+        <pubDate>Wed, 12 Mar 2025 19:56:55 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/03/12/uusi-pyörä/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/03/12/uusi-pyörä/</guid>
+        
+        <category>now</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Karttojen generointia</title>
