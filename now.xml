@@ -8,8 +8,8 @@
     <description>Oiva Eskola's Now Page</description>
     <link>https://oivaeskola.fi/now</link>
     <atom:link href="https://oivaeskola.fi/now.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Mar 2025 20:47:04 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Mar 2025 20:47:04 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 20:49:32 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 20:49:32 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -33,6 +33,12 @@
         <guid isPermaLink="false">https://oivaeskola.fi/2025/03/12/uusi-pyörä/</guid>
         
         <category>now</category>
+        
+        <category>polkupyörä</category>
+        
+        <category>pyöräily</category>
+        
+        <category>bikes</category>
         
         
         <slash:comments></slash:comments>
