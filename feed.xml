@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Mar 2025 20:54:01 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Mar 2025 20:54:01 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 12:11:53 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 12:11:53 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -39,6 +39,165 @@
         <category>pyöräily</category>
         
         <category>bikes</category>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
+    
+      <item>
+        <title>Esimerkkejä syötekentän saavutettavuudesta</title>
+        <description>Verkkosivujen saavutettavuus voi tuntua vähän hähmäiseltä käsitteeltä. Mitä kaikkea siihen kuuluu? Mitä pitää oikeasti tehdä että on saavutettava?Kirjoitin tämän artikkelin näyttääkseni muutaman esimerkin, miten saavutettavuutta voi huomioida yksittäisen syötekentän suunnittelussa ja toteutuksessa. Syötekentät eli &amp;lt;input&amp;gt;-elementit ovat verkkolomakkeiden peruskauraa. Miten vaikeaa niistä on tehdä saavutettavia?Huom: Tämä ei ole varsinais...</description>
+        <content>&lt;p&gt;&lt;strong&gt;Verkkosivujen saavutettavuus&lt;/strong&gt; voi tuntua vähän hähmäiseltä käsitteeltä. Mitä kaikkea siihen kuuluu? Mitä pitää oikeasti tehdä että on saavutettava?&lt;/p&gt;
+&lt;p&gt;Kirjoitin tämän artikkelin näyttääkseni muutaman esimerkin, miten saavutettavuutta voi huomioida &lt;em&gt;yksittäisen syötekentän&lt;/em&gt; suunnittelussa ja toteutuksessa. Syötekentät eli &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt;-elementit ovat verkkolomakkeiden peruskauraa. Miten vaikeaa niistä on tehdä saavutettavia?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Huom:&lt;/strong&gt; Tämä ei ole varsinaisesti opas siihen, mitä saavutettavuus ylätasolla on –
+&lt;a href=&#34;https://www.eficode.com/fi/blog/mita-eroa-saavutettavuudella-ja-inklusiivisuudella&#34;&gt;muut&lt;/a&gt;
+&lt;a href=&#34;https://papunet.net/saavutettavuus/miksi-saavutettava/mita-on-saavutettavuus/&#34;&gt;tekevät&lt;/a&gt;
+&lt;a href=&#34;https://www.saavutettavasti.fi/verkkosisaltojen-saavutettavuus/wcag/&#34;&gt;sen&lt;/a&gt; paremmin.&lt;/p&gt;
+&lt;h2&gt;Nopea kertaus saavutettavuuden määritelmästä&lt;/h2&gt;
+&lt;p&gt;Saavutettavuus tosi lyhyesti:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Saavutettavuus tarkoittaa sitä, että mahdollisimman moni erilainen ihminen voi käyttää verkkosivuja ja mobiilisovelluksia mahdollisimman helposti. Saavutettavuus on ihmisten erilaisuuden ja moninaisuuden huomiointia verkkosivujen ja mobiilisovelluksien suunnittelussa ja toteutuksessa.
+&lt;br&gt;– &lt;a href=&#34;https://www.saavutettavuusvaatimukset.fi/fi/yleista-saavutettavuudesta/tietoa-saavutettavuudesta&#34;&gt;saavutettavuusvaatimukset.fi&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Saavutettavuutta lähestytään usein henkilöiden rajoitteiden kautta. Esimerkiksi värisokean ihmisen on pystyttävä erottamaan eri toimintojen tarkoitus, jolloin eroa ei voi kommunikoida pelkällä värillä. Sokean ihmisen pitää pystyä käyttämään verkkosivuja ruudunlukijalla.&lt;/p&gt;
+&lt;p&gt;Mutta rajoite voi olla myös väliaikainen ja huomattavasti yleisempi. Esimerkiksi verkkolomakkeen täyttäminen vauva sylissä, tai vaikka vain väsyneenä on vaikeampaa kuin “optimiolosuhteissa”. Kaikki ihmiset hyötyvät, jos lomakkeen &lt;em&gt;kognitiivista kuormaa&lt;/em&gt; pienennetään, eli suomeksi täyttäminen ei vaadi niin paljon ajattelua.&lt;/p&gt;
+&lt;h2&gt;Taustaa&lt;/h2&gt;
+&lt;p&gt;Olen töissä vakuutusyhtiössä, jota koskevat tiukennetut saavutettavuus­vaatimukset. Ihmisten on pakko ostaa liikenne­vakuutus ajaakseen moottori­ajoneuvolla, joten vakuutusverkkokaupan pitää olla saavutettava.&lt;/p&gt;
+&lt;p&gt;Käytännössä teimme verkkopalvelumme saavutettavuuteen yhden isomman korjauskierroksen ennen vaatimusten voimaanastumista. Mutta itsekkäästi yritämme myös jatkuvasti tehdä vakuutusten ostamisesta helpompaa, koska &lt;em&gt;se lisää myyntiä&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Tässä artikkelissa tarkastellaan POP Vakuutuksen &lt;a href=&#34;https://www.popvakuutus.fi/ajoneuvovakuutus/autovakuutus/laske-hinta/vaihe/perustiedot&#34;&gt;ajoneuvovakuutuksen ostopolulta&lt;/a&gt; löytyvää &lt;strong&gt;henkilötunnuksen syötekenttää.&lt;/strong&gt; Kyseinen kenttä voi muuttua jatkossa, mutta tässä on tähän mennessä syntyneitä huomioita.&lt;/p&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;Huom:&lt;/strong&gt; Tämä ei ole esimerkki täydellisestä saavutettavuudesta tai käytettävyydestä, vaan kokoelma erilaisia saavutettavuusparannuksia.
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;Hypätään matkaan!&lt;/p&gt;
+&lt;h2&gt;Haluttu syötteen muoto placeholderissa&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;undefined:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Vähennetään tarvetta ajatella mitä kenttään pitää kirjoittaa&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;a href=&#34;/images/2025/saavutettavuus/placeholder.png&#34;&gt;
+&lt;img src=&#34;/images/2025/saavutettavuus/placeholder.png&#34; alt=&#34;Syötekenttä, jonka yllä kentän nimi &#39;Henkilötunnus&#39;. Kentän sisällä on placeholder ppkkvv-xxxx, eli päivä päivä kuukausi kuukausi vuosi vuosi, henkilötunnuksen loppuosa.&#34; height=&#34;122&#34; loading=&#34;lazy&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;Henkilötunnus on &lt;em&gt;useimmille&lt;/em&gt; tuttu konsepti, mutta joskus henkilötunnus menee sekaisin syntymäajan kanssa, tai ihmiselle ei heti muistu mieleen mistä tunnuksesta puhutaan. (Olemme törmänneet tähän ihan oikeasti!)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Syötekentässä on muistutuksena haluttu muoto vastaukselle&lt;/strong&gt;, eli niin sanottu &lt;em&gt;placeholder&lt;/em&gt;: ppkkvv-XXXX.&lt;/p&gt;
+&lt;p&gt;Placeholder-teksti on hieman hailakka harmaa. Luettavuuden kannalta tekstin ja taustan välinen kontrasti pitäisi olla isompi, mutta toisaalta liian tumma teksti antaa vaikutelman siitä, että kentässä on jo vastaus. Tämä voi johtaa siihen, että asiakas ei itse kirjoita vastausta, eikä siksi pääse etenemään ostossa.&lt;/p&gt;
+&lt;h2&gt;Placeholder koko ajan näkyvillä&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Pidetään placeholder koko ajan näkyvillä, jotta sitä ei tarvitse muistaa&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;Placeholder-tekstien ongelmana on, että ne katoavat kun kenttään alkaa kirjoittamaan tekstiä. Asiakkaan pitäisi vastausta kirjoittaessaan muistaa mitä placeholderissa luki, mikä ei yleisesti ottaen ole mahdotonta, mutta voi olla haastavaa.&lt;/p&gt;
+&lt;p&gt;Tämä on meillä ratkaistu niin, että kun kenttä on kohdistettuna (focus), siirtyy kentän placeholder kentän nimen perään. Tällä tavalla haluttu muoto säilyy näkyvillä koko ajan, &lt;strong&gt;eikä sitä tarvitse muistaa&lt;/strong&gt;:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/placeholder-in-label.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/placeholder-in-label.png&#34; alt=&#34;Sama syötekenttä kuin edellisessä kuvassa, mutta kentässä on tekstiä ja kentän placeholder on siirretty kentän otsikkoon (label). Otsikossa lukee &#39;Henkilötunnuksesi suluissa pee pee koo koo vee vee viiva x x x x&#39;&#34; height=&#34;123&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Haluttu syötteen muoto siirtyy kentän nimen perään kentän ollessa kohdistettu&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Kohdistuksen näyttäminen&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Näytetään mikä kenttä on kohdistettuna – helpottaa näppäimistökäyttöä ja näkörajoitteisten lomakkeen täyttöä&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/keyboard-focus.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/keyboard-focus.png&#34; alt=&#34;Henkilötunnuskenttä, jonka ympärillä on paksuhko keltainen ääriviiva&#34; height=&#34;127&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Kohdistin kentän sisällä. Kohdistin on siirretty kenttään tab-näppäimellä.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Lomaketta täyttäessä on tärkeä tietää mihin kenttään on kirjoittamassa tekstiä.
+Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) tai huomion herpaantuessa. Selain näyttää kohdistetun kentän ympärillä oletus­arvoisesti sinisen ääriviivan, mikä toimi huonosti meidän sinisen taustavärin kanssa.&lt;/p&gt;
+&lt;p&gt;Päädyimme designerin kanssa käyttämään keltaista ääriviivaa. &lt;strong&gt;Ääriviiva on paksumpi jos kenttään siirtyy näppäimistöllä.&lt;/strong&gt; Tässä oli ajatuksena, että klikatessaan kenttää hiirellä asiakas on paremmin tietoinen missä kohdistin menee.&lt;/p&gt;
+&lt;p&gt;Pelkällä näppäimistöllä navigoidessa on lähtökohtaisesti vaikeampi seurata mihin kohdistin seuraavaksi hyppää. Paksu ääriviiva näyttää selvästi missä kohdistin on. (Paksumpi ääriviiva oli ehkä designerin mielestä liikaa käytettäväksi koko ajan ja sen takia vain näppäimistökäytössä? – en muista.)&lt;/p&gt;
+&lt;p&gt;Myös kaikki ohjetekstit ovat avattavissa näppäimistöllä:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/keyboard-focus-2.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/keyboard-focus-2.png&#34; alt=&#34;Kentän yläpuolella oleva kysymysmerkki kohdistettuna, paksu keltainen ääriviiva ikonin ympärillä&#34; width=&#34;394&#34; height=&#34;228&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Ohjetekstin näyttävä kysymysmerkki kohdistettuna näppäimistöllä&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Virhetilanteet&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Näytetään virheet selkeästi ja yritetään ohjata virheen korjaamiseen&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;Asiakkaan antaessa virheellisen syötteen näytetään kentän ympärillä punainen ääriviiva ja kentän alapuolella virheviesti. Virhe näytetään vasta kun kohdistin siirretään pois kentästä, jotta asiakas voi rauhassa muokata henkilötunnusta ilman virheen välkkymistä.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/error-generic.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/error-generic.png&#34; alt=&#34;Henkilötunnuskenttä jonka ympärillä on punainen ääriviiva. Kentän alapuolella on virheviesti &#39;Tarkista henkilötunnuksesi&#39;&#34; width=&#34;686&#34; height=&#34;190&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Virheellinen vastaus&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Virheviestistä on yritetty tehdä tarpeeksi näkyvä, jotta asiakas huomaisi virhetilanteen. Mobiililaitteilla selain vierittää automaattisesti ensimmäiseen virheelliseen kenttään, jos asiakas yrittää jatkaa ostossa eteenpäin virheellisin tiedoin.&lt;/p&gt;
+&lt;p&gt;Virheviestissä lukee aina mistä tiedosta on kyse eikä esimerkiksi “Tarkista tieto”. Jos mahdollista, yritetään käyttää tarkkaa virheilmoitusta, esimerkiksi alaikäiselle vakuutuksenottajalle kerrotaan tarkemmin miksi annettu henkilötunnus ei kelpaa:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/error-age.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/error-age.png&#34; alt=&#34;Henkilötunnuskenttä jossa on oikeanmuotoinen henkilötunnus. Kentän alapuolella on virheviesti &#39;Vakuutuksenottajan oltava täysi-ikäinen&#39;&#34; width=&#34;686&#34; height=&#34;188&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Alaikäinen vakuutuksenottaja saa oman virheviestin&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Virheviestejä voisi meilläkin vielä parantaa, esimerkiksi henkilö­tunnuksen tapauksessa voisi kertoa onko virhe henkilö­tunnuksen päivämäärässä vai loppuosassa.&lt;/p&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;undefined:&lt;/strong&gt; Useamman eri virheviestin tuki voi vaatia eri virheiden asettamista tärkeysjärjestykseen. Jos kentässä voi olla samaan aikaan monta virhettä, tulisi asiakkaan nähdä hyödyllisin virheilmoitus.
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;h2&gt;Ruudunlukijavastine placeholderille&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Haluttu syötteen muoto pitää toimia myös ruudunlukijalla&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;&lt;em&gt;Ruudunlukijavastineella&lt;/em&gt; tarkoitetaan &lt;a href=&#34;https://fi.wikipedia.org/wiki/Ruudunlukuohjelma&#34;&gt;ruudunlukijan&lt;/a&gt; lukemaa käyttöliittymätekstiä. Tietyissä tilanteissa pelkkä ruudulla näkyvä teksti ei auta ruudunlukijan lukemana, vaan ruudunlukijalle pitää välittää ruudulla näkyvä &lt;em&gt;informaatio&lt;/em&gt; eri tavalla.&lt;/p&gt;
+&lt;p&gt;Esimerkiksi ruudulla voi nähdä helposti, että tietyt napit muodostavat nappiryhmän, mutta ruudunlukijalle suhde pitää kuvailla kertomalla mihin asiaan tietty nappi liittyy.&lt;/p&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;Huom:&lt;/strong&gt; Joku voi miettiä miksi näkövammainen olisi ostamassa liikenne&amp;shy;vakuutusta. Teoriassa henkilön näkökyky voi olla sellainen, että ajoneuvon kuljettaminen on sallittua, vaikka näytön lukeminen on vaikeaa. Mutta toinen, usein toistuva skenaario on vanhempi, joka hoitaa lapsensa vakuutusasioita.
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;Henkilötunnuskentän placeholderin tapauksessa pelkät kirjaimet ppkkvv… eivät kuulosta järkevältä ruudunlukijan lukemana. Siksi ruudunlukijalle välitetään syötteen muoto auki kirjoitettuna:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/screen-reader-placeholder.png&#34;&gt;
+    &lt;img src=&#34;/images/2025/saavutettavuus/screen-reader-placeholder.png&#34; alt=&#34;Henkilötunnuskentän otsikossa olevan placeholderin ruudunlukijavastine (aria-label): kirjaimet p, p, k, k... on kirjoitettu aria-labeliin auki muodossa &#39;päivä päivä kuukausi kuukausi vuosi vuosi viiva, henkilötunnuksen loppuosa.&#39;&#34; width=&#34;686&#34; height=&#34;154&#34; loading=&#34;lazy&#34; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;ppkkvv merkitys välitettynä ruudunlukijalle&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Virheviestien välittäminen ruudunlukijalle&lt;/h2&gt;
+&lt;aside class=&#34;callout callout-info&#34;&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;
+    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Ruudunlukijan pitää pystyä lukemaan virheviestit&lt;/li&gt;&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/aside&gt;
+&lt;p&gt;Ruudunlukijaa käyttävän asiakkaan on yhtä lailla saatava tietää, jos jonkun kentän sisältö on virheellinen. Myös ruudulla näkyvä virheviesti pitää kertoa ruudunlukijalle. Näihin on muutamia tapoja, mutta nyt mennään hieman teknisiin yksityiskohtiin.&lt;/p&gt;
+&lt;p&gt;Syötekenttä itsessään pitää merkitä koodissa virheelliseksi. Tämä tapahtuu kentän &lt;code&gt;invalid&lt;/code&gt; ja &lt;code&gt;aria-invalid&lt;/code&gt; -attribuuteilla:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;input invalid=&#34;true&#34; aria-invalid=&#34;true&#34; aria-describedby=&#34;root_ssn-error&#34;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Lisäksi kentässä on viittaus virheviestiin (&lt;code&gt;aria-describedby=&amp;quot;root_ssn-error&amp;quot;&lt;/code&gt;). Tämä kertoo ruudunlukijalle, että kentän kuvaus löytyy elementistä &lt;code&gt;&amp;lt;li id=&amp;quot;root_ssn-error&amp;quot;&amp;gt;&lt;/code&gt;, jolloin ruudunlukija lukee sieltä löytyvän virheviestin.&lt;/p&gt;
+&lt;p&gt;Lisäksi itse virheviesti luodaan elementin sisälle, jolla on &lt;code&gt;aria-live&lt;/code&gt;-attribuutti. Tämä itsessään vinkkaa ruudunlukijan lukemaan virheviestin heti kun se ilmestyy ruudulle. (Tämä tosin toimii hieman vaihtelevasti eri ruudunlukuohjelmistoilla.)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a href=&#34;/images/2025/saavutettavuus/screen-reader-error.png&#34;&gt;
+  &lt;img src=&#34;/images/2025/saavutettavuus/screen-reader-error.png&#34; alt=&#34;Virheviestielementin lähdekoodi. Virheviesti on div-elementin sisällä, jolla on aria-live ja aria-relevan -attribuutit. Lisäksi virheviestin id-attribuutti on &#39;root_ssn-error&#39;, mikä oli sidottu syötekentän &#39;described by&#39; -attribuuttiin.&#34; width=&#34;686&#34; height=&#34;270&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Virheviesti `aria-live` elementin sisällä&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Näillä keinoin ruudunlukija lukee virheviestin heti kun se ilmestyy, ja joka kerta kun asiakas siirtyy virheelliseen syötekenttään.&lt;/p&gt;
+&lt;h2&gt;Sekalaiset&lt;/h2&gt;
+&lt;p&gt;Näiden mainittujen juttujen lisäksi on olemassa yleisempiä saavutettavuus­korjauksia, mitkä koskevat kaikkia kenttiä. Esimerkiksi tekstin värin pitää erottua taustasta, ja tekstien pitäisi olla luettavissa jos asiakas suurentaa tekstikokoa huomattavasti. Lomakkeen on oltava käytettävissä pelkällä näppäimistöllä, jne.&lt;/p&gt;
+&lt;p&gt;Lopuksi vielä humio, että osa tässä nostetuista esimerkeistä koskee vain nykyisin suosittuja “Single Page Application”-tyylisiä sivuja, joilla lomakkeen validointi tehdään ilman sivunlatausta. Selaimet osaavat aika hyvin itsekin hoitaa esimerkiksi virhetilanteiden esille nostamisen, mutta osan näistä joutuu tekemään itse saavutettavaksi, kun lomaketta validoidaan lennossa.&lt;/p&gt;
+&lt;p&gt;Toivottavasti nämä esimerkit auttavat hahmottamaan miten saavutettavuutta voi parantaa!&lt;/p&gt;
+</content>
+        <pubDate>Thu, 27 Feb 2025 19:28:02 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/02/27/esimerkkejä-saavutettavuudesta/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/02/27/esimerkkejä-saavutettavuudesta/</guid>
+        
+        <category>saavutettavuus</category>
+        
+        <category>käytettävyys</category>
         
         
         <slash:comments></slash:comments>
@@ -1256,70 +1415,6 @@ and being prepared for any possible future.&lt;/p&gt;
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2015/04/17/why-would-you-meditate/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2015/04/17/why-would-you-meditate/</guid>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>Trade one hour of your time for one solid idea</title>
-        <description>You go into the woods and come back with an idea. How does that work?Walking. The answer’s walking. For walking an hour in the woods you are  guaranteed at least one actionable idea.Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (see links at the end) that could be summarized: walking increases creativity and relieves stress. So.What kind of ideas are we talking ...</description>
-        <content>&lt;p&gt;You go into the woods and come back with an idea. How does that work?&lt;/p&gt;
-&lt;p&gt;Walking. The answer’s walking. For walking &lt;strong&gt;an hour in the woods&lt;/strong&gt; you are  guaranteed at least &lt;strong&gt;one actionable idea&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Now, this is my personal experience. It’s not a scientific fact (that I know of). There does exist some walking related research (&lt;a href=&#34;#bonus-round-research&#34;&gt;see links at the end&lt;/a&gt;) that could be summarized: walking increases creativity and relieves stress. So.&lt;/p&gt;
-&lt;h3&gt;What kind of ideas are we talking about?&lt;/h3&gt;
-&lt;p&gt;Examples of ideas I’ve had while walking:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A simple solution for that one programming problem at work&lt;/li&gt;
-&lt;li&gt;How to improve our client’s processes. (Really a small thing the computer could do when we push new versions live but it solves one really old problem.)&lt;/li&gt;
-&lt;li&gt;What blog posts to write. Sometimes blog posts basically write themselves. The trouble is writing the ideas down.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oivaeskola.fi/2015/02/23/moving-the-blog/&#34;&gt;What to do with my website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How to word a presentation&lt;/li&gt;
-&lt;li&gt;Tons of new startup ideas :)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To generalize, it’s usually stuff you’ve already thought about for a while, sometimes subconsciously. You might know the problem but not the answer.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Clarity&lt;/em&gt; is a good word for it. Things become clear. You know what to do, how to do it, and what not to do.&lt;/p&gt;
-&lt;h3&gt;A whole hour though?&lt;/h3&gt;
-&lt;p&gt;I know, one hour is a long time to take out of a day for doing “nothing”.  You could also stay home and spend one hour brute-forcing your way through your life’s little problems. Walking is more fun.&lt;/p&gt;
-&lt;p&gt;Why a one-hour walk works is this: after 30 minutes of walking in one direction your brain goes: &lt;em&gt;“Hmm, we are kinda far away from home. I guess there isn’t much more to do than to just keep walking until we get back home.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This brief moment of your brain turning off is the valuable part.&lt;/strong&gt; It’s a bit like how you often get the best ideas in the shower. Not having to do anything or think anything is rare these days.&lt;/p&gt;
-&lt;p&gt;This pause from actively doing stuff or reading Twitter lets you pick up stuff from your subconscious, think it through, and piece something sensible together.&lt;/p&gt;
-&lt;p&gt;Sure, you could maybe achieve the same in less time. But consider this old Zen proverb:&lt;/p&gt;
-&lt;blockquote cite=&#34;http://buddhism.stackexchange.com/questions/5632/who-said-if-you-are-too-busy-meditate-for-two-hours&#34;&gt;&lt;p&gt;You should sit in meditation for 20 minutes a day. Unless you&#39;re too busy, then you should sit for an hour.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;A busy brain needs more time to unwind. Dont’ get me wrong: for example short lunch walks work well when you want to quickly clear your head. As the research shows, it’s a great way to boost your creativity when you know you need to do something… creative. But often it’s like they say in Inception: &lt;em&gt;“we need to go deeper”&lt;/em&gt;.&lt;/p&gt;
-&lt;h3&gt;Just walking around?&lt;/h3&gt;
-&lt;p&gt;Mostly. However, there are a few implementation details that yield better results:&lt;/p&gt;
-&lt;h4&gt;Make it easy&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Look up a route of roughly 6 to 7 kilometers beforehand. Not having to navigate leaves more time for thinking. Although sometimes getting lost is fun too if you have the time.&lt;/li&gt;
-&lt;li&gt;Technical Sportswear baby! Well, having at least comfortable shoes and warm clothing does help.&lt;/li&gt;
-&lt;li&gt;Don’t run. At least if you are starting out. I know people how can slice and dice their problems while running but for me that would focus my mind too much on breathing and not dying.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Minimize distractions&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Avoid roads. The quieter the better. Walking alongside a highway, or any way really, doesn’t work as well. Cars are loud.&lt;/li&gt;
-&lt;li&gt;Leave your headphones home. I’m a bit on the fence about listening to podcasts while walking. Some podcasts are thought-provoking and have actually inspired new ideas. Some podcasts are mindless filler. Either way, simultaneously listening someone talking and deeply thinking something yourself is super hard: one of them will suffer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You might want to take notes on your walks. One option is to use Siri or Google Now to record reminders. On iOS you could also &lt;a href=&#34;https://support.omnigroup.com/collecting-with-siri-in-omnifocus-2&#34;&gt;sync your recorded reminders to OmniFocus&lt;/a&gt;. Notes are a bit of an unsolved problem. I’ve sometimes copy-edited whole blog posts in my head only to forget most of that when I get back home.&lt;/p&gt;
-&lt;h3&gt;Bonus round: research&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise&#34;&gt;Wikipedia: Neurobiological effects of physical exercise&lt;/a&gt; is a good place to start if you want to know exactly how exercise affects the brain&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html&#34;&gt;Stanford study finds walking improves creativity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uofmhealth.org/news/archive/201409/walking-depression-and-beating-stress-outdoors-nature-group&#34;&gt;Walking off depression and beating stress outdoors? Nature group walks linked to improved mental health&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wsj.com/articles/SB10001424053111904199404576538260326965724&#34;&gt;WSJ: Coffee Break? Walk in the Park? Why Unwinding Is Hard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What’s interesting is that these studies found out that even walking inside on a treadmill and just looking at pictures of trees improves creativity.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;a href=&#34;https://www.flickr.com/photos/oiva/2695843572&#34; title=&#34;Puu by Oiva Eskola, on Flickr&#34;&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3238/2695843572_33050f55e5_n.jpg&#34; width=&#34;214&#34; height=&#34;320&#34; alt=&#34;Puu&#34;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Here&#39;s a tree.&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;There are some proven benefits, see? But don’t take it as “exercising is important and you should run every day!” All I dare to say is that walking probably isn’t bad for you.&lt;/p&gt;
-&lt;p&gt;I’m very well aware that telling people how awesome any form of exercise is usually does little to convince anyone to try it. (I’ve been at the receiving end many times.) So I’m just going to leave this here, and maybe if you need &lt;em&gt;fresh ideas&lt;/em&gt; you could get some &lt;em&gt;fresh air&lt;/em&gt;. Pow!&lt;/p&gt;
-</content>
-        <pubDate>Tue, 17 Mar 2015 21:40:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2015/02/24/an-idea-for-one-hour-of-your-time/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2015/02/24/an-idea-for-one-hour-of-your-time/</guid>
         
         
         <slash:comments></slash:comments>

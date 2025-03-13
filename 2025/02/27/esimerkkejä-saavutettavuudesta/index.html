@@ -3,7 +3,7 @@
 
 
 
-<html lang="en">
+<html lang="fi">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,11 +25,11 @@
     >
   </noscript>
 
-  <title>Oiva Eskola</title>
-  <meta name="description" content="Full stack web developer">
+  <title>Esimerkkejä syötekentän saavutettavuudesta</title>
+  <meta name="description" content="Miten saavutettavuus voidaan ottaa huomioon yksittäisen syötekentän toteutuksessa?">
   <meta name="author" content="Oiva Eskola">
-  
-  
+  <meta name="keywords" content="saavutettavuus, käytettävyys">
+  <meta name="dc.date" content="2025-02-27">
 
   <script>
     var host = "oivaeskola.fi";
@@ -38,7 +38,7 @@
     }
   </script>
 
-  <link rel="canonical" href="https://oivaeskola.fi/">
+  <link rel="canonical" href="https://oivaeskola.fi/2025/02/27/esimerkkejä-saavutettavuudesta/">
   <link rel="alternate" type="application/rss+xml" title="Oiva Eskola" href="https://oivaeskola.fi/feed.xml">
 
   
@@ -86,71 +86,53 @@
         
 
 
-<div class="home">
-  
-  <p class="intro">
-    Hello there. I'm <a href="/about">this guy</a>
-    and this is my home page. Below are all blog posts I have written since 2007.
-    Some of them are silly, but self-censorship would be worse I guess. 
-  </p>
-  
-  <h1 class="page-heading">Blog Posts</h1>
 
-  <ul class="post-list">
+
+<div class="post">
+  
+    <header class="post-header">
+  
+
+      <h1 class="post-title">Esimerkkejä syötekentän saavutettavuudesta</h1>
+      
+        <p class="post-meta">
+          <time itemprop="startDate" datetime="2025-02-27T21:28:02+00:00">
+            
+              27.2.2025
+            
+          </time>
+        </p>
+
+        
+    </header>
+
+  <article class="post-content">
     
-      
-        
-      
-      
-      
-      
-      <li
-         class="full-post"
-        
-        
-        lang="fi"
-        
-        >
-        <span class="post-meta">
-          
-          
-            27.2.2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/27/esimerkkejä-saavutettavuudesta/">Esimerkkejä syötekentän saavutettavuudesta</a>
-          
-        </h2>
-        
-          
-          
-          <div class="post-excerpt"><p><strong>Verkkosivujen saavutettavuus</strong> voi tuntua vähän hähmäiseltä käsitteeltä. Mitä kaikkea siihen kuuluu? Mitä pitää oikeasti tehdä että on saavutettava?</p>
+    <p><strong>Verkkosivujen saavutettavuus</strong> voi tuntua vähän hähmäiseltä käsitteeltä. Mitä kaikkea siihen kuuluu? Mitä pitää oikeasti tehdä että on saavutettava?</p>
 <p>Kirjoitin tämän artikkelin näyttääkseni muutaman esimerkin, miten saavutettavuutta voi huomioida <em>yksittäisen syötekentän</em> suunnittelussa ja toteutuksessa. Syötekentät eli <code>&lt;input&gt;</code>-elementit ovat verkkolomakkeiden peruskauraa. Miten vaikeaa niistä on tehdä saavutettavia?</p>
 <p><strong>Huom:</strong> Tämä ei ole varsinaisesti opas siihen, mitä saavutettavuus ylätasolla on –
 <a href="https://www.eficode.com/fi/blog/mita-eroa-saavutettavuudella-ja-inklusiivisuudella">muut</a>
 <a href="https://papunet.net/saavutettavuus/miksi-saavutettava/mita-on-saavutettavuus/">tekevät</a>
 <a href="https://www.saavutettavasti.fi/verkkosisaltojen-saavutettavuus/wcag/">sen</a> paremmin.</p>
-<h3>Nopea kertaus saavutettavuuden määritelmästä</h3>
+<h2>Nopea kertaus saavutettavuuden määritelmästä</h2>
 <p>Saavutettavuus tosi lyhyesti:</p>
 <blockquote>
 <p>Saavutettavuus tarkoittaa sitä, että mahdollisimman moni erilainen ihminen voi käyttää verkkosivuja ja mobiilisovelluksia mahdollisimman helposti. Saavutettavuus on ihmisten erilaisuuden ja moninaisuuden huomiointia verkkosivujen ja mobiilisovelluksien suunnittelussa ja toteutuksessa.
 <br>– <a href="https://www.saavutettavuusvaatimukset.fi/fi/yleista-saavutettavuudesta/tietoa-saavutettavuudesta">saavutettavuusvaatimukset.fi</a></p>
 </blockquote>
 <p>Saavutettavuutta lähestytään usein henkilöiden rajoitteiden kautta. Esimerkiksi värisokean ihmisen on pystyttävä erottamaan eri toimintojen tarkoitus, jolloin eroa ei voi kommunikoida pelkällä värillä. Sokean ihmisen pitää pystyä käyttämään verkkosivuja ruudunlukijalla.</p>
-<p>Mutta rajoite voi olla myös väliaikainen ja huomattavasti yleisempi. Esimerkiksi verkkolomakkeen täyttäminen vauva sylissä, tai vaikka vain väsyneenä on vaikeampaa kuin “optimiolosuhteissa”. Kaikki ihmiset hyötyvät, jos lomakkeen <em>kognitiivista kuormaa</em> pienennetään, eli suomeksi täyttäminen ei vaadi niin paljon ajattelua.</p>
-<h3>Taustaa</h3>
+<p>Mutta rajoite voi olla myös väliaikainen ja huomattavasti yleisempi. Esimerkiksi verkkolomakkeen täyttäminen vauva sylissä, tai vaikka vain väsyneenä on vaikeampaa kuin “optimiolosuhteissa”. Kaikki ihmiset hyötyvät, jos lomakkeen <em>kognitiivista kuormaa</em> pienennetään, eli suomeksi <a class="Footnotes__ref" href="#myclub-note" id="myclub-ref" aria-describedby="footnotes-label" role="doc-noteref">täyttäminen ei vaadi niin paljon ajattelua</a>.</p>
+<h2>Taustaa</h2>
 <p>Olen töissä vakuutusyhtiössä, jota koskevat tiukennetut saavutettavuus­vaatimukset. Ihmisten on pakko ostaa liikenne­vakuutus ajaakseen moottori­ajoneuvolla, joten vakuutusverkkokaupan pitää olla saavutettava.</p>
 <p>Käytännössä teimme verkkopalvelumme saavutettavuuteen yhden isomman korjauskierroksen ennen vaatimusten voimaanastumista. Mutta itsekkäästi yritämme myös jatkuvasti tehdä vakuutusten ostamisesta helpompaa, koska <em>se lisää myyntiä</em>.</p>
-<p>Tässä artikkelissa tarkastellaan POP Vakuutuksen <a href="https://www.popvakuutus.fi/ajoneuvovakuutus/autovakuutus/laske-hinta/vaihe/perustiedot">ajoneuvovakuutuksen ostopolulta</a> löytyvää <strong>henkilötunnuksen syötekenttää.</strong> Kyseinen kenttä voi muuttua jatkossa, mutta tässä on tähän mennessä syntyneitä huomioita.</p>
+<p>Tässä artikkelissa tarkastellaan POP Vakuutuksen <a href="https://www.popvakuutus.fi/ajoneuvovakuutus/autovakuutus/laske-hinta/vaihe/perustiedot">ajoneuvovakuutuksen ostopolulta</a> löytyvää <strong><a class="Footnotes__ref" href="#hetu-note" id="hetu-ref" aria-describedby="footnotes-label" role="doc-noteref">henkilötunnuksen</a> syötekenttää.</strong> Kyseinen kenttä voi muuttua jatkossa, mutta tässä on tähän mennessä syntyneitä huomioita.</p>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>Huom:</strong> Tämä ei ole esimerkki täydellisestä saavutettavuudesta tai käytettävyydestä, vaan kokoelma erilaisia saavutettavuusparannuksia.
   </div>
 </aside>
 <p>Hypätään matkaan!</p>
-<h3>Haluttu syötteen muoto placeholderissa</h3>
+<h2>Haluttu syötteen muoto placeholderissa</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>undefined:</strong> <ul><li>Vähennetään tarvetta ajatella mitä kenttään pitää kirjoittaa</li></ul>
@@ -162,7 +144,7 @@
 <p>Henkilötunnus on <em>useimmille</em> tuttu konsepti, mutta joskus henkilötunnus menee sekaisin syntymäajan kanssa, tai ihmiselle ei heti muistu mieleen mistä tunnuksesta puhutaan. (Olemme törmänneet tähän ihan oikeasti!)</p>
 <p><strong>Syötekentässä on muistutuksena haluttu muoto vastaukselle</strong>, eli niin sanottu <em>placeholder</em>: ppkkvv-XXXX.</p>
 <p>Placeholder-teksti on hieman hailakka harmaa. Luettavuuden kannalta tekstin ja taustan välinen kontrasti pitäisi olla isompi, mutta toisaalta liian tumma teksti antaa vaikutelman siitä, että kentässä on jo vastaus. Tämä voi johtaa siihen, että asiakas ei itse kirjoita vastausta, eikä siksi pääse etenemään ostossa.</p>
-<h3>Placeholder koko ajan näkyvillä</h3>
+<h2>Placeholder koko ajan näkyvillä</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>:</strong> <ul><li>Pidetään placeholder koko ajan näkyvillä, jotta sitä ei tarvitse muistaa</li></ul>
@@ -176,7 +158,7 @@
   </a>
   <figcaption>Haluttu syötteen muoto siirtyy kentän nimen perään kentän ollessa kohdistettu</figcaption>
 </figure>
-<h3>Kohdistuksen näyttäminen</h3>
+<h2>Kohdistuksen näyttäminen</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>:</strong> <ul><li>Näytetään mikä kenttä on kohdistettuna – helpottaa näppäimistökäyttöä ja näkörajoitteisten lomakkeen täyttöä</li></ul>
@@ -199,7 +181,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
   </a>
   <figcaption>Ohjetekstin näyttävä kysymysmerkki kohdistettuna näppäimistöllä</figcaption>
 </figure>
-<h3>Virhetilanteet</h3>
+<h2>Virhetilanteet</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>:</strong> <ul><li>Näytetään virheet selkeästi ja yritetään ohjata virheen korjaamiseen</li></ul>
@@ -226,7 +208,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
     <strong>undefined:</strong> Useamman eri virheviestin tuki voi vaatia eri virheiden asettamista tärkeysjärjestykseen. Jos kentässä voi olla samaan aikaan monta virhettä, tulisi asiakkaan nähdä hyödyllisin virheilmoitus.
   </div>
 </aside>
-<h3>Ruudunlukijavastine placeholderille</h3>
+<h2>Ruudunlukijavastine placeholderille</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>:</strong> <ul><li>Haluttu syötteen muoto pitää toimia myös ruudunlukijalla</li></ul>
@@ -246,7 +228,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
   </a>
   <figcaption>ppkkvv merkitys välitettynä ruudunlukijalle</figcaption>
 </figure>
-<h3>Virheviestien välittäminen ruudunlukijalle</h3>
+<h2>Virheviestien välittäminen ruudunlukijalle</h2>
 <aside class="callout callout-info">
   <div class="callout-content">
     <strong>:</strong> <ul><li>Ruudunlukijan pitää pystyä lukemaan virheviestit</li></ul>
@@ -264,627 +246,45 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
   <figcaption>Virheviesti `aria-live` elementin sisällä</figcaption>
 </figure>
 <p>Näillä keinoin ruudunlukija lukee virheviestin heti kun se ilmestyy, ja joka kerta kun asiakas siirtyy virheelliseen syötekenttään.</p>
-<h3>Sekalaiset</h3>
+<h2>Sekalaiset</h2>
 <p>Näiden mainittujen juttujen lisäksi on olemassa yleisempiä saavutettavuus­korjauksia, mitkä koskevat kaikkia kenttiä. Esimerkiksi tekstin värin pitää erottua taustasta, ja tekstien pitäisi olla luettavissa jos asiakas suurentaa tekstikokoa huomattavasti. Lomakkeen on oltava käytettävissä pelkällä näppäimistöllä, jne.</p>
 <p>Lopuksi vielä humio, että osa tässä nostetuista esimerkeistä koskee vain nykyisin suosittuja “Single Page Application”-tyylisiä sivuja, joilla lomakkeen validointi tehdään ilman sivunlatausta. Selaimet osaavat aika hyvin itsekin hoitaa esimerkiksi virhetilanteiden esille nostamisen, mutta osan näistä joutuu tekemään itse saavutettavaksi, kun lomaketta validoidaan lennossa.</p>
 <p>Toivottavasti nämä esimerkit auttavat hahmottamaan miten saavutettavuutta voi parantaa!</p>
-</div>
-          <hr>
-        
-      </li>
 
-      
-      
-      
-      
-      <li
-         class="full-post"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Feb 26, 2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/26/useful-git-options/">Useful Git options</a>
-          
-        </h2>
-        
-          
-          
-          <div class="post-excerpt"><p>Here are two articles about <strong>useful Git options that most people should probably use</strong>:</p>
-<ul>
-<li>
-<p><a href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/">Popular Git options</a> by Julia Evans. This came out already a year ago but I was “too busy” to read it then.</p>
-</li>
-<li>
-<p><a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/">How Core Git Developers Configure Git</a> by Scott Chacon.</p>
-</li>
-</ul>
-<p>These two lists are largely overlapping but Julia’s has a grab bag of smaller, yet useful options. I like Scott’s categorization of options, including options that “Clearly Makes Git Better”:</p>
-<blockquote>
-<p>This first group of settings <em>clearly</em> makes Git better by default. There are generally zero downsides to enabling any of them.</p>
-</blockquote>
-</div>
-          <hr>
-        
-      </li>
-
-      
-        
-      
-      
-      
-      
-      <li
-         class="full-post"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Feb 25, 2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/25/rip-back-to-work/">R.I.P. Back to Work</a>
-          
-        </h2>
-        
-          
-          
-          <div class="post-excerpt"><p>Being so far Back to Work podcast ending in April 2024.</p>
-<p>This was one of those podcasts where the hosts felt like your friends because I listened to them speak for 13 years. I have very specific memories of the show tied to certain locations. It also did help me do better work.</p>
-<p>So I’m sad it’s not there anymore, but nothing really is permanent. I’m also very thankful this “pound sign productivity” podcast existed.</p>
-</div>
-          <hr>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="fi"
-        
-        >
-        <span class="post-meta">
-          
-          
-            23.2.2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/23/projekti-ideoita/">Projekti-ideoita</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Muutamia projekti-ideoita mitä pyörii päässä
-            
-            
-            <a class="read-more" href="/2025/02/23/projekti-ideoita/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Feb 12, 2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/12/tv-series-costs-are-bananas/">TV Series Costs Are Bananas</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            This tidbit about Apple TV+'s ‘Severance’ caught my eye: From Hollywood Reporter (via MacRumors):
-            
-            
-            <a class="read-more" href="/2025/02/12/tv-series-costs-are-bananas/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Feb 11, 2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/11/hacker-news-bots/">Hacker News Bots</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            In 2011 I created a few Twitter bots that would find posts from Hacker News and post them to Twitter. The bots would only post links that had over 200, 250, or 500 points, so that you could follow the bot and only see the good  (most upvoted) stuf...
-            
-            
-            <a class="read-more" href="/2025/02/11/hacker-news-bots/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          <a href="/2025/02/07/carry/">
-          
-          
-            Feb 7, 2025
-          
-          
-          </a>
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/carry">Everyday Carry</a>
-          
-        </h2>
-        
-          
-          
-          <div class="post-excerpt"><p>I discovered “<a href="https://slashpages.net">Slash Pages</a>” somewhere and while I don’t think these are very discoverable, some of them are good writing prompts.</p>
-<p>I started by documenting <a href="/carry">what I <code>/carry</code> everyday</a>.</p>
-</div>
-          <hr>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="fi"
-        
-        >
-        <span class="post-meta">
-          
-          
-            3.2.2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/02/03/simulento/">Simulennon Airbus A321 -simulaattori</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            
-            
-            
-            <a class="read-more" href="/2025/02/03/simulento/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Jan 31, 2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/01/31/no-simple-videos/">There are no simple videos</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:
-            
-            
-            <a class="read-more" href="/2025/01/31/no-simple-videos/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="fi"
-        
-        >
-        <span class="post-meta">
-          
-          
-            27.1.2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/">Storytel Readerin korvaaminen Onyx Boox tabletilla</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Storytel-lukulaitteen valmistus on lopetettu, mutta sen voi korvata Onyx Boox-tabletilla
-            
-            
-            <a class="read-more" href="/2025/01/15/storytel-readerin-korvaaminen-onyx-boox-tabletilla/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="fi"
-        
-        >
-        <span class="post-meta">
-          
-          
-            22.1.2025
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2025/01/21/mastodon-threads-bluesky/">Mastodon vs. Threads vs. Bluesky</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Vikasietotila-podcastissa oli hyvä jakso Twitterin korvaajien eroista
-            
-            
-            <a class="read-more" href="/2025/01/21/mastodon-threads-bluesky/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Jun 28, 2020
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2020/06/28/youtube-recommendations/">Youtube recommendations</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Some youtube videos I've like recently
-            
-            
-            <a class="read-more" href="/2020/06/28/youtube-recommendations/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Oct 31, 2019
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2019/10/31/infotoggle-technical-side/">Technical learnings from InfoToggle</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Technical aspects of InfoToggle
-            
-            
-            <a class="read-more" href="/2019/10/31/infotoggle-technical-side/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Oct 21, 2019
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2019/10/21/infotoggle/">InfoToggle</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            I'm creating a SaaS called InfoToggle
-            
-            
-            <a class="read-more" href="/2019/10/21/infotoggle/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Nov 24, 2016
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2016/11/24/a-winter-bike/">A Winter Mountain Bike</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            After some unfortunate bike-thieving-events half a year ago I was left with
-only one bike: a White road bike. It’s a good bike, I even scored a pair of
-carbon wheels for it.
-            
-            
-            <a class="read-more" href="/2016/11/24/a-winter-bike/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Jan 20, 2016
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2016/01/20/people-switching-to-fuji/">Stories about switching to Fuji</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Some experiences from folks who’ve switched to from Nikon to Fuji systems,
-something I might be doing as well. Many of these talk about Fuji’s X-T1 which
-is the big brother of the X-T10 I’m interested in but also about the reasons
-for switching.
-            
-            
-            <a class="read-more" href="/2016/01/20/people-switching-to-fuji/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Jan 19, 2016
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2016/01/20/next-camera-nikon-vs-fujifilm/">Next camera: Nikon vs. Fujifilm</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Buying a camera in 2016 is hard. What kind of camera should you buy?
-            
-            
-            <a class="read-more" href="/2016/01/20/next-camera-nikon-vs-fujifilm/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-      
-      
-      
-      
-      <li
-         class="has-excerpt"
-        
-        
-        lang="en"
-        
-        >
-        <span class="post-meta">
-          
-          
-            Aug 18, 2015
-          
-          
-        </span>
-        <h2>
-          
-          <a class="post-link" href="/2015/08/17/most-voted-black-ops-2-maps/">Most Popular Black Ops II Multiplayer Maps</a>
-          
-        </h2>
-        
-          <p class="post-excerpt">
-            Call of Duty: Black Ops II
-is a 2012 first-person shooter game for the previous generation consoles
-(PS3, Xbox 360, Wii U). While the game is a bit old, its multiplayer mode is
-still insanely popular.
-            
-            
-            <a class="read-more" href="/2015/08/17/most-voted-black-ops-2-maps/" title="Read more">&#8594;</a>
-            
-          </p>
-        
-      </li>
-
-  </ul>
-
-  <!-- Pagination links -->
-  <div class="pagination">
-    <span class="page_number">Page 1 / 10:</span>
     
+      
+      
+      
+      
+      <p class="categories">Kategoriat: 
+        
+          <a href="/archive/saavutettavuus">saavutettavuus</a>, 
+          
+        
+          <a href="/archive/kaytettavyys">käytettävyys</a>
+          
+        
+      </p>
+      
     
-      <a href="/page2/" class="next">next page</a>
-    
-  </div>
+  </article>
 
+  <footer>
+  <footer role="doc-endnotes" class="Footnotes">
+    <h2 id="footnotes-label" class="Footnotes__title">Footnotes</h2>
+    <ol class="Footnotes__list"><li id="myclub-note" class="Footnotes__list-item">Täytin juuri väsyneenä junnun tietoja urheiluseuran jäsenpalveluun, ja yksi kysymyksistä oli '#No.', ilman mitään muuta selitystä. Risuaita numero? En tiedä vieläkään mitä tämä tarkoittaa. Onneksi tämä ei ollut pakollinen tieto 😅 <a class="Footnotes__back-link" href="#myclub-ref" aria-label="Back to reference 1" role="doc-backlink">↩</a></li>
+<li id="hetu-note" class="Footnotes__list-item">Emme käytä henkilötunnusta tässä henkilön tunnistamiseen. Tarvitsemme tiedon muutamiin ajoneuvon omistajuuteen liittyviin tarkistuksiin ja henkilön iän laskemiseen. Henkilö tunnistetaan myöhemmin vahvalla tunnistautumisella. Henkilötunnuksen käyttäminen ihmisten tunnistamiseen on oma matopurkkinsa <a class="Footnotes__back-link" href="#hetu-ref" aria-label="Back to reference 2" role="doc-backlink">↩</a></li></ol>
+  </footer></footer>
+
+  
+
+  <section class="feedback">
+    
+    <h2>Kysymyksiä tai kommentoitavaa?</h2>
+    <p>Lähetä viesti <a href="https://toot.community/@oivaeskola">Mastodonissa</a> tai
+      <a href="mailto:oiva.eskola@gmail.com?subject=Esimerkkejä syötekentän saavutettavuudesta">sähköpostilla</a>.</p>
+    
+  </section>
 </div>
 
       </div>

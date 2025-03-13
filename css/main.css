@@ -492,17 +492,12 @@ a.post-link {
   margin-bottom: 32px;
 }
 .post-content h2 {
-  font-size: 32px;
-}
-@media screen and (max-width: 750px) {
-  .post-content h2 {
-    font-size: 28px;
-  }
+  font-size: 28px;
 }
 .post-content h3 {
-  font-size: 26px;
+  font-size: 24px;
   font-weight: bold;
-  margin-top: 32px;
+  margin-top: 30px;
 }
 @media screen and (max-width: 750px) {
   .post-content h3 {
@@ -947,6 +942,10 @@ body {
 }
 
 .callout-content > *:last-child {
+  margin-bottom: 0;
+}
+
+.callout-content li:last-child {
   margin-bottom: 0;
 }
 
