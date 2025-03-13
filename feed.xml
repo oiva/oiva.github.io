@@ -8,8 +8,8 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Mar 2025 12:11:53 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Mar 2025 12:11:53 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 12:16:43 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 12:16:43 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
@@ -74,7 +74,7 @@
 &lt;h2&gt;Haluttu syötteen muoto placeholderissa&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;undefined:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Vähennetään tarvetta ajatella mitä kenttään pitää kirjoittaa&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Vähennetään tarvetta ajatella mitä kenttään pitää kirjoittaa&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;a href=&#34;/images/2025/saavutettavuus/placeholder.png&#34;&gt;
@@ -86,7 +86,7 @@
 &lt;h2&gt;Placeholder koko ajan näkyvillä&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Pidetään placeholder koko ajan näkyvillä, jotta sitä ei tarvitse muistaa&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Pidetään placeholder koko ajan näkyvillä, jotta sitä ei tarvitse muistaa&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;p&gt;Placeholder-tekstien ongelmana on, että ne katoavat kun kenttään alkaa kirjoittamaan tekstiä. Asiakkaan pitäisi vastausta kirjoittaessaan muistaa mitä placeholderissa luki, mikä ei yleisesti ottaen ole mahdotonta, mutta voi olla haastavaa.&lt;/p&gt;
@@ -100,7 +100,7 @@
 &lt;h2&gt;Kohdistuksen näyttäminen&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Näytetään mikä kenttä on kohdistettuna – helpottaa näppäimistökäyttöä ja näkörajoitteisten lomakkeen täyttöä&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Näytetään mikä kenttä on kohdistettuna – helpottaa näppäimistökäyttöä ja näkörajoitteisten lomakkeen täyttöä&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;figure&gt;
@@ -123,7 +123,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
 &lt;h2&gt;Virhetilanteet&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Näytetään virheet selkeästi ja yritetään ohjata virheen korjaamiseen&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Näytetään virheet selkeästi ja yritetään ohjata virheen korjaamiseen&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;p&gt;Asiakkaan antaessa virheellisen syötteen näytetään kentän ympärillä punainen ääriviiva ja kentän alapuolella virheviesti. Virhe näytetään vasta kun kohdistin siirretään pois kentästä, jotta asiakas voi rauhassa muokata henkilötunnusta ilman virheen välkkymistä.&lt;/p&gt;
@@ -144,13 +144,13 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
 &lt;p&gt;Virheviestejä voisi meilläkin vielä parantaa, esimerkiksi henkilö­tunnuksen tapauksessa voisi kertoa onko virhe henkilö­tunnuksen päivämäärässä vai loppuosassa.&lt;/p&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;undefined:&lt;/strong&gt; Useamman eri virheviestin tuki voi vaatia eri virheiden asettamista tärkeysjärjestykseen. Jos kentässä voi olla samaan aikaan monta virhettä, tulisi asiakkaan nähdä hyödyllisin virheilmoitus.
+     Useamman eri virheviestin tuki voi vaatia eri virheiden asettamista tärkeysjärjestykseen. Jos kentässä voi olla samaan aikaan monta virhettä, tulisi asiakkaan nähdä hyödyllisin virheilmoitus.
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;h2&gt;Ruudunlukijavastine placeholderille&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Haluttu syötteen muoto pitää toimia myös ruudunlukijalla&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Haluttu syötteen muoto pitää toimia myös ruudunlukijalla&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;p&gt;&lt;em&gt;Ruudunlukijavastineella&lt;/em&gt; tarkoitetaan &lt;a href=&#34;https://fi.wikipedia.org/wiki/Ruudunlukuohjelma&#34;&gt;ruudunlukijan&lt;/a&gt; lukemaa käyttöliittymätekstiä. Tietyissä tilanteissa pelkkä ruudulla näkyvä teksti ei auta ruudunlukijan lukemana, vaan ruudunlukijalle pitää välittää ruudulla näkyvä &lt;em&gt;informaatio&lt;/em&gt; eri tavalla.&lt;/p&gt;
@@ -170,7 +170,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
 &lt;h2&gt;Virheviestien välittäminen ruudunlukijalle&lt;/h2&gt;
 &lt;aside class=&#34;callout callout-info&#34;&gt;
   &lt;div class=&#34;callout-content&#34;&gt;
-    &lt;strong&gt;:&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;Ruudunlukijan pitää pystyä lukemaan virheviestit&lt;/li&gt;&lt;/ul&gt;
+     &lt;ul&gt;&lt;li&gt;Ruudunlukijan pitää pystyä lukemaan virheviestit&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
 &lt;/aside&gt;
 &lt;p&gt;Ruudunlukijaa käyttävän asiakkaan on yhtä lailla saatava tietää, jos jonkun kentän sisältö on virheellinen. Myös ruudulla näkyvä virheviesti pitää kertoa ruudunlukijalle. Näihin on muutamia tapoja, mutta nyt mennään hieman teknisiin yksityiskohtiin.&lt;/p&gt;
