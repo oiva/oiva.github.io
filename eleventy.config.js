@@ -49,7 +49,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPairedShortcode("callout", (content, title) => {
     return `<aside class="callout callout-info">
   <div class="callout-content">
-    <strong>${title}:</strong> ${content}
+    ${title ? `<strong>${title}:</strong>` : ''} ${content}
   </div>
 </aside>`
   });
