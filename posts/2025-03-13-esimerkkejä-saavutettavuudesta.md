@@ -4,8 +4,8 @@ status: publish
 layout: post
 title: "Esimerkkejä syötekentän saavutettavuudesta"
 language: fi
-date: 2025-02-27 21:28:02
-date_gmt: 2025-02-27 19:28:02
+date: 2025-03-13 14:15:00
+date_gmt: 2025-03-13 12:15:00
 excerpt: Miten saavutettavuus voidaan ottaa huomioon yksittäisen syötekentän toteutuksessa?
 tags:
 - saavutettavuus
