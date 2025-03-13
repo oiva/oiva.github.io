@@ -327,17 +327,13 @@ a.post-link {
     margin-bottom: variables.$spacing-unit;
 
     h2 {
-        font-size: 32px;
-
-        @include mixins.media-query(variables.$on-laptop) {
-            font-size: 28px;
-        }
+        font-size: 28px;
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 24px;
         font-weight: bold;
-        margin-top: 32px;
+        margin-top: 30px;
 
         @include mixins.media-query(variables.$on-laptop) {
             font-size: 22px;
