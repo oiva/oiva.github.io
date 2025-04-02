@@ -4,9 +4,14 @@ echo "Enter the title of the post: ";
 $fin = fopen ("php://stdin","r");
 $line = fgets($fin);
 
-echo "What language is the post in? (en, fi)";
+echo "What language is the post in? (en, fi): ";
 $fin = fopen ("php://stdin","r");
 $language = trim(fgets($fin));
+
+echo "Add hero image? (y / n): ";
+$fin = fopen ("php://stdin", "r");
+$hero = strtolower(trim(fgets($fin)));
+$hero = $hero == "y";
 
 assert($language == "en" || $language == "fi");
 
@@ -32,8 +37,17 @@ title: \"".$title."\"
 language: ".$language."
 date: ".$localTime."
 date_gmt: ".$gmtTime."
-excerpt:
----\n\n";
+excerpt:\n";
+
+if ($hero) {
+    $frontMatter .= "hero:
+  src: /images/2025/hero.webp
+  src_small: /images/2025/hero-small.webp
+  width: 686
+  height: 386
+  alt: \n";
+}
+$frontMatter .= "---\n\n";
 
 fwrite($fin, $frontMatter);
 fclose($fin);
