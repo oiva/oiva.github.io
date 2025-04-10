@@ -362,6 +362,7 @@ pre > code {
 .post-list {
   margin-left: 0;
   list-style: none;
+  text-wrap: pretty;
 }
 .post-list > li {
   margin-bottom: 32px;
@@ -490,6 +491,7 @@ a.post-link {
 }
 .post-content {
   margin-bottom: 32px;
+  text-wrap: pretty;
 }
 .post-content h2 {
   font-size: 28px;
