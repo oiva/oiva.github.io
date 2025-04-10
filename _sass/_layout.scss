@@ -186,6 +186,7 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    text-wrap: pretty;
 
     > li {
         margin-bottom: variables.$spacing-unit;
@@ -325,6 +326,7 @@ a.post-link {
 
 .post-content {
     margin-bottom: variables.$spacing-unit;
+    text-wrap: pretty;
 
     h2 {
         font-size: 28px;
