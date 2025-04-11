@@ -8,9 +8,34 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Apr 2025 10:34:14 +0000</pubDate>
-    <lastBuildDate>Thu, 10 Apr 2025 10:34:14 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 10:59:01 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 10:59:01 +0000</lastBuildDate>
     <generator>Eleventy</generator>
+    
+      <item>
+        <title>Craig Robinson: Audience Participation</title>
+        <description>This made me laugh out loud. Craig Robinson on Tonight Show (starts at 0:29)&lt;iframe  width=&#34;560&#34;  height=&#34;315&#34;  src=&#34;https://www.youtube.com/embed/QT2x1Drb1og?si=c0kQJdJWlnqXkn92&amp;start=29&#34;  srcdoc=&#34;▶&#34;  title=&#34;YouTube video player&#34;  frameborder=&#34;0&#34;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;  referrerpolicy=&#34;strict-origin-when-cross-origin&#34;  allowfullscreen  loading=&#34;lazy&#34;&gt;</description>
+        <content>&lt;p&gt;This made me laugh out loud. Craig Robinson on Tonight Show (starts at 0:29)&lt;/p&gt;
+&lt;iframe
+  width=&#34;560&#34;
+  height=&#34;315&#34;
+  src=&#34;https://www.youtube.com/embed/QT2x1Drb1og?si=c0kQJdJWlnqXkn92&amp;start=29&#34;
+  srcdoc=&#34;&lt;style&gt;*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}&lt;/style&gt;&lt;a href=https://www.youtube-nocookie.com/embed/QT2x1Drb1og?si=c0kQJdJWlnqXkn92&amp;autoplay=1&amp;start=29&gt;&lt;img src=https://img.youtube.com/vi/QT2x1Drb1og/hqdefault.jpg alt=&#39;Craig Robinson Leads a Tonight Show Singalong&#39; loading=&#39;lazy&#39;&gt;&lt;span&gt;▶&lt;/span&gt;&lt;/a&gt;&#34;
+  title=&#34;YouTube video player&#34;
+  frameborder=&#34;0&#34;
+  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
+  referrerpolicy=&#34;strict-origin-when-cross-origin&#34;
+  allowfullscreen
+  loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+</content>
+        <pubDate>Fri, 11 Apr 2025 10:52:36 +0000</pubDate>
+        <dc:creator></dc:creator>
+        <link>https://oivaeskola.fi/2025/04/11/craig-robinson:-audience-participation/</link>
+        <guid isPermaLink="false">https://oivaeskola.fi/2025/04/11/craig-robinson:-audience-participation/</guid>
+        
+        
+        <slash:comments></slash:comments>
+      </item>
     
       <item>
         <title>Cube Longtail: pika-arvio</title>
@@ -1393,30 +1418,6 @@ again.&lt;/p&gt;
         <dc:creator></dc:creator>
         <link>https://oivaeskola.fi/2015/08/11/airbnb-booking/</link>
         <guid isPermaLink="false">https://oivaeskola.fi/2015/08/11/airbnb-booking/</guid>
-        
-        
-        <slash:comments></slash:comments>
-      </item>
-    
-      <item>
-        <title>Back to Work Reading List</title>
-        <description>Back to Work is a great podcast about productivity,communication and many other things. From time to time the hosts Dan and Merlinrecommend books and comics they’ve read. The books cover a wide range as well,from Buddhism to Unix to cooking.Personally I like book recommendations and reading stuff at least someone hasdeemed worthy. So I created a small script thatscrapes all the book recommendations from Back to Work’s feed andassembles Back to...</description>
-        <content>&lt;p&gt;&lt;a href=&#34;http://5by5.tv/b2w&#34;&gt;Back to Work&lt;/a&gt; is a great podcast about productivity,
-communication and many other things. From time to time the hosts Dan and Merlin
-recommend books and comics they’ve read. The books cover a wide range as well,
-from Buddhism to Unix to cooking.&lt;/p&gt;
-&lt;p&gt;Personally I like book recommendations and reading stuff at least someone has
-deemed worthy. So I created a &lt;a href=&#34;https://github.com/oiva/b2w&#34;&gt;small script&lt;/a&gt; that
-scrapes all the book recommendations from Back to Work’s feed and
-assembles &lt;a href=&#34;http://oivaeskola.fi/b2w/&#34;&gt;Back to Work Reading List&lt;/a&gt;. Hope you find
-it useful!&lt;/p&gt;
-</content>
-        <pubDate>Tue, 11 Aug 2015 09:04:00 +0000</pubDate>
-        <dc:creator></dc:creator>
-        <link>https://oivaeskola.fi/2015/08/11/back-to-work/</link>
-        <guid isPermaLink="false">https://oivaeskola.fi/2015/08/11/back-to-work/</guid>
-        
-        <category>podcastit</category>
         
         
         <slash:comments></slash:comments>
