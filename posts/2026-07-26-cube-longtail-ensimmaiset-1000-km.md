@@ -43,7 +43,7 @@ Seisontajalka ei pysy suorassa ja laahaa välillä takarengasta. Ei suuren suuri
 
 Pyörä on täyteen lastattuna **painava**, ja pyörän pysäköiminen ja taluttaminen vaatii tarkkuutta, ettei pyörä kaadu. Lapset istuvat Cubessa suhteellisen korkealla esimerkiksi Ternin polkupyöriin verrattuna.
 
-Cuben emäputkeen kiinnitettävä etutarakka on hyvä lisä tavaran kuljetukseen, mutta huonompi kuin esimerkiksi Ternin etutarakka. Cuben telineessä ei ole juurikaan sivutukea ja tavarat liukuvat sivusuunnassa pois tarakalta. Kuorma pitää sitoa tiukasti parilla mustekalalla molempiin suuntiin, mikä vähän hidastaa lähtöä. Etutarakalle sopisi 30&nbsp;×&nbsp;40&nbsp;cm eurolaatikko, mutta näitä ei oikein tunnu löytyvän.
+Cuben emäputkeen kiinnitettävä etutarakka on hyvä tavaran kuljetukseen, mutta muotoilultaan huonompi kuin esimerkiksi Ternin etutarakka. Cuben telineessä ei ole juurikaan sivutukea ja tavarat liukuvat sivusuunnassa pois tarakalta. Kuorma pitää sitoa tiukasti parilla mustekalalla molempiin suuntiin, mikä vähän hidastaa lähtöä. Etutarakalle sopisi 30&nbsp;×&nbsp;40&nbsp;cm eurolaatikko, mutta näitä ei oikein tunnu löytyvän.
 
 Pyörän tietokoneen arvio akun toimintamatkasta (range) on muuttunut päivityksissä epätarkemmaksi. Silloin tällöin täydellä avustuksella ajaessa *toimintamatka kasvaa*. Toistaiseksi akku on ollut riittävän iso, ja toiminta&shy;matkan arvio lähinnä pessimistinen. Akku ei ole koskaan hyytynyt ennen aikojaan.
 
