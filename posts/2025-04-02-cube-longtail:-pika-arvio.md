@@ -13,6 +13,9 @@ hero:
   width: 686
   height: 386
   alt: Vihreänharmaa Cube Longtail Hybrid sähköpolkupyörä. Pyörässä on tavanomaista pyörää pitempi tavarateline. Renkaat ovat hieman tavallista pienemmät, 26-tuumaiset, mutta paksut. Runko on jykevä.
+tags:
+- polkupyörä
+- pyöräily
 ---
 
 Hankin työsuhdepyöräksi Cube Longtail Hybrid -pitkäperäpyörän, jossa on sähkömoottori. Tämä on tosi hyvä pyörä, ja sähköpyöräily on kätevää—minkä kaikki muut tiesivätkin jo.
