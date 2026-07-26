@@ -8,13 +8,13 @@
     <description>Full stack web developer</description>
     <link>https://oivaeskola.fi/</link>
     <atom:link href="https://oivaeskola.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Jul 2026 10:19:29 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 10:19:29 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 10:24:19 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:24:19 +0000</lastBuildDate>
     <generator>Eleventy</generator>
     
       <item>
         <title>Craig Robinson: Audience Participation</title>
-        <description>This made me laugh out loud. Craig Robinson on Tonight Show (starts at 0:29)&lt;iframe  width=&#34;560&#34;  height=&#34;315&#34;  src=&#34;https://www.youtube.com/embed/QT2x1Drb1og?si=c0kQJdJWlnqXkn92&amp;start=29&#34;  srcdoc=&#34;▶&#34;  title=&#34;YouTube video player&#34;  frameborder=&#34;0&#34;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;  referrerpolicy=&#34;strict-origin-when-cross-origin&#34;  allowfullscreen  loading=&#34;lazy&#34;&gt;</description>
+        <description>This made me laugh out loud. Craig Robinson on Tonight Show (starts at 0:29)*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}▶&#34;  title=&#34;YouTube video player&#34;  frameborder=&#34;0&#34;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture...</description>
         <content>&lt;p&gt;This made me laugh out loud. Craig Robinson on Tonight Show (starts at 0:29)&lt;/p&gt;
 &lt;iframe
   width=&#34;560&#34;
@@ -502,7 +502,7 @@ Ohut tekstikohdistin voi olla vaikea huomata (varsinkin näkö­rajoiteisella) t
     
       <item>
         <title>There are no simple videos</title>
-        <description>I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:&lt;iframe  width=&#34;560&#34;  height=&#34;315&#34;  src=&#34;https://www.youtube-nocookie.com/embed/zCoCOHOYd28?si=8iB4B6kC6yPkgjfK&#34;  srcdoc=&#34;▶&#34;  title=&#34;YouTube video player&#34;  frameborder=&#34;0&#34;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;  referrerpolicy=&#34;st...</description>
+        <description>I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}▶&#34;  title=&#34;YouTube video player&#34;  frameborder=&#34;0&#34;  allow=&#34;accelerometer; au...</description>
         <content>&lt;p&gt;I sometimes watch train videos on YouTube. They seem simple: strap a camera in front of a train and shoot the train running its route. For example:&lt;/p&gt;
 &lt;iframe
   width=&#34;560&#34;
@@ -1382,7 +1382,7 @@ data hit me up on &lt;a href=&#34;https://twitter.com/oiva&#34;&gt;Twitter&lt;/a
     
       <item>
         <title>Airbnb is a reservation tool</title>
-        <description>  &lt;img    src=&#34;/images/2015/croatia-1.jpg&#34;    srcset=&#34;/images/2015/croatia-1.5.jpg 1.5x,            /images/2015/croatia.jpg 2x&#34;    alt=&#34;Road in Croatia&#34;    width=&#34;686&#34;    style=&#34;margin-bottom: 1.5rem&#34;  /&gt;During a recent road trip to Croatia we booked most of our accommodationthrough Airbnb. We hadn’t booked anything inadvance and at the height of the summer season there were no cheap hotels left.Airbnb had much more choice and prices were rea...</description>
+        <description>  During a recent road trip to Croatia we booked most of our accommodationthrough Airbnb. We hadn’t booked anything inadvance and at the height of the summer season there were no cheap hotels left.Airbnb had much more choice and prices were reasonable if not cheap.This was my first time of really using Airbnb and I was surprised to find outthat all the apartments and rooms we booked were run by professionalaccommodation businesses. One was act...</description>
         <content>&lt;picture&gt;
   &lt;img
     src=&#34;/images/2015/croatia-1.jpg&#34;
